@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2 3 4 5 6 7 8 9 1
+klor
+===== Sample #1 Output =====
+44#444555666
+===== Sample #2 Input =====
+7 8 9 1 2 3 6 5 4
+djevojka
+===== Sample #2 Output =====
+68662227778#885
+===== Sample #3 Input =====
+9 8 7 6 5 4 3 2 1
+skakavac
+===== Sample #3 Output =====
+33335585582228#888 

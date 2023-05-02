@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+7
+T a
+T b
+T c
+Q 2
+U 2
+T c
+Q 2
+
+===== Sample #1 Output =====
+b
+c
+

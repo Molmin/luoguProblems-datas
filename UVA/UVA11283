@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2
+TNXO
+AAEI
+IOSR
+BFRH
+8
+TAXES
+RISE
+ANNEX
+BOAT
+OATS
+FROSH
+HAT
+TRASH
+FNEI
+OBCN
+EERI
+VSIR
+1
+BEER
+===== Sample #1 Output =====
+Score for Boggle game #1: 6
+Score for Boggle game #2: 1

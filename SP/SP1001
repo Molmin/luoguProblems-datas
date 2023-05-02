@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+10000 1000 22000
+24 13 2
+5100 700 200
+54 16 158
+360 6 72
+25 10 5
+0 0 0
+===== Sample #1 Output =====
+4
+No accounting tablet
+3
+No accounting tablet
+16
+1

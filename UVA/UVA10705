@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+3
+pnp
+6
+4
+ppnn
+10
+===== Sample #1 Output =====
+Impossible
+1110

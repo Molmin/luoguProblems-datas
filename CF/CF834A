@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+^ >
+1
+
+===== Sample #1 Output =====
+cw
+
+===== Sample #2 Input =====
+< ^
+3
+
+===== Sample #2 Output =====
+ccw
+
+===== Sample #3 Input =====
+^ v
+6
+
+===== Sample #3 Output =====
+undefined
+

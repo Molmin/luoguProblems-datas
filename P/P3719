@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+(aaa)aa|aa|(a(aa)a)
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+((a|aaa)|aa)|a
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+(a(aa|aaa)a|(a|aa))aa
+===== Sample #3 Output =====
+7

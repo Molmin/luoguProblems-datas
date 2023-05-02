@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3
+UR
+UL
+ULDR
+
+===== Sample #1 Output =====
+9
+
+===== Sample #2 Input =====
+2
+DR
+DL
+
+===== Sample #2 Output =====
+4
+

@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+&gt;&lt; &lt;&lt; &gt;&lt;
+v ^ v v ^ v ^ ^ v
+&lt;&lt; &lt;&gt; &lt;&lt;
+v ^ v ^ v v ^ ^ v
+&lt;&lt; &lt;&lt; &gt;&gt;
+&lt;&gt; &gt;&gt; &lt;&gt;
+v v ^ ^ v ^ ^ v v
+&lt;&gt; &gt;&lt; &gt;&gt;
+^ v v v ^ v v ^ v
+&gt;&lt; &lt;&gt; &gt;&gt;
+&lt;&gt; &gt;&gt; &gt;&lt;
+v v v v ^ ^ ^ ^ ^
+&gt;&lt; &lt;&lt; &lt;&lt;
+^ ^ ^ ^ ^ v v v ^
+&gt;&gt; &lt;&gt; &lt;&lt;
+&gt;&lt; &lt;&lt; &gt;&lt;
+v ^ v v ^ v ^ ^ v
+&lt;&lt; &lt;&gt; &lt;&lt;
+v ^ v ^ v v ^ ^ v
+&lt;&lt; &lt;&lt; &gt;&gt;
+&lt;&gt; &gt;&gt; &lt;&gt;
+v v ^ ^ v ^ ^ v v
+&lt;&gt; &gt;&lt; &gt;&gt;
+^ v v v ^ v v ^ v
+&gt;&lt; &lt;&gt; &gt;&gt;
+&lt;&gt; &gt;&gt; &gt;&lt;
+v v v v ^ ^ ^ ^ ^
+&gt;&lt; &lt;&lt; &lt;&lt;
+^ ^ ^ ^ ^ v v v ^
+&gt;&gt; &lt;&gt; &lt;&lt;
+===== Sample #1 Output =====
+5 3 9 4 6 8 2 1 7
+2 4 8 1 9 7 3 5 6
+1 6 7 2 3 5 9 8 4
+6 8 1 7 4 2 5 9 3
+3 7 5 9 1 6 8 4 2
+9 2 4 5 8 3 7 6 1
+7 9 6 8 2 1 4 3 5
+4 1 2 3 5 9 6 7 8
+8 5 3 6 7 4 1 2 9
+5 3 9 4 6 8 2 1 7
+2 4 8 1 9 7 3 5 6
+1 6 7 2 3 5 9 8 4
+6 8 1 7 4 2 5 9 3
+3 7 5 9 1 6 8 4 2
+9 2 4 5 8 3 7 6 1
+7 9 6 8 2 1 4 3 5
+4 1 2 3 5 9 6 7 8
+8 5 3 6 7 4 1 2 9

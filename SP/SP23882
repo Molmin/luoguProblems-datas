@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4
+T000
+1#T3
+292T
+9000
+===== Sample #1 Output =====
+17\n\nInput: \n4
+T000
+1003
+292T
+9000&nbsp;Output:16

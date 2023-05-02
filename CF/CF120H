@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+6
+privet
+spasibo
+codeforces
+java
+marmelad
+normalno
+
+===== Sample #1 Output =====
+pret
+sps
+cdfs
+java
+mama
+norm
+
+===== Sample #2 Input =====
+5
+aaa
+aa
+a
+aaaa
+aaaaa
+
+===== Sample #2 Output =====
+-1
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+6
+RBBBRB
+6
+BRBRBB
+9
+BBBBBBBBB
+===== Sample #1 Output =====
+Case 1: 2
+Case 2: 2
+Case 3: 12

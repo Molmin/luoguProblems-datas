@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+ABCCBA
+===== Sample #1 Output =====
+111222
+===== Sample #2 Input =====
+4
+AABCBCAACBCB
+===== Sample #2 Output =====
+111211241244

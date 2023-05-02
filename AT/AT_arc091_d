@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+2
+5 2
+3 3
+===== Sample #1 Output =====
+Aoki
+===== Sample #2 Input =====
+3
+3 2
+4 3
+5 1
+===== Sample #2 Output =====
+Takahashi
+===== Sample #3 Input =====
+3
+28 3
+16 4
+19 2
+===== Sample #3 Output =====
+Aoki
+===== Sample #4 Input =====
+4
+3141 59
+26535 897
+93 23
+8462 64
+===== Sample #4 Output =====
+Takahashi

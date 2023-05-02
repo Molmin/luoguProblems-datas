@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2 397
+12 -35
+6 25
+67121
+2 0
+3 4
+3 -3
+100
+===== Sample #1 Output =====
+Case 1: Impossible.
+Case 2: 199.00000000

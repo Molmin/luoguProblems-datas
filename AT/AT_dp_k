@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+2 4
+2 3
+===== Sample #1 Output =====
+First
+===== Sample #2 Input =====
+2 5
+2 3
+===== Sample #2 Output =====
+Second
+===== Sample #3 Input =====
+2 7
+2 3
+===== Sample #3 Output =====
+First
+===== Sample #4 Input =====
+3 20
+1 2 3
+===== Sample #4 Output =====
+Second
+===== Sample #5 Input =====
+3 21
+1 2 3
+===== Sample #5 Output =====
+First
+===== Sample #6 Input =====
+1 100000
+1
+===== Sample #6 Output =====
+Second

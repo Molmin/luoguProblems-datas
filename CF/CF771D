@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+4
+VKVK
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+5
+BVVKV
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+7
+VVKEVKK
+
+===== Sample #3 Output =====
+3
+
+===== Sample #4 Input =====
+20
+VKVKVVVKVOVKVQKKKVVK
+
+===== Sample #4 Output =====
+8
+
+===== Sample #5 Input =====
+5
+LIMAK
+
+===== Sample #5 Output =====
+0
+

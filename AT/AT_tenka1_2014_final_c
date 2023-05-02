@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+TAG
+GAT
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+4
+AA.
+TAT
+ATTAC.
+TA.T
+===== Sample #2 Output =====
+9

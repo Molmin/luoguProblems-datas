@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+10 8 7 6
+9 1 9 1
+29 29 29 29
+5 12 30 7
+===== Sample #1 Output =====
+quadrangle
+rectangle
+square
+banana

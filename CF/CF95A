@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+3
+bers
+ucky
+elu
+PetrLoveLuckyNumbers
+t
+
+===== Sample #1 Output =====
+PetrLovtTttttNumtttt
+
+===== Sample #2 Input =====
+4
+hello
+party
+abefglghjdhfgj
+IVan
+petrsmatchwin
+a
+
+===== Sample #2 Output =====
+petrsmatchwin
+
+===== Sample #3 Input =====
+2
+aCa
+cba
+abAcaba
+c
+
+===== Sample #3 Output =====
+abCacba
+

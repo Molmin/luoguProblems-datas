@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5 4 
+TEJTJ 
+1 2 
+2 3 
+3 4 
+4 5 
+
+===== Sample #1 Output =====
+2 
+MOVE 3 2 
+ATTACK 2 1 
+ATTACK 5 4 
+

@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+5
+xooox
+oxoxo
+soxoo
+oxoxo
+xooox
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+3
+wsw
+sws
+wsw
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+3
+xpx
+pxp
+xpe
+
+===== Sample #3 Output =====
+NO
+

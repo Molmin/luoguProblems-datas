@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+The number of test cases t is in the first line of input, then t test cases follow separated by an empty line.
+In the first line of each test case one integer k,
+
+1
+===== Sample #1 Output =====
+The only line of output for each test case should contain the number of steps on
+the sleepwalker's path to the hole.
+
+
+Example
+
+Sample input:
+1
+2
+3 2
+7 2
+
+Sample output
+20
+===== Sample #2 Input =====
+1
+2
+3 2
+7 2
+===== Sample #2 Output =====
+null

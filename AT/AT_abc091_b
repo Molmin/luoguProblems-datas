@@ -1,0 +1,54 @@
+===== Sample #1 Input =====
+3
+apple
+orange
+apple
+1
+grape
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+3
+apple
+orange
+apple
+5
+apple
+apple
+apple
+apple
+apple
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+1
+voldemort
+10
+voldemort
+voldemort
+voldemort
+voldemort
+voldemort
+voldemort
+voldemort
+voldemort
+voldemort
+voldemort
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+6
+red
+red
+blue
+yellow
+yellow
+red
+5
+red
+red
+yellow
+green
+blue
+===== Sample #4 Output =====
+1

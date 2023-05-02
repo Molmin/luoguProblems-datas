@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+and
+of
+ACM academy of computer makers
+RADAR radio detection and ranging
+LAST CASE
+2
+a
+an
+APPLY an apple a day
+LAST CASE
+0
+===== Sample #1 Output =====
+ACM can be formed in 2 ways
+RADAR is not a valid abbreviation
+APPLY can be formed in 1 ways

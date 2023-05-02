@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+banana
+3
+2 na
+3 ba
+4 nn
+===== Sample #1 Output =====
+3
+0
+1
+===== Sample #2 Input =====
+malimateodmameitate
+3
+10 ot
+7 aa
+3 me
+===== Sample #2 Output =====
+2
+464
+56

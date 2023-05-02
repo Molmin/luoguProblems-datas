@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 1
+2?5
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+15 4
+???5????????9??
+===== Sample #2 Output =====
+976934094
+===== Sample #3 Input =====
+4 10
+1234
+===== Sample #3 Output =====
+0

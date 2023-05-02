@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+oolol
+
+===== Sample #1 Output =====
+ololo
+
+===== Sample #2 Input =====
+16
+gagadbcgghhchbdf
+
+===== Sample #2 Output =====
+abccbaghghghgdfd
+

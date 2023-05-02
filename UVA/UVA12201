@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+rkrk
+abcdeABCDE
+shcoOCfFHS
+END
+===== Sample #1 Output =====
+1 arm
+2 legs
+none

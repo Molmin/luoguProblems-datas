@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+6
+MBMFFB
+===== Sample #1 Output =====
+12
+===== Sample #2 Input =====
+16
+MMBMBBBBMMMMMBMB
+===== Sample #2 Output =====
+29

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+Everest 8849
+K2 8611
+Kangchenjunga 8586
+===== Sample #1 Output =====
+K2
+===== Sample #2 Input =====
+4
+Kita 3193
+Aino 3189
+Fuji 3776
+Okuhotaka 3190
+===== Sample #2 Output =====
+Kita
+===== Sample #3 Input =====
+4
+QCFium 2846
+chokudai 2992
+kyoprofriends 2432
+penguinman 2390
+===== Sample #3 Output =====
+QCFium

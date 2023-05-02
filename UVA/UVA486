@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+six
+negative seven hundred twenty nine
+one million one hundred one
+===== Sample #1 Output =====
+6
+-729
+1000101

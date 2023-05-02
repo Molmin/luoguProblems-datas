@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+186 800000 900000
+2 4000000000 4000001000
+3 121 121
+0 0 0
+===== Sample #1 Output =====
+There are 42677 odd non-prime numbers between 800000 and 900000.
+4 suspects fail in base 186:
+821059
+840781
+873181
+876961
+There are 457 odd non-prime numbers between 4000000000 and 4000001000.
+There are no failures in base 2.
+There are 1 odd non-prime numbers between 121 and 121.
+1 suspects fail in base 3:
+121

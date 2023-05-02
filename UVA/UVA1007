@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+45
+12
+24
+80
+33
+12
+00
+34
+23
+23
+13
+12
+===== Sample #1 Output =====
+Case 1 is a sorting network and operates in 3 time units.
+Case 2 is not a sorting network and operates in 0 time units.
+Case 3 is a sorting network and operates in 3 time units.

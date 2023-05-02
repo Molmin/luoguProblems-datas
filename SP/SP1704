@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+3
+8 2
+Barney 2 Fred Ginger
+Ingrid 1 Nolan
+Cindy 1 Hal
+Jeff 2 Oliva Peter
+Don 2 Ingrid Jeff
+Fred 1 Kathy
+Andrea 4 Barney Cindy Don Eloise
+Hal 2 Lionel Mary
+6 1
+Phillip 5 Jim Phil Jane Joe Paul
+Jim 1 Jimmy
+Phil 1 Philly
+Jane 1 Janey
+Joe 1 Joey
+Paul 1 Pauly
+6 2
+Phillip 5 Jim Phil Jane Joe Paul
+Jim 1 Jimmy
+Phil 1 Philly
+Jane 1 Janey
+Joe 1 Joey
+Paul 1 Pauly
+===== Sample #1 Output =====
+Tree 1:
+Andrea 5
+Don 3
+Cindy 2
+Tree 2:
+Phillip 5
+Jane 1
+Jim 1
+Joe 1
+Paul 1
+Phil 1
+Tree 3:
+Phillip 5

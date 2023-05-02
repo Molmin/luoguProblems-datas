@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+3 4 5
+===== Sample #1 Output =====
+pairwise coprime
+===== Sample #2 Input =====
+3
+6 10 15
+===== Sample #2 Output =====
+setwise coprime
+===== Sample #3 Input =====
+3
+6 10 16
+===== Sample #3 Output =====
+not coprime

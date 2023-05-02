@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3 4
+===== Sample #1 Output =====
+Even
+===== Sample #2 Input =====
+1 21
+===== Sample #2 Output =====
+Odd

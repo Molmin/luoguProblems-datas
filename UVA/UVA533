@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+x+x+x=10
+4*x+2=19
+3*x=3*x+1+2+3
+(42-6*7)*x=2*5-10
+===== Sample #1 Output =====
+Equation #1
+x = 3.333333
+Equation #2
+x = 4.250000
+Equation #3
+No solution.
+Equation #4
+Infinitely many solutions.

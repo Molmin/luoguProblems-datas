@@ -1,0 +1,42 @@
+===== Sample #1 Input =====
+A 10:00:00
+0101 100
+0110 50
+0202 90
+0205 50
+0
+B 10:01:00
+0105 100
+0201 5
+0205 200
+0
+.
+===== Sample #1 Output =====
+A
+10:00:00 10:00:30 Entry
+10:00:30 10:02:10 Stay in room 0101
+10:02:10 10:02:20 Transfer from room 0101 to room 0110
+10:02:20 10:03:10 Stay in room 0110
+10:03:10 10:03:20 Transfer from room 0110 to elevator
+10:03:20 10:03:50 Stay in elevator
+10:03:50 10:04:00 Transfer from elevator to room 0202
+10:04:00 10:05:30 Stay in room 0202
+10:05:30 10:05:40 Transfer from room 0202 to room 0205
+10:05:40 10:07:40 Waiting in front of room 0205
+10:07:40 10:08:30 Stay in room 0205
+10:08:30 10:08:40 Transfer from room 0205 to elevator
+10:08:40 10:09:10 Stay in elevator
+10:09:10 10:09:40 Exit
+B
+10:01:00 10:01:30 Entry
+10:01:30 10:03:10 Stay in room 0105
+10:03:10 10:03:20 Transfer from room 0105 to elevator
+10:03:20 10:03:25 Waiting in elevator queue
+10:03:25 10:03:55 Stay in elevator
+10:03:55 10:04:05 Transfer from elevator to room 0201
+10:04:05 10:04:10 Stay in room 0201
+10:04:10 10:04:20 Transfer from room 0201 to room 0205
+10:04:20 10:07:40 Stay in room 0205
+10:07:40 10:07:50 Transfer from room 0205 to elevator
+10:07:50 10:08:20 Stay in elevator
+10:08:20 10:08:50 Exit

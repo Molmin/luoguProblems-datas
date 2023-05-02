@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+999999+++++
+54
+0149++-7+xx
+56
+0149++-7+--
+56
+===== Sample #1 Output =====
+solution
+solution
+no solution

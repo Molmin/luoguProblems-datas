@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+\n
+  3\n
+  5 .5 B\n
+  C start\n
+  start start\n
+  B C\n
+
+  D C\n
+  end end\n
+  5 .99 C\n
+  start start\n
+  A B\n
+  B A\n
+
+  C end\n
+  end end\n
+  3 .5 label\n
+  start start\n
+  label label\n
+  end end
+===== Sample #1 Output =====
+\n
+  Expected number of times label B is executed is 4.00000\n
+  Expected number of times label C is executed is 1.00000\n
+  Expected number of times label label is executed is 2.00000

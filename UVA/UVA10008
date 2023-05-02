@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3
+This is a test.
+Count me 1 2 3 4 5.
+Wow!!!! Is this question easy?
+===== Sample #1 Output =====
+S 7
+T 6
+I 5
+E 4
+O 3
+A 2
+H 2
+N 2
+U 2
+W 2
+C 1
+M 1
+Q 1
+Y 1

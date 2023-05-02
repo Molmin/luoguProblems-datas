@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+WWYWYWWW
+3 0
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+YYYYW
+-1 -3
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW
+0 50
+===== Sample #3 Output =====
+Yes

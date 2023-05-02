@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+IVO
+JASNA
+JOSIPA
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+5
+MARICA
+MARTA
+MATO
+MARA
+MARTINA
+===== Sample #2 Output =====
+24
+===== Sample #3 Input =====
+4
+A
+AA
+AAA
+AAAA
+===== Sample #3 Output =====
+8

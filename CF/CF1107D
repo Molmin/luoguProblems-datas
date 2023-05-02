@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+8
+E7
+E7
+E7
+00
+00
+E7
+E7
+E7
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+4
+7
+F
+F
+F
+
+===== Sample #2 Output =====
+1
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2021 4
+===== Sample #1 Output =====
+50531
+===== Sample #2 Input =====
+40000 2
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+8691 20
+===== Sample #3 Output =====
+84875488281

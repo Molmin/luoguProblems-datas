@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+No
+2
+Yes
+===== Sample #1 Output =====
+GetGCD. 0
+TheSame?  0
+GetGCD. 1
+2 1
+TheSame? 1
+2 1
+IFoundTheAnswer! 3

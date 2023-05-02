@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+1 1
++1
+
+===== Sample #1 Output =====
+Truth
+
+===== Sample #2 Input =====
+3 2
+-1
+-2
+-3
+
+===== Sample #2 Output =====
+Not defined
+Not defined
+Not defined
+
+===== Sample #3 Input =====
+4 1
++2
+-3
++4
+-1
+
+===== Sample #3 Output =====
+Lie
+Not defined
+Lie
+Not defined
+

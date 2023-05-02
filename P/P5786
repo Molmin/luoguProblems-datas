@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5
+YNNYN
+NNNNN
+YNNNY
+NNNYN
+NNNNN
+YNNYN
+===== Sample #1 Output =====
+5 4 3 5 0

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+C:\folder1\file1.txt
+
+===== Sample #1 Output =====
+0 1
+
+===== Sample #2 Input =====
+C:\folder1\folder2\folder3\file1.txt
+C:\folder1\folder2\folder4\file1.txt
+D:\folder1\file1.txt
+
+===== Sample #2 Output =====
+3 2
+
+===== Sample #3 Input =====
+C:\file\file\file\file\file.txt
+C:\file\file\file\file2\file.txt
+
+===== Sample #3 Output =====
+4 2
+

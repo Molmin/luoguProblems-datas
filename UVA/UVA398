@@ -1,0 +1,61 @@
+===== Sample #1 Input =====
+3
+abc
+abc
+bca
+cab
+3
+abc
+abc
+bca
+cad
+4
+acdb
+aaaa
+aaca
+aada
+aaab
+5
+abcde
+aaaaa
+bbabb
+cccbc
+ddddd
+eeeee
+0
+===== Sample #1 Output =====
+S = {a,b,c}
+#|abc
+-+---
+a|abc
+b|bca
+c|cab
+COMMUTATIVE SEMIGROUP
+------------------------------
+S = {a,b,c}
+#|abc
+-+---
+a|abc
+b|bca
+c|cad
+NOT A SEMIGROUP: c#c = d WHICH IS NOT AN ELEMENT OF THE SET
+------------------------------
+S = {a,c,d,b}
+#|acdb
+-+----
+a|aaaa
+c|aaca
+d|aada
+b|aaab
+SEMIGROUP BUT NOT COMMUTATIVE (c#d IS NOT EQUAL TO d#c)
+------------------------------
+S = {a,b,c,d,e}
+#|abcde
+-+-----
+a|aaaaa
+b|bbabb
+c|cccbc
+d|ddddd
+e|eeeee
+NOT A SEMIGROUP: (b#a)#c IS NOT EQUAL TO b#(a#c)
+------------------------------

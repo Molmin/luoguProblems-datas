@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+7 2
+bcabcab
+
+===== Sample #1 Output =====
+0000011
+===== Sample #2 Input =====
+21 2
+ababaababaababaababaa
+
+===== Sample #2 Output =====
+000110000111111000011

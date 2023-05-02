@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+10 2 3 3 2
+100 49 73 214 38
+25 0 0 5 25
+407 1270 1323 1 1
+18 72 6 18 6
+407 1270 1170 100 114
+0 0 0 0 0
+===== Sample #1 Output =====
+After 3 jumps the flea lands at (11, 9).
+After 1 jumps the flea lands at (263, 111).
+The flea cannot escape from black squares.
+After 306 jumps the flea lands at (1576, 1629).
+The flea cannot escape from black squares.
+After 0 jumps the flea lands at (1270, 1170).

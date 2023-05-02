@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+42
+
+===== Sample #1 Output =====
+10
+
+===== Sample #2 Input =====
+1
+58
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+98765432
+23456789
+
+===== Sample #3 Output =====
+23456789
+

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+4
+ABBC
+BBBC
+AABB
+ABBC
+===== Sample #1 Output =====
+2

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2
+CTCGC
+TGCGG
+5
+MUTATE 1 2 A
+COUNT 2 2 4
+MUTATE 2 1 G
+CROSS 2 1 1 5
+COUNT 4 3 6
+===== Sample #1 Output =====
+0 2 0 1
+0 2 0 2

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3 4 2
+BBGB
+GBBB
+PGPP
+===== Sample #1 Output =====
+8
+BBBB
+BBBB
+PGPP

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 2
+L??
+
+===== Sample #1 Output =====
+LDL
+
+===== Sample #2 Input =====
+3 1
+W??
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+20 5
+?LLLLLWWWWW?????????
+
+===== Sample #3 Output =====
+WLLLLLWWWWWWWWLWLWDW
+

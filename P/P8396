@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1
+ELODIE CHI
+0
+2
+DWAYNE BEN ANJALI
+CHI FRANCOIS ELODIE
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+3
+A B
+G L
+J K
+2
+D F
+D G
+4
+A C G
+B D F
+E H I
+J K L
+===== Sample #2 Output =====
+3

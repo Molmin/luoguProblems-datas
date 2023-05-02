@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+四の三の二乗乗
+===== Sample #1 Output =====
+二十六万二千百四十四
+===== Sample #2 Input =====
+四の三乗の二乗
+===== Sample #2 Output =====
+四千九十六
+===== Sample #3 Input =====
+十億十
+===== Sample #3 Output =====
+一
+===== Sample #4 Input =====
+一億二千三百四十五万六千七百八十九の二の〇の〇乗乗乗
+===== Sample #4 Output =====
+六億千三百一万六千三百十九

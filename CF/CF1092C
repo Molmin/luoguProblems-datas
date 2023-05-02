@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+5
+ba
+a
+abab
+a
+aba
+baba
+ab
+aba
+
+===== Sample #1 Output =====
+SPPSPSPS
+
+===== Sample #2 Input =====
+3
+a
+aa
+aa
+a
+
+===== Sample #2 Output =====
+PPSS
+
+===== Sample #3 Input =====
+2
+a
+c
+
+===== Sample #3 Output =====
+PS
+

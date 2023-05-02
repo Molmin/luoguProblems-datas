@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+6 4
+2 4 6 8 10 12
+8 2 5 7
+===== Sample #1 Output =====
+No -6
+No -4
+Yes 2
+Yes 1
+Yes 2
+No 4

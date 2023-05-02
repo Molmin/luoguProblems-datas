@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+9 2 3 7
+po#olje#i
+sol
+znu 
+===== Sample #1 Output =====
+posoljeni
+===== Sample #2 Input =====
+4 1 2 2
+#rak
+zm 
+===== Sample #2 Output =====
+zrak 

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+02
+10
+19
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+023456789
+10
+19
+
+===== Sample #2 Output =====
+9
+
+===== Sample #3 Input =====
+31415926535
+10
+29
+
+===== Sample #3 Output =====
+20
+

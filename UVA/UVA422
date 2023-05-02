@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+5
+EDEEE
+DISKE
+ESEEE
+ECEEE
+EEEEE
+DISC
+DISK
+DISP
+0
+===== Sample #1 Output =====
+1,2 4,2
+2,1 2,4
+Not found

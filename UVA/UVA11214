@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+8 8
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+XXXXXXXX
+8 8
+X.......
+.X......
+..X.....
+...X....
+....X...
+.....X..
+......X.
+.......X
+0
+===== Sample #1 Output =====
+Case 1: 5
+Case 2: 1

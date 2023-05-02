@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3 2
+3 3
+1 1
+2 -1
+1 1
+
+===== Sample #1 Output =====
+21
+
+===== Sample #2 Input =====
+5 4
+6 8 6 5
+3 1
+2 1
+1 1
+2 1
+2 -1
+
+===== Sample #2 Output =====
+10265
+
+===== Sample #3 Input =====
+见附件中的 walk/walk3.in
+===== Sample #3 Output =====
+见附件中的 walk/walk3.ans
+===== Sample #4 Input =====
+见附件中的 walk/walk4.in
+===== Sample #4 Output =====
+见附件中的 walk/walk4.ans

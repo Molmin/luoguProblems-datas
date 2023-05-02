@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+41
+
+===== Sample #1 Output =====
+2
+lea ebx, [eax + 4*eax]
+lea ecx, [eax + 8*ebx]
+
+===== Sample #2 Input =====
+2
+
+===== Sample #2 Output =====
+1
+lea ebx, [eax + eax]
+
+===== Sample #3 Input =====
+4
+
+===== Sample #3 Output =====
+1
+lea ebx, [4*eax]
+

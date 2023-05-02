@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+7
+abacabaaacaac
+nowyouknowthat
+polycarppoycarppoyarppyarppyrpprppp
+isi
+everywherevrywhrvryhrvrhrvhv
+haaha
+qweqeewew
+===== Sample #1 Output =====
+abacaba bac
+-1
+polycarp lcoayrp
+is si
+everywhere ewyrhv
+-1
+-1

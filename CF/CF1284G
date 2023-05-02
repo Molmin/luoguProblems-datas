@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+4
+2 2
+OO
+OO
+3 3
+OOO
+XOO
+OOO
+4 4
+OOOX
+XOOX
+OOXO
+OOOO
+5 6
+OOOOOO
+OOOOOO
+OOOOOO
+OOOOOO
+OOOOOO
+===== Sample #1 Output =====
+YES
+OOO
+  O
+OOO
+NO
+YES
+OOOOO X
+  O O  
+X O O X
+  O    
+OOO X O
+O O   O
+O OOOOO
+YES
+OOOOOOOOOOO
+  O   O   O
+OOO OOO OOO
+O   O   O  
+OOO OOO OOO
+  O   O   O
+OOO OOO OOO
+O   O   O  
+OOO OOO OOO

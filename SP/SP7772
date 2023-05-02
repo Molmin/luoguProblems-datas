@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\n2\n3\n1\n3\n\n
+===== Sample #1 Output =====
+\n5\n\nThe experiment begins with 2 mature bacteria and one unmature bacterium.\nFor, each of the mature bacteria reproduces after 3 units of time.\nThen th total becomes 4 -as each one got a new one (2*2)-.\nBut, for the unmature bacterium after 3 units of time, it only become mature.\nAfter all of that the experiment finishes with 5 bacteria.\n\n\nInput\n2\n0\n1\n1\n100\n\nOutput:\n1146295688027634168202\n\n

@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+2 2
+R1
+
+===== Sample #1 Output =====
+PRINT 1
+LEFT
+PRINT R
+
+===== Sample #2 Input =====
+2 1
+R1
+
+===== Sample #2 Output =====
+PRINT R
+RIGHT
+PRINT 1
+
+===== Sample #3 Input =====
+6 4
+GO?GO!
+
+===== Sample #3 Output =====
+RIGHT
+RIGHT
+PRINT !
+LEFT
+PRINT O
+LEFT
+PRINT G
+LEFT
+PRINT ?
+LEFT
+PRINT O
+LEFT
+PRINT G
+

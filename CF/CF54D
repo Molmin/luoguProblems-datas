@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5 2
+aba
+101
+
+===== Sample #1 Output =====
+ababa
+===== Sample #2 Input =====
+5 2
+a
+10001
+
+===== Sample #2 Output =====
+abbba
+===== Sample #3 Input =====
+6 2
+abba
+101
+
+===== Sample #3 Output =====
+No solution

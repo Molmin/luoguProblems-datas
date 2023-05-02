@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3
+1 2 9
+===== Sample #1 Output =====
+\n2 2\n\nInput: \n5 \n2 3 4 8 9
+Output:\n-1\n\nInput:
+10
+2 4 3 5 17 4 7 5 2 15\nOutput:\n7 8\n\n

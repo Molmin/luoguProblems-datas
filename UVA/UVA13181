@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+.X.X.
+.X...X.
+.X....X.
+...X
+===== Sample #1 Output =====
+0
+1
+1
+2

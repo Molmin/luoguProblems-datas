@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+5\n3 4\n6 2\n6 1\n9 1\n18 2
+===== Sample #1 Output =====
+Mona\nMona\nAlaa\nAlaa\nAlaa\n\nAlaa

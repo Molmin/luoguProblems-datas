@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+1 0
+2
+-1 2 0
+-2 1 0
+100
+3
+3 0 0
+3
+-1 2 0
+-2 -2 3 0
+-3 1 0
+100
+0
+===== Sample #1 Output =====
+Case 1: still live after 100 transitions
+Places with tokens: 1 (1)
+Case 2: dead after 9 transitions
+Places with tokens: 2 (1)

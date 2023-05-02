@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+C
+F UP SECOND;G DOWN THIRD
+E
+F# DOWN FOURTH;Bb DOWN SEVENTH;B UP OCTAVE
+===== Sample #1 Output =====
+Key of C
+F: UP SECOND &gt; G
+G: DOWN THIRD &gt; E
+Key of E
+F#: DOWN FOURTH &gt; C#
+Bb: invalid note for this key
+B: UP OCTAVE &gt; B

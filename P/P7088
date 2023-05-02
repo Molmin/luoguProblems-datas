@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+5
+1 2 3 4 5
++/*:X
+
+===== Sample #1 Output =====
+55
+
+===== Sample #2 Input =====
+5
+1 2 3 4 5
+N++/X-X+1
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+3
+11 56 37
++/(3-+/*:*:X)-X**:X
+
+===== Sample #3 Output =====
+964602515
+

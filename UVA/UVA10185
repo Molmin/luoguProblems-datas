@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+4 3
+AAG
+AAA
+GGA
+AGA
+4 3
+AAG
+AGA
+AAA
+GGA
+4 3
+AAG
+GGA
+AAA
+AGA
+4 1
+A
+R
+A
+R
+2 1
+W
+W
+2 1
+W
+Y
+1 1
+Q
+0 0
+===== Sample #1 Output =====
+AGA 3
+AGA 4
+AGA 4
+R 2
+W 0
+Y 1
+Q 0

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+AtCoder
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+Aa
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+atcoder
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+Perfect
+===== Sample #4 Output =====
+No

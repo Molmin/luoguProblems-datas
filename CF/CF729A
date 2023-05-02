@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+7
+aogogob
+
+===== Sample #1 Output =====
+a***b
+
+===== Sample #2 Input =====
+13
+ogogmgogogogo
+
+===== Sample #2 Output =====
+***gmg***
+
+===== Sample #3 Input =====
+9
+ogoogoogo
+
+===== Sample #3 Output =====
+*********
+

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+azzel
+apple
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+chokudai
+redcoder
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+abcdefghijklmnopqrstuvwxyz
+ibyhqfrekavclxjstdwgpzmonu
+===== Sample #3 Output =====
+Yes

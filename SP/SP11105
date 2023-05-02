@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+svm11@gmail.com
+svm11@gmail.com svm12@gmail.co.in
+===== Sample #1 Output =====
+Case #1: 1
+svm11@gmail.com
+Case #2: 2
+svm11@gmail.com
+svm12@gmail.co.in

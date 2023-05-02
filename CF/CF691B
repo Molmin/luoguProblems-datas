@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+oXoxoXo
+
+===== Sample #1 Output =====
+TAK
+
+===== Sample #2 Input =====
+bod
+
+===== Sample #2 Output =====
+TAK
+
+===== Sample #3 Input =====
+ER
+
+===== Sample #3 Output =====
+NIE
+

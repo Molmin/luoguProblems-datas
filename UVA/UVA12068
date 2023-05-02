@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+4 1 2 3 4
+4 2 2 3 1
+===== Sample #1 Output =====
+Case 1: 48/25
+Case 2: 12/7

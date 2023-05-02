@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+ababa
+aba
+2
+c->ba
+c->cc
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+ababa
+aba
+7
+c->ba
+c->cc
+e->ab
+z->ea
+b->ba
+d->dd
+d->ab
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+ababa
+aba
+1
+c->ba
+
+===== Sample #3 Output =====
+-1
+

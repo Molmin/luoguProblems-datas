@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+5 4 
+XX.S 
+.S.. 
+SXSS 
+S.SX 
+..SX 
+
+===== Sample #1 Output =====
+3 
+

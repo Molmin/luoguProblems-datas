@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+nikkei
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+aabbccccddbb
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+aaaaaaaaaaaaaaa
+===== Sample #3 Output =====
+70

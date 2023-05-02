@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+3 3
+1YZ
+1YY
+100
+
+0YZ
+0YY
+003
+
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+4 4
+Y110
+1Y1Z
+1Y0Y
+0100
+
+Y001
+0Y0Z
+0Y0Y
+0005
+
+===== Sample #2 Output =====
+3

@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+sampras agassi
+6
+6:2 6:4
+3:6 7:5 2:6
+6:5 7:4
+7:6 7:6
+6:2 3:6
+6:2 1:6 6:8
+===== Sample #1 Output =====
+da
+da
+ne
+da
+ne
+da
+===== Sample #2 Input =====
+federer roddick
+1
+2:6 4:6
+===== Sample #2 Output =====
+ne

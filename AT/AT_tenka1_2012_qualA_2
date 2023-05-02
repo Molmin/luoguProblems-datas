@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+X Y Z
+===== Sample #1 Output =====
+X,Y,Z
+===== Sample #2 Input =====
+QWERTY
+===== Sample #2 Output =====
+QWERTY
+===== Sample #3 Input =====
+A  B, C
+===== Sample #3 Output =====
+A,B,,C

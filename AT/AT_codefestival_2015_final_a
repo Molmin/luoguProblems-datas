@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+using namespace std
+===== Sample #1 Output =====
+invalid
+===== Sample #2 Input =====
+using namespa cestd
+===== Sample #2 Output =====
+valid

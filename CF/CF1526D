@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+ANTON
+NAAN
+AAAAAA
+OAANTTON
+===== Sample #1 Output =====
+NNOTA
+AANN
+AAAAAA
+TNNTAOOA

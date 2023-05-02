@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+take 1
+take 2
+take 3
+take 4
+===== Sample #1 Output =====
+Case 1: aket
+Case 2: atek
+Case 3: ekat
+Case 4: etak

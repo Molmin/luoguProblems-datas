@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+SVO
+SVO->CDG
+LHR->SVO
+SVO->LHR
+CDG->SVO
+
+===== Sample #1 Output =====
+home
+
+===== Sample #2 Input =====
+3
+SVO
+SVO->HKT
+HKT->SVO
+SVO->RAP
+
+===== Sample #2 Output =====
+contest
+

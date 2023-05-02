@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3 1 2 1
+BG?
+
+===== Sample #1 Output =====
+500000004
+===== Sample #2 Input =====
+3 -1 4 3
+???
+
+===== Sample #2 Output =====
+750000006
+===== Sample #3 Input =====
+5 5 7 3
+G??B?
+
+===== Sample #3 Output =====
+625000005
+===== Sample #4 Input =====
+6 10 9 4
+??GB??
+
+===== Sample #4 Output =====
+937500007
+===== Sample #5 Input =====
+20 20 15 10
+B?G?B?G?????BBBG?GG?
+
+===== Sample #5 Output =====
+78125001

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+Misha ILoveCodeforces
+Vasya Petrov
+Petrov VasyaPetrov123
+ILoveCodeforces MikeMirzayanov
+Petya Ivanov
+
+===== Sample #1 Output =====
+3
+Petya Ivanov
+Misha MikeMirzayanov
+Vasya VasyaPetrov123
+

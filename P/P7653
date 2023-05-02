@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+a&(b&b) 
+c+c
+a&b+c
+#a
+a&b 
+===== Sample #1 Output =====
+R1
+R2
+R4
+R3=R1+R2
+R5=R1 

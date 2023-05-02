@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5208
+
+
+===== Sample #1 Output =====
+five thousand two hundred and eight
+
+
+===== Sample #2 Input =====
+5280
+===== Sample #2 Output =====
+five thousand two hundred eighty
+===== Sample #3 Input =====
+5000
+===== Sample #3 Output =====
+five thousand
+===== Sample #4 Input =====
+5028
+===== Sample #4 Output =====
+five thousand and twenty eight
+

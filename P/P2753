@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+SAMPLE INPUT(file lgame.in)
+
+prmgroa
+[编辑] SAMPLE INPUT(file lgame.dict)
+
+profile
+program
+prom
+rag
+ram
+rom
+.
+===== Sample #1 Output =====
+24
+program
+prom rag

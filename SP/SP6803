@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+99
+49998
+90000
+970000000
+===== Sample #1 Output =====
+absurd
+absurd
+not absurd
+absurd

@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3 3 3
+===== Sample #1 Output =====
+Acute triangle
+Isosceles triangle
+Equilateral triangle
+===== Sample #2 Input =====
+3 4 5
+
+===== Sample #2 Output =====
+Right triangle
+===== Sample #3 Input =====
+6 10 6
+
+===== Sample #3 Output =====
+Obtuse triangle
+Isosceles triangle
+===== Sample #4 Input =====
+1 14 5
+
+===== Sample #4 Output =====
+Not triangle

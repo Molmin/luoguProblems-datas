@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2
+?ab
+??b
+
+===== Sample #1 Output =====
+xab
+
+===== Sample #2 Input =====
+2
+a
+b
+
+===== Sample #2 Output =====
+?
+
+===== Sample #3 Input =====
+1
+?a?b
+
+===== Sample #3 Output =====
+cacb
+

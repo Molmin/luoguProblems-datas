@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+1 0 0
+1 2 3 7
+
+4 2 3
+1 6 5 1
+0 1
+0 3
+0 2
+1 2
+1 0
+
+0 0 0
+===== Sample #1 Output =====
+for the Sample Input
+Case #1: 0
+Case #2: 1

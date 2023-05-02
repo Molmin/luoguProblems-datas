@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+5 2 3
+Hello
+
+===== Sample #1 Output =====
+2
+He
+llo
+
+===== Sample #2 Input =====
+10 9 5
+Codeforces
+
+===== Sample #2 Output =====
+2
+Codef
+orces
+
+===== Sample #3 Input =====
+6 4 5
+Privet
+
+===== Sample #3 Output =====
+-1
+
+===== Sample #4 Input =====
+8 1 1
+abacabac
+
+===== Sample #4 Output =====
+8
+a
+b
+a
+c
+a
+b
+a
+c
+

@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+1 1
+day
+may
+sun
+fun
+
+===== Sample #1 Output =====
+aabb
+
+===== Sample #2 Input =====
+1 1
+day
+may
+gray
+way
+
+===== Sample #2 Output =====
+aaaa
+
+===== Sample #3 Input =====
+2 1
+a
+a
+a
+a
+a
+a
+e
+e
+
+===== Sample #3 Output =====
+aabb
+
+===== Sample #4 Input =====
+2 1
+day
+may
+sun
+fun
+test
+hill
+fest
+thrill
+
+===== Sample #4 Output =====
+NO
+

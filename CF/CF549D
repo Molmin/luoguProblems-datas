@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+6 8
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+WWWWWWWW
+WWWWWWWW
+WWWWWWWW
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+3 3
+WBW
+BWW
+WWW
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+3 6
+WWBBWW
+WWBBWW
+WWBBWW
+
+===== Sample #3 Output =====
+3
+
+===== Sample #4 Input =====
+4 4
+BBBB
+BBBB
+BBBB
+BBBW
+
+===== Sample #4 Output =====
+4
+

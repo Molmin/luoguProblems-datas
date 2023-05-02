@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+1 2 0 1
+0 1 0 0
+===== Sample #1 Output =====
+Ya Ya Tidak Tidak
+Tidak Ya Tidak Tidak

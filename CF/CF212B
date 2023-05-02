@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+aaaaa
+2
+a
+a
+
+===== Sample #1 Output =====
+1
+1
+
+===== Sample #2 Input =====
+abacaba
+3
+ac
+ba
+a
+
+===== Sample #2 Output =====
+1
+2
+4
+

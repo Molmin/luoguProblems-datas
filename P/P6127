@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3
+TTTT
+TTFT
+TFTT
+TFFF
+FTTT
+FTFF
+FFTF
+FFFF
+
+===== Sample #1 Output =====
+a&b|(a|b&c)

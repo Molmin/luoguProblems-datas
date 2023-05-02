@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+5 2
+1 0
+1 1
+2 2
+-1 2
+-2 -1
+-1 1
+-1 2
+===== Sample #1 Output =====
+4
+5
+===== Sample #2 Input =====
+见下发文件 ex_star2.in
+===== Sample #2 Output =====
+见下发文件 ex_star2.out
+===== Sample #3 Input =====
+见下发文件 ex_star3.in
+===== Sample #3 Output =====
+见下发文件 ex_star3.out

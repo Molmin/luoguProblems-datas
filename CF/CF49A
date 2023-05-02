@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+Is it a melon?
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+Is it an apple?
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+  Is     it a banana ?
+
+===== Sample #3 Output =====
+YES
+
+===== Sample #4 Input =====
+Is   it an apple  and a  banana   simultaneouSLY?
+
+===== Sample #4 Output =====
+YES
+

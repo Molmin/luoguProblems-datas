@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+tit
+===== Sample #1 Output =====
+131
+===== Sample #2 Input =====
+titech
+===== Sample #2 Output =====
+757319
+===== Sample #3 Input =====
+tokyotech
+===== Sample #3 Output =====
+-1

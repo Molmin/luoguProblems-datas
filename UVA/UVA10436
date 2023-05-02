@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+2
+4
+mirpur12 5
+farmgate 8
+gulistan 10
+newmarket 5
+4
+mirpur12 farmgate 12
+mirpur12 newmarket 20
+farmgate gulistan 10
+newmarket gulistan 8
+2
+mirpur12 gulistan 30
+mirpur12 newmarket 30
+3
+uttara 2
+farmgate 8
+gulistan 10
+2
+uttara farmgate 35
+farmgate gulistan 10
+1
+uttara gulistan 30
+===== Sample #1 Output =====
+Map #1
+Query #1
+mirpur12 farmgate gulistan
+Each passenger has to pay : 2.46 taka
+Query #2
+mirpur12 newmarket
+Each passenger has to pay : 1.83 taka
+Map #2
+Query #1
+uttara farmgate gulistan
+Each passenger has to pay : 4.03 taka

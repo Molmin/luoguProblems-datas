@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+CODEWAITFORITFORCES
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+BOTTOMCODER
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+DECODEFORCES
+
+===== Sample #3 Output =====
+YES
+
+===== Sample #4 Input =====
+DOGEFORCES
+
+===== Sample #4 Output =====
+NO
+

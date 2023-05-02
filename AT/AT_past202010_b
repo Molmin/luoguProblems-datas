@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+100 3
+===== Sample #1 Output =====
+33.33
+===== Sample #2 Input =====
+42 0
+===== Sample #2 Output =====
+ERROR

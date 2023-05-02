@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+abc
+acb
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+aabb
+bbaa
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+abcde
+abcde
+===== Sample #3 Output =====
+Yes

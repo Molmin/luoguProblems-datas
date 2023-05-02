@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+&nbsp; 4\n9 25 50 100 150 100 100 150 225 300\n10 60 120 99 129 15 150 225 135 50 123\n12 6 60 99 45 135 66 231 63 96 39 50 123\n15 75 75 75 75 75 75 75 75 75 75 75 75 75 75 75\n
+\n
+===== Sample #1 Output =====
+&nbsp;\n
+Data set 1: A B C D E F G H 8 1450\nData set 2: E I A J C B F H D 9 1473\nData set 3: A J D B K F H I C E L 11 1452\nData set 4: A B C D E F G H I J K L 12 2250\n

@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+4
+xzzwo
+zwoxz
+zzwox
+xzzwo
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+2
+molzv
+lzvmo
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+3
+kc
+kc
+kc
+
+===== Sample #3 Output =====
+0
+
+===== Sample #4 Input =====
+3
+aa
+aa
+ab
+
+===== Sample #4 Output =====
+-1
+

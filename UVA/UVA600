@@ -1,0 +1,70 @@
+===== Sample #1 Input =====
+3
+Tim
+Jim
+Bob
+5 7 8 5 10 10 10 8 9 10 10 10
+5 2 1 4
+1 0
+0 1 1
+1 1
+10 10 9 8 9 9 10 9 9 9 8
+1110 111
+1 1
+7 6 8 9 -10 8 9 8 10 10 8 1
+3 2 2 1
+1 1 1
+2
+1 1
+0 8 8 8 9 7 6 -6 7 9
+6121013 30
+30 1110
+0
+5 7 10 9 8 9 10 7 8 9 7
+5 3 1 2 1 -3 2 1
+9 8 9 8 9 7 10 9 9 9
+111212 010
+1
+1 11
+5 6 7 8 9 10 10 -10 10 10 10 10
+4 2 3 1 1
+02 1
+8 7 6 10 9 9 10 7 8 6
+223 10 313
+1 0
+1
+1 1
+9 8 9 9 9 8 10 10 10 8
+1 2 1 1 1 2
+1
+1
+#
+0
+(scores for Tim's first game)
+(scores for Jim's first game)
+(scores for Bob's first game)
+(scores for the second game)
+(blank line shows no 3rd
+tries were used in this game)
+(scores for the third game)
+===== Sample #1 Output =====
+Tim
+17 26 36 46 76 104 123 133 143 173
+Jim
+29 49 67 77 96 106 126 145 164 182
+Bob
+16 26 45 55 55 65 83 93 121 140
+Tim
+9 18 36 46 56 65 74 74 93 102
+Jim
+17 37 57 75 94 114 131 138 157 174
+Bob
+18 28 46 65 82 92 111 121 140 150
+Tim
+9 19 37 47 67 87 97 97 127 157
+Jim
+17 27 36 56 75 85 105 123 133 143
+Bob
+18 37 56 75 93 113 143 171 190 200
+Jim has the high series score of 499.
+Bob has the high game score of 200.

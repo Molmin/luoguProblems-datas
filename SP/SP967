@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+\n
+
+2\n
+1\n
+2\n
+
+\n
+===== Sample #1 Output =====
+\n
+1\n
+3
+
+\n\nExplanation: In the given example, 11, 12 and 21 are the possible sequences.

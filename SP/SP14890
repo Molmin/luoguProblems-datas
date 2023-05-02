@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+12 4
+c++;
+goto 6;
+18:
+c++;
+c++;
+goto 2;
+goto 6;
+6:
+goto 18;
+2:
+c++;
+c++;
+===== Sample #1 Output =====
+

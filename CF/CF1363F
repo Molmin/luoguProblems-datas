@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+6
+1
+a
+a
+2
+ab
+ba
+3
+abc
+cab
+3
+abc
+cba
+4
+abab
+baba
+4
+abcc
+aabc
+===== Sample #1 Output =====
+0
+1
+1
+2
+1
+-1

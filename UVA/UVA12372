@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+20 20 20
+1 2 21
+===== Sample #1 Output =====
+Case 1: good
+Case 2: bad

@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+8
+00:00:01,600 --> 00:00:04,200
+We thought you was...
+
+9
+00:00:05,900 --> 00:00:07,999
+a toad.
+#
+300
+===== Sample #1 Output =====
+8
+00:00:01,900 --> 00:00:04,500
+We thought you was...
+
+9
+00:00:06,200 --> 00:00:08,299
+a toad.
+#
+===== Sample #2 Input =====
+624
+00:43:30,566 --> 00:43:32,108
+Howdy do, ladies?
+
+625
+00:43:32,276 --> 00:43:33,943
+Name of Pete.
+
+626
+00:43:47,124 --> 00:43:48,082
+Ain't you gonna
+introduce us, Pete?
+#
+-500
+===== Sample #2 Output =====
+624
+00:43:30,066 --> 00:43:31,608
+Howdy do, ladies?
+
+625
+00:43:31,776 --> 00:43:33,443
+Name of Pete.
+
+626
+00:43:46,624 --> 00:43:47,582
+Ain't you gonna
+introduce us, Pete?
+#

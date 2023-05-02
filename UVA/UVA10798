@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5
+.RRR.
+R.R.R
+R.P.R
+R.R.R
+.RRR.
+0
+===== Sample #1 Output =====
+At most 2 rose(s) trampled.

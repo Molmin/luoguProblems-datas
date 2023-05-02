@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+123456789
+===== Sample #1 Output =====
+123b
+===== Sample #2 Input =====
+77777
+===== Sample #2 Output =====
+77a
+===== Sample #3 Input =====
+9982443539982448531000000007
+===== Sample #3 Output =====
+9i

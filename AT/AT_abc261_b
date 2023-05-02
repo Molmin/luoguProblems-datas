@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4
+-WWW
+L-DD
+LD-W
+LDW-
+===== Sample #1 Output =====
+incorrect
+===== Sample #2 Input =====
+2
+-D
+D-
+===== Sample #2 Output =====
+correct

@@ -1,0 +1,58 @@
+===== Sample #1 Input =====
+7
+3 1
+010
+3 2
+010
+3 3
+010
+3 4
+010
+3 5
+010
+3 6
+010
+3 7
+010
+===== Sample #1 Output =====
+Down
+Up
+Up
+Down
+Down
+Down
+Up
+===== Sample #2 Input =====
+7
+3 1
+011
+3 2
+011
+3 3
+011
+3 4
+011
+3 5
+011
+3 6
+011
+3 7
+011
+===== Sample #2 Output =====
+Down
+Up
+Up
+Down
+Down
+Down
+Up
+
+===== Sample #3 Input =====
+2
+13 114
+1101101111010
+13 514
+1101101111010
+===== Sample #3 Output =====
+Up
+Up

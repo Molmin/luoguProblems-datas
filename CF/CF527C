@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+4 3 4
+H 2
+V 2
+V 3
+V 1
+
+===== Sample #1 Output =====
+8
+4
+4
+2
+
+===== Sample #2 Input =====
+7 6 5
+H 4
+V 3
+V 5
+H 2
+V 1
+
+===== Sample #2 Output =====
+28
+16
+12
+6
+4
+

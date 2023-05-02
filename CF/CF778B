@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3 3
+a := 101
+b := 011
+c := ? XOR b
+
+===== Sample #1 Output =====
+011
+100
+
+===== Sample #2 Input =====
+5 1
+a := 1
+bb := 0
+cx := ? OR a
+d := ? XOR ?
+e := d AND bb
+
+===== Sample #2 Output =====
+0
+0
+

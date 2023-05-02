@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2 4
+aa
+ac
+dd
+ac
+===== Sample #1 Output =====
+2 12
+4 4
+-1
+12 12
+===== Sample #2 Input =====
+3 2
+acc
+bdd
+===== Sample #2 Output =====
+2 44
+28 44

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+center
+left
+center
+left
+right
+treasure
+
+===== Sample #1 Output =====
+0 left 0
+1 left 1
+1 right 0
+0 left 0
+1 right 0
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+17
+18
+19
+179
+199
+===== Sample #1 Output =====
+17 is emirp.
+18 is not prime.
+19 is prime.
+179 is emirp.
+199 is emirp.

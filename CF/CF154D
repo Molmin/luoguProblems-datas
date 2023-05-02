@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+0 2 0 4
+
+===== Sample #1 Output =====
+FIRST
+2
+
+===== Sample #2 Input =====
+0 2 1 1
+
+===== Sample #2 Output =====
+SECOND
+
+===== Sample #3 Input =====
+0 2 0 1
+
+===== Sample #3 Output =====
+DRAW
+

@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+baa
+5
+1 2 ba
+2 3 a
+1 2 b
+2 3 aa
+1 3 b
+
+===== Sample #1 Output =====
+-1
+aa
+ba
+-1
+ba
+
+===== Sample #2 Input =====
+bacb
+4
+1 2 ba
+2 3 ac
+1 3 ac
+3 4 c
+
+===== Sample #2 Output =====
+-1
+c
+b
+cb
+
+===== Sample #3 Input =====
+bba
+1
+1 1 b
+
+===== Sample #3 Output =====
+-1
+

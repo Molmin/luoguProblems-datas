@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+11
+HAB
+AB
+AC
+AH
+BD
+BC
+BF
+CD
+CF
+CH
+DF
+FH
+===== Sample #1 Output =====
+WAKE UP IN, 3, YEARS

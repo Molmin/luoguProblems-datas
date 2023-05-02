@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+15 10
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snuke snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+snake snake snake snake snake snake snake snake snake snake
+===== Sample #1 Output =====
+H6
+===== Sample #2 Input =====
+1 1
+snuke
+===== Sample #2 Output =====
+A1

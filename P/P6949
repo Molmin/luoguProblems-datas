@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 3
+x---x
+ \ /
+  x
+ / \
+x   x
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+4 10
+x   x---x---x   x
+     \ /   / \
+  x   x---x   x   x
+     / \ / \   \
+x   x---x---x---x
+   /   / \   \ / \
+  x---x---x---x---x
+
+===== Sample #2 Output =====
+12
+

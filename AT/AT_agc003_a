@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+SENW
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+NSNNSNSN
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+NNEW
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+W
+===== Sample #4 Output =====
+No

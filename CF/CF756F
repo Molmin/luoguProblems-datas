@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+8-11
+
+===== Sample #1 Output =====
+891011
+
+===== Sample #2 Input =====
+2(2-4+1)+2(2(17))
+
+===== Sample #2 Output =====
+100783079
+
+===== Sample #3 Input =====
+1234-5678
+
+===== Sample #3 Output =====
+745428774
+
+===== Sample #4 Input =====
+1+2+3+4-5+6+7-9
+
+===== Sample #4 Output =====
+123456789
+

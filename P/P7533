@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+AKXAKJXXXAXAQ
+===== Sample #1 Output =====
+25
+===== Sample #2 Input =====
+4
+XXXAXXXXXXJXX
+KXAXXXQJAXXXX
+AQKQXXXKXXKQX
+JXXXXXJXXXXXX
+===== Sample #2 Output =====
+40

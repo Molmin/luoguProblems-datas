@@ -1,0 +1,56 @@
+===== Sample #1 Input =====
+3 4
+3
+5
+13
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+5 3
+1
+2
+5
+7
+9
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+5 6
+1
+2
+3
+4
+5
+===== Sample #3 Output =====
+YES
+===== Sample #4 Input =====
+3 5
+1
+3
+10
+===== Sample #4 Output =====
+NO
+===== Sample #5 Input =====
+4 4
+2
+3
+9
+15
+===== Sample #5 Output =====
+NO
+===== Sample #6 Input =====
+4 1
+1
+3
+5
+7
+===== Sample #6 Output =====
+YES
+===== Sample #7 Input =====
+4 6100991
+199010
+199110
+6300101
+9231211
+===== Sample #7 Output =====
+NO

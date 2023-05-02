@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4
+garage for sa-le
+
+===== Sample #1 Output =====
+7
+
+===== Sample #2 Input =====
+4
+Edu-ca-tion-al Ro-unds are so fun
+
+===== Sample #2 Output =====
+10
+

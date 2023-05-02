@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+2
+4
+8
+9
+15
+===== Sample #1 Output =====
+Yay!
+===== Sample #2 Input =====
+15
+18
+26
+35
+36
+18
+===== Sample #2 Output =====
+:(

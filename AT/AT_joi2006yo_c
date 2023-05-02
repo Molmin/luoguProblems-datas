@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5
+North
+North
+East
+South
+West
+===== Sample #1 Output =====
+21
+===== Sample #2 Input =====
+8
+West
+North
+Left
+South
+Right
+North
+Left
+East
+===== Sample #2 Output =====
+34

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+1000 1100
+100 120
+100 1000
+-1
+===== Sample #1 Output =====
+No Circular Primes.
+1 Circular Prime.
+12 Circular Primes.

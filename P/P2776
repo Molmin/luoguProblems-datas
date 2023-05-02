@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4 2
+0 0 1 1
+6
+push 2
+push 0
+push 3
+pop
+pop
+pop
+===== Sample #1 Output =====
+2
+3
+0

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3
+10. zac 0
+0. pop 0
+10. zac 1995
+===== Sample #1 Output =====
+3
+3 chuen 0
+1 imix 0
+9 cimi 2801

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+tour
+
+===== Sample #1 Output =====
+.t.r
+
+===== Sample #2 Input =====
+Codeforces
+
+===== Sample #2 Output =====
+.c.d.f.r.c.s
+
+===== Sample #3 Input =====
+aBAcAba
+
+===== Sample #3 Output =====
+.b.c.b
+

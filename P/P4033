@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+5
+3 9
+LLRRUDUUU
+LLR.UDUUU
+LLRRUDUUU
+4 4
+LLRR
+L.LL
+RR.R
+LLRR
+4 3
+LRD
+LUL
+DLU
+RDL
+1 2
+LR
+2 2
+..
+..
+===== Sample #1 Output =====
+3
+8
+0
+1
+192

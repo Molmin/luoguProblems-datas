@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+10 90 2
+20 0 4
+2
+10 90 4
+20 0 2
+2
+10 90 2
+20 0 2
+===== Sample #1 Output =====
+45
+135
+GIANIK IS NEVER ECLIPSED

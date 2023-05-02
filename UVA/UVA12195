@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+/HH/QQQQ/XXXTXTEQH/W/HW/
+/W/W/SQHES/
+/WE/TEX/THES/
+*
+===== Sample #1 Output =====
+4
+3
+0

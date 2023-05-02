@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+1
+11 3
+8 9 5
+===== Sample #1 Output =====
+game won't stop
+===== Sample #2 Input =====
+2
+8 5
+8 2 3 5 7 
+24 16
+3 17 18 5 19 4 16 23 7 11 13 18 6 21 22 2
+
+===== Sample #2 Output =====
+5
+11
+

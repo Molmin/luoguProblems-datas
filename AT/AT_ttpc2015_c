@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+ooookayama
+===== Sample #1 Output =====
+okayama
+===== Sample #2 Input =====
+ooookayamaoooookayama
+===== Sample #2 Output =====
+okayamaOkayama
+===== Sample #3 Input =====
+okayama
+===== Sample #3 Output =====
+okayama
+===== Sample #4 Input =====
+ookayama
+===== Sample #4 Output =====
+ookayama
+===== Sample #5 Input =====
+ooookayamakenooooookayamashiookayama
+===== Sample #5 Output =====
+okayamakenOokayamashiookayama

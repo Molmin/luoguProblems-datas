@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+5 2
+
+===== Sample #1 Output =====
+YES
+SSSSS
+LLLLL
+SSSSS
+LLLLL
+SSSSS
+
+===== Sample #2 Input =====
+5 25
+
+===== Sample #2 Output =====
+NO
+

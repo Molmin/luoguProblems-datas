@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+winner 4
+4
+s e 7
+o s 8
+l o 13
+o o 8
+
+===== Sample #1 Output =====
+36
+===== Sample #2 Input =====
+abcdef 1
+5
+a b -10
+b c 5
+c d 5
+d e 5
+e f 5
+
+===== Sample #2 Output =====
+20

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+  . . .
+ . . O .
+. . O O .
+ . . . .
+  . . .
+
+===== Sample #1 Output =====
+Lillebror
+===== Sample #2 Input =====
+  . . .
+ . . . O
+. . . O .
+ O . O .
+  . O .
+
+===== Sample #2 Output =====
+Karlsson

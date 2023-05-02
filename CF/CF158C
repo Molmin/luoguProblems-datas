@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+7
+pwd
+cd /home/vasya
+pwd
+cd ..
+pwd
+cd vasya/../petya
+pwd
+
+===== Sample #1 Output =====
+/
+/home/vasya/
+/home/
+/home/petya/
+
+===== Sample #2 Input =====
+4
+cd /a/b
+pwd
+cd ../a/b
+pwd
+
+===== Sample #2 Output =====
+/a/b/
+/a/a/b/
+

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+aaaaa
+aaa
+
+===== Sample #1 Output =====
+0
+
+===== Sample #2 Input =====
+abcabc
+bcd
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+abcdef
+klmnopq
+
+===== Sample #3 Output =====
+7
+

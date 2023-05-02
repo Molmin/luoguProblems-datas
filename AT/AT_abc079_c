@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+1222
+===== Sample #1 Output =====
+1+2+2+2=7
+===== Sample #2 Input =====
+0290
+===== Sample #2 Output =====
+0-2+9+0=7
+===== Sample #3 Input =====
+3242
+===== Sample #3 Output =====
+3+2+4-2=7

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+50 100 120
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+500 100 1000
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+19 123 143
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+19 123 142
+===== Sample #4 Output =====
+Yes

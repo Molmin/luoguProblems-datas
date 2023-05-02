@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+0 0 10 10 3
+3 3 2 10
+5531
+2839
+00000
+===== Sample #1 Output =====
+Forest 1
+2 tree(s) can be cut

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+10 5
+RRRRRRRRRRUUUUU
+1 1
+UDDDRLLL
+-3 -5
+LDLDLDDDR
+1 2
+LLLLUU
+3 -2
+RDULRLLDR
+-1 6
+RUDURUUUUR
+===== Sample #1 Output =====
+YES
+YES
+YES
+NO
+YES
+NO

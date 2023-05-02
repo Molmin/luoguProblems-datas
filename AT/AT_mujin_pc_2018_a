@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+MUJINPC
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+MUJIINPC
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+MJPC
+===== Sample #3 Output =====
+No

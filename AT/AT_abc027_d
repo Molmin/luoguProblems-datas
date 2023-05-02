@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+M+MM-M
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+MMM+M
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+MMM+--MMM
+===== Sample #3 Output =====
+3
+===== Sample #4 Input =====
++
+===== Sample #4 Output =====
+0

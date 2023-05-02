@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3 8
+6 5 8
+
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+7 20
+21 15 12 11 20 19 12
+
+===== Sample #2 Output =====
+6

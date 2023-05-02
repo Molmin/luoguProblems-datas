@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+05:50
+05:44
+
+===== Sample #1 Output =====
+00:06
+
+===== Sample #2 Input =====
+00:00
+01:00
+
+===== Sample #2 Output =====
+23:00
+
+===== Sample #3 Input =====
+00:01
+00:00
+
+===== Sample #3 Output =====
+00:01
+

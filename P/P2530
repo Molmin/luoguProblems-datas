@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+11
+A
+B
+C
+A
+B
+C
+A
+B
+C
+A
+B
+
+===== Sample #1 Output =====
+3

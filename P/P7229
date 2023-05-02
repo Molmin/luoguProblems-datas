@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+5+3+x
+9 10
+
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+20+3+x
+0 5
+
+===== Sample #2 Output =====
+2

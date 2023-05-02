@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+6
+add 4
+add 5
+add 1
+add 2
+add 3
+sum
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+14
+add 1
+add 7
+add 2
+add 5
+sum
+add 6
+add 8
+add 9
+add 3
+add 4
+add 10
+sum
+del 1
+sum
+
+===== Sample #2 Output =====
+5
+11
+13
+

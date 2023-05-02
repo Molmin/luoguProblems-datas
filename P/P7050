@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+cat
+dog
+
+===== Sample #1 Output =====
+9
+
+===== Sample #2 Input =====
+tree
+heap
+
+===== Sample #2 Output =====
+14
+

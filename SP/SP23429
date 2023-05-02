@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+The first line contains a single positive integer T, representing the number of test cases. T test cases follow. Each test case begins with a line containing a single integer N, representing the size of the matrix. The next N lines each contain N space-separated integers, representing the matrix.
+===== Sample #1 Output =====
+For each test case, output a single line containing the absolute value of the total found that is closest to 0.

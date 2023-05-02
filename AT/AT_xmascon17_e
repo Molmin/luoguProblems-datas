@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+XMAS
+XBMS
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+AABABA
+BABBABAB
+===== Sample #2 Output =====
+YES
+===== Sample #3 Input =====
+AB
+AA
+===== Sample #3 Output =====
+NO
+===== Sample #4 Input =====
+ATCODER
+CONTEST
+===== Sample #4 Output =====
+NO

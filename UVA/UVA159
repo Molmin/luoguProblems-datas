@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+MATCHES CHEESECAKE PICNIC EXCUSES
+PEANUT BANANA VACUUM GREEDY
+#
+===== Sample #1 Output =====
+C
+H
+E
+E
+S
+E
+C
+MATCHES
+K
+E
+E
+X
+PICNIC
+U
+S
+E
+S
+Unable to make two crosses

@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+3 7
+a*b
+aebr*ob
+===== Sample #1 Output =====
+2
+1 5

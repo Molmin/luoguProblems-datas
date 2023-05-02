@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\nNYN\nYNY\nNYN\nNYYY\nYNNY\nYNNN\nYYNN\nNNYNNNN\nNNYNNNN\nYYNYNNN\nNNYNYNN\nNNNYNYY\nNNNNYNN\nNNNNYNN\n
+===== Sample #1 Output =====
+\n0 1\n2 2\n3 4

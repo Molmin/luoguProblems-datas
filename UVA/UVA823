@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+6 6 6
+10 10 10
+20 6 20
+8 7 10
+8 7 10
+0 0 0
+0.5 1.0
+2.0 3.0
+3.0 4.5
+2.0 3.0
+2.0 3.0
+0.0 0.0
+0.3 2.0
+1.0 2.0
+0.5 1.0
+1.5 3.0
+2.5 3.0
+0.0 0.0
+0.4 1.0
+1.5 3.5
+4.0 5.0
+1.0 3.0
+2.0 3.0
+0.0 0.0
+===== Sample #1 Output =====
+Triangle number 1:
+All three stoppers will fit in the triangular space
+Triangle number 2:
+All three stoppers will fit in the triangular space
+Triangle number 3:
+Stoppers will not fit in the triangular space
+Triangle number 4:
+All three stoppers will fit in the triangular space
+Triangle number 5:
+Stoppers will not fit in the triangular space

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+cabaacba
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+11
+mippiisssisssiipsspiim
+===== Sample #2 Output =====
+504
+===== Sample #3 Input =====
+4
+abcdefgh
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+18
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+===== Sample #4 Output =====
+9075135300

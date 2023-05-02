@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+abcdec
+cdefe
+1
+milim
+1
+abcde
+1
+abmab
+0
+===== Sample #1 Output =====
+Case 1: a6 b* d= f+
+Case 2: No
+Case 3: Oops
+Case 4: m=

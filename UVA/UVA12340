@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+3
+3 5 7
+7
+2 3 4 6 12 14 16
+===== Sample #1 Output =====
+Case 1: Impossible
+Case 2: 3 2
+2 14 16
+3 12
+4 6
+2 4 6
+3 12 14 16

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+100
+3
+10.0 40.0
+20.0 30.0
+15.0 35.0
+100
+3
+10.0 40.0
+20.0 30.0
+15.0 25.0
+===== Sample #1 Output =====
+The cheater can win by 612 seconds with r = 14.29km and k = 85.71km.
+The cheater cannot win.

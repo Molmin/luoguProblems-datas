@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+3
+soup
+peas
+ecir
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+4
+ba
+bc
+ca
+da
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+13
+ab
+cd
+ef
+gh
+ij
+kl
+mn
+op
+qr
+st
+uv
+wx
+yz
+===== Sample #3 Output =====
+12
+===== Sample #4 Input =====
+3
+aa
+xyz
+zwx
+===== Sample #4 Output =====
+1

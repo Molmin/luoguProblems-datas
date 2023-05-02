@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+yc
+ys
+===== Sample #1 Output =====
+yy
+===== Sample #2 Input =====
+2
+rv
+jh
+===== Sample #2 Output =====
+-1

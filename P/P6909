@@ -1,0 +1,45 @@
+===== Sample #1 Input =====
+4 7
+ABCDEFG
+HIJKLMN
+OPQRSTU
+VWXYZ**
+CONTEST
+
+===== Sample #1 Output =====
+30
+
+===== Sample #2 Input =====
+5 20
+12233445566778899000
+QQWWEERRTTYYUUIIOOPP
+-AASSDDFFGGHHJJKKLL*
+--ZZXXCCVVBBNNMM--**
+--------------------
+ACM-ICPC-WORLD-FINALS-2015
+
+===== Sample #2 Output =====
+160
+
+===== Sample #3 Input =====
+2 19
+ABCDEFGHIJKLMNOPQZY
+X*****************Y
+AZAZ
+
+===== Sample #3 Output =====
+19
+
+===== Sample #4 Input =====
+6 4
+AXYB
+BBBB
+KLMB
+OPQB
+DEFB
+GHI*
+AB
+
+===== Sample #4 Output =====
+7
+

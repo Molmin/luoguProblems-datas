@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+10
+too high
+3
+too low
+4
+too high
+2
+right on
+5
+too low
+7
+too high
+6
+right on
+0
+===== Sample #1 Output =====
+Stan is dishonest
+Stan may be honest

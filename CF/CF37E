@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3 3
+WBW
+BWB
+WBW
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+2 3
+BBB
+BWB
+
+===== Sample #2 Output =====
+1
+

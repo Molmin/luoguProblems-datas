@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+0.85
+ATCGCCGTAAGTAACGGTTTTAAATAGGCC
+ATCGCCGGAAGTAACGGTCTTAAATAGGCC
+===== Sample #1 Output =====
+yes

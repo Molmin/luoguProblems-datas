@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+9
+DrangonflyKang BangZhu 100000 66
+RenZaiJiangHu FuBangZhu 80000 60
+absi2011 FuBangZhu 90000 60
+BingQiLingDeYanLei HuFa 89000 58
+Lcey HuFa 30000 49
+BangYou3 ZhangLao 1000 1
+BangYou1 TangZhu 100 40
+BangYou2 JingYing 40000 10
+BangYou4 BangZhong 400 1
+===== Sample #1 Output =====
+DrangonflyKang BangZhu 66
+RenZaiJiangHu FuBangZhu 60
+absi2011 FuBangZhu 60
+BingQiLingDeYanLei HuFa 58
+BangYou2 HuFa 10
+Lcey ZhangLao 49
+BangYou1 ZhangLao 40
+BangYou3 ZhangLao 1
+BangYou4 ZhangLao 1

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+a
+c
+
+===== Sample #1 Output =====
+b
+
+===== Sample #2 Input =====
+aaa
+zzz
+
+===== Sample #2 Output =====
+kkk
+
+===== Sample #3 Input =====
+abcdefg
+abcdefh
+
+===== Sample #3 Output =====
+No such string
+

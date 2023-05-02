@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+100 40
+===== Sample #1 Output =====
+Congratulations!
+===== Sample #2 Input =====
+0 100
+===== Sample #2 Output =====
+Enjoy another semester...
+===== Sample #3 Input =====
+60 60
+===== Sample #3 Output =====
+Congratulations!

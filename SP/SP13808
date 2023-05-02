@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+1
+4
+NYNN
+YNNN
+NNNY
+NNYN
+3 1 2 3
+2 4 5
+3 4 5 6
+3 1 2 3
+&nbsp;
+===== Sample #1 Output =====
+54

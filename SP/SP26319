@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n\n10 6\n2 6 7 1 8 1 2 3 2 6\n2 4 2\n2 6 3\n1 4 1\n1 4 2\n3 4 2\n3 3 2\n
+===== Sample #1 Output =====
+\n6\n-1\n3\n5\n9\n9\n\nExplanation of the first query: \n\nThe elements until index 4 are [2,6,7,1,8] so the 2nd smallest element is 2, and your asked for the index of it's 2nd ocurrency, so the answer is 6.

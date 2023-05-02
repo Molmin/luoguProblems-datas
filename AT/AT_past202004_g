@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+6
+1 a 5
+2 3
+1 t 8
+1 c 10
+2 21
+2 4
+===== Sample #1 Output =====
+9
+168
+0
+===== Sample #2 Input =====
+4
+1 x 5
+1 y 8
+2 7
+1 z 8
+===== Sample #2 Output =====
+29
+===== Sample #3 Input =====
+3
+1 p 3
+1 q 100000
+2 100000
+===== Sample #3 Output =====
+9999400018

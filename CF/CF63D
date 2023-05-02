@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3 4 2 2 3
+5 8 3
+
+===== Sample #1 Output =====
+YES
+aaabb
+aabbb
+cbb..
+ccb..
+
+===== Sample #2 Input =====
+3 2 1 4 4
+1 2 3 4
+
+===== Sample #2 Output =====
+YES
+abbd
+cccd
+...d
+...d
+

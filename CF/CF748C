@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+4
+RURD
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+6
+RRULDD
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+26
+RRRULURURUULULLLDLDDRDRDLD
+
+===== Sample #3 Output =====
+7
+
+===== Sample #4 Input =====
+3
+RLL
+
+===== Sample #4 Output =====
+2
+
+===== Sample #5 Input =====
+4
+LRLR
+
+===== Sample #5 Output =====
+4
+

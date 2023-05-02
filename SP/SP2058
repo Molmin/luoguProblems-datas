@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+cs Pepik
+en Johnny
+Nuzky Scissors
+Papir Rock
+Papir Scissors
+-
+de Gertruda
+cs Lenka
+Stein Papir
+Schere Kamen
+.
+===== Sample #1 Output =====
+Game #1:
+Pepik: 1 point
+Johnny: 1 point
+TIED GAME
+
+Game #2:
+Gertruda: 0 points
+Lenka: 2 points
+WINNER: Lenka

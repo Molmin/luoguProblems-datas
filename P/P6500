@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+11 25
+
+===== Sample #1 Output =====
+36 37
+===== Sample #2 Input =====
+1430 4862
+
+===== Sample #2 Output =====
+6282 6292
+
+===== Sample #3 Input =====
+16796 58786
+
+===== Sample #3 Output =====
+74580 85582
+

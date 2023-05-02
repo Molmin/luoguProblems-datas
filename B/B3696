@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2022
+===== Sample #1 Output =====
+2022
+===== Sample #2 Input =====
+2025
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+-2
+===== Sample #3 Output =====
+2021
+===== Sample #4 Input =====
+-2026
+===== Sample #4 Output =====
+2020

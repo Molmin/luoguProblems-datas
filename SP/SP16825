@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+6
+UPD ADD 6
+CON
+UPD ADD 12
+CON
+UPD REM 6
+CON
+===== Sample #1 Output =====
+1 6
+1 6
+1 4 6 12

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+92
+andre copy exam free gimme lemme plox stuff yo
+ardne lmeme cpoy yo eaxm polx
+adnre gmime fere sfutf polx
+41
+abacabadabacaba abacaba aba a
+a aba acbbaaa adccbbbbaaaaaaa
+===== Sample #1 Output =====
+Case #1:
+andre lemme copy yo exam plox
+andre gimme free stuff plox
+Case #2:
+a aba abacaba abacabadabacaba

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+5
+0 0
+10 0
+10 10
+13 10
+13 14
+2
+0 0
+10 1
+===== Sample #1 Output =====
+Case #1:
+25.0000
+Case #2:
+Send Kurdy

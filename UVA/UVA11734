@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+yes
+yes
+Casematters
+casematters
+no space	please
+nospaceplease
+===== Sample #1 Output =====
+Case 1: Yes
+Case 2: Wrong Answer
+Case 3: Output Format Error

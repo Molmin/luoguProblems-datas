@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+abc
+1
+===== Sample #1 Output =====
+aabc
+===== Sample #2 Input =====
+abc
+2
+===== Sample #2 Output =====
+a
+===== Sample #3 Input =====
+acb
+1
+===== Sample #3 Output =====
+aab

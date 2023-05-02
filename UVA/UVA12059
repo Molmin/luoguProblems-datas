@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+10 10 10 45
+10 10 1 50
+===== Sample #1 Output =====
+Case 1:
+IMPOSSIBLE.
+Case 2:
+333.333

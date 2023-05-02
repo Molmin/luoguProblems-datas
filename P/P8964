@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+3
+4 4
+tnalp
+woem
+kcarrab
+hctam
+
+freopen("tnalp.in","r",stdin);
+freopen("tnalp.out","w",stdout);
+freopen("woem.in","r",stdin);
+freopen("woem.out","w",stdout);
+freopen("kcarrab.in","r",stdin);
+freopen("kcarrab.out","w",stdout);
+freopen("hctam.in","r",stdin);
+freopen("hctam.out","w",stdout);
+
+freopen("tnalp.in","r",stdin);
+freopen("tnalp.out","w",stdout);
+//freopen("woem.in","r",stdin);
+freopen("woem.out","w",stdout);
+freopen("kcarrab.in","r",stdin);
+//I_AK_IOI!!!
+freopen("hctam.in","r",stdin);
+freopen("hctam.out","w",stdout);
+
+freopen("tnalp.in","r",stdin);
+freopen("tnalp.out","w",stdout)
+freopen("owem.in","r",stdin);
+freopen("woem.out","w",stdout);
+freopen("kcarrab.in","r",stdout);
+freopen("kcarrab.out","w",stdin);
+freopen("hctam.out","w",stdout);
+freopen("hctam.in","r",stdin);
+
+freopen("tnalp.in","r",stdin);//I_LOVE_CCF
+freopen("tnalp.out","w",stdout);
+freopen("woem.in","r",stdin);//I_HATE_THIS
+freopen("woem.out","w",stdout);
+freopen("kcarrab.in"/*I_FORGET_HOW_TO_FIND_BRIDGES!!!!!!*/,"r",stdin);
+freopen("kcarrab.out","w",stdout);
+freopen("hctam.in","r",stdin);//I_CAN_GET_ONLY_8PTSqwq
+freopen("hctam.out","w",stdout);
+
+===== Sample #1 Output =====
+PION2202 RP++.
+Wrong file operation takes you to your ancestors along with your 3 years' efforts on OI.
+Good luck and have fun.
+Good luck and have fun.
+

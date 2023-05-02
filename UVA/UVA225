@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+8
+2
+-2 0
+6 -2
+8
+2
+2 1
+-2 0
+===== Sample #1 Output =====
+wsenenws
+Found 1 golygon(s).
+Found 0 golygon(s).

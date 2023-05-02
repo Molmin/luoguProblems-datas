@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+helloworld
+amandamanda
+dontcallmebfu
+aaabaaa
+===== Sample #1 Output =====
+10
+11
+6
+5

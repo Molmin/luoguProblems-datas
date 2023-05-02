@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+4
+0 1 1 0
+
+===== Sample #1 Output =====
+YES
+(((0)-&gt;1)-&gt;(1-&gt;0))
+
+===== Sample #2 Input =====
+2
+1 1
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+1
+0
+
+===== Sample #3 Output =====
+YES
+0
+

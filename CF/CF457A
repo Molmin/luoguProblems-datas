@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+1000
+111
+
+===== Sample #1 Output =====
+<
+===== Sample #2 Input =====
+00100
+11
+
+===== Sample #2 Output =====
+=
+
+===== Sample #3 Input =====
+110
+101
+
+===== Sample #3 Output =====
+>

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+abcd
+acdb
+abcd
+dacb
+#
+===== Sample #1 Output =====
+Case #1: you can visit at most 3 cities.
+Case #2: you can visit at most 2 cities.

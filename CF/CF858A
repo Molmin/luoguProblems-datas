@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+375 4
+
+===== Sample #1 Output =====
+30000
+
+===== Sample #2 Input =====
+10000 1
+
+===== Sample #2 Output =====
+10000
+
+===== Sample #3 Input =====
+38101 0
+
+===== Sample #3 Output =====
+38101
+
+===== Sample #4 Input =====
+123456789 8
+
+===== Sample #4 Output =====
+12345678900000000
+

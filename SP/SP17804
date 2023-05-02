@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+5\naba\naabaaa\naabbba\naaab\nabca&nbsp;
+===== Sample #1 Output =====
+YES\nYES\nYES\nNO\nNO&nbsp;

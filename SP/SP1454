@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+10
+1 3 10
+2 4 3
+3 4 4
+4 1 4
+5 3 4
+0 0 0
+[and 9 test cases more]
+===== Sample #1 Output =====
+12
+2
+[and 9 test cases more]

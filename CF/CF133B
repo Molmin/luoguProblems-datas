@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+,.
+
+===== Sample #1 Output =====
+220
+
+===== Sample #2 Input =====
+++++[&gt;,.&lt;-]
+
+===== Sample #2 Output =====
+61425
+

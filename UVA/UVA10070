@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2000
+3600
+4515
+2001
+===== Sample #1 Output =====
+This is leap year.
+This is leap year.
+This is huluculu festival year.
+This is huluculu festival year.
+This is an ordinary year.

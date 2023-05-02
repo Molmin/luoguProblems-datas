@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+8x^7-258x^5+2112x^3-512x
+===== Sample #1 Output =====
+8(x-4)^2(x-1/2)x(x+1/2)(x+4)^2
+===== Sample #2 Input =====
+-x^2+2x-1
+===== Sample #2 Output =====
+-(x-1)^2

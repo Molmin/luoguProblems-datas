@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+madam
+adamm
+bahama
+bahama
+long
+short
+eric
+rice
+===== Sample #1 Output =====
+[
+i i i i o o o i o o
+i i i i o o o o i o
+i i o i o i o i o o
+i i o i o i o o i o
+]
+[
+i o i i i o o i i o o o
+i o i i i o o o i o i o
+i o i o i o i i i o o o
+i o i o i o i o i o i o
+]
+[
+]
+[
+i i o i o i o o
+]

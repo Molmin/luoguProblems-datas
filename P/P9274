@@ -1,0 +1,57 @@
+===== Sample #1 Input =====
+3
+assembler 0.50
+furnace 0.50
+mining_well 0.55
+6
+iron_plate furnace 3.20
+1
+iron_ore 1
+copper_plate furnace 3.20
+1
+copper_ore 1
+iron_ore mining_well 1.00
+0
+copper_ore mining_well 1.00
+0
+copper_cable assembler 0.50
+1
+copper_plate 1
+electronic_circuit assembler 0.50
+2
+iron_plate 1
+copper_cable 3
+1
+electronic_circuit 10
+===== Sample #1 Output =====
+iron_plate furnace 64
+copper_plate furnace 192
+iron_ore mining_well 19
+copper_ore mining_well 55
+copper_cable assembler 30
+electronic_circuit assembler 10
+===== Sample #2 Input =====
+3
+assembler 0.50
+furnace 0.50
+mining_well 0.55
+4
+iron_plate furnace 3.20
+1
+iron_ore 1
+iron_ore mining_well 1.00
+0
+iron_gear assembler 0.50
+1
+iron_plate 2
+transport_belt assembler 0.50
+2
+iron_plate 1
+iron_gear 1
+1
+transport_belt 7
+===== Sample #2 Output =====
+iron_plate furnace 135
+iron_ore mining_well 39
+iron_gear assembler 7
+transport_belt assembler 7

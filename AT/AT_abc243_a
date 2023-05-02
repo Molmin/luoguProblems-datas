@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+25 10 11 12
+===== Sample #1 Output =====
+T
+===== Sample #2 Input =====
+30 10 10 10
+===== Sample #2 Output =====
+F
+===== Sample #3 Input =====
+100000 1 1 1
+===== Sample #3 Output =====
+M

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+cab ac
+acba ab
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+1
+xmas contest
+===== Sample #2 Output =====
+NO

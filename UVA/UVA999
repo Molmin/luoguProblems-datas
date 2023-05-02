@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+9;2
+===== Sample #1 Output =====
+signature 1
+sheet 1: pages 2 and 7 (front); pages 8 and 1 (back)
+sheet 2: pages 4 and 5 (front); pages 6 and 3 (back)
+signature 2
+sheet 1: pages 10 and 15 (front); pages 16 and 9 (back)
+sheet 2: pages 12 and 13 (front); pages 14 and 11 (back)

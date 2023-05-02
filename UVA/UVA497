@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+1
+6
+2
+3
+5
+===== Sample #1 Output =====
+Max hits: 4
+1
+2
+3
+5

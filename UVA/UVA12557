@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+ccddef
+aab
+ABdefDEabcABcaa
+ABabc
+===== Sample #1 Output =====
+Case 1: 2
+Case 2: 1

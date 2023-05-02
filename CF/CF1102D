@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+3
+121
+
+===== Sample #1 Output =====
+021
+
+===== Sample #2 Input =====
+6
+000000
+
+===== Sample #2 Output =====
+001122
+
+===== Sample #3 Input =====
+6
+211200
+
+===== Sample #3 Output =====
+211200
+
+===== Sample #4 Input =====
+6
+120110
+
+===== Sample #4 Output =====
+120120
+

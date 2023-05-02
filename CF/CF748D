@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+7 3
+abb 2
+aaa -3
+bba -1
+zyz -4
+abb 5
+aaa 7
+xyx 4
+
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+3 1
+a 1
+a 2
+a 3
+
+===== Sample #2 Output =====
+6
+
+===== Sample #3 Input =====
+2 5
+abcde 10000
+abcde 10000
+
+===== Sample #3 Output =====
+0
+

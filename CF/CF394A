@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+||+|=|||||
+
+===== Sample #1 Output =====
+|||+|=||||
+
+===== Sample #2 Input =====
+|||||+||=||
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+|+|=||||||
+
+===== Sample #3 Output =====
+Impossible
+
+===== Sample #4 Input =====
+||||+||=||||||
+
+===== Sample #4 Output =====
+||||+||=||||||
+

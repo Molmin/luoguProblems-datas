@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2022/01/01
+===== Sample #1 Output =====
+2022/02/02
+===== Sample #2 Input =====
+2002/02/22
+===== Sample #2 Output =====
+2002/02/22
+===== Sample #3 Input =====
+2002/02/23
+===== Sample #3 Output =====
+2020/02/02
+===== Sample #4 Input =====
+2999/12/31
+===== Sample #4 Output =====
+3000/03/03

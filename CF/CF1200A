@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+8
+LLRL1RL1
+
+===== Sample #1 Output =====
+1010000011
+===== Sample #2 Input =====
+9
+L0L0LLRR9
+
+===== Sample #2 Output =====
+1100000010

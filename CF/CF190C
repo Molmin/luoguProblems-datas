@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+pair pair int int int
+
+===== Sample #1 Output =====
+pair<pair<int,int>,int>
+===== Sample #2 Input =====
+1
+pair int
+
+===== Sample #2 Output =====
+Error occurred

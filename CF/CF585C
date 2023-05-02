@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1 4
+
+===== Sample #1 Output =====
+3B
+
+===== Sample #2 Input =====
+2 2
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+3 2
+
+===== Sample #3 Output =====
+1A1B
+

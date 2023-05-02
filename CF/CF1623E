@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+4 3
+abab
+2 3
+0 0
+0 4
+0 0
+===== Sample #1 Output =====
+baaaab
+===== Sample #2 Input =====
+8 2
+kadracyn
+2 5
+3 4
+0 0
+0 0
+6 8
+0 7
+0 0
+0 0
+===== Sample #2 Output =====
+daarkkcyan
+===== Sample #3 Input =====
+8 3
+kdaracyn
+2 5
+0 3
+0 4
+0 0
+6 8
+0 7
+0 0
+0 0
+===== Sample #3 Output =====
+darkcyan

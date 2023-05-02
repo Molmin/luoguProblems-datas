@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+9
+the
+quick
+brown
+fox
+jumps
+over
+a
+sleazy
+dog
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+3
+a
+b
+c 
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+15
+abcdefghijkl
+bcdefghijklm
+cdefghijklmn
+defghijklmno
+efghijklmnop
+fghijklmnopq
+ghijklmnopqr
+hijklmnopqrs
+ijklmnopqrst
+jklmnopqrstu
+klmnopqrstuv
+lmnopqrstuvw
+mnopqrstuvwx
+nopqrstuvwxy
+opqrstuvwxyz 
+===== Sample #3 Output =====
+8189

@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+2 3 1
+R-G
+RG-
+
+===== Sample #1 Output =====
+First
+
+===== Sample #2 Input =====
+3 3 2
+G-R
+R-G
+G-R
+
+===== Sample #2 Output =====
+Second
+
+===== Sample #3 Input =====
+2 3 1
+-R-
+-G-
+
+===== Sample #3 Output =====
+Draw
+
+===== Sample #4 Input =====
+2 5 2
+-G-R-
+-R-G-
+
+===== Sample #4 Output =====
+First
+

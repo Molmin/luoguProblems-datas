@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+2
+ALICE
+BOB
+2
+ABCB
+BCAB
+===== Sample #1 Output =====
+0
+2

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+1
+12 
+10 wawu1 B R 
+100 chau1 A A 
+2000 uwr2 B A 
+2010 wawu1 A R 
+2020 wawu1 A A 
+2020 wawu1 B A 
+4000 wawu2 C R 
+6000 chau1 A R 
+7000 chau1 A A 
+8000 pp1 A A 
+8000 zil2 B R 
+9000 zil2 B A
+===== Sample #1 Output =====
+A 3 1.33 3373.33 
+B 3 1.67 4340.00 
+C 0 
+D 0 
+E 0 
+F 0 
+G 0 
+H 0 
+I 0

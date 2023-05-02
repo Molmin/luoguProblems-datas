@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+null
+===== Sample #1 Output =====
+2
+aa
+bc
+===== Sample #2 Input =====
+null
+===== Sample #2 Output =====
+4
+kupc
+abde
+fghi
+jlmn

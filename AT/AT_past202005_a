@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+AbC
+ABc
+===== Sample #1 Output =====
+case-insensitive
+===== Sample #2 Input =====
+xyz
+xyz
+===== Sample #2 Output =====
+same
+===== Sample #3 Input =====
+aDs
+kjH
+===== Sample #3 Output =====
+different

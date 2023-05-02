@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+4
+mirko
+stanko
+stanko
+stanko
+
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+17
+a
+b
+b
+a
+a
+a
+c
+a
+b
+b
+c
+b
+b
+b
+b
+b
+b
+
+===== Sample #2 Output =====
+4

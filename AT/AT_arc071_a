@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+cbaa
+daacc
+acacac
+===== Sample #1 Output =====
+aac
+===== Sample #2 Input =====
+3
+a
+aa
+b
+===== Sample #2 Output =====
+

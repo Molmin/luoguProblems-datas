@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+gpg
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+ggppgggpgg
+===== Sample #2 Output =====
+2

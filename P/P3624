@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+9 3 5 
+ACANNCNNG
+===== Sample #1 Output =====
+ACAAACCCG
+===== Sample #2 Input =====
+5 4 10 
+ACANN
+===== Sample #2 Output =====
+ACAGC 

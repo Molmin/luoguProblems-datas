@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+AAAAAAAAAABABABCCD
+NEERCYESYESYESNEERCYESYESYES
+===== Sample #1 Output =====
+9(A)3(AB)CCD
+2(NEERC3(YES))

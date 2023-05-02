@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+ANA
+ANA
+DAR
+DAR
+RAD
+RAD
+===== Sample #1 Output =====
+DAR
+ANA
+RAD
+===== Sample #2 Input =====
+EVO
+HEP
+HIR
+IVA
+PAD
+ROD
+===== Sample #2 Output =====
+HEP
+IVA
+ROD
+===== Sample #3 Input =====
+AKO
+CES
+DOC
+DON
+ESI
+KES
+===== Sample #3 Output =====
+0

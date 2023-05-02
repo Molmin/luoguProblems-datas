@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 4
+1**2
+a3*0
+c4**
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+5 5
+#*&#*
+*a1c&
+&q2w*
+#a3c#
+*&#*&
+===== Sample #2 Output =====
+3
+

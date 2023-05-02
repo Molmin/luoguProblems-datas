@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2
+.ppp
+....
+.PPP
+....
+...p
+...p
+pP.P
+...P
+===== Sample #1 Output =====
+white (7)
+black (2)

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1\n6 1\n
+===== Sample #1 Output =====
+\n6\n\nNoteIn the first sample test sequences of y-coordinates for six camels are: 123421, 123431,\n&nbsp;123432, 124321, 134321 &#1080; 234321 (each digit corresponds to one value of yi).

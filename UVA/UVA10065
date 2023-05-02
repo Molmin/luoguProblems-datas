@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+5
+0 0
+2 0
+2 2
+1 1
+0 2
+5
+0 0
+0 2
+1 3
+2 2
+2 0
+0
+===== Sample #1 Output =====
+Tile #1
+Wasted Space = 25.00 %
+Tile #2
+Wasted Space = 0.00 %

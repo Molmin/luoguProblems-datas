@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+9 3
+APPLE
+ANT
+ATCODER
+BLOCK
+BULL
+BOSS
+CAT
+DOG
+EGG
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3 2
+KU
+KYOUDAI
+KYOTOUNIV
+===== Sample #2 Output =====
+0

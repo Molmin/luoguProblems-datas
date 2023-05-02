@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+(a&amp;b&amp;c)|(a&amp;b)|(a)
+(x&amp;~x)
+===== Sample #1 Output =====
+YES
+NO

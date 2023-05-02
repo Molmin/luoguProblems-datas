@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4 2
+abcd
+acbd
+enaa
+moze
+===== Sample #1 Output =====
+DA
+===== Sample #2 Input =====
+2 2
+aa
+aa
+===== Sample #2 Output =====
+DA
+===== Sample #3 Input =====
+3 2
+nec
+uuc
+iti
+===== Sample #3 Output =====
+NE

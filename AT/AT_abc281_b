@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+Q142857Z
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+AB912278C
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+X900000
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+K012345K
+===== Sample #4 Output =====
+No

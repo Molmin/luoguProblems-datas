@@ -1,0 +1,42 @@
+===== Sample #1 Input =====
+2 0
+
+===== Sample #1 Output =====
+  o  
+ / \ 
+o   o
+
+===== Sample #2 Input =====
+4 0
+===== Sample #2 Output =====
+           o           
+          / \          
+         /   \         
+        /     \        
+       /       \       
+      /         \      
+     o           o     
+    / \         / \    
+   /   \       /   \   
+  o     o     o     o  
+ / \   / \   / \   / \ 
+o   o o   o o   o o   o
+===== Sample #3 Input =====
+4 3
+3 2
+4 1
+3 4
+
+===== Sample #3 Output =====
+           o           
+          / \          
+         /   \         
+        /     \        
+       /       \       
+      /         \      
+     o           o     
+    /           /      
+   /           /       
+  o           o        
+   \         / \       
+    o       o   o      

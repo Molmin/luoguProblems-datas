@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+abcd
+defgh
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+a
+a
+
+===== Sample #2 Output =====
+-1
+

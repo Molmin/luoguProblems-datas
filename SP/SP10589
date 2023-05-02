@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\nR1U0\nU2R1\nR2R0\n4\nR1U0\nR0U1\nR0R1\nU0U1
+===== Sample #1 Output =====
+Y\nN

@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+5
+a
+aba
+abacaba
+ba
+aba
+
+===== Sample #1 Output =====
+YES
+a
+ba
+aba
+aba
+abacaba
+
+===== Sample #2 Input =====
+5
+a
+abacaba
+ba
+aba
+abab
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+3
+qwerty
+qwerty
+qwerty
+
+===== Sample #3 Output =====
+YES
+qwerty
+qwerty
+qwerty
+

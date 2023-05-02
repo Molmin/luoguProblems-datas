@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+january
+february
+march
+april
+may
+june
+july
+august
+september
+october
+november
+december
+===== Sample #1 Output =====
+8
+===== Sample #2 Input =====
+rrrrrrrrrr
+srrrrrrrrr
+rsr
+ssr
+rrs
+srsrrrrrr
+rssrrrrrr
+sss
+rrr
+srr
+rsrrrrrrrr
+ssrrrrrrrr
+===== Sample #2 Output =====
+11

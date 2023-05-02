@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+6 5
+remar
+pitos
+remas
+remos
+retos
+ritos
+5 4
+pato
+lisa
+pata
+pita
+pisa
+===== Sample #1 Output =====
+remar
+remas
+remos
+retos
+ritos
+pitos
+pato
+pata
+pita
+pisa
+lisa

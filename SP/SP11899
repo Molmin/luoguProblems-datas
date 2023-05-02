@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3&nbsp;5 5 1&nbsp;2 3&nbsp;5 5 2&nbsp;4 4&nbsp;4 4&nbsp;5 5 3&nbsp;1 2&nbsp;2 1&nbsp;2 2&nbsp;
+===== Sample #1 Output =====
+NO&nbsp;NO&nbsp;YES&nbsp;

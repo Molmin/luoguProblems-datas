@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+4
+3 2 4 1
+===== Sample #1 Output =====
+4
+A 3
+B 1
+B 2
+B 2
+===== Sample #2 Input =====
+3
+1 2 3
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+6
+2 1 4 3 6 5
+===== Sample #3 Output =====
+3
+A 1
+A 3
+A 5

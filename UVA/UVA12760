@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+12 4 4000
+12 4 5000
+===== Sample #1 Output =====
+Yes
+No

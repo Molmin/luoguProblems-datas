@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+debber
+
+===== Sample #1 Output =====
+1 1 1 2 1 1
+
+===== Sample #2 Input =====
+lwk
+
+===== Sample #2 Output =====
+1 1 2
+
+===== Sample #3 Input =====
+lxl
+===== Sample #3 Output =====
+1 1 1
+

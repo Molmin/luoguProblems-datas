@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+1 1 1
+837465
+2 2 1
+0 0
+0 1
+2 2 2
+0 0
+0 2
+===== Sample #1 Output =====
+SmartFrog Wins!.
+SmartFrog Wins!.
+SensibleFrog Wins!.

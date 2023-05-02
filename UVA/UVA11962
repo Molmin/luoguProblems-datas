@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+AC
+ATA
+TAGCAGCAGCAGCGAA
+===== Sample #1 Output =====
+Case 1: (2:1)
+Case 2: (3:12)
+Case 3: (16:3374617184)

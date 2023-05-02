@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+2
+11 1 U
+11 47 D
+===== Sample #1 Output =====
+230
+===== Sample #2 Input =====
+4
+20 30 U
+30 20 R
+20 10 D
+10 20 L
+===== Sample #2 Output =====
+SAFE
+===== Sample #3 Input =====
+8
+168 224 U
+130 175 R
+111 198 D
+121 188 L
+201 116 U
+112 121 R
+145 239 D
+185 107 L
+===== Sample #3 Output =====
+100

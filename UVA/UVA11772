@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+18 1 2 3 4 5 0 7 8 9 10 11 12 13 14 15 16 6 17
+10 0 1 2 3 4 5 6 18 7 8 9 11 12 13 14 15 16 17
+60 19 7 6 17 35 18 37 38 20 8 1 0 5 16 34 58 36 59
+===== Sample #1 Output =====
+Case 1: Possible with 3 move(s).
+Case 2: Not possible with in 20 move(s).
+Case 3: Possible with 3 move(s).

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+yzx
+aab
+baa
+aba
+===== Sample #1 Output =====
+? baa
+? aba
+? aab
+! xyz
+

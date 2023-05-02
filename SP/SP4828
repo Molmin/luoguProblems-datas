@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n4 3\n1\n2\n3\n4\n1 3\n2 4\n3 10\n\n
+===== Sample #1 Output =====
+1 2\n\n\nInput:\n4 3\n1\n2\n3\n4\n1 3\n2 4\n3 4\n\nOutput:\n2 3\n\n\nInput:\n4 3\n1\n2\n3\n4\n1 3\n2 4\n3 3\n\nOutput:\n-1

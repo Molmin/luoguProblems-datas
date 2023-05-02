@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+abc
+abacde
+ecab
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+1
+ha
+===== Sample #2 Output =====
+Infinity

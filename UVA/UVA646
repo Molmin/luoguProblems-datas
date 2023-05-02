@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+ABCD EFGH IJKL MNOP
+AEIM BFJN CGKO DHLP
+AFKP BGLM CHIN DEJO
+===== Sample #1 Output =====
+It is not possible to complete this schedule.

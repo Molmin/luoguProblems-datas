@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+X..X
+.XX.
+.YYY
+Y...
+===== Sample #1 Output =====
+Y
+===== Sample #2 Input =====
+3
+XXX
+...
+YYY
+===== Sample #2 Output =====
+Impossible

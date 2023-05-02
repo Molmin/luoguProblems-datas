@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+10 2
+hello
+world
+===== Sample #1 Output =====
+2
+helloworld
+worldhello

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 4 4 2
+===== Sample #1 Output =====
+YES
+<><>
+^<>^
+v<>v
+===== Sample #2 Input =====
+4 5 5 3
+===== Sample #2 Output =====
+YES
+<>..^
+^.<>v
+v<>.^
+<><>v
+===== Sample #3 Input =====
+7 9 20 20
+===== Sample #3 Output =====
+NO

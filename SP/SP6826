@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+9 3 2
+bbbaababb
+9 3 2
+aaabbabaa
+===== Sample #1 Output =====
+aaa
+bbb

@@ -1,0 +1,73 @@
+===== Sample #1 Input =====
+2
+"#$&amp;/|[]+;:-." -1.2 1.2 0.1 -2 1 0.05
+"1234567890AB" -1.2 -0.8 0.02 -0.5 0.5 0.02
+===== Sample #1 Output =====
+########$$$$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$$$$$$$$$
+#######$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;/////| +||///&amp;&amp;&amp;&amp;$$$$$$$$$$$$$$
+######$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;//////||[]-;- |////&amp;&amp;&amp;&amp;$$$$$$$$$$$
+#####$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;///////|||[+; -+[||////&amp;&amp;&amp;&amp;&amp;$$$$$$$$
+####$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;///////||[[]+
++[||||//&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$
+###$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;//////||[]++++;:
+:;+[[[ |//&amp;&amp;&amp;&amp;&amp;$$$$$
+##$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;////||||[[].
+. |/&amp;&amp;&amp;&amp;&amp;&amp;$$$$
+##$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;//|||||||[[[+ .
+][|/&amp;&amp;&amp;&amp;&amp;&amp;$$$
+#$&amp;&amp;&amp;&amp;&amp;&amp;&amp;///||].]]]]]]]]]+-
+; |//&amp;&amp;&amp;&amp;&amp;&amp;$$
+#&amp;&amp;&amp;//////|||[]: . -;;-
++[//&amp;&amp;&amp;&amp;&amp;&amp;&amp;$
+#&amp;//////||||[]+-
+]|///&amp;&amp;&amp;&amp;&amp;&amp;$
+#/////[[[[]+.
++[|///&amp;&amp;&amp;&amp;&amp;&amp;$
+.+][|///&amp;&amp;&amp;&amp;&amp;&amp;&amp;
+#/////[[[[]+.
++[|///&amp;&amp;&amp;&amp;&amp;&amp;$
+#&amp;//////||||[]+-
+]|///&amp;&amp;&amp;&amp;&amp;&amp;$
+#&amp;&amp;&amp;//////|||[]: . -;;-
++[//&amp;&amp;&amp;&amp;&amp;&amp;&amp;$
+#$&amp;&amp;&amp;&amp;&amp;&amp;&amp;///||].]]]]]]]]]+-
+; |//&amp;&amp;&amp;&amp;&amp;&amp;$$
+##$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;//|||||||[[[+ .
+][|/&amp;&amp;&amp;&amp;&amp;&amp;$$$
+##$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;////||||[[].
+. |/&amp;&amp;&amp;&amp;&amp;&amp;$$$$
+###$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;//////||[]++++;:
+:;+[[[ |//&amp;&amp;&amp;&amp;&amp;$$$$$
+####$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;///////||[[]+
++[||||//&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$
+#####$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;///////|||[+; -+[||////&amp;&amp;&amp;&amp;&amp;$$$$$$$$
+######$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;//////||[]-;- |////&amp;&amp;&amp;&amp;$$$$$$$$$$$
+#######$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;/////| +||///&amp;&amp;&amp;&amp;$$$$$$$$$$$$$$
+########$$$$$$$$$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$$$$$$$$$$$$$$$$$$
+333333333333333333333333333333333222222222222222222
+333333333333334444433333333333333332222222222222222
+333333334444444444444444433333333333322222222222222
+333334444444445555555444444433333333333222222222222
+334444444444558866555554444444433333333332222222222
+444444444445567 9B755555444444444333333333322222222
+4444444444555678B9766555544444444433333333332222222
+4444444445555668A0866666554444444444333333333322222
+44444444555556670 A87667765444444444433333333332222
+4444444555556667 08778A75544444444443333333333322
+444444555555666790 99AA 6554444444444333333333332
+444444555555667889 B A76654444444444433333333333
+444445555555677889A A9876655444444444443333333333
+444455555556677880A B09876655544444444444333333333
+44455555556677889A A9877655554444444444433333333
+4455555556677899
+9887665555544444444443333333
+4555555566789 0AB
+0988765555554444444444333333
+555555566680B
+AAB 866555555444444444433333
+5555566667A
+B876555555554444444433333
+55566666789AB
+A76655555555444444443333
+566666677880B
+B977665555555554444444333

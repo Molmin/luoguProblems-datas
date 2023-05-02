@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+7 3
+30 3
+0 0
+===== Sample #1 Output =====
+ABAC ABA
+7
+ABAC ABCA CBAB CABA CABC ACBA CABA
+28

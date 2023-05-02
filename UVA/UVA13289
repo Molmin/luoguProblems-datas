@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+4 ABC
+A&gt;B|B&gt;C|CB&gt;A
+===== Sample #1 Output =====
+9

@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+5
+X
+Z
+Y
+Y
+X<span class="tex-font-style-tt"></span>
+
+===== Sample #1 Output =====
+1 4 2
+1 2 4
+2 4 1
+2 3 5
+2 4 3
+-1
+-1 1 1 2 2 3 3 6 6
+

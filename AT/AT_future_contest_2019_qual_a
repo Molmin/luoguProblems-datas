@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+6 7 7
+RSLSSRS
+RSSLSSS
+SRSLLLL
+RSLSLLL
+LSLSLLL
+RRSRSRR
+===== Sample #1 Output =====
+#######
+#....##
+#..L..#
+#.T...#
+#..D..#
+#R....#
+#######
+===== Sample #2 Input =====
+
+===== Sample #2 Output =====
+null

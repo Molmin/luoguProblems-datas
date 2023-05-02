@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+6
+OO|OX
+XO|XX
+OX|OO
+XX|OX
+OO|OO
+OO|XX
+
+===== Sample #1 Output =====
+YES
+++|OX
+XO|XX
+OX|OO
+XX|OX
+OO|OO
+OO|XX
+
+===== Sample #2 Input =====
+4
+XO|OX
+XO|XX
+OX|OX
+XX|OX
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+5
+XX|XX
+XX|XX
+XO|OX
+XO|OO
+OX|XO
+
+===== Sample #3 Output =====
+YES
+XX|XX
+XX|XX
+XO|OX
+XO|++
+OX|XO
+

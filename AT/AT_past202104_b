@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+pastpastpostpast
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+pastpastpast
+===== Sample #2 Output =====
+none

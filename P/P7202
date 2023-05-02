@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+1212
+===== Sample #1 Output =====
+DA
+1 3 3
+===== Sample #2 Input =====
+4
+1213
+===== Sample #2 Output =====
+NE
+===== Sample #3 Input =====
+7
+1223121
+===== Sample #3 Output =====
+DA
+1 3 3
+3 5 1
+5 7 3
+7 3 2

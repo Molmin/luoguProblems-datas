@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+Dhaka
+6 2 7
+AB BC CD DE EF FA AD
+Chittagong
+4 3 4
+AB AC AD BC
+Sylhet
+3 2 3
+AB BC CA
+TheEnd
+===== Sample #1 Output =====
+Dhaka
+9
+Chittagong
+1
+Sylhet
+0
+TheEnd

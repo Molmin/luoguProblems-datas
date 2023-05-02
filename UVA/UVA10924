@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+UFRN
+contest
+AcM
+===== Sample #1 Output =====
+It is a prime word.
+It is not a prime word.
+It is not a prime word.

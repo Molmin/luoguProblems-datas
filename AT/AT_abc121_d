@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2 4
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+123 456
+===== Sample #2 Output =====
+435
+===== Sample #3 Input =====
+123456789012 123456789012
+===== Sample #3 Output =====
+123456789012

@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+bixzja
+2
+2 3
+3 6
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+abc
+1
+2 2
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+cassert
+4
+1 2
+3 4
+1 1
+2 2
+===== Sample #3 Output =====
+YES

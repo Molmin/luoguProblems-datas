@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+0 100 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ADD A B
+IF A < 220 GOTO LINE 2
+PRINT A
+===== Sample #1 Output =====
+300

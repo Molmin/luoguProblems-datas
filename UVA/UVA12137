@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+10
+20
+100
+32
+0
+===== Sample #1 Output =====
+Case 1: Impossible
+Case 2: 8
+Case 3: 72
+Case 4: 24

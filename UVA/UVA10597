@@ -1,0 +1,56 @@
+===== Sample #1 Input =====
+S
+SABC
+ab
+S -&gt; AB
+S -&gt; BC
+A -&gt; BA
+A -&gt; a
+B -&gt; CC
+B -&gt; b
+C -&gt; AB
+C -&gt; a
+# -&gt; #
+baaba
+ab
+abaa
+a
+aaaaa
+bbbbb
+#
+S
+SAB
+ab
+S -&gt; AB
+A -&gt; AA
+A -&gt; a
+B -&gt; b
+# -&gt; #
+ab
+aaab
+aba
+baaaaaaaa
+abbbbbb
+aaaaaba
+baaaaaaaab
+aaaa
+a
+ab
+#
+===== Sample #1 Output =====
+baaba is in L(G)
+ab is in L(G)
+abaa is in L(G)
+a is not in L(G)
+aaaaa is in L(G)
+bbbbb is not in L(G)
+ab is in L(G)
+aaab is in L(G)
+aba is not in L(G)
+baaaaaaaa is not in L(G)
+abbbbbb is not in L(G)
+aaaaaba is not in L(G)
+baaaaaaaab is not in L(G)
+aaaa is not in L(G)
+a is not in L(G)
+ab is in L(G)

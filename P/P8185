@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+6
+MOOOOO
+OOOOOO
+ABCDEF
+UVWXYZ
+COW
+MOO
+ZOO
+MOVE
+CODE
+FARM
+===== Sample #1 Output =====
+YES
+NO
+YES
+YES
+NO
+NO

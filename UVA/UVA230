@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+"The Canterbury Tales" by Chaucer, G.
+"Algorithms" by Sedgewick, R.
+"The C Programming Language" by Kernighan, B. and Ritchie, D.
+END
+BORROW "Algorithms"
+BORROW "The C Programming Language"
+RETURN "Algorithms"
+RETURN "The C Programming Language"
+SHELVE
+END
+===== Sample #1 Output =====
+Put "The C Programming Language" after "The Canterbury Tales"
+Put "Algorithms" after "The C Programming Language"
+END

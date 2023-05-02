@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+tanaka taro
+sato hanako
+tanaka taro
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+3
+saito ichiro
+saito jiro
+saito saburo
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+4
+sypdgidop bkseq
+bajsqz hh
+ozjekw mcybmtt
+qfeysvw dbo
+===== Sample #3 Output =====
+No

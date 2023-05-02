@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+17
+b
+a
+b
+b
+a
+b
+a
+a
+b
+a
+a
+b
+a
+a
+b
+a
+b 
+===== Sample #1 Output =====
+4
+3
+5

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+acmicpcxxxacmzacmzacmzmca
+5
+icpc 5
+cpci 1
+acm 2
+acmacm 10
+xxx 0
+===== Sample #1 Output =====
+21

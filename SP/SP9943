@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+3
+4
+o.do
+.ng.
+grmn
+o.i.
+.*..
+*.*.
+....
+*...
+2
+good
+morning
+4
+..lf
+eoyv
+oeou
+vrer
+..*.
+.*..
+....
+*.*.
+5
+i
+you
+the
+love
+forever
+4
+.sle
+s.c.
+e.fs
+..uu
+*...
+.*..
+...*
+..*.
+1
+successful
+===== Sample #1 Output =====
+Case #1: good morning
+Case #2: love you forever
+Case #3: FAIL TO DECRYPT

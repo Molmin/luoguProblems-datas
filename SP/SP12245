@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2$OO2
+3 3
+$OO
+***
+OO#
+3 3
+$*#
+O*O
+OOO
+***O#3 3$*#O*OOOO2
+3 3
+$OO
+***
+OO#
+3 3
+$*#
+O*O
+===== Sample #1 Output =====
+-1\n6

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+abcxyz
+abcdefghijklmnopqrstuvwxyz
+aaaaaaaaa
+zzzzzzzzz
+zzzzbzzzz
+*
+===== Sample #1 Output =====
+5
+25
+0
+1
+3

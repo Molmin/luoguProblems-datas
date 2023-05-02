@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+2 5 493
+3 8 3219
+8 4 1294
+===== Sample #1 Output =====
+B won
+A won
+B won

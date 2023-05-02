@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+.
+..
+...
+....
+.....
+.....C
+...CCC.
+EEEHH...
+E.HHH....
+E.........
+[and 9 test cases more]
+===== Sample #1 Output =====
+B
+BK
+BKK
+BJKK
+JJJDD
+GJGDDC
+GGGCCCI
+EEEHHIIA
+ELHHHIAAF
+ELLLLIFFFF
+[and 9 test cases more]

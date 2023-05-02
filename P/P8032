@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+{abc,ono,sto}
+===== Sample #1 Output =====
+{
+  abc,
+  ono,
+  sto
+}
+===== Sample #2 Input =====
+{}
+===== Sample #2 Output =====
+{
+}
+===== Sample #3 Input =====
+{znakovi}
+===== Sample #3 Output =====
+{
+  znakovi
+}
+===== Sample #4 Input =====
+{a,b,{c,d},e,{}}
+===== Sample #4 Output =====
+{
+  a,
+  b,
+  {
+    c,
+    d
+  },
+  e,
+  {
+  }
+}

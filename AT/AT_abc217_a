@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+abc atcoder
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+arc agc
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+a aa
+===== Sample #3 Output =====
+Yes

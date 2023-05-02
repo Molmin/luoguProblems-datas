@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+5
+ababa
+codedoca
+abcda
+zxzytyz
+abcdefghijklmnopqrstuvwxyza
+===== Sample #1 Output =====
+YES
+bacdefghijklmnopqrstuvwxyz
+YES
+edocabfghijklmnpqrstuvwxyz
+NO
+YES
+xzytabcdefghijklmnopqrsuvw
+NO

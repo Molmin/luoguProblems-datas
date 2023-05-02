@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+2
+2 1
+3
+1 2 3
+4
+2 1 4 3
+5
+5 1 4 2 3
+===== Sample #1 Output =====
+Impossible
+Possible
+3 1 2
+2 3 1
+Possible
+3 4 2 1
+3 4 2 1
+Possible
+4 1 2 5 3
+3 1 4 5 2

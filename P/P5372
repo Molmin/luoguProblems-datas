@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 3
+nnn
+uuu
+o<>
+<>n
+<>u
+<>o
+===== Sample #1 Output =====
+URLR
+===== Sample #2 Input =====
+5 5
+n<><>
+un<>n
+nuonu
+u<>un
+<><>u
+<><>o
+<><>n
+<><>u
+<><>n
+<><>u
+===== Sample #2 Output =====
+RLLRLRR

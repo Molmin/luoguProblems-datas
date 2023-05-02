@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4
+75 150 75 50
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+3
+100 150 250
+
+===== Sample #2 Output =====
+No
+

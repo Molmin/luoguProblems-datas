@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+takahashikun
+1234567890abcdefghijklmnopqrstuvwxyz
+===== Sample #1 Output =====
+12
+===== Sample #2 Input =====
+p
+1234567890abcdefghijklmnorstuvwxyz
+===== Sample #2 Output =====
+2

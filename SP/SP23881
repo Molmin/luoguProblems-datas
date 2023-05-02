@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+215224 71 3
+===== Sample #1 Output =====
+AmitAmit&nbsp;Explanation:For second test case, one possible way of winning for Amit is &ndash; Amit and Mishra discard 1 coin alternatively from first pile, starting from Amit. Then Amit picks up 3 from second pile, Mishra picks up 1 from second pile and Amit finishes the game by picking up 3 coins left in the second pile.

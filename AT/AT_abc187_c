@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+6
+a
+!a
+b
+!c
+d
+!d
+===== Sample #1 Output =====
+a
+===== Sample #2 Input =====
+10
+red
+red
+red
+!orange
+yellow
+!blue
+cyan
+!green
+brown
+!gray
+===== Sample #2 Output =====
+satisfiable

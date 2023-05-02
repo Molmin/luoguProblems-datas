@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+xxxxxxxxxx
+xoooooooxx
+xxoooooxxx
+xxxoooxxxx
+xxxxoxxxxx
+xxxxxxxxxx
+xxxxoxxxxx
+xxxoooxxxx
+xxoooooxxx
+xxxxxxxxxx
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+xxxxxxxxxx
+xoooooooxx
+xxoooooxxx
+xxxoooxxxx
+xxxxxxxxxx
+xxxxxxxxxx
+xxxxxxxxxx
+xxxoooxxxx
+xxoooooxxx
+xxxxxxxxxx
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+xxxxoxxxxx
+xxxxoxxxxx
+xxxxoxxxxx
+xxxxoxxxxx
+ooooxooooo
+xxxxoxxxxx
+xxxxoxxxxx
+xxxxoxxxxx
+xxxxoxxxxx
+xxxxoxxxxx
+===== Sample #3 Output =====
+YES

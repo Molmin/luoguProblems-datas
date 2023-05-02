@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+aabab
+aaaab
+aaabb
+aaaaa
+xyxyx
+5aaaaa
+aabab
+zzzzz
+kkkkk
+aaabb
+===== Sample #1 Output =====
+1 aaaaa aaaaa
+2 aaabb aabab
+0
+0
+2 aaabb aabab

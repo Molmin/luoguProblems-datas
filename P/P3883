@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2 5
+3
+King's Knight Opening
+Pe4
+Pe5
+Nf3
+3
+Nimzowitsch Variation
+Pc4
+Pe5
+Nf3
+Pe4
+Pe5
+Nf3
+Nc6
+Bb5
+
+===== Sample #1 Output =====
+King's Knight Opening

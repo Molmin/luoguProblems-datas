@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+A?
+?
+3
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+A
+B
+10
+
+===== Sample #2 Output =====
+2046
+

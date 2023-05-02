@@ -1,0 +1,53 @@
+===== Sample #1 Input =====
+100
+10
+20
+20
+0
+10
+0
+10
+0
+10
+0
+20
+200
+60
+30
+100
+10
+50
+5
+5
+5
+5
+25
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+1
+1
+1
+0
+===== Sample #1 Output =====
+Output for data set 1, 100 bytes:
+Time remaining: 4 seconds
+Time remaining: 5 seconds
+Total time: 11 seconds
+Output for data set 2, 200 bytes:
+Total time: 4 seconds
+Output for data set 3, 50 bytes:
+Time remaining: 1 seconds
+Time remaining: stalled
+Time remaining: stalled
+Time remaining: 0 seconds
+Total time: 20 seconds

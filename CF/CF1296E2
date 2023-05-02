@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+9
+abacbecfd
+===== Sample #1 Output =====
+2
+1 1 2 1 2 1 2 1 2
+===== Sample #2 Input =====
+8
+aaabbcbb
+===== Sample #2 Output =====
+2
+1 2 1 2 1 2 1 1
+===== Sample #3 Input =====
+7
+abcdedc
+===== Sample #3 Output =====
+3
+1 1 1 1 1 2 3
+===== Sample #4 Input =====
+5
+abcde
+===== Sample #4 Output =====
+1
+1 1 1 1 1

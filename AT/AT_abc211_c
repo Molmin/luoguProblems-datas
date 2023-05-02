@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+chchokudai
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+atcoderrr
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+chokudaichokudaichokudai
+===== Sample #3 Output =====
+45

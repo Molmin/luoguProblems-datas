@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+bbaze
+3
+bzb 2
+aeb 3
+ba 10
+
+===== Sample #1 Output =====
+8
+
+===== Sample #2 Input =====
+abacaba
+4
+aba 2
+bcc 1
+caa 2
+bbb 5
+
+===== Sample #2 Output =====
+18
+
+===== Sample #3 Input =====
+xyz
+4
+axx 8
+za 1
+efg 4
+t 1
+
+===== Sample #3 Output =====
+-1
+

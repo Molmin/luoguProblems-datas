@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+1 1 1 -2.00 0.50 
+1 2 
+1 3 
+4 1 
+
+===== Sample #1 Output =====
+-1.16666667
+===== Sample #2 Input =====
+1 1 1 -1.00 0.50 
+1 2 
+1 3 
+4 1 
+
+===== Sample #2 Output =====
+Inconsistent!

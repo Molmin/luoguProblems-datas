@@ -1,0 +1,54 @@
+===== Sample #1 Input =====
+3
+rivest
+shamir
+adleman
+
+===== Sample #1 Output =====
+bcdefghijklmnopqrsatuvwxyz
+
+===== Sample #2 Input =====
+10
+tourist
+petr
+wjmzbmr
+yeputons
+vepifanov
+scottwu
+oooooooooooooooo
+subscriber
+rowdark
+tankengineer
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+10
+petr
+egor
+endagorion
+feferivan
+ilovetanyaromanova
+kostka
+dmitriyh
+maratsnowbear
+bredorjaguarturnik
+cgyforever
+
+===== Sample #3 Output =====
+aghjlnopefikdmbcqrstuvwxyz
+
+===== Sample #4 Input =====
+7
+car
+care
+careful
+carefully
+becarefuldontforgetsomething
+otherwiseyouwillbehacked
+goodluck
+
+===== Sample #4 Output =====
+acbdefhijklmnogpqrstuvwxyz
+

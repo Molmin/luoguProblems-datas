@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+oo--
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+3
+---
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+1
+o
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+100
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooox
+===== Sample #4 Output =====
+No

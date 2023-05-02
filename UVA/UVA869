@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+1
+6
+AB
+BE
+AE
+CF
+EC
+DA
+7
+AB
+DA
+EC
+CF
+DB
+BE
+DF
+===== Sample #1 Output =====
+YES

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+6
+M 1 6
+C 1
+M 2 4
+M 2 6
+C 3
+C 4
+===== Sample #1 Output =====
+1
+0
+2

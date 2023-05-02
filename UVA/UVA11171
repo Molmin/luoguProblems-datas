@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+echo
+1
+echoecho
+4
+on
+m
+n
+o
+2
+no
+moon
+0
+===== Sample #1 Output =====
+3246R3246
+6U(1)R6D(1)
+6R6D(1)R66

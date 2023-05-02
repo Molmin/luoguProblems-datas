@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+1 2
+01
+RL
+3 3
+001
+101
+110
+RLL
+DLD
+ULL
+3 3
+000
+000
+000
+RRD
+RLD
+ULL
+===== Sample #1 Output =====
+2 1
+4 3
+2 2

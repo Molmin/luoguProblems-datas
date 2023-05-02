@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+galileo galilei was an   italian physicist  ,mathematician,astronomer
+
+===== Sample #1 Output =====
+galileo galilei was an italian physicist, mathematician, astronomer
+
+===== Sample #2 Input =====
+galileo  was  born  in  pisa
+
+===== Sample #2 Output =====
+galileo was born in pisa
+

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+RUDLUDR
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+DULL
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+UUUUUUUUUUUUUUU
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+ULURU
+===== Sample #4 Output =====
+No
+===== Sample #5 Input =====
+RDULULDURURLRDULRLR
+===== Sample #5 Output =====
+Yes

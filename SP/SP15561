@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4
+2
+12&nbsp;13
+3
+10&nbsp;12&nbsp;24
+3
+5&nbsp;6&nbsp;7
+4
+10&nbsp;11&nbsp;211&nbsp;3
+===== Sample #1 Output =====
+\n1\n2\n0\n3

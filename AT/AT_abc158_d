@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+a
+4
+2 1 p
+1
+2 2 c
+1
+===== Sample #1 Output =====
+cpa
+===== Sample #2 Input =====
+a
+6
+2 2 a
+2 1 b
+1
+2 2 c
+1
+1
+===== Sample #2 Output =====
+aabc
+===== Sample #3 Input =====
+y
+1
+2 1 x
+===== Sample #3 Output =====
+xy

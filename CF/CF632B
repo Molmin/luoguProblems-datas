@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+5
+1 2 3 4 5
+ABABA
+
+===== Sample #1 Output =====
+11
+
+===== Sample #2 Input =====
+5
+1 2 3 4 5
+AAAAA
+
+===== Sample #2 Output =====
+15
+
+===== Sample #3 Input =====
+1
+1
+B
+
+===== Sample #3 Output =====
+1
+

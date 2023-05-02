@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+50 50 50
+100 100 99
+100 50 50
+101 50 50
+100 100 100
+===== Sample #1 Output =====
+Case #1: Between 25 and 50 times.
+Case #2: The records are faulty.
+Case #3: Between 50 and 50 times.
+Case #4: The records are faulty.
+Case #5: Between 100 and 100 times.

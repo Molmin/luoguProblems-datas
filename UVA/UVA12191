@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+ababcabb
+mississippi
+aaaaaaaaaaaaaaaaaaaaaaaaaa
+012345678,abcdefg.STUVWXYZ
+say.twice,say.twice
+*
+===== Sample #1 Output =====
+3
+9
+25
+0
+45

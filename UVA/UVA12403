@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+4
+donate 1000
+report
+donate 500
+report
+===== Sample #1 Output =====
+1000
+1500

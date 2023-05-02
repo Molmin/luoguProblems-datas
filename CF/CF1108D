@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+9
+RBGRRBRGG
+
+===== Sample #1 Output =====
+2
+RBGRGBRGR
+
+===== Sample #2 Input =====
+8
+BBBGBRRR
+
+===== Sample #2 Output =====
+2
+BRBGBRGR
+
+===== Sample #3 Input =====
+13
+BBRRRRGGGGGRR
+
+===== Sample #3 Output =====
+6
+BGRBRBGBGBGRG
+

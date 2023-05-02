@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+6
+1 2 3 4 5 6
+3
+1 2 3\n&nbsp;
+===== Sample #1 Output =====
+45
+7

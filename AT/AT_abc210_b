@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5
+00101
+===== Sample #1 Output =====
+Takahashi
+===== Sample #2 Input =====
+3
+010
+===== Sample #2 Output =====
+Aoki

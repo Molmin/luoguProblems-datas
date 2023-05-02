@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+3
+A
+A
+J 1
+5
+A
+J 4
+J 5
+C 3
+A
+4
+A
+A
+C 2
+A
+===== Sample #1 Output =====
+NEVER
+ALWAYS
+SOMETIMES

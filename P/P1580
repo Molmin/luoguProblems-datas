@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+yyy loves OI : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Maths : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Chemistry : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Microelectronic : ni men wu liao me 
+yyy loves OI : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+
+
+===== Sample #1 Output =====
+Unsuccessful @yyy loves Physics attempt
+4
+yyy loves Microelectronic
+
+===== Sample #2 Input =====
+yyy loves OI : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Maths : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Chemistry : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves OI : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Maths : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Chemistry : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves OI : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Maths : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Chemistry : @yyy loves Physics wo pei fu ni de chu ti xiao lv
+yyy loves Physics : ni men gou le 
+
+
+===== Sample #2 Output =====
+Successful @yyy loves Physics attempt
+

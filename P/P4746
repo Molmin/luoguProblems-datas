@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+9
+/sys/kernel/notes 100
+/cerc/problems/a/testdata/in 1000000
+/cerc/problems/a/testdata/out 8
+/cerc/problems/a/luka.cc 500
+/cerc/problems/a/zuza.cc 5000
+/cerc/problems/b/testdata/in 15
+/cerc/problems/b/testdata/out 4
+/cerc/problems/b/kale.cc 100
+/cerc/documents/rules.pdf 4000
+10000
+===== Sample #1 Output =====
+- / 1009727
+- /cerc/ 1009627
+/cerc/documents/ 4000
+- /cerc/problems/ 1005627
+- /cerc/problems/a/ 1005508
+/cerc/problems/a/testdata/ 1000008
++ /cerc/problems/b/ 119
++ /sys/ 100
+
+===== Sample #2 Input =====
+8
+/b/test/in.a 100
+/b/test/in.b 1
+/c/test/in.a 100
+/c/test/in.b 1
+/c/test/pic/in.a.svg 10
+/c/test/pic/in.b.svg 10
+/a/test/in.a 99
+/a/test/in.b 1
+101
+
+===== Sample #2 Output =====
+- / 322
++ /a/ 100
+- /b/ 101
+/b/test/ 101
+- /c/ 121
++ /c/test/ 121
+===== Sample #3 Input =====
+2
+/a/a/a 100
+/b.txt 99
+200
+
+===== Sample #3 Output =====
++ / 199
+

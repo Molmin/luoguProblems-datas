@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+round
+ro
+ou
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+codeforces
+code
+forca
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+abababab
+a
+b
+
+===== Sample #3 Output =====
+4
+
+===== Sample #4 Input =====
+aba
+ab
+ba
+
+===== Sample #4 Output =====
+1
+

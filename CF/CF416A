@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4
+&gt;= 1 Y
+&lt; 3 N
+&lt;= -3 N
+&gt; 55 N
+
+===== Sample #1 Output =====
+17
+
+===== Sample #2 Input =====
+2
+&gt; 100 Y
+&lt; -100 Y
+
+===== Sample #2 Output =====
+Impossible
+

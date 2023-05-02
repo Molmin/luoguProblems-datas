@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+3 3
+abc
+bcd
+4 2
+abba
+azza
+2 1
+zz
+aa
+6 2
+aaabba
+ddddcc
+===== Sample #1 Output =====
+No
+Yes
+No
+Yes

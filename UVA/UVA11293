@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3
+gallahad 10
+lancelot 11
+mccartney 2
+0
+===== Sample #1 Output =====
+mccartney

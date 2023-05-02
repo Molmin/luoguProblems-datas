@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+5
+MASHIKE
+RUMOI
+OBIRA
+HABORO
+HOROKANAI
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+4
+ZZ
+ZZZ
+Z
+ZZZZZZZZZZ
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+5
+CHOKUDAI
+RNG
+MAKOTO
+AOKI
+RINGO
+===== Sample #3 Output =====
+7

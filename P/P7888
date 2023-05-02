@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+ab
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+sapnap
+===== Sample #2 Output =====
+593
+===== Sample #3 Input =====
+abcbdabcbabcd
+===== Sample #3 Output =====
+938773
+===== Sample #4 Input =====
+tobeornottobethatisthequestion
+===== Sample #4 Output =====
+769276982

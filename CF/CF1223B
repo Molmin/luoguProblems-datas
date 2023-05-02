@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+xabb
+aabx
+technocup
+technocup
+a
+z
+
+===== Sample #1 Output =====
+YES
+YES
+NO
+

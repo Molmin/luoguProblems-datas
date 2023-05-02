@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+INFIX =&gt; a + b - c
+PREFIX =&gt; + a - b c
+POSTFIX =&gt; a b c - +
+===== Sample #1 Output =====
+

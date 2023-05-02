@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 1
+vasya petya 1
+petya vasya 2
+anya ivan 2
+ivan anya 4
+
+===== Sample #1 Output =====
+1
+petya vasya
+
+===== Sample #2 Input =====
+1 1000
+a b 0
+
+===== Sample #2 Output =====
+0
+

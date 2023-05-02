@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+A .-
+B -...
+D -..
+G --.
+O ---
+Y -.--
+@
+5
+A BAD BOY
+@
+13
+A good
+boy
+===== Sample #1 Output =====
+

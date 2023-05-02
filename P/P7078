@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+2
+3
+11 14 14
+3
+1 5 2 6 3 25
+===== Sample #1 Output =====
+3
+1
+===== Sample #2 Input =====
+2
+5
+13 31 33 39 42
+5
+1 7 2 10 3 24 4 48 5 50
+===== Sample #2 Output =====
+5
+3
+===== Sample #3 Input =====
+见附件中的 snakes/snakes3.in
+===== Sample #3 Output =====
+见附件中的 snakes/snakes3.ans
+===== Sample #4 Input =====
+见附件中的 snakes/snakes4.in
+===== Sample #4 Output =====
+见附件中的 snakes/snakes4.ans

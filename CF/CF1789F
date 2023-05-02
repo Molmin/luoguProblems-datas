@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+buaa
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+codeforcesround
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+oooooooooooaaaaeaaiaujooooooooooooo
+===== Sample #3 Output =====
+24
+===== Sample #4 Input =====
+zero
+===== Sample #4 Output =====
+0

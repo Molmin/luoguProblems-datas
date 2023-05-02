@@ -1,0 +1,42 @@
+===== Sample #1 Input =====
+NEAT
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+WORD
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+CODER
+
+===== Sample #3 Output =====
+NO
+
+===== Sample #4 Input =====
+APRILFOOL
+
+===== Sample #4 Output =====
+NO
+
+===== Sample #5 Input =====
+AI
+
+===== Sample #5 Output =====
+YES
+
+===== Sample #6 Input =====
+JUROR
+
+===== Sample #6 Output =====
+YES
+
+===== Sample #7 Input =====
+YES
+
+===== Sample #7 Output =====
+NO
+

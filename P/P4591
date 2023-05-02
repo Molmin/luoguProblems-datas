@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+ABC
+2 A AB
+2 C BC
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+2
+AAA
+2 A AA
+2 A AA
+===== Sample #2 Output =====
+4

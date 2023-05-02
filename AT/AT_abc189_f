@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2 2 0
+===== Sample #1 Output =====
+1.5000
+===== Sample #2 Input =====
+2 2 1
+1
+===== Sample #2 Output =====
+2.0000
+===== Sample #3 Input =====
+100 6 10
+11 12 13 14 15 16 17 18 19 20
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+100000 2 2
+2997 92458
+===== Sample #4 Output =====
+201932.2222

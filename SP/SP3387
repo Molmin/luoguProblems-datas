@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+5 5 1
+00000
+00000
+00000
+00000
+00000
+5 5 2
+00000
+00000
+00000
+00000
+00000
+01110
+01110
+11111
+01110
+01110
+0 0 0
+===== Sample #1 Output =====
+Case 1: Luke and Leia can escape in 8 steps.
+Case 2: Luke and Leia cannot escape.

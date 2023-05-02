@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3
+Takahashi
+Aoki
+Snuke
+===== Sample #1 Output =====
+Snuke
+Aoki
+Takahashi
+===== Sample #2 Input =====
+4
+2023
+Year
+New
+Happy
+===== Sample #2 Output =====
+Happy
+New
+Year
+2023

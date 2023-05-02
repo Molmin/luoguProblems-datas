@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+7
+abcdefg
+edgbcfa
+===== Sample #1 Output =====
+TAK
+===== Sample #2 Input =====
+5
+abcde
+fghhh
+===== Sample #2 Output =====
+NIE

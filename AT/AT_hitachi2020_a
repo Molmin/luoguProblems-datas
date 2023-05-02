@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+hihi
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+hi
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+ha
+===== Sample #3 Output =====
+No

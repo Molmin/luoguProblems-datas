@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+aaa
+aabaa
+aabaaa
+abc
+===== Sample #1 Output =====
+alindrome
+palindrome
+alindrome
+simple

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+booster
+rooster
+roaster
+coasted
+roasted
+coastal
+postal
+booster roasted
+coastal postal
+===== Sample #1 Output =====
+booster
+rooster
+roaster
+roasted
+No solution.

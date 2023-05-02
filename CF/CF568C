@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+VC
+2 1
+1 V 2 C
+aa
+
+===== Sample #1 Output =====
+ab
+
+===== Sample #2 Input =====
+VC
+2 1
+1 C 2 V
+bb
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+VCC
+4 3
+1 C 2 V
+2 C 3 V
+3 V 4 V
+abac
+
+===== Sample #3 Output =====
+acaa
+

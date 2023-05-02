@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+01.01.98
+01.01.80
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+20.10.20
+10.02.30
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+28.02.74
+28.02.64
+
+===== Sample #3 Output =====
+NO
+

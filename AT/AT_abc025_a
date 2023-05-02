@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+abcde
+8
+===== Sample #1 Output =====
+bc
+===== Sample #2 Input =====
+aeiou
+22
+===== Sample #2 Output =====
+ue
+===== Sample #3 Input =====
+vwxyz
+25
+===== Sample #3 Output =====
+zz

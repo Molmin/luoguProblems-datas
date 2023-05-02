@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+fred dinosaur jets jetsons
+john rhinocerous jets rockets
+mary rhinocerous jetsons rockets
+ruth platypus rockets
+fred dinosaur jets jetsons
+john rhinocerous jets rockets
+mary rhinocerous jetsons rockets
+ruth platypus rockets
+===== Sample #1 Output =====
+fred jetsons
+john jets
+ruth rockets
+fred jetsons
+john jets
+ruth rockets

@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+3 4
+1 ?
+1 ?
+2 ?
+2 a
+3 b
+2 b
+
+===== Sample #1 Output =====
+Shi 351
+Shi 1
+Fou
+Shi 2
+
+===== Sample #2 Input =====
+5 2
+1 ?
+1 ?
+2 ?
+3 ?
+4 a
+5 b
+
+===== Sample #2 Output =====
+Shi 352
+Shi 3
+

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+7
+John dominant
+Mary recessive
+John Susan
+Mary Susan
+Peter non-existent
+Susan Marta
+Peter Marta
+===== Sample #1 Output =====
+John dominant
+Marta recessive
+Mary recessive
+Peter non-existent
+Susan dominant

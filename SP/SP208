@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1
+10 12
+SSSSSSSSSSSS
+SwwwwwwwSSSS
+SwSSSSwwSSSS
+SwSSSSwwSKSS
+SwSSSSwwSwSS
+SwwwwwPwwwww
+SSSSSSSwSwSw
+SSSSSSMwSwww
+SSSSSSSSSSSS
+SSSSSSSSSSSS
+===== Sample #1 Output =====
+7

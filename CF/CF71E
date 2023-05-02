@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+10 3
+Mn Co Li Mg C P F Zn Sc K
+Sn Pt Y
+
+===== Sample #1 Output =====
+YES
+Mn+C+K-&gt;Sn
+Co+Zn+Sc-&gt;Pt
+Li+Mg+P+F-&gt;Y
+
+===== Sample #2 Input =====
+2 1
+H H
+He
+
+===== Sample #2 Output =====
+YES
+H+H-&gt;He
+
+===== Sample #3 Input =====
+2 2
+Bk Fm
+Cf Es
+
+===== Sample #3 Output =====
+NO
+

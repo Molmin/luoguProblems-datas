@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3
+A+B->AB
+AB+CD->AC+DB
+AB+B->AB
+===== Sample #1 Output =====
+DA
+DA
+NE
+===== Sample #2 Input =====
+2
+2AB+A->3AB
+2AB+2AC+2BC->4ABC
+===== Sample #2 Output =====
+NE
+DA
+===== Sample #3 Input =====
+4
+2H2O+2CO2->2H2CO3
+H2SO4->H2O4
+NH3+H2SO4->NH4SO4
+CH4+2O2->CO2+2H2O
+===== Sample #3 Output =====
+DA
+NE
+NE
+DA

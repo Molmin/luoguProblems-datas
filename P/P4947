@@ -1,0 +1,62 @@
+===== Sample #1 Input =====
+5 5
+1 2
+2 4
+2 5
+1 3
+2 cpp c
+3 pas txt txt
+2 vbs bat
+3 vbs cpp pas
+4 cpp c pas txt
+query /e 1 5 *.txt
+query /p 1 4
+del /e 2 2 *.txt
+query /e 1 5 *.txt
+query /e 4 3 *.vbs
+===== Sample #1 Output =====
+3
+2
+2
+1
+2
+===== Sample #2 Input =====
+12 7
+1 2
+1 3
+1 4
+2 5
+2 6
+3 7
+7 12
+8 4
+8 9
+10 9
+11 9
+0
+2 c c
+3 zz c c
+0
+1 gif
+2 png bmp
+3 avl avl mpshi
+0
+4 cpp c pas js
+5 a b c d e
+0
+3 a b c
+query /p 11 12
+query /e 1 2 *.gif
+query /e 6 10 *.c
+del /e 2 9 *.c
+del /e 3 12 *.c
+query /e 5 6 *.gif
+query /e 6 1 *.c
+===== Sample #2 Output =====
+7
+0
+4
+3
+3
+1
+0

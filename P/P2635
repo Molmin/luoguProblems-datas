@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1*456??
+111111145678
+===== Sample #1 Output =====
+matched
+4
+===== Sample #2 Input =====
+1*456
+1111111452
+===== Sample #2 Output =====
+not matched

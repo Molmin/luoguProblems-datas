@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2\n3\n1 0 10\n4\n2 1 10\n
+===== Sample #1 Output =====
+\n2\n10\n\nexplanation:\ncase1: 3 mass = 1 2 3; output = 2\ncase2: 4 mass=3 5 7 9;output=10

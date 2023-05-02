@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1 3
+===== Sample #1 Output =====
+\n144\n169\n196\n\n(Xth,Yth term&lt;=10^12)\n(Source Code Limit= 500B) \nNote: 1-&gt;100-&gt;1 or other similar numbers are NOT S2S numbers(ex 9-&gt;900-&gt;9)\nTry Tutorial at -&gt; http://www.spoj.com/problems/SQ2SQ2/\n\n

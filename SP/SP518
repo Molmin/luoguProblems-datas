@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+j 1
+abc 2
+aaabc 1
+aaabb 2
+aaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbcccdd 123456
+===== Sample #1 Output =====
+j
+1
+
+bac
+cab
+4
+
+abaca
+acaba
+2
+
+1
+
+babacbcabacabadabababababababababadab
+213216

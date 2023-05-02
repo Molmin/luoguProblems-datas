@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+AA 
+AB 
+EOWIE
+
+
+===== Sample #1 Output =====
+Failed
+
+===== Sample #2 Input =====
+QWERTYUIOPLKJHGFDSAZXCVBN 
+ABCDEFGHIJKLMNOPQRSTUVWXY 
+DSLIEWO
+
+===== Sample #2 Output =====
+Failed 
+
+===== Sample #3 Input =====
+MSRTZCJKPFLQYVAWBINXUEDGHOOILSMIJFRCOPPQCEUNYDUMPP
+YIZSDWAHLNOVFUCERKJXQMGTBPPKOIYKANZWPLLVWMQJFGQYLL
+FLSO 
+===== Sample #3 Output =====
+NOIP

@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+1
+a = ((1 7) 6 ((8 3) 4))
+2
+a = (1 b)
+b = (4 a)
+1
+a = (a a a)
+0
+===== Sample #1 Output =====
+Game 1
+Expected score for a = 4.917
+Game 2
+Expected score for a = 2.000
+Expected score for b = 3.000
+Game 3
+Expected score for a undefined

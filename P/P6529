@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+P01K02H03H04
+===== Sample #1 Output =====
+12 12 11 13
+===== Sample #2 Input =====
+H02H10P11H02
+===== Sample #2 Output =====
+GRESKA
+===== Sample #3 Input =====
+P10K10H10T01
+===== Sample #3 Output =====
+12 12 12 12

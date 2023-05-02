@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+Iran_
+Persian;
+W_o;n;d;e;r;f;u;l;
+7
+WonderfulPersianIran
+wonderful_PersIAN_IRAN;;_
+WONDERFUL___IRAN__PERSIAN__;;
+Ira__Persiann__Wonderful
+Wonder;;fulPersian___;I;r;a;n;
+__________IranPersianWonderful__________
+PersianIran_is_Wonderful
+
+===== Sample #1 Output =====
+ACC
+ACC
+ACC
+WA
+ACC
+ACC
+WA
+
+===== Sample #2 Input =====
+Shapur;;
+is___
+a_genius
+3
+Shapur__a_is___geniUs
+is___shapur___a__Genius;
+Shapur;;is;;a;;geni;;us;;
+
+===== Sample #2 Output =====
+WA
+ACC
+ACC
+

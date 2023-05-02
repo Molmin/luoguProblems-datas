@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3 4 4
+ENE
+NNEE
+NEE
+ENEN
+ENN
+
+===== Sample #1 Output =====
+YES
+1 1 2 2
+3 4 1 1
+3 3 2 4

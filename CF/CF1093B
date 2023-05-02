@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3
+aa
+abacaba
+xdd
+
+===== Sample #1 Output =====
+-1
+abaacba
+xdd

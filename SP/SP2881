@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+9 6
+AAAAAA
+ACACAC
+GTTTTG
+ACACAC
+GTTTTG
+ACACAC
+ACACAC
+TCCCCC
+TCCCCC
+0 0
+===== Sample #1 Output =====
+1
+2
+0
+1
+0
+0
+0
+0
+0

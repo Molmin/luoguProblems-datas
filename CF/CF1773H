@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+Tabilmadi
+
+Daha yakin
+
+Daha yakin
+
+Sama distanco
+
+Dalej
+
+Znaydeno!
+===== Sample #1 Output =====
+500 200
+
+560 230
+
+566 240
+
+566 238
+
+30 239
+
+566 239
+===== Sample #2 Input =====
+You are lucky today!
+===== Sample #2 Output =====
+777777 777777

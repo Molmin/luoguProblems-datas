@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+01
+10
+0010
+0000
+9
+01
+10
+010
+0000
+9
+===== Sample #1 Output =====
+Set 1 is immediately decodable
+Set 2 is not immediately decodable

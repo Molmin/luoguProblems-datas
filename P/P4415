@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 3
+ABC
+DEF
+0
+===== Sample #1 Output =====
+CBADEF
+===== Sample #2 Input =====
+3 3
+ABC
+DEF
+2
+===== Sample #2 Output =====
+CDBEAF
+===== Sample #3 Input =====
+3 4
+JLA
+CRUO
+3
+===== Sample #3 Output =====
+CARLUJO

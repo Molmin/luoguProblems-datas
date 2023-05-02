@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4
+omm
+moo
+mom
+ommnom
+
+===== Sample #1 Output =====
+2
+omm
+mom
+

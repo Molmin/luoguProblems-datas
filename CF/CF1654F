@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+acba
+===== Sample #1 Output =====
+abca
+===== Sample #2 Input =====
+3
+bcbaaabb
+===== Sample #2 Output =====
+aabbbcba
+===== Sample #3 Input =====
+4
+bdbcbccdbdbaaccd
+===== Sample #3 Output =====
+abdbdccacbdbdccb
+===== Sample #4 Input =====
+5
+ccfcffccccccffcfcfccfffffcccccff
+===== Sample #4 Output =====
+cccccffffcccccffccfcffcccccfffff
+===== Sample #5 Input =====
+1
+zz
+===== Sample #5 Output =====
+zz

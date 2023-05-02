@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+7 3 3
+2 3 1
+2 1 3 3 2 1 3
+1 2
+2 3
+1 4
+4 5
+4 6
+6 7
+5
+3 5
+1 3
+7 3
+5 7
+7 5
+
+===== Sample #1 Output =====
+2
+2
+2
+3
+1
+
+===== Sample #2 Input =====
+见附件中的 gem/gem2.in
+===== Sample #2 Output =====
+见附件中的 gem/gem2.ans
+===== Sample #3 Input =====
+见附件中的 gem/gem3.in
+===== Sample #3 Output =====
+见附件中的 gem/gem3.ans

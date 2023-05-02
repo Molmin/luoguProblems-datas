@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+ababcc
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+reiwa
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+cpsco
+===== Sample #3 Output =====
+No

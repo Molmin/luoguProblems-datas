@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+10
+mihail
+oolyana
+kooooper
+hoon
+ulyana
+koouper
+mikhail
+khun
+kuooper
+kkkhoon
+
+===== Sample #1 Output =====
+4
+
+===== Sample #2 Input =====
+9
+hariton
+hkariton
+buoi
+kkkhariton
+boooi
+bui
+khariton
+boui
+boi
+
+===== Sample #2 Output =====
+5
+
+===== Sample #3 Input =====
+2
+alex
+alex
+
+===== Sample #3 Output =====
+1
+

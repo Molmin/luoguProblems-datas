@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+a
+ab
+aa
+aba
+abba
+abcbdac
+abcdbac
+problembyalbertorosbardisa
+0
+===== Sample #1 Output =====
+NaN
+NaN
+0.0000
+1.0000
+0.5000
+2.3333
+2.6667
+4.5385

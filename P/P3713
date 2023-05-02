@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2 2
+.*
+*.
+===== Sample #1 Output =====
+72
+===== Sample #2 Input =====
+2 3
+.*.
+*.*
+===== Sample #2 Output =====
+418
+===== Sample #3 Input =====
+4 4
+abba
+baab
+baab
+abba
+===== Sample #3 Output =====
+44512

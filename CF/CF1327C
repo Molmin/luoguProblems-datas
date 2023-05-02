@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3 3 2
+1 2
+2 1
+3 3
+3 2
+===== Sample #1 Output =====
+3
+DRD
+===== Sample #2 Input =====
+5 4 3
+3 4
+3 1
+3 3
+5 3
+1 3
+1 4
+===== Sample #2 Output =====
+9
+DDLUUUURR

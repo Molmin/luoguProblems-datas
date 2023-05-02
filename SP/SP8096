@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1\n2 2\n1\n
+===== Sample #1 Output =====
+\n\n1\n\nConstraints:\n- Number of test cases &lt;= 10 for small data, N &lt;= 100000\n- Number of test cases = 1 for large data, N &lt;= 500000\n- 1 &lt;= M &lt;= 1000000000\n- Time Limit for all tests: 2s

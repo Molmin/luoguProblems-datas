@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+=^==
+
+===== Sample #1 Output =====
+balance
+
+===== Sample #2 Input =====
+9===^==1
+
+===== Sample #2 Output =====
+left
+
+===== Sample #3 Input =====
+2==^7==
+
+===== Sample #3 Output =====
+right
+
+===== Sample #4 Input =====
+41^52==
+
+===== Sample #4 Output =====
+balance
+

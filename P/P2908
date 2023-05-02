@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5 3 
+Bessie 
+Jonathan 
+Montgomery 
+Alicia 
+Angola 
+se 
+nGo 
+Ont 
+
+===== Sample #1 Output =====
+1 
+1 
+2 
+0 
+1 
+

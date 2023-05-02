@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+7
+WBBUUUU
+WWBUWWW
+UWBBBWB
+BWBBWWB
+BWWBWBB
+UBWWWBU
+UWBBBWW
+3
+WBB
+WWU
+WBB
+0
+===== Sample #1 Output =====
+White has a winning path.
+White can win in one move.

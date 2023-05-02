@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+2 4
+1 6102
+1 6103
+2 6102
+2 6103
+
+2 4
+1 6102
+1 6102
+2 6102
+2 6103
+===== Sample #1 Output =====
+Scenario #1: possible
+Scenario #2: impossible

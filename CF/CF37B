@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2 10 3
+100 3
+99 1
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+2 100 10
+100 11
+90 9
+
+===== Sample #2 Output =====
+YES
+19 2
+0 1
+10 2
+

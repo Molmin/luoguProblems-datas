@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4 3 6
+===== Sample #1 Output =====
+safe
+===== Sample #2 Input =====
+6 5 1
+===== Sample #2 Output =====
+delicious
+===== Sample #3 Input =====
+3 7 12
+===== Sample #3 Output =====
+dangerous

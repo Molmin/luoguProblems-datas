@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+print("Hello".." ".."--\"World\"--")
+x=-3+4
+this_1s_a_variable = 0xabcF-.012e-56+7.e8+9e+10--8
+if 1 then
+y=x
+end
+print (y)
+===== Sample #1 Output =====
+[NAME] print
+[SYMBOL] (
+[STRING] "Hello"
+[SYMBOL] ..
+[STRING] " "
+[SYMBOL] ..
+[STRING] "--\"World\"--"
+[SYMBOL] )
+[EOL]
+[NAME] x
+[SYMBOL] =
+[SYMBOL] -
+[NUMBER] 3
+[SYMBOL] +
+[NUMBER] 4
+[EOL]
+[NAME] this_1s_a_variable
+[SYMBOL] =
+[NUMBER] 0xabcF
+[SYMBOL] -
+[NUMBER] .012e-56
+[SYMBOL] +
+[NUMBER] 7.e8
+[SYMBOL] +
+[NUMBER] 9e+10
+[EOL]
+[RESERVED] if
+[NUMBER] 1
+[RESERVED] then
+[EOL]
+[NAME] y
+[SYMBOL] =
+[NAME] x
+[EOL]
+[RESERVED] end
+[EOL]
+[NAME] print
+[SYMBOL] (
+[NAME] y
+[SYMBOL] )
+[EOL]

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+8
+bdopqvwx
+bdxwvpop
+5
+bdopq
+bdopq
+10
+ddbbddbbdd
+bbddbbddbb
+13
+opoqpvbdxwwbp
+vwpopvxxbdpqq
+===== Sample #1 Output =====
+2
+0
+1
+-1

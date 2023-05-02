@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+HhEeLlLlOoWwOoRrLlDd
+===== Sample #1 Output =====
+1536
+===== Sample #2 Input =====
+Gou Li Guo Jia Sheng Si Yi
+Qi Yin Huo Fu Bi Qu Zhi
+River can feed people
+Also can race boats
+Hall Ellen Ok Words locked 
+===== Sample #2 Output =====
+273

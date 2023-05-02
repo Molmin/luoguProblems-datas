@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+15 2
+4
+UURL
+8
+LRLLLLLLLL
+
+===== Sample #1 Output =====
+10
+5
+

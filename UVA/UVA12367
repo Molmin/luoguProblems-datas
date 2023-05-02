@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+2 3
+001
+111
+3 3
+001
+011
+000
+===== Sample #1 Output =====
+Case 1: row 1
+Case 2: both 2

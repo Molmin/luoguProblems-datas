@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+A
+AAB
+BAAB
+BAABA
+===== Sample #1 Output =====
+SIMPLE
+FULLY-GROWN
+MUTANT
+MUTAGENIC

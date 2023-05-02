@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+key
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+2
+ccc
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+100
+keyneeneeeckyycccckkke
+===== Sample #3 Output =====
+275429980

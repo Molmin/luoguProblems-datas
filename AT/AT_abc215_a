@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+Hello,World!
+===== Sample #1 Output =====
+AC
+===== Sample #2 Input =====
+Hello,world!
+===== Sample #2 Output =====
+WA
+===== Sample #3 Input =====
+Hello!World!
+===== Sample #3 Output =====
+WA

@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+2
+9
+PUSH
+DUP
+ADD
+PUSH
+ADD
+DUP
+ADD
+DUP
+UNION
+5
+PUSH
+PUSH
+ADD
+PUSH
+INTERSECT
+===== Sample #1 Output =====
+0
+0
+1
+0
+1
+1
+2
+2
+2
+***
+0
+0
+1
+0
+0
+***

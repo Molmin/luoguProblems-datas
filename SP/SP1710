@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+4 3 2 10 4
+8 1 2 3 4 5 6 7 8
+8 2 2 1 5 3 8 7 3
+0
+===== Sample #1 Output =====
+In game 1, the greedy strategy might lose by as many as 7 points.
+In game 2, the greedy strategy might lose by as many as 4 points.
+In game 3, the greedy strategy might lose by as many as 5 points.

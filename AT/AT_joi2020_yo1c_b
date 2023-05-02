@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+11
+joinojoijin
+===== Sample #1 Output =====
+JOInoJOIjin
+===== Sample #2 Input =====
+16
+jjooiiijoiojioij
+===== Sample #2 Output =====
+jjooiiiJOIojioij
+===== Sample #3 Input =====
+13
+nihongoutenai
+===== Sample #3 Output =====
+nihongoutenai

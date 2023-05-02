@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+A->BD
+BD->C
+A->C
+
+===== Sample #1 Output =====
+FD 3 is redundant using FDs: 1 2
+
+===== Sample #2 Input =====
+6
+P->RST
+VRT->SQP
+PS->T
+Q->TR
+QS->P
+SR->V
+
+===== Sample #2 Output =====
+FD 3 is redundant using FDs: 1
+FD 5 is redundant using FDs: 4 6 2

@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+3
+nnrnnr
+zzzaab
+mmlmmlo
+
+===== Sample #1 Output =====
+8
+9
+16
+
+===== Sample #2 Input =====
+5
+kkkkkkkkkkkkkkkkkkkk
+lllllllllllllrrlllrr
+cccccccccccccxcxxxcc
+ccccccccccccccaababa
+ggggggggggggggbaabab
+
+===== Sample #2 Output =====
+156
+138
+138
+147
+194
+
+===== Sample #3 Input =====
+见附件中的 string/string3.in
+===== Sample #3 Output =====
+见附件中的 string/string3.ans
+===== Sample #4 Input =====
+见附件中的 string/string4.in
+===== Sample #4 Output =====
+见附件中的 string/string4.ans

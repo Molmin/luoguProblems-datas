@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3
+2 3 3
+
+===== Sample #1 Output =====
+simple
+2
+2 1
+1 1
+
+===== Sample #2 Input =====
+3
+97 109 101
+
+===== Sample #2 Output =====
+simple
+2
+54 42
+47 55
+
+===== Sample #3 Input =====
+9
+9 9 8 2 4 4 3 5 3
+
+===== Sample #3 Output =====
+nice
+

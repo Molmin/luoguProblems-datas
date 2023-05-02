@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+7
+abacaba
+abc
+cccba
+acb
+dbsic
+bac
+abracadabra
+abc
+dddddddddddd
+cba
+bbc
+abc
+ac
+abc
+===== Sample #1 Output =====
+aaaacbb
+abccc
+bcdis
+aaaaacbbdrr
+dddddddddddd
+bbc
+ac

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+13579
+10000 20000
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+12345678901234567890
+0 1000000000
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+05
+5 5
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+0
+0 1
+===== Sample #4 Output =====
+Yes

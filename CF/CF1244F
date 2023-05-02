@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6 1
+BWBBWW
+
+===== Sample #1 Output =====
+WBBBWW
+
+===== Sample #2 Input =====
+7 3
+WBWBWBW
+
+===== Sample #2 Output =====
+WWWWWWW
+
+===== Sample #3 Input =====
+6 4
+BWBWBW
+
+===== Sample #3 Output =====
+BWBWBW
+

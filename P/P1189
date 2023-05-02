@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 5
+.....
+.X...
+...*X
+X.X..
+3
+NORTH
+WEST
+SOUTH
+===== Sample #1 Output =====
+.....
+*X*..
+*.*.X
+X.X..
+

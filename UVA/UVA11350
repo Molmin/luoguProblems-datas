@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+RL
+RLR
+RRL
+===== Sample #1 Output =====
+3/2
+5/3
+5/2

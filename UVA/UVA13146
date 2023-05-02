@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+6
+impossible
+possible
+possible
+sorry
+scared
+excused
+counted
+proud
+two people
+to
+===== Sample #1 Output =====
+2
+8
+4
+7
+5
+8

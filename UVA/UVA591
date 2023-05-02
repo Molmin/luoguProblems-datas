@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+6
+5 2 4 1 7 5
+0
+===== Sample #1 Output =====
+Set #1
+The minimum number of moves is 5.

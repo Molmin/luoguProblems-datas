@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+aa
+===== Sample #1 Output =====
+650
+===== Sample #2 Input =====
+abc
+===== Sample #2 Output =====
+16873
+===== Sample #3 Input =====
+xrxbaxrxikxrxgvcpuwx
+===== Sample #3 Output =====
+352084595

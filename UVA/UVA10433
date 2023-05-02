@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+5
+76
+34
+===== Sample #1 Output =====
+Automorphic number of 1-digit.
+Automorphic number of 2-digit.
+Not an Automorphic number.

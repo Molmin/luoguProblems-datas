@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+5 99
+hansbug 1
+kkksc03 2
+yyy 3
+absi2011 4
+lzn 100
+hansbug is a juruo!but absi2011 not.!?!
+one day absi2011 laughed at yyy and hansbug.
+then kkksc03 and lzn blamed him for that.
+
+===== Sample #1 Output =====
+16
+===== Sample #2 Input =====
+5 99
+yyyy 1
+kkksc03 2
+yyy 3
+absi2011 4
+lzn 100
+yyyy is a juruo!but absi2011 not.!?!
+one day absi2011 laughed at yyy and yyyy.
+then kkksc03 and lzn blamed him for that.
+
+===== Sample #2 Output =====
+16

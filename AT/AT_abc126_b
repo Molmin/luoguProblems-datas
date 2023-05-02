@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+1905
+===== Sample #1 Output =====
+YYMM
+===== Sample #2 Input =====
+0112
+===== Sample #2 Output =====
+AMBIGUOUS
+===== Sample #3 Input =====
+1700
+===== Sample #3 Output =====
+NA

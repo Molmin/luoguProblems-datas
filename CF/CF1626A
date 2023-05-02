@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+oelhl
+abcdcba
+ac
+===== Sample #1 Output =====
+hello
+ababcdc
+ac

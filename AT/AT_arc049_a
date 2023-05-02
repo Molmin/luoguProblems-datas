@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+MinnnahaNakayoshi
+0 6 8 17
+===== Sample #1 Output =====
+"Minnna"ha"Nakayoshi"
+===== Sample #2 Input =====
+Niwawo_Kakemeguru_Chokudai
+11 17 18 26
+===== Sample #2 Output =====
+Niwawo_Kake"meguru"_"Chokudai"
+===== Sample #3 Input =====
+___
+0 1 2 3
+===== Sample #3 Output =====
+"_"_"_"

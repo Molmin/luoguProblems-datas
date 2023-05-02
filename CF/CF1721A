@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+rb
+br
+cc
+wb
+aa
+aa
+ab
+cd
+yy
+xx
+===== Sample #1 Output =====
+1
+2
+0
+3
+1

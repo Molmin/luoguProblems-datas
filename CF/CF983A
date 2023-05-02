@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2
+6 12 10
+4 3 10
+
+===== Sample #1 Output =====
+Finite
+Infinite
+
+===== Sample #2 Input =====
+4
+1 1 2
+9 36 2
+4 12 3
+3 5 4
+
+===== Sample #2 Output =====
+Finite
+Finite
+Finite
+Infinite
+

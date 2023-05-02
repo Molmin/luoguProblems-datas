@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+i
+love
+you
+<3i<3love<23you<3
+
+===== Sample #1 Output =====
+yes
+
+===== Sample #2 Input =====
+7
+i
+am
+not
+main
+in
+the
+family
+<3i<>3am<3the<3<main<3in<3the<3><3family<3
+
+===== Sample #2 Output =====
+no
+

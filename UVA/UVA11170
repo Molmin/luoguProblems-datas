@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+3
+4
+0
+===== Sample #1 Output =====
+2Cos^2(A)-1
+4Cos^3(A)-3Cos(A)
+8Cos^4(A)-8Cos^2(A)+1

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+8
+5
+E2F3
+EEFF
+45EE
+FEEF
+FEEE
+===== Sample #1 Output =====
+0 20 4 4 9 1 1 1 4 1 1 2 4 4 4 4

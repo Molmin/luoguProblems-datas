@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3 7 
+Farmer John has no large brown noisy cow. 
+Farmer John has no small white silent cow. 
+Farmer John has no large spotted noisy cow. 
+
+===== Sample #1 Output =====
+small spotted noisy 
+

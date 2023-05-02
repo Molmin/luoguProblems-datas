@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+3 4 4 2
+xx..
+.xx.
+xx..
+x.
+.x
+x.
+..
+2 2 2 2
+xx
+xx
+.x
+x.
+
+===== Sample #1 Output =====
+TAK
+NIE
+

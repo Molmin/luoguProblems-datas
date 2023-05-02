@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1\n\n
+===== Sample #1 Output =====
+\n1\n\nInput:\n2\n\nOutput:\n8\n\nInput:\n4\n\nOutput:\n182\n\nInput:\n1000000000\n\nOutput:\n4589\n\n

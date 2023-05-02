@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+\nabghABCDE\n2\nabAB\nab
+\n\n
+===== Sample #1 Output =====
+\n&nbsp;\n
+N\nY\n

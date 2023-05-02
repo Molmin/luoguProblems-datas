@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n 4\n 15 20\n 55555\n FFAAA\n 2AAD5\n D552A\n 2AAD5\n D542A\n 4AD4D\n B52B2\n 52AAD\n AD552\n AA52D\n AAAAA\n 5AA55\n A55AA\n 5AA55\n 4 4\n 0\n 0\n 0\n 0\n 4 4\n 3\n 3\n C\n C\n 4 4\n 6\n 9\n 9\n 6\n\n
+===== Sample #1 Output =====
+\n Case #1: 5\n 6 2\n 4 3\n 3 7\n 2 15\n 1 57\n Case #2: 1\n 1 16\n Case #3: 2\n 2 1\n 1 12\n Case #4: 1\n 2 4\n

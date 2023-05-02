@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+CircumscribedCircle 0 0 20 1 8 17
+InscribedCircle 0 0 20 1 8 17
+TangentLineThroughPoint 200 200 100 40 150
+TangentLineThroughPoint 200 200 100 200 100
+TangentLineThroughPoint 200 200 100 270 210
+CircleThroughAPointAndTangentToALineWithRadius 100 200 75 190 185 65 100
+CircleThroughAPointAndTangentToALineWithRadius 75 190 75 190 185 65 100
+CircleThroughAPointAndTangentToALineWithRadius 100 300 100 100 200 100 100
+CircleThroughAPointAndTangentToALineWithRadius 100 300 100 100 200 100 99
+CircleTangentToTwoLinesWithRadius 50 80 320 190 85 190 125 40 30
+CircleTangentToTwoDisjointCirclesWithRadius 120 200 50 210 150 30 25
+CircleTangentToTwoDisjointCirclesWithRadius 100 100 80 300 250 70 50
+===== Sample #1 Output =====
+(9.734940,5.801205,11.332389)
+(9.113006,6.107686,5.644984)
+[53.977231,160.730818]
+[0.000000]
+[]
+[(112.047575,299.271627),(199.997744,199.328253)]
+[(-0.071352,123.937211),(150.071352,256.062789)]
+[(100.000000,200.000000)]
+[]
+[(72.231286,121.451368),(87.815122,63.011983),(128.242785,144.270867),(143.826621,85.831483)]
+[(157.131525,134.836744),(194.943947,202.899105)]
+[(204.000000,178.000000)]

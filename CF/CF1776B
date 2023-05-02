@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4 0
+2 7 11 13
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+4 1
+2 7 11 13
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+4 100
+2 7 11 13
+===== Sample #3 Output =====
+107
+===== Sample #4 Input =====
+4 3
+2 5 8 11
+===== Sample #4 Output =====
+8

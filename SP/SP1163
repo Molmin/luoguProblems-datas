@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+long_and_mnemonic_identifier
+anotherExample
+i
+bad_Style
+===== Sample #1 Output =====
+longAndMnemonicIdentifier
+another_example
+i
+Error!

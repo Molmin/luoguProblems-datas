@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+issii
+2
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+qq
+81
+===== Sample #2 Output =====
+81
+===== Sample #3 Input =====
+cooooooooonteeeeeeeeeest
+999993333
+===== Sample #3 Output =====
+8999939997

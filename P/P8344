@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+2 6 4
+5 8 2
+10 10 22
+===== Sample #1 Output =====
+Renko
+Merry
+Renko
+===== Sample #2 Input =====
+10
+221 44724 313
+157 60759 464
+181 145867 893
+182 59650 418
+384 168626 631
+702 650463 194
+617 376055 918
+261 215764 955
+502 744180 440
+9 1626 168
+===== Sample #2 Output =====
+Renko
+Merry
+Renko
+Renko
+Renko
+Merry
+Merry
+Merry
+Merry
+Renko

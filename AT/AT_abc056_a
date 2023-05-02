@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+H H
+===== Sample #1 Output =====
+H
+===== Sample #2 Input =====
+D H
+===== Sample #2 Output =====
+D
+===== Sample #3 Input =====
+D D
+===== Sample #3 Output =====
+H

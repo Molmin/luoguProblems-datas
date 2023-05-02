@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2\n1 1 2\n13 7\n2 2 2\n10 8\n\n&nbsp;
+===== Sample #1 Output =====
+\n\n1\n6 \n\n\nDescription - for the first test case the series is 1,2,4,5,10,11,22,23,46,47,94,95,190..\n13th term is 190 and 190%7 = 1\n\nNote - the value of a , d , r , n &amp; mod will be less than 10^8 and more than 0.\nfor every series 2nd term will be a+d and third term will be (a+d)*r .. and so on ..

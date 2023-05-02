@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+5 5
+#####
+# S#
+# XX#
+# *#
+#####
+5 5
+#####
+#* X#
+###X#
+#S *#
+#####
+5 5
+#####
+#S X#
+# X#
+# #*#
+#####
+0 0
+===== Sample #1 Output =====
+WWSSEEWWNNEE
+EEWW
+Stay home!

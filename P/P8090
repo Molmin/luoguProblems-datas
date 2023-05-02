@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+COW
+SAY
+MOO
+WIN
+THE
+IOI
+===== Sample #1 Output =====
+1
+1
+
+===== Sample #2 Input =====
+AAA
+BBB
+CCC
+AYY
+AAA
+ZZZ
+===== Sample #2 Output =====
+1
+2

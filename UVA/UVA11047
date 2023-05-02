@@ -1,0 +1,64 @@
+===== Sample #1 Input =====
+2
+6
+Ofi1 Ofi2 Ofi3 ofi4
+0
+4
+1
+-1
+4
+0
+-1
+2
+1
+-1
+0
+-1
+-1
+2
+-1
+0
+4
+3
+3
+-1
+-1
+4
+-1
+1
+1
+emp1 Ofi1 ofi4
+3
+Murcia Alicante Albacete
+0
+3
+-1
+-1
+0
+4
+-1
+-1
+0
+2
+Dofyl Murcia Albacete
+Dofyl Albacete Murcia
+ofi5
+4
+3
+3
+-1
+0
+2
+ofi6
+-1
+4
+-1
+1
+2
+0
+===== Sample #1 Output =====
+Mr emp1 to go from Ofi1 to ofi4, you will receive 6 euros
+Path:Ofi1 Ofi2 ofi4
+Mr Dofyl to go from Murcia to Albacete, you will receive 7 euros
+Path:Murcia Alicante Albacete
+Sorry Mr Dofyl you can not go from Albacete to Murcia

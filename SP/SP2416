@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+AAA
+ABCDEFG
+CODECRAFT
+===== Sample #1 Output =====
+4
+128
+496

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+5
+12 -4
+-10 4
+9
+3
+-2 -1 -2
+0
+===== Sample #1 Output =====
+The maximum winning streak is 13.
+Losing streak.

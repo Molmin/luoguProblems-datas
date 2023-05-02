@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n0\n1\n2\n-1\n\n
+===== Sample #1 Output =====
+\n1\n4\n16\n\nExplanation:\nNumber of different 0-sized Pango boards = 1\nNumber of different 1-sized Pango boards = 2\nNumber of different 2-sized Pango boards = 6\nFor N = 0, he has to give 0-sized boards to both his sons. He can do this in 1*1 = 1 way\nFor N = 1, he has to give 0-sized board to one of his sons, and 1-sized board to the other, for a total of 2*1 +\n1*2 = 4 ways\nFor N = 2, he can give the presents in 6*1 + 2*2 + 1*6 = 16 ways\n

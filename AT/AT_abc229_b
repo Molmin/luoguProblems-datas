@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+229 390
+===== Sample #1 Output =====
+Hard
+===== Sample #2 Input =====
+123456789 9876543210
+===== Sample #2 Output =====
+Easy

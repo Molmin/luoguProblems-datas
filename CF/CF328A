@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+836 624 412 200
+
+===== Sample #1 Output =====
+-12
+
+===== Sample #2 Input =====
+1 334 667 1000
+
+===== Sample #2 Output =====
+1333
+

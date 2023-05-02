@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+bonobo
+deleted
+racecar
+racecars
+===== Sample #1 Output =====
+3
+5
+7
+1

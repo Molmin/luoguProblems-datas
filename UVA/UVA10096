@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4
+S 10.1 10.1 1
+M 5 5 8
+S 10 5 20
+M 5 5 15
+===== Sample #1 Output =====
+12.2836
+0.9480
+Not enough space for fission.
+1.0000
+No compaction has occurred.

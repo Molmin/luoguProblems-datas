@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+start
+x
+x
+start
+x
+x
+y
+start
+x
+x
+y
+y
+end
+
+===== Sample #1 Output =====
+? 0 0
+? 10 1
+! 1
+? 0 0
+? 3 4
+? 2 5
+! 2
+? 2 4
+? 2 5
+? 3 10
+? 9 1
+! 3
+

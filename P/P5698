@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+begin loop n loop 3 loop n
+op 20
+end end end
+loop n op 3 break end
+loop n loop n
+op 1
+break
+end end
+end
+
+===== Sample #1 Output =====
+60n^2+n+3
+===== Sample #2 Input =====
+begin
+op n
+loop 3
+op n
+break
+end
+loop n
+loop n
+op 1
+continue
+op n
+end
+end
+end 
+===== Sample #2 Output =====
+n^2+2n

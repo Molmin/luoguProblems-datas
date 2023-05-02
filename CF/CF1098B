@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2 2
+AG
+CT
+
+===== Sample #1 Output =====
+AG
+CT
+
+===== Sample #2 Input =====
+3 5
+AGCAG
+AGCAG
+AGCAG
+
+===== Sample #2 Output =====
+TGCAT
+CATGC
+TGCAT
+

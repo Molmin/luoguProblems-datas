@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+50 50
+===== Sample #1 Output =====
+Alloy
+===== Sample #2 Input =====
+100 0
+===== Sample #2 Output =====
+Gold
+===== Sample #3 Input =====
+0 100
+===== Sample #3 Output =====
+Silver
+===== Sample #4 Input =====
+100 2
+===== Sample #4 Output =====
+Alloy

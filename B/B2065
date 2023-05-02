@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+5
+125 99
+112 89
+145 99
+99 97
+123 98
+===== Sample #1 Output =====
+same
+worse
+better
+same

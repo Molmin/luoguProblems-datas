@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+235217
+3
+A 107382
+C 18059
+B 43265
+
+===== Sample #1 Output =====
+A 9
+B 4
+C 1
+===== Sample #2 Input =====
+245143
+4
+F 14845
+A 104516
+B 52652
+C 14161
+===== Sample #2 Output =====
+A 8
+B 4
+C 1
+F 1
+===== Sample #3 Input =====
+206278
+5
+D 44687
+A 68188
+C 7008
+B 48377
+G 9665
+===== Sample #3 Output =====
+A 6
+B 4
+D 4

@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+2 5 4
+G 1 1
+H 3 4
+G 4 2
+H 6 6
+H 8 9
+===== Sample #1 Output =====
+16
+===== Sample #2 Input =====
+1 5 4
+G 1 1
+H 3 4
+G 4 2
+H 6 6
+H 8 9
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+2 10 76
+H 1 18
+H 18 465
+H 25 278
+H 30 291
+H 36 202
+G 45 96
+G 60 375
+G 93 941
+G 96 870
+G 98 540
+===== Sample #3 Output =====
+1893

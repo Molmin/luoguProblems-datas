@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+BB.
+.B.
+...
+===== Sample #1 Output =====
+Takahashi
+===== Sample #2 Input =====
+2
+..
+WW
+===== Sample #2 Output =====
+Snuke
+===== Sample #3 Input =====
+4
+WWBW
+WWWW
+BWB.
+BBBB
+===== Sample #3 Output =====
+Snuke

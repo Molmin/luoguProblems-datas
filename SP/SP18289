@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+4\n3 2
+5 1 3
+1 1 1\n3 3\n1 1 1\n2 1 1\n4 4\n1 1 1 2\n1 2 1 1\n4 3\n1 1 1 2\n1 2 1 1
+===== Sample #1 Output =====
+\n 0\n 2\n 2\n 1\n\nExplanation of the test case. For the second test case, the configuation of keys according to doors can be as follows -1, 1, 2.\nHe only needs 2 Mystery powers for doing this.\nExplanation of last test case: For opening two doors, You can use key configutation of 0, 1, 1, 2 (reducing the first door \nnumber by 1). Then use 0, 1, 2 keys to open 3 doors. \nYou can also use key configutation of 1 -1 1 2  (reducing the second door number by 2), Then use -1, 1, 2 for \nopening 3 doors.

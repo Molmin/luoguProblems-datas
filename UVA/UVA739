@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+LEE
+KUHNE
+EBELL
+EBELSON
+SCHAEFER
+SCHAAK
+===== Sample #1 Output =====
+NAME
+LEE
+KUHNE
+EBELL
+EBELSON
+SCHAEFER
+SCHAAK
+END OF OUTPUT
+|
+|
+|
+|
+|
+|__ Column 20
+|__ Column 10
+SOUNDEX CODE
+L000
+K500
+E140
+E142
+S160
+S200
+|
+|__ Column 35

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+18 55 16 17
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+6
+40 41 43 44 44 44
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+8
+5 972 3 4 1 4 970 971
+
+===== Sample #3 Output =====
+YES
+

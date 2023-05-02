@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+5
+Mike Gerald
+Kate Mike
+Kate Tank
+Gerald Tank
+Gerald David
+
+===== Sample #1 Output =====
+5
+Mike 1
+Gerald 1
+Kate 1
+Tank 1
+David 2
+
+===== Sample #2 Input =====
+4
+valera vanya
+valera edik
+pasha valera
+igor valera
+
+===== Sample #2 Output =====
+5
+valera 0
+vanya 3
+edik 3
+pasha 3
+igor 3
+

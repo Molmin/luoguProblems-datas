@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 3 9
+
+===== Sample #1 Output =====
+2 2 L
+
+===== Sample #2 Input =====
+4 3 24
+
+===== Sample #2 Output =====
+4 3 R
+
+===== Sample #3 Input =====
+2 4 4
+
+===== Sample #3 Output =====
+1 2 R
+

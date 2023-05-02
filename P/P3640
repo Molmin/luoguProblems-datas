@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+3
+2 1 4 2 1
+0
+1 1 2
+2
+0 1
+1 0
+//以上为问题1
+===== Sample #1 Output =====
+3
+1000000000
+The value of counter is: 5
+===== Sample #2 Input =====
+4 5
+0 1
+0 2
+0 3
+1 2
+2 3
+//以上为问题2
+===== Sample #2 Output =====
+3
+0 1 2 1
+The value of counter is: 18

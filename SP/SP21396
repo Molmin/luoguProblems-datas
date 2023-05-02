@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+1\nabababc\nab\n3\n0 6\n1 2\n0 4
+===== Sample #1 Output =====
+Case 1:\n3\n0\n2

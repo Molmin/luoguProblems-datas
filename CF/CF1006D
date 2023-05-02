@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+7
+abacaba
+bacabaa
+
+===== Sample #1 Output =====
+4
+
+===== Sample #2 Input =====
+5
+zcabd
+dbacz
+
+===== Sample #2 Output =====
+0
+

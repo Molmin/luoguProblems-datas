@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+7
+10 3
+10 99
+10 2
+10 4
+10 5
+10 11
+10 7
+===== Sample #1 Output =====
+Add all 1
+Add all 2
+Rightmost 1
+Rightmost 2
+Rightmost 1
+Add all 2
+Alternate 1 change sign
+Add all 6
+Alternate 3 change sign

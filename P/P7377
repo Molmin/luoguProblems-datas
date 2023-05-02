@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 3
+??b
+c??
+c?c
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+4 6
+ab??c?
+??kll?
+a?k??c
+?bcd??
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+5 2
+??
+b?
+c?
+?g
+cg
+===== Sample #3 Output =====
+8

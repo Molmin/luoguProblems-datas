@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+20.0 36.0 72.0 2.0 10.0 18.0 10.0
+25.0 72.0 200.0 1.5 8.0 30.0 20.0
+0.0
+===== Sample #1 Output =====
+Scenario 1:
+up hill
+well diameter
+water level
+bucket volume
+bucket ascent rate
+down hill
+required volume
+TIME REQUIRED
+20.00 sec
+36.00 in
+72.00 in
+2.00 cu ft
+10.00 in/sec
+18.00 sec
+10.00 cu ft
+232.59 sec
+Scenario 2:
+up hill
+25.00 sec
+well diameter
+72.00 in
+water level
+200.00 in
+bucket volume
+1.50 cu ft
+bucket ascent rate 8.00 in/sec
+down hill
+30.00 sec
+required volume
+20.00 cu ft
+TIME REQUIRED
+1141.63 sec

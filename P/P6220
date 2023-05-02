@@ -1,0 +1,52 @@
+===== Sample #1 Input =====
+4 5
+11111
+10000
+10000
+10000
+===== Sample #1 Output =====
+3
+2 1 DESNO
+3 1 DESNO
+4 1 DESNO
+===== Sample #2 Input =====
+6 4
+1111
+1011
+1000
+1011
+1010
+1000
+===== Sample #2 Output =====
+4
+1 2 DOLJE
+4 4 DOLJE
+5 3 DOLJE
+3 1 DESNO
+===== Sample #3 Input =====
+9 8
+11111111
+10000000
+10001000
+10010001
+11100001
+10100110
+10001000
+10100001
+10010001
+===== Sample #3 Output =====
+14
+5 2 DOLJE
+5 8 DOLJE
+8 3 DOLJE
+2 1 DESNO
+3 1 DESNO
+3 5 DESNO
+4 1 DESNO
+4 4 DESNO
+5 3 DESNO
+6 3 DESNO
+7 1 DESNO
+7 5 DESNO
+8 3 DESNO
+9 4 DESNO

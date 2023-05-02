@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+320 200
+OPEN 50 50 10 10
+OPEN 70 55 10 10
+OPEN 90 50 10 10
+RESIZE 55 55 40 40
+RESIZE 55 55 15 15
+MOVE 55 55 40 0
+CLOSE 55 55
+CLOSE 110 60
+MOVE 95 55 0 -100
+
+===== Sample #1 Output =====
+Command 4: RESIZE - window does not fit
+Command 7: CLOSE - no window at given position
+Command 9: MOVE - moved 50 instead of 100
+2 window(s):
+90 0 15 15
+115 50 10 10
+

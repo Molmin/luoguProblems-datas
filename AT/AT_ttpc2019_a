@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2015 2019 2020
+===== Sample #1 Output =====
+2023
+===== Sample #2 Input =====
+2015 2019 2027
+===== Sample #2 Output =====
+2027
+===== Sample #3 Input =====
+1000 2999 3000
+===== Sample #3 Output =====
+4998

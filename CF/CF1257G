@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+2999999 43 2999957
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+6
+2 3 2 3 2 2
+
+===== Sample #2 Output =====
+3
+

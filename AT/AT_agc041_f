@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+2 2
+===== Sample #1 Output =====
+11
+===== Sample #2 Input =====
+3
+2 1 2
+===== Sample #2 Output =====
+17
+===== Sample #3 Input =====
+4
+1 2 4 1
+===== Sample #3 Output =====
+201
+===== Sample #4 Input =====
+10
+4 7 4 8 4 6 8 2 3 6
+===== Sample #4 Output =====
+263244071

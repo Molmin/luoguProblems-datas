@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+4
+H3
+DA
+D3
+SK
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+5
+H3
+DA
+CK
+H3
+S7
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+4
+3H
+AD
+3D
+KS
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+5
+00
+AA
+XX
+YY
+ZZ
+===== Sample #4 Output =====
+No

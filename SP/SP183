@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+8
+Afbc
+Bfbd
+Cddd
+Bcbc
+Afcc
+Afbf
+Cfbb
+Dfdb
+===== Sample #1 Output =====
+6

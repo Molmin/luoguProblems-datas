@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+mew
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+wuffuw
+
+===== Sample #2 Output =====
+5
+
+===== Sample #3 Input =====
+qqqqqqqq
+
+===== Sample #3 Output =====
+0
+

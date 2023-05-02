@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+11011
+11000
+11011
+11001
+111111
+100
+1000000000
+110
+1010
+100
+===== Sample #1 Output =====
+Pair #1: All you need is love!
+Pair #2: Love is not all you need!
+Pair #3: Love is not all you need!
+Pair #4: All you need is love!
+Pair #5: All you need is love!

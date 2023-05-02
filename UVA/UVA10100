@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+This is a test.
+test
+Hello!
+The document provides late-breaking information
+late breaking.
+===== Sample #1 Output =====
+1. Length of longest match: 1
+2. Blank!
+3. Length of longest match: 2

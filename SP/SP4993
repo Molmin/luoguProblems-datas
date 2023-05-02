@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+I started out at (0, 5).
+Then I traveled to (3.7, 5).
+After a couple of drinks I wobbled to (2.7, 4).
+The next morning I woke up near (4, 3).
+I finished my journey in (-.2, 8).
+===== Sample #1 Output =====
+The salesman has traveled a total of 3.700 kilometers.
+The salesman has traveled a total of 5.114 kilometers.
+The salesman has traveled a total of 6.754 kilometers.
+The salesman has traveled a total of 13.284 kilometers.

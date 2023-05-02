@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+SAINT HELENA
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+SOUND HOUND
+===== Sample #2 Output =====
+YES
+===== Sample #3 Input =====
+SOUND SPIDER
+===== Sample #3 Output =====
+NO
+===== Sample #4 Input =====
+S H
+===== Sample #4 Output =====
+YES
+===== Sample #5 Input =====
+X Y
+===== Sample #5 Output =====
+NO

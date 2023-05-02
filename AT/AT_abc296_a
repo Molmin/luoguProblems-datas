@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+MFMFMF
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+9
+FMFMMFMFM
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+1
+F
+===== Sample #3 Output =====
+Yes

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+7 6
+
+2
+
+7
+===== Sample #1 Output =====
+and 2 5
+
+or 5 6
+
+finish 5

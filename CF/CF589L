@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+5 4 6
+a  {} b zc  {}
+z ba  {}  {} dce
+e d z  {}  {}
+b  {}  {} z a
+c a z d  {}
+d c z e  {}
+===== Sample #1 Output =====
+aabb
+aabb
+czzz
+dzzz
+ezzz
+

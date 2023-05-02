@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+ABAAXGF
+AABXFGA
+ABA
+BXA
+AABBA
+BBABAA
+===== Sample #1 Output =====
+Case #1: 10 9
+Case #2: 4 1
+Case #3: 8 10

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+213132
+973894
+045207
+000000
+055776
+===== Sample #1 Output =====
+YES
+NO
+YES
+YES
+NO

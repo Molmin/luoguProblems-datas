@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n4 abcadef\n1000 zero\n0 zero\n-1 *\n
+===== Sample #1 Output =====
+aaaaaadef\n\nzero

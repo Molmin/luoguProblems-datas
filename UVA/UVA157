@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4
+A:fgmpnxzabjd=Dbf
+D:b=Adac=Ccf
+B:acd=Azefg=Cbh
+C:bac
+AgAa
+AbBh
+BhDf
+#
+===== Sample #1 Output =====
+5: Agfdjba
+9: Abaz=Bdefgh
+10: Bhg=Cbac=Dcf

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2
+(A,B)
+(B,C)
+(B,D)
+(D,E)
+(E,F)
+(B,G)
+(G,H)
+(G,I)
+(J,K)
+(K,L)
+(K,M)
+****
+A,B,C,D,E,F,G,H,I,J,K,L,M,N
+(A,B)
+(A,C)
+(C,F)
+**
+A,B,C,D,F
+===== Sample #1 Output =====
+There are 2 tree(s) and 1 acorn(s).
+There are 1 tree(s) and 1 acorn(s).

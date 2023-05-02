@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+4 3
+ooxx
+ooxx
+ooxx
+4 1
+null
+4 4
+aabb
+aabb
+ccdd
+ccdd
+0 0
+===== Sample #1 Output =====
+Case 1:
+o 0 0
+x 2 0
+
+Case 2:
+l 2 0
+n 0 0
+u 1 0
+
+Case 3:
+a 0 0
+b 2 0
+c 0 2
+d 2 2

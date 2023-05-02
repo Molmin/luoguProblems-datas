@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+(a and b) or c
+a 0.3
+b 0.4
+c 0.5
+(a or b) and (not d or c)
+a 0.5
+b 0.3
+c 0.8
+d 0.25
+ab or bc or cd
+ab 0.3
+bc 0.1
+cd 0.2
+===== Sample #1 Output =====
+1.650000
+2.280000
+2.260000

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+Au
+===== Sample #1 Output =====
+197
+===== Sample #2 Input =====
+HfO_{2}
+===== Sample #2 Output =====
+210.5
+===== Sample #3 Input =====
+Ca(OH)_{2}
+===== Sample #3 Output =====
+74
+===== Sample #4 Input =====
+CuSO_{4}~5H_{2}O
+===== Sample #4 Output =====
+250
+===== Sample #5 Input =====
+KAl(SO_{4})_{2}~12H_{2}O
+===== Sample #5 Output =====
+474

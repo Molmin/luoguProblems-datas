@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+6 1
+LRLRRL
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+13 3
+LRRLRLRRLRLLR
+===== Sample #2 Output =====
+9
+===== Sample #3 Input =====
+10 1
+LLLLLRRRRR
+===== Sample #3 Output =====
+9
+===== Sample #4 Input =====
+9 2
+RRRLRLRLL
+===== Sample #4 Output =====
+7

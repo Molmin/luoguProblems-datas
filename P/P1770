@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+Shang wang dou tmd bei ping ping an an he xie diao le.
+Tian yao mie he xie, tui he xie bao ping an.  shang Wang sou suo jiu ping cha cha cha ,you       zhen       xiang!
+===== Sample #1 Output =====
+Tian yao mie <b>he xie</b>, tui <b>he xie</b> bao <b>ping an.  shang Wang</b> sou suo jiu ping cha cha cha ,you       zhen       xiang!

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3200
+pink
+===== Sample #1 Output =====
+pink
+===== Sample #2 Input =====
+3199
+pink
+===== Sample #2 Output =====
+red
+===== Sample #3 Input =====
+4049
+red
+===== Sample #3 Output =====
+red

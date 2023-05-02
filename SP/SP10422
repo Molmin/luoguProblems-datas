@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+R
+RR2
+RU
+R2R'R'
+===== Sample #1 Output =====
+4
+4
+105
+1

@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+migraine 2 headache nausea
+poisoning 3 nausea stomachache fever
+flu 3 fever cough headache
+4
+1 fever
+2 nausea headache
+2 nausea cough
+4 fever nausea cough headache
+===== Sample #1 Output =====
+Diagnosis #1:
+poisoning
+flu
+Diagnosis #2:
+migraine
+Diagnosis #3:
+migraine
+poisoning
+flu
+Diagnosis #4:
+flu

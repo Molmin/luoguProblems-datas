@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+17
+int f(int n)
+{
+if (n &lt; 100) return 17;
+if (n &gt; 99) return 27;
+}
+
+===== Sample #1 Output =====
+99
+
+===== Sample #2 Input =====
+13
+int f(int n)
+{
+if (n == 0) return 0;
+return f(n - 1) + 1;
+}
+
+===== Sample #2 Output =====
+13
+===== Sample #3 Input =====
+144
+int f(int n)
+{
+if (n == 0) return 0;
+if (n == 1) return n;
+return f(n - 1) + f(n - 2);
+}
+===== Sample #3 Output =====
+24588
+

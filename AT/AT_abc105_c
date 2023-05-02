@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+-9
+===== Sample #1 Output =====
+1011
+===== Sample #2 Input =====
+123456789
+===== Sample #2 Output =====
+11000101011001101110100010101
+===== Sample #3 Input =====
+0
+===== Sample #3 Output =====
+0

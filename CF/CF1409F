@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4 2
+bbaa
+ab
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+7 3
+asddsaf
+sd
+===== Sample #2 Output =====
+10
+===== Sample #3 Input =====
+15 6
+qwertyhgfdsazxc
+qa
+===== Sample #3 Output =====
+16
+===== Sample #4 Input =====
+7 2
+abacaba
+aa
+===== Sample #4 Output =====
+15

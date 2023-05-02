@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+ab
+a?a
+2
+aaa
+aab
+
+===== Sample #1 Output =====
+YES
+NO
+
+===== Sample #2 Input =====
+abc
+a?a?a*
+4
+abacaba
+abaca
+apapa
+aaaaax
+
+===== Sample #2 Output =====
+NO
+YES
+NO
+YES
+

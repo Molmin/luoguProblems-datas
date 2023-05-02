@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+KEY
+1
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+KKEE
+2
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+KKEEYY
+1000000000
+===== Sample #3 Output =====
+90

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+aaab
+2
+1 2
+1 4
+
+===== Sample #1 Output =====
+Alice
+Bob
+
+===== Sample #2 Input =====
+aaccbdb
+2
+5 7
+1 7
+
+===== Sample #2 Output =====
+Alice
+Alice
+

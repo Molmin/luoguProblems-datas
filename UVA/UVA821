@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+12 24 13 31 43 00
+12 14 42 27 71 00
+0 0
+===== Sample #1 Output =====
+Case 1: average length between pages = 1.833 clicks
+Case 2: average length between pages = 1.750 clicks

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3   
+A a 
+0 5 
+5 4 
+10  
+A   
+B   
+C   
+0   
+1   
+4   
+5   
+a   
+b   
+A
+===== Sample #1 Output =====
+aBC5144aba

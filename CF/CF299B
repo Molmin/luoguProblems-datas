@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2 1
+..
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+5 2
+.#.#.
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+7 3
+.#.###.
+
+===== Sample #3 Output =====
+NO
+

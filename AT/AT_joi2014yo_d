@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+OI
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+20
+JIOIJOIJOJOIIIOJIOII
+===== Sample #2 Output =====
+4976

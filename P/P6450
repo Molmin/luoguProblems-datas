@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+3 5
+damir
+marko
+darko
+45
+===== Sample #1 Output =====
+  d
+ m a
+d a m
+ a r i
+  r k r
+   k o
+    o
+===== Sample #2 Input =====
+3 5
+damir
+marko
+darko
+90
+===== Sample #2 Output =====
+dmd
+aaa
+rrm
+kki
+oor
+===== Sample #3 Input =====
+5 5
+abcde
+bcdef
+cdefg
+defgh
+efghi
+315
+===== Sample #3 Output =====
+    e
+   d f
+  c e g
+ b d f h
+a c e g i
+ b d f h
+  c e g
+   d f
+    e 

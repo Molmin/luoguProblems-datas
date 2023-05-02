@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+W=3307.00
+D=81.00
+h=32.00
+W=3665.00
+D=74.00
+SG=1.29
+Figure 1 : A Hydrometer
+===== Sample #1 Output =====
+SG=1.99
+h=19.16

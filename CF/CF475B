@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 3
+><>
+v^v
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+4 6
+<><>
+v^v^v^
+===== Sample #2 Output =====
+YES
+

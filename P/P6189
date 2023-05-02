@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 44
+
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+66 666666
+
+===== Sample #2 Output =====
+323522
+===== Sample #3 Input =====
+66666 66666666
+
+===== Sample #3 Output =====
+45183149
+

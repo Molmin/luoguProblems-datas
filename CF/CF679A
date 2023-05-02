@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+yes
+no
+yes
+
+===== Sample #1 Output =====
+2
+80
+5
+composite
+
+===== Sample #2 Input =====
+no
+yes
+no
+no
+no
+
+===== Sample #2 Output =====
+58
+59
+78
+78
+2
+prime
+

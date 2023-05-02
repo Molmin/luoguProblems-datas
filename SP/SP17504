@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\naabbbbbccccc\naaaabbbbbbbbbbbbbbbccccc
+===== Sample #1 Output =====
+aa5!b5!c\n4!a15!b5!c

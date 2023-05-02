@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+Knuth-Morris-Pratt
+===== Sample #1 Output =====
+KMP
+===== Sample #2 Input =====
+Mirko-Slavko
+===== Sample #2 Output =====
+MS
+===== Sample #3 Input =====
+Pasko-Patak
+===== Sample #3 Output =====
+PP

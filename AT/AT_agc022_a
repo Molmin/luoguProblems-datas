@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+atcoder
+===== Sample #1 Output =====
+atcoderb
+===== Sample #2 Input =====
+abc
+===== Sample #2 Output =====
+abcd
+===== Sample #3 Input =====
+zyxwvutsrqponmlkjihgfedcba
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+abcdefghijklmnopqrstuvwzyx
+===== Sample #4 Output =====
+abcdefghijklmnopqrstuvx

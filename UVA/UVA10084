@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+10.0 10.0 Colder
+10.0 0.0 Hotter
+0.0 0.0 Colder
+10.0 10.0 Hotter
+===== Sample #1 Output =====
+50.00
+37.50
+12.50
+0.00

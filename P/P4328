@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 3
+D.*
+...
+.S.
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3 3
+D.*
+...
+..S
+===== Sample #2 Output =====
+KAKTUS
+===== Sample #3 Input =====
+3 6
+D...*.
+.X.X..
+....S.
+===== Sample #3 Output =====
+6

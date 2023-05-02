@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+0.0 1.0 0.0 3.0 1.0 2.0
+0.0 -1.0 0.0 3.0 0.0 2.0
+0.0 -1.0 0.0 -1.0 0.0 2.0
+===== Sample #1 Output =====
+The equidistant location is (0.0, 2.0).
+There is no possible location.
+There is an infinity of possible locations.

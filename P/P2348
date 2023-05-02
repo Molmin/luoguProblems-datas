@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+2 10 1 1
+C2 K
+H5 B
+DT K
+SA M
+HQ P
+D4 K
+C6 P
+H9 M
+ST B
+SK C
+
+===== Sample #1 Output =====
+D4 K
+C6 P
+H9 M
+ST B
+
+===== Sample #2 Input =====
+2 7 1 1
+C2 K
+H5 B
+DT K
+SA M
+HQ P
+SK C
+C6 P
+
+===== Sample #2 Output =====
+Error:cards not enough
+

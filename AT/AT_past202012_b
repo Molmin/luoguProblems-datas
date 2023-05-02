@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+aba
+===== Sample #1 Output =====
+ba
+===== Sample #2 Input =====
+7
+sptaast
+===== Sample #2 Output =====
+past
+===== Sample #3 Input =====
+30
+ryfoxchyvfmsewlwpoyvhdjkbvdjsa
+===== Sample #3 Output =====
+rxcfmelwpoyhkbvdjsa

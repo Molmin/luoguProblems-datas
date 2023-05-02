@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+(((XX)X)X)
+(((XX)(XX))X)
+(XX)
+0
+===== Sample #1 Output =====
+((XX)(XX))
+01 11 10
+((XX)((XX)X))
+01 112 2 10
+(XX)
+0 0

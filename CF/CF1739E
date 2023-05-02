@@ -1,0 +1,42 @@
+===== Sample #1 Input =====
+2
+01
+11
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+2
+01
+01
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+4
+0101
+1011
+===== Sample #3 Output =====
+4
+===== Sample #4 Input =====
+4
+0000
+0000
+===== Sample #4 Output =====
+0
+===== Sample #5 Input =====
+5
+00011
+10101
+===== Sample #5 Output =====
+4
+===== Sample #6 Input =====
+6
+011111
+111111
+===== Sample #6 Output =====
+8
+===== Sample #7 Input =====
+10
+0101001010
+1010100110
+===== Sample #7 Output =====
+6

@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
++A+B+C+D-E-F-G-H;
+-A-B+C+D-E-F+G+H;
+-A+B-C+D-E+F-G+H;
+.
++A+B+C+D;
++E+F+F+H;
++A+B-G;
++O+J-F;
++H+I+C;
++P;
++O+M+L;
++M-L+P;
+.
++A+B+C+D;
++E+F+F+H;
++A+B-G;
++P-O;
++O+J-F;
++H+I+C;
++P;
++O;
++O+M+L;
+-O-P;
++M-L+P;
+.
+===== Sample #1 Output =====
+Toppings:
+Toppings: CELP
+No pizza can satisfy these requests.

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+Flowers Flourish from France
+Sam Simmonds speaks softly
+Peter pIckEd pePPers
+truly tautograms triumph
+this is NOT a tautogram
+*
+===== Sample #1 Output =====
+Y
+Y
+Y
+Y
+N

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+11
+(RaRbR)L)L(
+
+===== Sample #1 Output =====
+-1 -1 -1 -1 -1 -1 1 1 -1 -1 2 
+===== Sample #2 Input =====
+11
+(R)R(R)Ra)c
+
+===== Sample #2 Output =====
+-1 -1 1 1 -1 -1 1 1 1 -1 1 

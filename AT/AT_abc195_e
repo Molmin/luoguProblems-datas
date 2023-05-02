@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2
+35
+AT
+===== Sample #1 Output =====
+Takahashi
+===== Sample #2 Input =====
+5
+12345
+AAAAT
+===== Sample #2 Output =====
+Aoki
+===== Sample #3 Input =====
+5
+67890
+TTTTA
+===== Sample #3 Output =====
+Takahashi
+===== Sample #4 Input =====
+5
+12345
+ATATA
+===== Sample #4 Output =====
+Aoki

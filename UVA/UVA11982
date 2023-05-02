@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+UDUD
+EEE
+DU
+===== Sample #1 Output =====
+Case 1: 2
+Case 2: 1
+Case 3: 0

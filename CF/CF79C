@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+Go_straight_along_this_street
+5
+str
+long
+tree
+biginteger
+ellipse
+
+===== Sample #1 Output =====
+12 4
+
+===== Sample #2 Input =====
+IhaveNoIdea
+9
+I
+h
+a
+v
+e
+N
+o
+I
+d
+
+===== Sample #2 Output =====
+0 0
+
+===== Sample #3 Input =====
+unagioisii
+2
+ioi
+unagi
+
+===== Sample #3 Output =====
+5 5
+

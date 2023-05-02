@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+1 4
+2
+3
+3
+2 6
+1 1
+1 1
+1 1
+===== Sample #1 Output =====
+24
+5
+
+Constraints:
+t &lt;= 25
+1 &lt;= n &lt;= 20
+1 &lt;= x &lt;= 1000000
+1 &lt;= ki, ai, yi &lt;=20
+xi &gt; 0

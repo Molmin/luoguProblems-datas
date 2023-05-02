@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+3
+8
+20
+10 20 30 40 50 50 50 50
+50 50 50 50 50 50 40 50
+2 3 7 8 300 320
+8
+2
+10 20 20 30 10 20 10 10
+10 20 20 30 10 20 10 20
+6 8 2 4 10 39
+10
+10
+30 20 20 10 10 20 10 10 20 20
+40 20 10 20 10 20 20 10 10 20
+1 1 10 10 100 500
+===== Sample #1 Output =====
+Scenario 1:
+The earliest arrival: 300 minutes, fuel 6.25 gallons
+The economical travel: 318 minutes, fuel 5.60 gallons
+Scenario 2:
+IMPOSSIBLE
+Scenario 3:
+The earliest arrival: 405 minutes, fuel 4.14 gallons
+The economical travel: 498 minutes, fuel 2.76 gallons

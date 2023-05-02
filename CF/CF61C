@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+10 2
+1
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+16 R
+5
+
+===== Sample #2 Output =====
+V
+
+===== Sample #3 Input =====
+5 R
+4
+
+===== Sample #3 Output =====
+IV
+
+===== Sample #4 Input =====
+2 2
+1111001
+
+===== Sample #4 Output =====
+1111001
+
+===== Sample #5 Input =====
+12 13
+A
+
+===== Sample #5 Output =====
+A
+

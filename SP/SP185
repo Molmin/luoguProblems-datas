@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+The number of test cases t is in the first line of input, then t test cases follow separated by an empty line.
+In the first line of a test case there are four integers n, m, a and b separated by single spaces, where 2
+===== Sample #1 Output =====
+s the result.
+===== Sample #2 Input =====
+1
+9 11 9 4
+1 2
+3 2
+1 4
+4 7
+7 5
+5 1
+6 9
+8 5
+9 8
+5 3
+4 8
+===== Sample #2 Output =====
+3

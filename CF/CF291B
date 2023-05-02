@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+&quot;RUn.exe O&quot; &quot;&quot; &quot;   2ne, &quot; two! . &quot; &quot;
+
+===== Sample #1 Output =====
+&lt;RUn.exe O&gt;
+&lt;&gt;
+&lt;   2ne, &gt;
+&lt;two!&gt;
+&lt;.&gt;
+&lt; &gt;
+
+===== Sample #2 Input =====
+   firstarg   second   &quot;&quot;    
+
+===== Sample #2 Output =====
+&lt;firstarg&gt;
+&lt;second&gt;
+&lt;&gt;
+

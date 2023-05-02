@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+4
+7 6
+(6&gt;1)(6&gt;2)(6&gt;3)(1&gt;4)(2&gt;5)(5&gt;7)
+9 11
+(8&gt;4)(8&gt;2)(8&gt;6)(4&gt;3)(2&gt;3)(2&gt;1)(6&gt;1)(3&gt;8)(1&gt;8)
+(5&gt;7)(7&gt;9)
+6 8
+(3&gt;1)(3&gt;2)(3&gt;4)(1&gt;2)(4&gt;2)(2&gt;5)(2&gt;6)(6&gt;4)
+8 7
+(1&gt;2)(2&gt;3)(3&gt;4)(4&gt;5)
+(6&gt;7)(7&gt;8)(6&gt;8)
+===== Sample #1 Output =====
+Community 1: Observation Complete
+Community 2: Not Enough Data
+Community 3: Conflicting Records
+Community 4: Conflicting Records

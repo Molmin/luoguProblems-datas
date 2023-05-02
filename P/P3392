@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+4 5
+WRWRW
+BWRWB
+WRWRW
+RWBWR
+===== Sample #1 Output =====
+11

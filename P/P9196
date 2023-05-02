@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+2 3
+AUGC
+AGC
+G C
+AU C
+A C
+===== Sample #1 Output =====
+0
+1
+2
+===== Sample #2 Input =====
+3 3
+AA
+AA
+AGA
+AA AA
+AG GA
+AG GA
+===== Sample #2 Output =====
+2
+1
+1
+===== Sample #3 Input =====
+8 7
+GCGCUACCCCAACACAAGGCAAGAUAUA
+G
+GGAC
+GCGG
+U
+GCGCUACCCCAACACAAGGCAAGAUGGUC
+GCCG
+GCGCUGA
+GCGCUACCC A
+GCGCUACCCC AC
+GCG C
+GCGC A
+G G
+G C
+G GGA
+===== Sample #3 Output =====
+1
+0
+1
+2
+3
+2
+0

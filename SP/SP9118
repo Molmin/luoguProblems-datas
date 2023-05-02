@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+4
+aaaa
+bbcc
+8
+iacdefgh
+abeaaaaa
+8
+iacdefgh
+abeafaaa
+===== Sample #1 Output =====
+POSITIVE
+NEGATIVE
+NEGATIVE

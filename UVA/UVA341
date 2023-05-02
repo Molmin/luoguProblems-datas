@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+5
+2 33 46
+3 12 37 56
+1 45
+0
+1 47
+2 4
+2
+1 25
+1 16
+1 2
+7
+4 2 5 3 13 4 8 5 18
+2 3 7 6 14
+1 66
+2 35 59
+3 62 79 46
+1 72
+0
+1 7
+0
+===== Sample #1 Output =====
+Case 1: Path = 2 1 4; 8 second delay
+Case 2: Path = 1 2; 5 second delay
+Case 3: Path = 1 2 3 6 7; 20 second delay

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2 5 5 2\n4 7 3 2\n1 2 3 4\n\n
+===== Sample #1 Output =====
+\n42\n78\n18\n\n\nExplanation for test case #1:\n2 5 5 2\n\nFor moving Knight from (2, 5) to (5, 2) in minimum cost,  one of the path is (2, 5) -&gt; (3, 3) -&gt;(5, 2)\nBucks paid:\n(2, 5)              =  0\n(2, 5) -&gt; (3, 3) =  0 + (2*3 + 5*3) = 21\n(3, 3) -&gt; (5, 2) = 21 + (3*5 + 3*2) = 42\n     \n\nTo infinity and beyond...\n

@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+3
+leo
+kiki
+eden
+eden
+kiki
+
+===== Sample #1 Output =====
+leo
+===== Sample #2 Input =====
+5
+marina
+josipa
+nikola
+vinko
+filipa
+josipa
+filipa
+marina
+nikola
+
+===== Sample #2 Output =====
+vinko
+===== Sample #3 Input =====
+4
+mislav
+stanko
+mislav
+ana
+stanko
+ana
+mislav
+
+===== Sample #3 Output =====
+mislav

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+6 3
+===== Sample #1 Output =====
+998244345
+===== Sample #2 Input =====
+2020 11
+===== Sample #2 Output =====
+515894850
+===== Sample #3 Input =====
+1000000000 2020
+===== Sample #3 Output =====
+4909496

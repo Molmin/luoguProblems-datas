@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+9 you are a good boy ha ha o yeah
+13 o my god you like bleach naruto one piece and so do i
+11 but i do not think you will get all the points
+5
+you
+i
+o
+all
+naruto
+
+===== Sample #1 Output =====
+1 2 3
+2 3
+1 2
+3
+2
+

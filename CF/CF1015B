@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+abcdef
+abdfec
+
+===== Sample #1 Output =====
+4
+3 5 4 5 
+
+===== Sample #2 Input =====
+4
+abcd
+accd
+
+===== Sample #2 Output =====
+-1
+

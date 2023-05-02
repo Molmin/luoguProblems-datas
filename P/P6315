@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+ABCD
+EFGH
+IJKL
+M.NO 
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+.BCD
+EAGH
+IJFL
+MNOK 
+===== Sample #2 Output =====
+6

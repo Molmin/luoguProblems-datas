@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+snow affects sports such as skiing, snowboarding, and snowmachine travel.
+snowboarding is a recreational activity and olympic and paralympic sport.
+
+===== Sample #1 Output =====
+141
+
+===== Sample #2 Input =====
+'co-co-co, codeforces?!'
+
+===== Sample #2 Output =====
+25
+
+===== Sample #3 Input =====
+thun-thun-thunder, thunder, thunder
+thunder, thun-, thunder
+thun-thun-thunder, thunder
+thunder, feel the thunder
+lightning then the thunder
+thunder, feel the thunder
+lightning then the thunder
+thunder, thunder
+
+===== Sample #3 Output =====
+183
+

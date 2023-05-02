@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+1
+4
+I 5
+B S B P C
+N S B P C
+N R B
+B R P
+B R C
+B 2
+B R I
+B S I
+P 3
+N S I
+N R I
+B R I
+C 4
+N S I
+B R I
+B S P
+B R I
+===== Sample #1 Output =====
+B finishes at t=4
+C never finishes because of P
+I never finishes because of B and C
+P finishes at t=5

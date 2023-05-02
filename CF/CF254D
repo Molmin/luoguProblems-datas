@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+4 4 1
+XXXX
+XR.X
+X.RX
+XXXX
+
+===== Sample #1 Output =====
+2 2 2 3
+
+===== Sample #2 Input =====
+9 14 5
+XXXXXXXXXXXXXX
+X....R...R...X
+X..R.........X
+X....RXR..R..X
+X..R...X.....X
+XR.R...X.....X
+X....XXR.....X
+X....R..R.R..X
+XXXXXXXXXXXXXX
+
+===== Sample #2 Output =====
+2 3 6 9
+
+===== Sample #3 Input =====
+7 7 1
+XXXXXXX
+X.R.R.X
+X.....X
+X..X..X
+X..R..X
+X....RX
+XXXXXXX
+
+===== Sample #3 Output =====
+-1
+

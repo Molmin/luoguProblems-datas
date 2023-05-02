@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+ABA
+ABBBA
+
+===== Sample #1 Output =====
+2
+INSERT 3 B
+INSERT 4 B
+
+===== Sample #2 Input =====
+ACCEPTED
+WRONGANSWER
+
+===== Sample #2 Output =====
+10
+REPLACE 1 W
+REPLACE 2 R
+REPLACE 3 O
+REPLACE 4 N
+REPLACE 5 G
+REPLACE 6 A
+INSERT 7 N
+INSERT 8 S
+INSERT 9 W
+REPLACE 11 R
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+SCP2021RPplusplus\nchenzheAKIOI\n1plus1equalto2\n
+===== Sample #1 Output =====
+linux
+===== Sample #2 Input =====
+chen_zhe AK IOI\r\nchen_zhe AK NOI\r\n
+===== Sample #2 Output =====
+windows
+===== Sample #3 Input =====
+include iostream\rsigned main return 0\r
+===== Sample #3 Output =====
+mac

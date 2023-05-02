@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+5
+180 186 189 191 218
+===== Sample #1 Output =====
+Yes
+1 1
+2 3 4
+===== Sample #2 Input =====
+2
+123 523
+===== Sample #2 Output =====
+Yes
+1 1
+1 2
+===== Sample #3 Input =====
+6
+2013 1012 2765 2021 508 6971
+===== Sample #3 Output =====
+No

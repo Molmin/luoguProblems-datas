@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+aabcd
+caabd
+4
+a
+ac
+abd
+abcd
+===== Sample #1 Output =====
+YNYN

@@ -1,0 +1,49 @@
+===== Sample #1 Input =====
+3 1
+a
+a
+c
+ca
+a
+b
+c
+b
+a
+bba
+aaaaa
+abab
+babbba
+a
+baaab
+abbbaba
+baba
+bcbab
+#
+3 2
+ab
+a
+c
+a
+ab
+b
+c
+b
+ab
+abc
+cbc
+#
+0 0
+===== Sample #1 Output =====
+NTA 1
+accept bba
+reject aaaaa
+reject abab
+accept babbba
+reject a
+accept baaab
+accept abbbaba
+accept baba
+reject bcbab
+NTA 2
+reject abc
+accept cbc

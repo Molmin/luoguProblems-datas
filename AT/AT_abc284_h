@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3 1 998244353
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+3 2 998244353
+===== Sample #2 Output =====
+12
+===== Sample #3 Input =====
+5 5 998244353
+===== Sample #3 Output =====
+1024
+===== Sample #4 Input =====
+30 15 202300013
+===== Sample #4 Output =====
+62712469

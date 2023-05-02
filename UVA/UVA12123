@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+26 23
+51 94
+103 110
+164 107
+116 67
+73 16
+2
+1 1
+2 2
+0
+===== Sample #1 Output =====
+Scenario 1:
+There are 6 sites for making valid tracks
+Scenario 2:
+There are 0 sites for making valid tracks

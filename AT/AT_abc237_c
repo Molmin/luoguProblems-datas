@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+kasaka
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+atcoder
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+php
+===== Sample #3 Output =====
+Yes

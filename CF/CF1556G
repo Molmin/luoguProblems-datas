@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3 3
+ask 0 7
+block 3 6
+ask 0 7
+===== Sample #1 Output =====
+1
+0
+===== Sample #2 Input =====
+6 10
+block 12 26
+ask 44 63
+block 32 46
+ask 1 54
+block 27 30
+ask 10 31
+ask 11 31
+ask 49 31
+block 31 31
+ask 2 51
+===== Sample #2 Output =====
+1
+1
+0
+0
+1
+0

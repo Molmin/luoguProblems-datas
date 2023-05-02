@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 3
+3543
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+4 2
+2020
+===== Sample #2 Output =====
+10
+===== Sample #3 Input =====
+20 11
+33883322005544116655
+===== Sample #3 Output =====
+68

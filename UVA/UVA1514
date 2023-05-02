@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+```cpp
+2
+3 4
+BWW.
+WWBW
+..WB
+3 3
+W..
+BW.
+WBW
+```
+===== Sample #1 Output =====
+```cpp
+YES
+NO
+```

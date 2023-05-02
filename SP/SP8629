@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+2
+6
+buy&nbsp;10&nbsp;shares&nbsp;at&nbsp;100
+sell&nbsp;1&nbsp;shares&nbsp;at&nbsp;120
+sell&nbsp;20&nbsp;shares&nbsp;at&nbsp;110
+buy&nbsp;30&nbsp;shares&nbsp;at&nbsp;110
+sell&nbsp;10&nbsp;shares&nbsp;at&nbsp;99
+buy&nbsp;1&nbsp;shares&nbsp;at&nbsp;120
+6
+sell&nbsp;10&nbsp;shares&nbsp;at&nbsp;100
+buy&nbsp;1&nbsp;shares&nbsp;at&nbsp;80
+buy&nbsp;20&nbsp;shares&nbsp;at&nbsp;90
+sell&nbsp;30&nbsp;shares&nbsp;at&nbsp;90
+buy&nbsp;10&nbsp;shares&nbsp;at&nbsp;101
+sell&nbsp;1&nbsp;shares&nbsp;at&nbsp;80
+===== Sample #1 Output =====
+-&nbsp;100&nbsp;-
+120&nbsp;100&nbsp;-
+110&nbsp;100&nbsp;-
+120&nbsp;110&nbsp;110
+120&nbsp;100&nbsp;99
+-&nbsp;100&nbsp;120
+100&nbsp;-&nbsp;-
+100&nbsp;80&nbsp;-
+100&nbsp;90&nbsp;-
+90&nbsp;80&nbsp;90
+100&nbsp;80&nbsp;90
+100&nbsp;-&nbsp;80

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2 1
+1R*
+
+===== Sample #1 Output =====
+9
+
+===== Sample #2 Input =====
+3 2
+1R0
+*
+
+===== Sample #2 Output =====
+1468
+
+===== Sample #3 Input =====
+见附件中的 robot/robot3.in
+===== Sample #3 Output =====
+见附件中的 robot/robot3.ans
+===== Sample #4 Input =====
+见附件中的 robot/robot4.in
+===== Sample #4 Output =====
+见附件中的 robot/robot4.ans

@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+tarp
+given
+score
+refund
+only
+trap
+work
+earn
+course
+pepper
+part
+XXXXXX
+resco
+nfudre
+aptr
+sett
+oresuc
+XXXXXX
+===== Sample #1 Output =====
+score
+******
+refund
+******
+part
+tarp
+trap
+******
+NOT A VALID WORD
+******
+course
+******

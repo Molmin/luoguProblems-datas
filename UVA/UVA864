@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+(define abc+ (lambda (@1 $f) (if (if
+$f a b) (@1
+3 4) (bcdefg (d e) (f "g")))))
+(define
+a 42)
+(+ a (- b c))
+===== Sample #1 Output =====
+(define abc+
+(lambda (@1 $f)
+(if (if $f
+a
+b)
+(@1 3 4)
+(bcdefg (d e)
+(f "g")))))
+(define a 42)
+(+ a
+(- b c))

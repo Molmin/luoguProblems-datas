@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+2 2
+1 1 1 1
+1 1 1 1
+3
+home
+1
+car
+1
+brother
+1
+
+===== Sample #1 Output =====
+2 home car 
+1 brother 
+
+===== Sample #2 Input =====
+2 4
+1 2 2 1
+2 3 2 2
+4
+armchair
+3
+quetzalcoatl
+10
+pilotage
+5
+defibrillator
+7
+
+===== Sample #2 Output =====
+2 armchair quetzalcoatl 
+2 pilotage defibrillator 
+

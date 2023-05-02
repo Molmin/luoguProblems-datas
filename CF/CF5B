@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+This  is
+
+Codeforces
+Beta
+Round
+5
+
+===== Sample #1 Output =====
+************
+* This  is *
+*          *
+*Codeforces*
+*   Beta   *
+*  Round   *
+*     5    *
+************
+
+===== Sample #2 Input =====
+welcome to the
+Codeforces
+Beta
+Round 5
+
+and
+good luck
+
+===== Sample #2 Output =====
+****************
+*welcome to the*
+*  Codeforces  *
+*     Beta     *
+*   Round 5    *
+*              *
+*      and     *
+*  good luck   *
+****************
+

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+160 1 70 30\n500 3 50 100\n250000 40 300 5000\n0 0 0 0
+===== Sample #1 Output =====
+The firm is trying to bankrupt Farmer Cream by 10 Bsf.\nFarmer Cream will have 150 Bsf to spend.\nThe firm is trying to bankrupt Farmer Cream by 1300 Bsf.

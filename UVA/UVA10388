@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+1
+ABCDA
+CBADC
+===== Sample #1 Output =====
+Snap! for Jane: BCBA
+Snap! for Jane: DADCBCBA
+Snap! for John: CBAC
+Snap! for John: ADADCBAC
+John wins.

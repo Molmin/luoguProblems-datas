@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+9
+ixixixixi
+===== Sample #1 Output =====
+...x...xi
+===== Sample #2 Input =====
+6
+auxuxa
+===== Sample #2 Output =====
+a...xa
+===== Sample #3 Input =====
+15
+gxgaxixuxexoxxx
+===== Sample #3 Output =====
+gxgaxixuxexoxxx

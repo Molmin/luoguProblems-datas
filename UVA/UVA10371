@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+noon HST CEST
+11:29 a.m. EST GMT
+6:01 p.m. CST UTC
+12:40 p.m. ADT MSK
+===== Sample #1 Output =====
+midnight
+4:29 p.m.
+12:01 a.m.
+6:40 p.m.

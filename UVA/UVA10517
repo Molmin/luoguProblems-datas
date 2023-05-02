@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+100.0 102.0
+150.0 200.0
+1101.0 1102.0
+===== Sample #1 Output =====
+Case 1: 51 deg 10 min 43 sec
+Case 2: Invalid or impossible.
+Case 3: Invalid or impossible.

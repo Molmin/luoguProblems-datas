@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+kyoto
+tokyo
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+abc
+arc
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+aaaaaaaaaaaaaaab
+aaaaaaaaaaaaaaab
+===== Sample #3 Output =====
+Yes

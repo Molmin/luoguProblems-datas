@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+ee
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+z
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+0ay1
+
+===== Sample #3 Output =====
+2
+

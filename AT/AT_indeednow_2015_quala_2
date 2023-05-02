@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+10
+nowindeed
+indeedwow
+windoneed
+indeednow
+wondeedni
+a
+indonow
+ddeennoiw
+indeednoww
+indeow
+===== Sample #1 Output =====
+YES
+NO
+YES
+YES
+YES
+NO
+NO
+YES
+NO
+NO

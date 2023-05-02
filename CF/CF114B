@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 1
+Petya
+Vasya
+Masha
+Petya Vasya
+
+===== Sample #1 Output =====
+2
+Masha
+Petya
+
+===== Sample #2 Input =====
+3 0
+Pasha
+Lesha
+Vanya
+
+===== Sample #2 Output =====
+3
+Lesha
+Pasha
+Vanya
+

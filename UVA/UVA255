@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+17 17 49
+17 49 56
+17 49 9
+17 49 17
+17 49 25
+17 49 33
+17 49 41
+17 49 49
+56 48 49
+===== Sample #1 Output =====
+Illegal state
+Illegal move
+Illegal move
+Illegal move
+Move not allowed
+Continue
+Continue
+Illegal move
+Stop

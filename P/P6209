@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+1
+1
+
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+2
+233 23333
+
+===== Sample #2 Output =====
+23566
+===== Sample #3 Input =====
+3
+345 379 573
+
+===== Sample #3 Output =====
+2317
+===== Sample #4 Input =====
+4
+1234 567 89 10
+
+===== Sample #4 Output =====
+4000
+===== Sample #5 Input =====
+5
+19111010 19260817 19371213 19491001 20200110
+
+===== Sample #5 Output =====
+239635161

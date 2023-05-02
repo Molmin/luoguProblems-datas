@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+ab
+arc
+arco
+bar
+bran
+carbon
+carbons
+cobra
+crab
+crayon
+narc
+===== Sample #1 Output =====
+6
+ab
+bar
+crab
+cobra
+carbon
+carbons

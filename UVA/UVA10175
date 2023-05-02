@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+10 10 15 300 1.0
+20 20 30 650000 1.0
+===== Sample #1 Output =====
+8017.6063 2199.1149
+The Paired-Sphere Floats.
+64140.8500 8796.4594
+The Paired-Sphere Sinks.

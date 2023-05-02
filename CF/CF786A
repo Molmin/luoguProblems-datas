@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+2 3 2
+3 1 2 3
+
+===== Sample #1 Output =====
+Lose Win Win Loop
+Loop Win Win Win
+
+===== Sample #2 Input =====
+8
+4 6 2 3 4
+2 3 6
+
+===== Sample #2 Output =====
+Win Win Win Win Win Win Win
+Lose Win Lose Lose Win Lose Lose
+

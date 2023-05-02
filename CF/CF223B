@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+abab
+ab
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+abacaba
+aba
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+abc
+ba
+
+===== Sample #3 Output =====
+No
+

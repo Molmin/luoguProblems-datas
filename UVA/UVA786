@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+Fido &lt; 20
+Bibo &lt;= Fido
+Fred &lt; Bibo
+20 &gt; Fred
+-
+1 &lt;= 3
+1 = 1
+-
+Fido &lt; 20
+Bibo &lt; Fido
+20 &lt; Fido
+-
+===== Sample #1 Output =====
+OK
+Bibo
+Fido
+Fred
+2 19
+2 19
+1 18
+OK
+No solution

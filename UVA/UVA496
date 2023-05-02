@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+55 27
+55 27
+9 24 1995
+9 24
+1 2 3
+1 2 3 4
+1 2 3
+4 5 6
+1 2
+2 3
+===== Sample #1 Output =====
+A equals B
+B is a proper subset of A
+A is a proper subset of B
+A and B are disjoint
+I'm confused!

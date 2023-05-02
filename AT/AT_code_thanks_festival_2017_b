@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+abcde
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+level
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+codethanksfestival
+===== Sample #3 Output =====
+17
+===== Sample #4 Input =====
+abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcb
+===== Sample #4 Output =====
+1

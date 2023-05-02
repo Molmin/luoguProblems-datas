@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+4 3
+xx.
+...
+.xx
+.s.
+===== Sample #1 Output =====
+LRR
+===== Sample #2 Input =====
+3 3
+xxx
+...
+.s.
+===== Sample #2 Output =====
+impossible
+===== Sample #3 Input =====
+6 4
+x.xx
+.xxx
+x.xx
+xx.x
+xx.x
+.s..
+===== Sample #3 Output =====
+RSLLR

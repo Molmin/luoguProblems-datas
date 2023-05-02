@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+3 2
+CAT
+TED
+3 3
+CAT
+ATE
+TEA
+===== Sample #1 Output =====
+5
+5

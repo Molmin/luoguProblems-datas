@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+GAGA
+4
+0
+
+===== Sample #1 Output =====
+GAGA
+
+===== Sample #2 Input =====
+ACGTACGT
+16
+2
+1 2
+2 8
+
+===== Sample #2 Output =====
+ACCAGTACCGACATCG
+

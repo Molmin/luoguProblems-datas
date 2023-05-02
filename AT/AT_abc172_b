@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+cupofcoffee
+cupofhottea
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+abcde
+bcdea
+===== Sample #2 Output =====
+5
+===== Sample #3 Input =====
+apple
+apple
+===== Sample #3 Output =====
+0

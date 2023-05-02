@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+This_is_a_[Beiju]_text
+[[]][][]Happy_Birthday_to_Tsinghua_University
+===== Sample #1 Output =====
+BeijuThis_is_a__text
+Happy_Birthday_to_Tsinghua_University

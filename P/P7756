@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 2
+IVA
+IVO
+ANA
+TOM
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+6 3
+CYNTHIA
+LLOYD
+STEVIE
+KEVIN
+MALCOLM
+DABNEY
+===== Sample #2 Output =====
+2

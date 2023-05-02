@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+10 10
+10 9
+8 9
+===== Sample #1 Output =====
+Scenario #1: 39.35
+Scenario #2: -1
+Scenario #3: 37.79

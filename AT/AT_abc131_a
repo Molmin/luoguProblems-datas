@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3776
+===== Sample #1 Output =====
+Bad
+===== Sample #2 Input =====
+8080
+===== Sample #2 Output =====
+Good
+===== Sample #3 Input =====
+1333
+===== Sample #3 Output =====
+Bad
+===== Sample #4 Input =====
+0024
+===== Sample #4 Output =====
+Bad

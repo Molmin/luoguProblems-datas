@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+2
+10 0608
+Sastre,Carlos 030/64 736 666
+Voigt,Jens 07401-4498
+A Winokurow 0289-334405
+Jan ULLRICH 089-77 98 00 9
+089/779 8009 Ullrich,Jan
+LANCE Armstrong 0608 / 220 4 768 86
+Jan Ullrich 089/7798 005
+02 89 / 33 44 05 Contador,A
+ArmStrong,Lance 220476886
+Ullrich,JaN 0289 / 334405
+5 012
+Becker,Franz 1200344
+Becker,Boris 034/50005
+Boris Becker 012 / 50 005
+5000 5 Boris Becker
+Franz Beckenbauer 332323
+===== Sample #1 Output =====
+4
+Lance Armstrong: 0608-220476886
+Carlos Sastre: 030-64736666
+Jan Ullrich: 089-7798005
+Jens Voigt: 07401-4498
+3
+Franz Beckenbauer: 012-332323
+Boris Becker: 012-50005
+Franz Becker: 012-1200344

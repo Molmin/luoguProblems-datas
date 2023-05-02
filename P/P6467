@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1000
+*
+100
+===== Sample #1 Output =====
+100000
+===== Sample #2 Input =====
+10000
++
+10
+===== Sample #2 Output =====
+10010
+===== Sample #3 Input =====
+10
++
+1000
+===== Sample #3 Output =====
+1010
+===== Sample #4 Input =====
+1
+*
+1000
+===== Sample #4 Output =====
+1000

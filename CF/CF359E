@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 1 1
+1 0 0
+0 1 0
+1 0 0
+
+===== Sample #1 Output =====
+YES
+D1R2L2D2UU2
+
+===== Sample #2 Input =====
+3 1 1
+1 0 0
+0 1 0
+0 0 1
+
+===== Sample #2 Output =====
+NO
+

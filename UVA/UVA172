@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+A = B = 4
+C = (D = 2)*_2
+C = D = 2 * _2
+F = C - D
+E = D * _10
+Z = 10 / 3
+#
+===== Sample #1 Output =====
+A = 4, B = 4
+C = -4, D = 2
+D = -4
+No Change
+E = 40
+Z = 3

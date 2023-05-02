@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+adb
+cab
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+10
+wsiuhwijsl
+pwqoketvun
+===== Sample #2 Output =====
+56

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+CPCPCPC
+
+===== Sample #1 Output =====
+7
+
+===== Sample #2 Input =====
+CCCCCCPPPPPP
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+CCCCCCPPCPPPPPPPPPP
+
+===== Sample #3 Output =====
+6
+
+===== Sample #4 Input =====
+CCCCCCCCCC
+
+===== Sample #4 Output =====
+2
+

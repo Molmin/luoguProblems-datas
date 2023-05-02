@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+chokudai
+3 5
+===== Sample #1 Output =====
+chukodai
+===== Sample #2 Input =====
+aa
+1 2
+===== Sample #2 Output =====
+aa
+===== Sample #3 Input =====
+aaaabbbb
+1 8
+===== Sample #3 Output =====
+baaabbba

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+15
+bcabcabcabcabca
+
+===== Sample #1 Output =====
+9 7 5 3 1 -1 -1 -1
+
+===== Sample #2 Input =====
+24
+abaaabaaaabaaabaaaabaaab
+
+===== Sample #2 Output =====
+15 13 11 9 7 5 3 1 1 -1 -1 1
+
+===== Sample #3 Input =====
+19
+cabcabbcabcabbcabca
+
+===== Sample #3 Output =====
+5 3 1 -1 -1 1 1 -1 -1 -1
+

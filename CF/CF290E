@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+HHHH
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+HQHQH
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+HHQHHQH
+
+===== Sample #3 Output =====
+No
+
+===== Sample #4 Input =====
+HHQQHHQQHH
+
+===== Sample #4 Output =====
+Yes
+

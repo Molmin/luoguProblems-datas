@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+2 17
+14 17
+===== Sample #1 Output =====
+2,3 are closest, 7,11 are most distant.
+There are no adjacent primes.

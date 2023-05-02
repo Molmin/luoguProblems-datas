@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+4 2
+abac
+1 3 a
+2 2 c
+
+===== Sample #1 Output =====
+b
+
+===== Sample #2 Input =====
+3 2
+A0z
+1 3 0
+1 1 z
+
+===== Sample #2 Output =====
+Az
+
+===== Sample #3 Input =====
+10 4
+agtFrgF4aF
+2 5 g
+4 9 F
+1 5 4
+1 7 a
+
+===== Sample #3 Output =====
+tFrg4
+
+===== Sample #4 Input =====
+9 5
+aAAaBBccD
+1 4 a
+5 6 c
+2 3 B
+4 4 D
+2 3 A
+
+===== Sample #4 Output =====
+AB
+

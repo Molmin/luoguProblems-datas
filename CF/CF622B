@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+23:59
+10
+
+===== Sample #1 Output =====
+00:09
+
+===== Sample #2 Input =====
+20:20
+121
+
+===== Sample #2 Output =====
+22:21
+
+===== Sample #3 Input =====
+10:10
+0
+
+===== Sample #3 Output =====
+10:10
+

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+ACACAGCGGCGACC
+> 0 3=1XT10=
+< 0 14=
+< 0 9=1D4=
+< 0 14=
+< 0 14=
+< 0 9=1D4=
+=
+===== Sample #1 Output =====
+ACACAGCGGCGACCT
+ACATAGCGGGACT
+===== Sample #2 Input =====
+ACCGGTTGGCGTG
+> 0 5=
+< 1 8=
+> 2 2=1XA3=1IC3=
+< 4 5=1D2=
+> 7 6=
+=
+===== Sample #2 Output =====
+ACCGGTTGGCGTG
+ACCGGTTGGCGTG

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3 4
+WWBW
+BWWW
+WWWB
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+3 1
+B
+B
+W
+
+===== Sample #2 Output =====
+YES
+

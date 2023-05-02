@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+I_am_WhatWhat_is_WhatWhat
+aaaabaaaaaaaabaaaaaaaabaaaa
+??????????
+===== Sample #1 Output =====
+19 I_am_[What]4{_is_}2
+11 [[a]8{b}4]3
+4 [?]10

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+)x(
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+()ox
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+()oxo(xxx))))oox((oooxxoxo)oxo)ooo(xxx(oox(x)(x()x
+===== Sample #3 Output =====
+68

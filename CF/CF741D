@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+4
+1 s
+2 a
+3 s
+
+===== Sample #1 Output =====
+3 1 1 0 
+===== Sample #2 Input =====
+5
+1 a
+2 h
+1 a
+4 h
+
+===== Sample #2 Output =====
+4 1 0 1 0 

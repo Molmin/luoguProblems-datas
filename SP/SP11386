@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+1 9
+10 40
+100 500
+1111 2222
+===== Sample #1 Output =====
+Case #1: 0
+Case #2: 3
+Case #3: 156
+Case #4: 287

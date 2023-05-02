@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+automaton
+tomat
+
+===== Sample #1 Output =====
+automaton
+
+===== Sample #2 Input =====
+array
+arary
+
+===== Sample #2 Output =====
+array
+
+===== Sample #3 Input =====
+both
+hot
+
+===== Sample #3 Output =====
+both
+
+===== Sample #4 Input =====
+need
+tree
+
+===== Sample #4 Output =====
+need tree
+

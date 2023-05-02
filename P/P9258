@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4
+LLPLPP
+PPLP
+LLP
+P
+
+===== Sample #1 Output =====
+29 9 8 5
+8 2 2 1
+11 4 3 2
+4 1 1 0
+

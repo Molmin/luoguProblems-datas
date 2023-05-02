@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5 3
+1 2 3 4 6
+1
+2
+3
+===== Sample #1 Output =====
+6
+10
+11
+===== Sample #2 Input =====
+1 2
+1
+1
+2
+===== Sample #2 Output =====
+1
+0

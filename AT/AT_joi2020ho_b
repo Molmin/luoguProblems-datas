@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+10 2
+OJIJOIOIIJ
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+9 3
+JJJOOOIII
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+9 1
+IIIOOOJJJ
+===== Sample #3 Output =====
+-1

@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+\n7\nwin 10\nwin 5\nwin 3\nsell 5\nsell 3\nwin 10\nsell 10
+\n
+===== Sample #1 Output =====
+1056

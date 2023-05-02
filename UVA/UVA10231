@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+5 5
+....X
+.####
+...*#
+#*..#
+#..O#
+4 3
+O**
+*..
+##.
+X..
+4 3
+.O.
+*..
+##X
+X..
+3 3
+##*
+.O.
+*#*
+===== Sample #1 Output =====
+Case 1:
+Maximum number of collectible treasures: 2.
+Minimum Time: 7 sec.
+Case 2:
+Maximum number of collectible treasures: 2.
+Minimum Time: 4 sec.
+Case 3:
+No treasures can be collected.
+Case 4:
+Maximum number of collectible treasures: 3.
+Minimum Time: 11 sec.

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+JIOIJO
+===== Sample #1 Output =====
+JJOOII
+===== Sample #2 Input =====
+4
+OOOI
+===== Sample #2 Output =====
+OOOI
+===== Sample #3 Input =====
+10
+OIJJJIOIOI
+===== Sample #3 Output =====
+JJJOOOIIII

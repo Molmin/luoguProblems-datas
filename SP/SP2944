@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3
+10 2
+0 -1 -2 0 1 2 3 2 10 1
+10 3
+0 -1 -2 0 1 2 3 2 10 1
+5 3
+10 0 0 -1 -1
+===== Sample #1 Output =====
+240
+241
+11
+
+Hint:
+For the first example, a possible solution is (0,0)(-1,-2,1,2,3,2,10,1).
+For the second example, a possible solution is (0,0)(1,1)(-1,-2,2,3,2,10).

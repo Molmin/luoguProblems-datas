@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+1
+1014 1014
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+2
+1 1e
+1 f
+
+===== Sample #2 Output =====
+1
+0
+
+===== Sample #3 Input =====
+2
+1 abc
+d0e fe23
+
+===== Sample #3 Output =====
+412
+28464
+

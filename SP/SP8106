@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n((F(TF))(TF))\n(TFT)\n((TFT)T)\n()\n\n
+===== Sample #1 Output =====
+\n1. false\n2. false\n3. true

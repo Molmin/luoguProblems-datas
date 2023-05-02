@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+15 6 
+a??l?ban??????? 
+apple 
+cow 
+farmer 
+banana 
+bananas 
+pies 
+
+===== Sample #1 Output =====
+applebananapies 
+

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4
+
+ab
+
+aba
+
+abcd
+
+bca
+===== Sample #1 Output =====
+Case 1: 1 aba
+
+Case 2: 0 aba
+
+Case 3: 3 abcdcba
+
+Case 4: 2 abcba

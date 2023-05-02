@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+intellect
+tell
+
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+google
+apple
+
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+sirisiri
+sir
+
+===== Sample #3 Output =====
+2

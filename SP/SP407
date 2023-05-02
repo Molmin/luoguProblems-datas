@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+The first line of the input is an integer K &#8804; 10, followed by K datasets.
+The first line of each dataset contains M and N. The second line
+contains binary real
+number 
+
+(without leading, trailing and other spaces).
+===== Sample #1 Output =====
+For each dataset, write into the output data file the corresponding sequence
+.
+The
+sequence numbers should be separated with spaces and end-of-line characters.
+There should be up to 20 numbers in each line. If neccesary, the numbers will have leading blanks to occupy 3 characters.
+
+Example
+
+
+Input:
+
+1
+4 3
+0.01101101011110010001101010001011010
+
+Output:
+
+  2   2   4
+===== Sample #2 Input =====
+1
+4 3
+0.01101101011110010001101010001011010
+===== Sample #2 Output =====
+null

@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+9
+brie soft
+camembert soft
+feta soft
+goat soft
+muenster soft
+asiago hard
+cheddar hard
+gouda hard
+swiss hard
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+6
+parmesan hard
+emmental hard
+edam hard
+colby hard
+gruyere hard
+asiago hard
+
+===== Sample #2 Output =====
+4
+

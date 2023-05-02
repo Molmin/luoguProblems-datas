@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+18
++ 5 1
++ 2 1
+? 3
++ 3 2
+? 4
+? 4
++ 4 1
+? 3
+R 3
+- 2 2
+? 3
+- 1 1
+? 2
+? 4
+- 1 2
+? 1
+- 9 9
+? 1
+===== Sample #1 Output =====
+3 1
+1 3
+2 2
+2 4
+2 1
+1 2
+1 1
+1 1
+1 1
+===== Sample #2 Input =====
+见附件中的 stairs2.in
+===== Sample #2 Output =====
+见附件中的 stairs2.ans
+===== Sample #3 Input =====
+见附件中的 stairs3.in
+===== Sample #3 Output =====
+见附件中的 stairs3.ans
+===== Sample #4 Input =====
+见附件中的 stairs4.in
+===== Sample #4 Output =====
+见附件中的 stairs4.ans
+===== Sample #5 Input =====
+见附件中的 stairs5.in
+===== Sample #5 Output =====
+见附件中的 stairs5.ans
+===== Sample #6 Input =====
+见附件中的 stairs6.in
+===== Sample #6 Output =====
+见附件中的 stairs6.ans

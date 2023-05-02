@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+atob
+a
+b
+
+===== Sample #1 Output =====
+forward
+
+===== Sample #2 Input =====
+aaacaaa
+aca
+aa
+
+===== Sample #2 Output =====
+both
+

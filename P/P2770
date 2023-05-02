@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+8 9
+Vancouver
+Yellowknife
+Edmonton
+Calgary
+Winnipeg
+Toronto
+Montreal
+Halifax
+Vancouver Edmonton
+Vancouver Calgary
+Calgary Winnipeg
+Winnipeg Toronto
+Toronto Halifax
+Montreal Halifax
+Edmonton Montreal
+Edmonton Yellowknife
+Edmonton Calgary
+===== Sample #1 Output =====
+7
+Vancouver
+Edmonton
+Montreal
+Halifax
+Toronto
+Winnipeg
+Calgary
+Vancouver 

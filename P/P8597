@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+**********
+o****o****
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+*o**o***o***
+*o***o**o***
+===== Sample #2 Output =====
+1

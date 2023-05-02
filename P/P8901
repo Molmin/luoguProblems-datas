@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+1
+4
+1
+9
+2
+2 3
+2
+7 10
+3
+4 9 4
+===== Sample #1 Output =====
+Farmer Nhoj
+Farmer John
+Farmer John
+Farmer John
+Farmer Nhoj

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+lovxxelyxxxxx
+xxxxxxxlovely
+1
+lovxxelyxxxxx
+xxxxxxxlovely
+3
+lovxxxelxyxxxx
+xxxlovelyxxxxxxx
+4
+lovxxxelyxxx
+xxxxxxlovely
+0
+===== Sample #1 Output =====
+6
+7
+10
+0

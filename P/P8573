@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+5
+CapsLock CapsLock a CapsLock B
+4
+1
+2
+3
+4
+===== Sample #1 Output =====
+a
+b
+A
+B
+===== Sample #2 Input =====
+10
+YOhAwuwWhu EhuqjPYhNY CapsLock CapsLock CapsLock CvHKboCfNH QwjGTsTFnY CapsLock YxhXpGFXTU AceSmixHlR 
+10
+848150251635595237
+770003166101167763
+414336531196240461
+100408088104460149
+246225223594660993
+932080433726257461
+364781583423558050
+404353283001836940
+911169202444360630
+470875290455687059
+===== Sample #2 Output =====
+YOhAwuwWhu
+YxhXpGFXTU
+cVhkBOcFnh
+YOhAwuwWhu
+YOhAwuwWhu
+cVhkBOcFnh
+EhuqjPYhNY
+AceSmixHlR
+qWJgtStfNy
+YOhAwuwWhu

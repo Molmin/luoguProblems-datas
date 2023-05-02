@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6 1
+2S 3S 3C 4S 4C 4D
+6 120
+2S 3S 3C 4S 4C 4D
+6 121
+2S 3S 3C 4S 4C 4D
+16 654321234567
+2S 3S 4S 5S 2C 3C 4C 5C 2D 3D 4D 5D 2H 3H 4H 5H
+0 0
+===== Sample #1 Output =====
+Case 1: 2S 4C 3C 4D 3S 4S
+Case 2: 4S 3S 4D 3C 4C 2S
+Case 3: Not found
+Case 4: 5D 4S 2D 5H 3S 4H 5S 2H 3D 2C 5C 4D 2S 3C 4C 3H

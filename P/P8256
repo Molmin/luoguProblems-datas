@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+6 2
+10-01-
+01
+7 3
+010-1-1
+101
+6 4
+111-00
+1100
+===== Sample #1 Output =====
+2
+1
+2
+===== Sample #2 Input =====
+见附件中的 string2.in
+===== Sample #2 Output =====
+见附件中的 string2.out

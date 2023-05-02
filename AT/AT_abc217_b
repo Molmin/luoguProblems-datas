@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+ARC
+AGC
+AHC
+===== Sample #1 Output =====
+ABC
+===== Sample #2 Input =====
+AGC
+ABC
+ARC
+===== Sample #2 Output =====
+AHC

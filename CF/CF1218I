@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+2
+11
+11
+00
+01
+11
+
+===== Sample #1 Output =====
+-1
+
+===== Sample #2 Input =====
+2
+10
+00
+00
+00
+10
+
+===== Sample #2 Output =====
+1
+row 0
+
+===== Sample #3 Input =====
+3
+110
+011
+100
+100
+011
+100
+100
+
+===== Sample #3 Output =====
+3
+row 0
+col 0
+col 1
+

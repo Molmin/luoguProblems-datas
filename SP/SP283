@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+5 3
+2
+0
+3
+1
+4
+===== Sample #1 Output =====
+6
+
+Input/Output details:
+The day is divided into 5 periods, with utilities 2, 0, 3, 1, 4 in that 
+order. Goneril must pick 3 periods.
+
+Goneril can get total utility 6 by being in bed during periods 4,
+5, and 1, with utilities 0 [getting to sleep], 4, and 2
+respectively.

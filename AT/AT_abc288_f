@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+234
+===== Sample #1 Output =====
+418
+===== Sample #2 Input =====
+4
+5915
+===== Sample #2 Output =====
+17800
+===== Sample #3 Input =====
+9
+998244353
+===== Sample #3 Output =====
+258280134

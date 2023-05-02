@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+NOTAPALINDROME
+ISAPALINILAPASI
+2A3MEAS
+ATOYOTA
+===== Sample #1 Output =====
+NOTAPALINDROME -- is not a palindrome.
+
+ISAPALINILAPASI -- is a regular palindrome.
+
+2A3MEAS -- is a mirrored string.
+
+ATOYOTA -- is a mirrored palindrome.

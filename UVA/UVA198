@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+a := b + c
+b := 3
+c := 5
+PRINT d
+PRINT a
+b := 8
+PRINT a
+RESET
+PRINT a
+===== Sample #1 Output =====
+UNDEF
+8
+13
+UNDEF

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+12
+toosmallword
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+35
+TheQuickBrownFoxJumpsOverTheLazyDog
+
+===== Sample #2 Output =====
+YES
+

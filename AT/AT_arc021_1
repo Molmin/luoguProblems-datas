@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2 8 2 2
+32 2 8 8
+4 64 2 128
+2 8 4 2
+===== Sample #1 Output =====
+CONTINUE
+===== Sample #2 Input =====
+2 4 16 4
+8 32 128 8
+2 64 16 2
+32 4 32 4
+===== Sample #2 Output =====
+GAMEOVER
+===== Sample #3 Input =====
+2 4 2 4
+4 2 4 2
+2 4 2 4
+4 2 4 2
+===== Sample #3 Output =====
+GAMEOVER

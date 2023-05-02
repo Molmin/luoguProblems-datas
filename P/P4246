@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+Open 1 1 1 2
+Open 1 2 2 2
+Ask 1 1 2 2
+Ask 2 1 2 2
+Exit
+===== Sample #1 Output =====
+Y
+N

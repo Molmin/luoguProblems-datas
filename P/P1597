@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+a:=3;b:=4;c:=5;
+===== Sample #1 Output =====
+3 4 5

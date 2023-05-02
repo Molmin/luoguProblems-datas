@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+3 16 5 42 6
+5 1 6 10 9
+===== Sample #1 Output =====
+68
+Impossible

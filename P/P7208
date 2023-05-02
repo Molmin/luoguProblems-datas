@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4 4
+TT*T
+*TTT
+***T
+***T
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+3 5
+TTBB*
+*T*B*
+*TTTT
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+7 5
+BT***
+BTBBB
+BTTTB
+BBT*B
+BBT*B
+BBT**
+*BBBB
+===== Sample #3 Output =====
+3

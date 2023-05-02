@@ -1,0 +1,57 @@
+===== Sample #1 Input =====
+5
+7500 South
+10000 East
+3500 North
+4444 West
+4000 North
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+2
+15000 South
+4000 East
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+5
+20000 South
+1000 North
+1000000 West
+9000 North
+10000 North
+
+===== Sample #3 Output =====
+YES
+
+===== Sample #4 Input =====
+3
+20000 South
+10 East
+20000 North
+
+===== Sample #4 Output =====
+NO
+
+===== Sample #5 Input =====
+2
+1000 North
+1000 South
+
+===== Sample #5 Output =====
+NO
+
+===== Sample #6 Input =====
+4
+50 South
+50 North
+15000 South
+15000 North
+
+===== Sample #6 Output =====
+YES
+

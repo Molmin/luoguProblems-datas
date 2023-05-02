@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+0 1
+0 2
+1 2
+2 2
+4 5
+5 6
+4
+3 5
+4 4
+6 5
+7 4
+0
+===== Sample #1 Output =====
+Photo 1: 4 points eliminated
+Photo 2: 0 points eliminated

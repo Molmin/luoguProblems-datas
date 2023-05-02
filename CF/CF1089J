@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+16
+fun while return var { } ( ) , ; &gt; = + ++ - --
+9
+fun fib(num) { # compute fibs
+  var return_value = 1, prev = 0, temp;
+  while (num &gt; 0) {
+    temp = return_value; return_value = return_value + prev;
+    prev = temp;
+    num--;
+  }
+  return return_value;
+}
+
+===== Sample #1 Output =====
+fun a(b){var c=1,d=0,e;while(b&gt;0){e=c;c=c+d;d=e;b--;}return c;}
+
+===== Sample #2 Input =====
+10
+( ) + ++ : -&gt; &gt;&gt; &gt;&gt;: b c)
+2
+($val1++ + +4 kb) &gt;&gt; :out
+b-&gt; + 10 &gt;&gt;: t # using &gt;&gt;: 
+
+===== Sample #2 Output =====
+(a+++ +4c )&gt;&gt; :d b-&gt;+10&gt;&gt;:e
+

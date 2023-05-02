@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2 2
++*
+*U
+1 1
+2 2
+
+===== Sample #1 Output =====
+-1
+===== Sample #2 Input =====
+2 3
+&lt;&gt;&lt;
+&gt;&lt;&gt;
+1 1
+2 1
+
+===== Sample #2 Output =====
+4

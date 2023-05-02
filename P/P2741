@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+9 8
+.CCC....
+ECBCBB..
+DCBCDB..
+DCCC.B..
+D.B.ABAA
+D.BBBB.A
+DDDDAD.A
+E...AAAA
+EEEEEE..
+===== Sample #1 Output =====
+EDABC

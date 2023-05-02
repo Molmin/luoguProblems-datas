@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+10
+ZABCDBABCQ
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+19
+THREEONEFOURONEFIVE
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+33
+ABCCABCBABCCABACBCBBABCBCBCBCABCB
+===== Sample #3 Output =====
+5

@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2 1
+0 0 2 1
+bb
+nwwnw
+bn
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+5 4
+0 2 5 2
+nnbnn
+nnnwwbwnnnn
+nbbbn
+nnwbwwbwwnn
+bwwww
+nnbwbbwwbnn
+nwwwn
+nnnnbwbbnnn
+nnwnn
+===== Sample #2 Output =====
+22

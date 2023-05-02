@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+123 456
+555 555
+123 594
+0 0
+===== Sample #1 Output =====
+No carry operation.
+3 carry operations.
+1 carry operation.

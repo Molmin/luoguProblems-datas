@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+0
+C D E #F G | A B C ||
+1b
+F F bB B | B B #F F bD ||
+7#
+C D bE E F bG | G A bB ||
+0
+#F #C bB bE ||
+===== Sample #1 Output =====
+Case 1: 0
+1#
+Case 2: 1
+4b
+Case 3: 3
+5#
+Case 4: 2
+2# 2b

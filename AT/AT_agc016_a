@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+serval
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+jackal
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+zzz
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+whbrjpjyhsrywlqjxdbrbaomnw
+===== Sample #4 Output =====
+8

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+1
+3 3
+0
+120
+240
+1 2
+2 3
+1 3
+===== Sample #1 Output =====
+3
+
+Input details
+Farmer John has three friends at longitudes 0, 120, and 240.  There are
+three flights: 0120, 120240, and 0240.  The journey must start and
+finish at longitude 0.
+
+Output details
+FJ must visit all 3 friends to make a full trip around the world.

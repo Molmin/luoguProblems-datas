@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+
+3 3
+BBB
+BBB
+BBB
+
+5 5
+T.BBB
+TBBBB
+.BBBB
+TBBBB
+.BBBB
+===== Sample #1 Output =====
+Case 1: 9
+Case 2: 16

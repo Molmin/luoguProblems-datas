@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+\n2\n4 1001\n3 110\n5 01111\n3 110\n\n
+===== Sample #1 Output =====
+\n3 1\n5 0\n\nExplanation:\nCase 1 : A Maximum path in bold\n
+110
+000
+000
+110
+\nCase 1 : A Minimum path in bold\n
+110
+000
+000
+110
+\n

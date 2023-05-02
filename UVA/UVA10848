@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+abcd 3 abcdcba
+aaaa 3 abcdcba
+abc 2 abdcba
+aab b baab
+abababaabababa 0 abababaabababa
+pqrsabcdpqrs 9 pqrsabcdpqrqpdcbasrqp
+===== Sample #1 Output =====
+TTTTTTT The solution is accepted
+TTTFFTT The solution is not accepted
+TFTTTFT The solution is not accepted
+FFFFFFF The solution is not accepted
+TTTTTTT The solution is accepted
+TTTTTTT The solution is accepted

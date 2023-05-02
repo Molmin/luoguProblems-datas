@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+3 4 10 3
+4 5 13 5
+3 2 19 100
+===== Sample #1 Output =====
+Case #1: 2
+Case #2: 11
+Case #3: 12

@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+1
+100
+2
+===== Sample #1 Output =====
+3728
+===== Sample #2 Input =====
+19260817
+1000000000
+3
+===== Sample #2 Output =====
+28745082
+===== Sample #3 Input =====
+114514233
+1919810233
+10
+===== Sample #3 Output =====
+135934411
+===== Sample #4 Input =====
+样例 4 见附件 digit4.in
+===== Sample #4 Output =====
+样例 4 见附件 digit4.ans
+===== Sample #5 Input =====
+样例 5 见附件 digit5.in
+===== Sample #5 Output =====
+样例 5 见附件 digit5.ans

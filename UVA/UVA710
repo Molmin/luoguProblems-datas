@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+5 4
+XXXXX
+X X
+XXX X
+XXX
+2 3 5 3
+1 3 4 4
+2 3 3 4
+0 0 0 0
+0 0
+===== Sample #1 Output =====
+Board #1:
+Pair 1: 4 segments.
+Pair 2: 3 segments.
+Pair 3: impossible.

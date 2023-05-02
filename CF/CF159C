@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2
+bac
+3
+2 a
+1 b
+2 c
+
+===== Sample #1 Output =====
+acb
+
+===== Sample #2 Input =====
+1
+abacaba
+4
+1 a
+1 a
+1 c
+2 b
+
+===== Sample #2 Output =====
+baa
+

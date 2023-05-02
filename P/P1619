@@ -1,0 +1,73 @@
+===== Sample #1 Input =====
+4
+eed
+
+===== Sample #1 Output =====
+Enter the number=
+Prime? No!
+4=2^2
+
+Enter the number=
+
+===== Sample #2 Input =====
+2
+end
+
+===== Sample #2 Output =====
+Enter the number=
+Prime? Yes!
+
+Enter the number=
+
+===== Sample #3 Input =====
+-1
+adfs
+
+===== Sample #3 Output =====
+Enter the number=
+Prime? No!
+
+Enter the number=
+
+===== Sample #4 Input =====
+1234###24#@13#@￥！1
+hehe
+
+===== Sample #4 Output =====
+Enter the number=
+Prime? No!
+The number is too large!
+
+Enter the number=
+
+===== Sample #5 Input =====
+1.5
+1
+1234324123512343123
+@~@~@~@
+
+===== Sample #5 Output =====
+Enter the number=
+Prime? No!
+15=3^1*5^1
+
+Enter the number=
+Prime? No!
+
+Enter the number=
+Prime? No!
+The number is too large!
+
+Enter the number=
+
+===== Sample #6 Input =====
+12
+halt@@
+
+===== Sample #6 Output =====
+Enter the number=
+Prime? No!
+12=2^2*3^1
+
+Enter the number=
+

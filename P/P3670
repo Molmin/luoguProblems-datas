@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3 8
+AATCCCAT
+GATTGCAA
+GGTCGCAA
+ACTCCCAG
+ACTCGCAT
+ACTTCCAT
+===== Sample #1 Output =====
+22

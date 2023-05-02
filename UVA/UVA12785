@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4
+heyhelloyou
+hel*
+*o*e
+e*o
+hello
+1
+hello
+x
+===== Sample #1 Output =====
+yes
+no
+yes
+yes
+no

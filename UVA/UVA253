@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+rbgggrrggbgr
+rrrbbbrrbbbr
+rbgrbgrrrrrg
+===== Sample #1 Output =====
+TRUE
+FALSE
+FALSE

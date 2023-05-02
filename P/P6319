@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+2 1
+A 2 1 
+===== Sample #1 Output =====
+1
+A 1 2 
+===== Sample #2 Input =====
+4 3
+B 1 2
+A 4 3
+B 1 4 
+===== Sample #2 Output =====
+2
+A 1 2
+B 4 3 
+===== Sample #3 Input =====
+6 5
+A 1 4
+B 2 5
+B 4 2
+B 6 3
+A 3 5 
+===== Sample #3 Output =====
+3
+A 4 5
+B 6 5
+A 2 3

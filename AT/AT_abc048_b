@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 8 2
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+0 5 1
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+9 9 2
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+1 1000000000000000000 3
+===== Sample #4 Output =====
+333333333333333333

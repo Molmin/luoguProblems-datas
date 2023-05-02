@@ -1,0 +1,45 @@
+===== Sample #1 Input =====
+3 3
+1 2
+2 3
+3 1
+===== Sample #1 Output =====
+4
+1 2 3 1
+===== Sample #2 Input =====
+4 3
+1 2
+2 3
+4 2
+===== Sample #2 Output =====
+8
+2 -1 1 2 3 2 4 2
+===== Sample #3 Input =====
+5 5
+1 2
+2 3
+3 1
+2 4
+2 5
+===== Sample #3 Output =====
+9
+2 3 1 2 -1 4 2 5 2
+===== Sample #4 Input =====
+5 5
+1 2
+2 3
+3 1
+2 4
+4 5
+===== Sample #4 Output =====
+8
+5 4 2 3 1 -1 2 1
+===== Sample #5 Input =====
+6 5
+1 2
+2 3
+3 4
+4 5
+3 6
+===== Sample #5 Output =====
+0

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+a6 b4 c8 a8
+
+===== Sample #1 Output =====
+CHECKMATE
+
+===== Sample #2 Input =====
+a6 c4 b6 b8
+
+===== Sample #2 Output =====
+OTHER
+
+===== Sample #3 Input =====
+a2 b1 a3 a1
+
+===== Sample #3 Output =====
+OTHER
+

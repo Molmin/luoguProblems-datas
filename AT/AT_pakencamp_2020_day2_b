@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+1 1
+S
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+1 2
+ES
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+2 3
+EEE
+SSS
+===== Sample #3 Output =====
+2
+===== Sample #4 Input =====
+10 10
+SEESESESES
+EEESESEEES
+EESESEESES
+EESSSSESES
+SEESSEEEEE
+EESESEEESS
+EEEESSEEEE
+SESESESSES
+SEESSEESSE
+EESSSSSESS
+===== Sample #4 Output =====
+3

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+5
+#....
+..s..
+..#..
+#....
+##..#
+===== Sample #1 Output =====
+POSSIBLE
+===== Sample #2 Input =====
+5
+s.###
+..###
+###..
+#....
+#..##
+===== Sample #2 Output =====
+IMPOSSIBLE
+===== Sample #3 Input =====
+3
+..#
+.s.
+#..
+===== Sample #3 Output =====
+IMPOSSIBLE

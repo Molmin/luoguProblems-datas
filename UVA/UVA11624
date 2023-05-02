@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+4 4
+####
+#JF#
+#..#
+#..#
+3 3
+###
+#J.
+#.F
+===== Sample #1 Output =====
+3
+IMPOSSIBLE

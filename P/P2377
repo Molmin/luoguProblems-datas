@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2
+eee
+cedde
+
+===== Sample #1 Output =====
+1
+dede
+
+3
+beddde cdecde cecece
+
+===== Sample #2 Input =====
+2
+adeccecced
+dddddd
+
+===== Sample #2 Output =====
+5
+acedccecced addebcecced adebebecced adecbedcced cceccecce
+
+1
+cddddce
+

@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+6 12
+6 13
+0 0
+===== Sample #1 Output =====
+Case 1: 2
+Case 2: -1

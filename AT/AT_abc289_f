@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+1 2
+7 8
+7 9 0 3
+===== Sample #1 Output =====
+Yes
+7 0
+9 3
+7 1
+8 1
+===== Sample #2 Input =====
+0 0
+8 4
+5 5 0 0
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+1 4
+1 4
+100 200 300 400
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+22 2
+16 7
+14 30 11 14
+===== Sample #4 Output =====
+No

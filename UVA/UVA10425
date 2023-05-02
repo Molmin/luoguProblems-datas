@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+Dhk01 0 0 0 8 10 0 0 8 5 5 5
+Dhk02 0 0 0 8 10 0 0 8 5 0 0
+Dhk03 0 0 0 8 10 0 0 8 0 8 0
+===== Sample #1 Output =====
+Dhk01
+n
+n
+n
+Dhk02
+y
+y
+n
+Dhk03
+y
+n
+y

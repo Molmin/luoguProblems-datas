@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+7
+NonZERO
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+24
+this is zero answer text
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+24
+Harbour Space University
+
+===== Sample #3 Output =====
+1
+

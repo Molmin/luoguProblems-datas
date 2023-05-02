@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+8 3 3
+2 5
+3 6
+4 8
+===== Sample #1 Output =====
+3
+1
+2
+===== Sample #2 Input =====
+25 6 1
+20 9
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+9999 2222 2
+1025 2405
+3154 8949
+===== Sample #3 Output =====
+1980
+2160

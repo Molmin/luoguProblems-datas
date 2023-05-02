@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3 5
+FOOF
+FOOI
+FOOI
+FOOI
+FFOI
+IOOF
+IOOI
+IOOI
+IOOI
+IFOI
+IOFF
+IOFI
+IOFI
+IOFI
+IFFI
+0 0
+===== Sample #1 Output =====
+YES

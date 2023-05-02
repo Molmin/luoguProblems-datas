@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5
+weird
+
+===== Sample #1 Output =====
+werd
+
+===== Sample #2 Input =====
+4
+word
+
+===== Sample #2 Output =====
+word
+
+===== Sample #3 Input =====
+5
+aaeaa
+
+===== Sample #3 Output =====
+a
+

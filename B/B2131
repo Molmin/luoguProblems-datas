@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+5
+Zhang 38.3 0
+Li 37.5 1
+Wang 37.1 1
+Zhao 39.0 1
+Liu 38.2 1
+===== Sample #1 Output =====
+Li
+Zhao
+Liu
+3

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+AbRb r Zz
+4
+xR abRb
+aA xr
+zz Z
+xr y
+
+===== Sample #1 Output =====
+2 6
+
+===== Sample #2 Input =====
+2
+RuruRu fedya
+1
+ruruRU fedor
+
+===== Sample #2 Output =====
+1 10
+

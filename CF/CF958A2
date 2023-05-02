@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+10 5
+somer
+andom
+noise
+mayth
+eforc
+ebewi
+thyou
+hctwo
+again
+noise
+somermayth
+andomeforc
+noiseebewi
+againthyou
+noisehctwo
+
+===== Sample #1 Output =====
+4 6
+

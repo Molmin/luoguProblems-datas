@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+1 2
+DI
+
+===== Sample #1 Output =====
+Poor Dima!
+
+===== Sample #2 Input =====
+2 2
+MA
+ID
+
+===== Sample #2 Output =====
+Poor Inna!
+
+===== Sample #3 Input =====
+5 5
+DIMAD
+DIMAI
+DIMAM
+DDMAA
+AAMID
+
+===== Sample #3 Output =====
+4
+

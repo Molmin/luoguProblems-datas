@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+aaaaa
+
+===== Sample #1 Output =====
+aaaaa
+
+===== Sample #2 Input =====
+aacaababc
+
+===== Sample #2 Output =====
+:(
+
+===== Sample #3 Input =====
+ababacacbbcc
+
+===== Sample #3 Output =====
+ababacac
+
+===== Sample #4 Input =====
+baba
+
+===== Sample #4 Output =====
+:(
+

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+aaabacaa
+2
+a
+aa
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+aaabacaa
+4
+a
+a
+a
+b
+
+===== Sample #2 Output =====
+33
+

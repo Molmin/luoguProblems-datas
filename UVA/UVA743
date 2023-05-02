@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+20
+22
+42
+32
+33289
+0
+===== Sample #1 Output =====
+NOT ACCEPTABLE
+2
+NOT ACCEPTABLE
+NOT ACCEPTABLE
+89289289289

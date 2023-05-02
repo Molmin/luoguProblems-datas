@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2 16
+===== Sample #1 Output =====
+9
+===== Sample #2 Input =====
+0 3
+===== Sample #2 Output =====
+IMPOSSIBLE
+===== Sample #3 Input =====
+998244353 99824435
+===== Sample #3 Output =====
+549034394

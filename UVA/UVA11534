@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+...
+X..
+O
+===== Sample #1 Output =====
+Possible.
+Impossible.
+Possible.

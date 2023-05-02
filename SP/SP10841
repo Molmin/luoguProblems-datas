@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2\n2 1S 2S\n2 1N 2N\n2\n3 1S 2S 3S\n3 1N 2N 3N\n0
+===== Sample #1 Output =====
+March onward\nCoordination issue

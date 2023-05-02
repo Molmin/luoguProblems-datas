@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1\n1 11 1 11
+===== Sample #1 Output =====
+56\n\nExplanation\nNote that the number "111" is counted twice. Once as "11" + "1" and again as "1" + "11".\n\n

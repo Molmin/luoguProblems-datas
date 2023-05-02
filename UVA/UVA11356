@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+1984-December-30
+2
+1984-October-12
+318
+===== Sample #1 Output =====
+Case 1: 1985-January-01
+Case 2: 1985-August-26

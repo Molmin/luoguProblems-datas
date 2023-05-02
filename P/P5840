@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3
+a
+bc
+abc
+5
+1 abca
+2 1
+1 bca
+2 2
+2 3
+
+===== Sample #1 Output =====
+1
+2
+1
+

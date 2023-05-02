@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+[h1]Hello World![/h1]
+[h2]How are [i]you[/i]?[/h2]
+===== Sample #1 Output =====
+# Hello World! #
+## How are *you*? ##
+===== Sample #2 Input =====
+[h1]Introducing Swift.[/h1][quote]
+import SpriteKit
+let object = SKSpriteNode(imageNamed: “[L2/Ascention]”
+[/quote]
+===== Sample #2 Output =====
+# Introducing Swift. #
+> import SpriteKit
+> let object = SKSpriteNode(imageNamed: “[L2/Ascention]”
+===== Sample #3 Input =====
+[h1]I knew you were
+trouble when you walked in[/h1]
+[url=http://www.example.com]By Taylor Swift[/url]
+===== Sample #3 Output =====
+# I knew you were
+trouble when you walked in #
+[By Taylor Swift](http://www.example.com)
+===== Sample #4 Input =====
+[h1]Thanks for [i]inviting[/h1] me.[/i]
+===== Sample #4 Output =====
+Match Error
+===== Sample #5 Input =====
+[h2]Your gift is awesome!
+===== Sample #5 Output =====
+Unclosed Mark
+===== Sample #6 Input =====
+[quote][/quote][/quote]
+===== Sample #6 Output =====
+Match Error
+(对该数据的解释: 匹配到第一个关闭标签后即不认为后面的内容仍是代码段)
+===== Sample #7 Input =====
+[quote][quote][/quote]
+===== Sample #7 Output =====
+> [quote]

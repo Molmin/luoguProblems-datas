@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3454
+
+===== Sample #1 Output =====
+YES
+344
+
+===== Sample #2 Input =====
+10
+
+===== Sample #2 Output =====
+YES
+0
+
+===== Sample #3 Input =====
+111111
+
+===== Sample #3 Output =====
+NO
+

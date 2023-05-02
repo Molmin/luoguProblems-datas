@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+6
+*.P*P*
+
+===== Sample #1 Output =====
+3 4
+
+===== Sample #2 Input =====
+8
+*...P..*
+
+===== Sample #2 Output =====
+1 3
+

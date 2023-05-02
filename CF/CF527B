@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+9
+pergament
+permanent
+
+===== Sample #1 Output =====
+1
+4 6
+
+===== Sample #2 Input =====
+6
+wookie
+cookie
+
+===== Sample #2 Output =====
+1
+-1 -1
+
+===== Sample #3 Input =====
+4
+petr
+egor
+
+===== Sample #3 Output =====
+2
+1 2
+
+===== Sample #4 Input =====
+6
+double
+bundle
+
+===== Sample #4 Output =====
+2
+4 1
+

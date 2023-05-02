@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+5
+ab
+bc
+bd
+de
+df
+===== Sample #1 Output =====
+YES
+0
+1
+1
+3
+3
+===== Sample #2 Input =====
+7
+yokozuna
+takayuta
+namonaki
+reew
+semiexp
+snuke
+tozangezan
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+1
+i
+===== Sample #3 Output =====
+YES
+0

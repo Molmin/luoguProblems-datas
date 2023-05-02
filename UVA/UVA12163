@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+2
+3 3
+1 0
+2 0
+1 2
+0 2 2
+5
+3 0 0
+4 1 0
+5 0 1
+1 1 1
+2 2 2
+4 3
+0 1
+1 2
+2 3
+3 2 1 0
+5
+0 0 0 0
+0 0 0 1
+0 0 1 0
+0 1 0 0
+1 0 0 0
+===== Sample #1 Output =====
+Game\#1:
+Round\#1: LOSING
+Round\#2: WINNING
+Round\#3: WINNING
+Round\#4: WINNING
+Round\#5: LOSING
+Game\#2:
+Round\#1: LOSING
+Round\#2: LOSING
+Round\#3: WINNING
+Round\#4: WINNING
+Round\#5: LOSING

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4 2 2
+===== Sample #1 Output =====
+765
+===== Sample #2 Input =====
+233 2 99
+===== Sample #2 Output =====
+161697303
+===== Sample #3 Input =====
+7 4 5
+===== Sample #3 Output =====
+322237710
+===== Sample #4 Input =====
+10 3 17
+===== Sample #4 Output =====
+146281933
+===== Sample #5 Input =====
+1919810 114514 2333
+===== Sample #5 Output =====
+426283611

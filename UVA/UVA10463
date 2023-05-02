@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+5 5 0 0 3 4
+5 5 0 0 4 4
+5 5 0 0 0 0
+===== Sample #1 Output =====
+CASE# 1: Destination is not reachable.
+CASE# 2: The knight takes 2 prime moves.
+CASE# 3: The knight takes 0 composite move(s).

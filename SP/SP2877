@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+6 4 4
+0 1000000000 1 1
+1 999999998 1 1
+2 500000000 3 3
+0 1 2 2
+3 1 0 3
+0 6 0 3
+===== Sample #1 Output =====
+1
+2
+2
+2
+0
+0
+
+Output Explanation:
+
+For your assistance, here is the state of the dice after each turn:(* means unavailable)
+Before all rolls:
+[1,1,1,1](0,0)
+After first roll:
+[1000000000,1,1,1](1,0)
+After second roll:
+[1000000000,999999998,1,1](1,2)
+After third roll:
+[1000000000,999999998,500000000,1](2,2)
+All dices multiply 2:
+[*,*,1000000000,2](2,2)
+After forth roll:
+[1,*,1000000000,2](2,2)
+All dices multiply 2:
+[2,*,*,4](2,2)
+After fifth roll:
+[2,*,*,1](0,2)
+After sixth roll:
+[6,*,*,1](0,0)
+All dices multiply 0:
+[0,0,0,0](0,0)
+
+Test data has been updated, all submissions have been rejudged

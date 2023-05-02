@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3 3
+5400000000
+5400000000
+5400000000
+3 2
+5400000000
+5400000000
+9000000001
+0 0
+===== Sample #1 Output =====
+Bill #1 costs 16200000000: each friend should pay 5400000000
+Bill #2 costs 19800000001: each friend should pay 9900000000

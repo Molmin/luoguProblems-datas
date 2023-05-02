@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+10
+in that case you should print yes and not no
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+10
+in diesem fall sollten sie no und nicht yes ausgeben
+===== Sample #2 Output =====
+No

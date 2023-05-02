@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+6
+A
+C
+D
+B
+C
+B
+===== Sample #1 Output =====
+ABCBCD

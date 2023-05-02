@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4 7
+Loudy
+Apples
+Dogman
+Miller
+.X..
+X...
+....
+..X.
+..XX
+..X.
+..X.
+
+===== Sample #1 Output =====
+Dogman 42.86%
+Loudy 14.29%
+Apples 14.29%
+Miller 0.00%
+Invalid 28.57%
+

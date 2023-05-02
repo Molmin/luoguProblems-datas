@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+aabbabbabbbb
+3
+a
+bb
+abb
+ewu**bbacsecsc
+4
+ewu
+bba
+cse
+csc
+===== Sample #1 Output =====
+Set 1: 5.
+Set 2: Not possible.

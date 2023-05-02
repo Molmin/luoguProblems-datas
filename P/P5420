@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3 10
+a
+===== Sample #1 Output =====
+aaj
+===== Sample #2 Input =====
+3 10
+xy
+===== Sample #2 Output =====
+yzz
+===== Sample #3 Input =====
+1 100
+a
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+25 1000000000000000
+u
+===== Sample #4 Output =====
+uuuuuvxzuxvwwyzzuyzvxuvxw

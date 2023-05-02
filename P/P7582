@@ -1,0 +1,45 @@
+===== Sample #1 Input =====
+3 4
+ab 1
+ba 2
+a 1
+3 1 3 aba
+1 1 2 1
+2 2 3 2
+3 1 2 abab
+===== Sample #1 Output =====
+5
+6
+===== Sample #2 Input =====
+6 6
+aba 3
+ba 2
+aa 2
+c 1
+abac 4
+ab 2
+3 2 5 abac
+2 3 5 3
+3 4 6 abc
+1 2 3 1
+3 1 3 aabaa
+3 2 5 aabac
+===== Sample #2 Output =====
+7
+5
+14
+13
+===== Sample #3 Input =====
+6 3
+b 1
+aa 8
+cc 9
+cac 8
+ab 10
+a 7
+2 1 3 2
+3 1 4 acac
+3 1 6 ccaba
+===== Sample #3 Output =====
+8
+28

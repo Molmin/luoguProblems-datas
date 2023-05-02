@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+RR
+RR
+GB
+GR
+3
+BRR
+RRR
+RBB
+BRR
+GGG
+RGB
+BBR
+BBR
+BBB
+===== Sample #1 Output =====
+RGB
+NO

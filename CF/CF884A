@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2 2
+86400 86398
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+2 86400
+0 86400
+
+===== Sample #2 Output =====
+1
+

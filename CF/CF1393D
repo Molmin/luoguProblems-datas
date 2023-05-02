@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3 3
+aaa
+aaa
+aaa
+===== Sample #1 Output =====
+10
+===== Sample #2 Input =====
+3 4
+abab
+baba
+abab
+===== Sample #2 Output =====
+12
+===== Sample #3 Input =====
+5 5
+zbacg
+baaac
+aaaaa
+eaaad
+weadd
+===== Sample #3 Output =====
+31

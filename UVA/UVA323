@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4 2
+1 2
+2 3
+4 1
+6 2
+0 0
+
+===== Sample #1 Output =====
+Jury #1
+Best jury has value 6 for prosecution and value 4 for defence:
+ 2 3
+

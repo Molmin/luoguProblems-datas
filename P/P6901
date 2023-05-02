@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+4 100 400
+-100 100
+50 200
+-100 300
+150 300
+
+===== Sample #1 Output =====
+1 2 4
+
+===== Sample #2 Input =====
+1 100 100
+1000 10
+
+===== Sample #2 Output =====
+Cannot visit any targets
+

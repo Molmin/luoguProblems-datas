@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4
+2
+ABC
+CBA
+2
+bacab
+defed
+3
+abcde
+aBcDe
+ace
+2
+codeforces
+technocup
+===== Sample #1 Output =====
+1
+A
+0
+
+3
+ace
+3
+coc

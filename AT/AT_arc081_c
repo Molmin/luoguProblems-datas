@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+atcoderregularcontest
+===== Sample #1 Output =====
+b
+===== Sample #2 Input =====
+abcdefghijklmnopqrstuvwxyz
+===== Sample #2 Output =====
+aa
+===== Sample #3 Input =====
+frqnvhydscshfcgdemurlfrutcpzhopfotpifgepnqjxupnskapziurswqazdwnwbgdhyktfyhqqxpoidfhjdakoxraiedxskywuepzfniuyskxiyjpjlxuqnfgmnjcvtlpnclfkpervxmdbvrbrdn
+===== Sample #3 Output =====
+aca

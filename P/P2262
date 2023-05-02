@@ -1,0 +1,43 @@
+===== Sample #1 Input =====
+5 200 200
+unzip.exe 100
+xxxx 50
+bin 0
+tpx.exe 200
+turbo.exe 300
+tpx.tp 400
+temp 0
+-
+-
+readme.txt 100
+-
+0 ares connect 2
+0 ares download zip.exe
+1 ares download bin
+5 ares download xxxx
+6 ares cd bin
+6 ares connect 1
+6 ares quit
+7 ares connect 1
+7 rosen connect 2
+7 ares cd bin
+8 ares upload A 300
+9 rosen download bin
+10 rosen download bin
+down
+
+===== Sample #1 Output =====
+success
+unsuccess
+success
+unsuccess
+success
+unsuccess
+success
+success
+success
+success
+success
+unsuccess
+success
+

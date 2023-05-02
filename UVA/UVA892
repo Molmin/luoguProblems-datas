@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+A common problem when processing incoming text is to isolate
+the words in the text. This is made more difficult by the
+punctuation; words have commas, "quote marks",
+(even brackets)
+next to them, or hy-
+phens in the middle of the word. This punctuation doesn’t
+count as letters when the words have to be looked up in a
+# dictionary by the 12345 "**&amp;! program.
+#
+===== Sample #1 Output =====
+A common problem when processing incoming text is to isolate
+the words in the text This is made more difficult by the
+punctuation words have commas quote marks
+even brackets
+next to them or
+hyphens
+in the middle of the word This punctuation doesnt
+count as letters when the words have to be looked up in a
+dictionary by the program

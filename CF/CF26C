@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2 6 2 2 1
+
+===== Sample #1 Output =====
+aabcca
+aabdda
+
+===== Sample #2 Input =====
+1 1 100 100 100
+
+===== Sample #2 Output =====
+IMPOSSIBLE
+
+===== Sample #3 Input =====
+4 4 10 10 10
+
+===== Sample #3 Output =====
+aabb
+aabb
+bbaa
+bbaa
+

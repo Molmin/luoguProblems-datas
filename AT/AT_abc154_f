@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+1 1 2 2
+===== Sample #1 Output =====
+14
+===== Sample #2 Input =====
+314 159 2653 589
+===== Sample #2 Output =====
+602215194

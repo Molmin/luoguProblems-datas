@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+01011
+110 1
+01110
+01010
+00100
+10110
+01 11
+10111
+01001
+00000
+===== Sample #1 Output =====
+Unsolvable in less than 11 move(s).
+Solvable in 7 move(s).

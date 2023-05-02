@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+caccacaa
+===== Sample #1 Output =====
+4\n3\n\nExplanation:\n\ncaccacaa\n   caccacaa\n\n\n The bold characters indicate the ones that match when shift = 3.\n\n

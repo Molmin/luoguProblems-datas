@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+bacaa
+abc
+cba
+#
+===== Sample #1 Output =====
+15
+1
+6

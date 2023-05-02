@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+error
+2
+===== Sample #1 Output =====
+*rr*r
+===== Sample #2 Input =====
+6
+eleven
+5
+===== Sample #2 Output =====
+e*e*e*
+===== Sample #3 Input =====
+9
+education
+7
+===== Sample #3 Output =====
+******i**

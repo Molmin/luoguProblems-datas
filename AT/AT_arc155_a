@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+6 2
+abbaab
+5 3
+abcbb
+===== Sample #1 Output =====
+Yes
+No
+===== Sample #2 Input =====
+3
+12 400378271514996652
+njvhhvjnnjvh
+10 884633988115575508
+rrhiyvrrur
+36 71630165869626180
+vsxmxajrrduhhudrrjaxmxsvvsxmxajrrduh
+===== Sample #2 Output =====
+Yes
+No
+Yes

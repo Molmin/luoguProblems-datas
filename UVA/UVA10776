@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+abcde 2
+abcd 3
+aba 2
+===== Sample #1 Output =====
+ab
+ac
+ad
+ae
+bc
+bd
+be
+cd
+ce
+de
+abc
+abd
+acd
+bcd
+aa
+ab

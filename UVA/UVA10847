@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+aa=
+aa=-
+ab
+===== Sample #1 Output =====
+tautology
+formula
+incorrect

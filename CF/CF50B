@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+great10
+
+===== Sample #1 Output =====
+7
+
+===== Sample #2 Input =====
+aaaaaaaaaa
+
+===== Sample #2 Output =====
+100
+

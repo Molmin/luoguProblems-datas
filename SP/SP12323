@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+a1 h8
+a1 c2
+h8 c3
+===== Sample #1 Output =====
+6
+1
+4

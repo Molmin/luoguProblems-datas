@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+abcabd
+===== Sample #1 Output =====
+c
+===== Sample #2 Input =====
+aabbcc
+===== Sample #2 Output =====
+no

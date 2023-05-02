@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+4
+31 31 30 31
+
+===== Sample #1 Output =====
+Yes
+
+
+===== Sample #2 Input =====
+2
+30 30
+
+===== Sample #2 Output =====
+No
+
+
+===== Sample #3 Input =====
+5
+29 31 30 31 30
+
+===== Sample #3 Output =====
+Yes
+
+
+===== Sample #4 Input =====
+3
+31 28 30
+
+===== Sample #4 Output =====
+No
+
+
+===== Sample #5 Input =====
+3
+31 31 28
+
+===== Sample #5 Output =====
+Yes
+
+

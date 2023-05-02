@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+6
+===== Sample #1 Output =====
+Perfect
+===== Sample #2 Input =====
+24
+===== Sample #2 Output =====
+Abundant
+===== Sample #3 Input =====
+27
+===== Sample #3 Output =====
+Deficient
+===== Sample #4 Input =====
+945
+===== Sample #4 Output =====
+Abundant

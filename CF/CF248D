@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6 6
+HSHSHS
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+14 100
+...HHHSSS...SH
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+23 50
+HHSS.......SSHHHHHHHHHH
+
+===== Sample #3 Output =====
+8
+

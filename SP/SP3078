@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+ACGT
+GTAC
+A
+C
+ACGT
+TGCA
+ACGT
+TCGATCGA
+A
+AAAAAAAAAAAAAAAAAA
+===== Sample #1 Output =====
+2
+impossible
+1
+4
+6

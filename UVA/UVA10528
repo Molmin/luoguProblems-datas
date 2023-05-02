@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+C C D F E G A A F G B
+A B C D E F G C#
+C C D F E G A A F G
+C C C C C
+END
+===== Sample #1 Output =====
+C
+C F
+C C# D# F G G# A#

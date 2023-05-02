@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+4
+abc -10
+a 1
+b 1
+c 3
+?b?
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+2
+a 1
+a 1
+?
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+3
+a 1
+b 3
+ab 4
+ab
+===== Sample #3 Output =====
+8
+===== Sample #4 Input =====
+1
+a -1
+?????????????
+===== Sample #4 Output =====
+0
+===== Sample #5 Input =====
+1
+a -1
+??????????????
+===== Sample #5 Output =====
+-1

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+MFM
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+MMFF
+
+===== Sample #2 Output =====
+3
+
+===== Sample #3 Input =====
+FFMMM
+
+===== Sample #3 Output =====
+0
+

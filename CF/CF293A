@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+2
+0111
+0001
+
+===== Sample #1 Output =====
+First
+
+===== Sample #2 Input =====
+3
+110110
+001001
+
+===== Sample #2 Output =====
+First
+
+===== Sample #3 Input =====
+3
+111000
+000111
+
+===== Sample #3 Output =====
+Draw
+
+===== Sample #4 Input =====
+4
+01010110
+00101101
+
+===== Sample #4 Output =====
+First
+
+===== Sample #5 Input =====
+4
+01100000
+10010011
+
+===== Sample #5 Output =====
+Second
+

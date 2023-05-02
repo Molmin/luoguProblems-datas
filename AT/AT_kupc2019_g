@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+1
+4 4
+===== Sample #1 Output =====
+ABCC
+CACB
+BCAA
+CABA
+===== Sample #2 Input =====
+2
+4 5
+5 4
+===== Sample #2 Output =====
+CACCB
+CBBAA
+ACABC
+BACBB
+BCBA
+CAAB
+AACB
+ABCC
+BBCA

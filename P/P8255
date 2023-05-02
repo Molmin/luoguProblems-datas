@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+1
+10 240
+===== Sample #1 Output =====
+12
+===== Sample #2 Input =====
+3
+5 30
+4 8
+11 11
+===== Sample #2 Output =====
+6
+-1
+1
+===== Sample #3 Input =====
+见附件中的 math3.in
+===== Sample #3 Output =====
+见附件中的 math3.out
+===== Sample #4 Input =====
+见附件中的 math4.in
+===== Sample #4 Output =====
+见附件中的 math4.out

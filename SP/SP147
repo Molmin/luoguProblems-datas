@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+7
+IIpqDpNp
+NCNpp
+Iaz
+NNNNNNNp
+IIqrIIpqIpr
+Ipp
+Ezz
+===== Sample #1 Output =====
+YES
+YES
+NO
+NO
+YES
+YES
+YES

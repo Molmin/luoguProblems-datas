@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+2
+100 90 20
+200 195 70
+4
+123 123 25
+90 8 12
+50 50 10
+10 120 4
+3
+100 90 20
+200 195 70
+100 60 20
+===== Sample #1 Output =====
+Fire laser at 40 degrees.
+2 burst balloons.
+No balloon burst.
+Fire laser at 30 degrees.
+Fire laser at 40 degrees.
+3 burst balloons.

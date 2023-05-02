@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+Canada 3 2 1
+USA 1 2 3
+2
+USA 2 2 2
+Canada 1 1 1
+0
+===== Sample #1 Output =====
+Canada wins!
+Canada cannot win.

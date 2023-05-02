@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 3 
+is
+name
+what
+your
+whatisyourname
+whatisyouname
+whaisyourname
+
+===== Sample #1 Output =====
+14
+6
+0
+

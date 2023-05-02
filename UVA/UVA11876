@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+1 18
+1 100
+3000 4000
+===== Sample #1 Output =====
+Case 1: 7
+Case 2: 20
+Case 3: 87

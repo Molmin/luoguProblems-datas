@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\nabcdefghij adcbefghij\nabcdefghij abcdefghij\nbcdaefghji beagfcdhji\n* *\n\n
+===== Sample #1 Output =====
+1\n0\n2

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 3
+2 1 2
+1 1 1
+q 100 1 3
+m 2 2 0
+q 100 1 3
+===== Sample #1 Output =====
+27
+13
+===== Sample #2 Input =====
+见附件中的 turn-big-sample1.in
+===== Sample #2 Output =====
+见附件中的 turn-big-sample1.out

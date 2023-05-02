@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+ABC
+ABC
+ABCBBBABC
+ABC
+ABC
+ABCBCAABC
+D7a
+D7a
+D7aaD77aDD7a
+ABC
+ABC
+ABC
+===== Sample #1 Output =====
+no solution
+unique: 1
+ambiguous: 1 2
+unique: 0

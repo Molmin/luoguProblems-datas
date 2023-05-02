@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+-1 -1
+1 -1
+0 2
+===== Sample #1 Output =====
+Possible
+3.0000000000
+===== Sample #2 Input =====
+4
+-1 -1
+1 -1
+1 1
+-1 1
+===== Sample #2 Output =====
+Possible
+4.0000000000
+===== Sample #3 Input =====
+3
+-1 -1
+1 -1
+1 1
+===== Sample #3 Output =====
+Impossible

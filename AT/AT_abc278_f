@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+6
+enum
+float
+if
+modint
+takahashi
+template
+===== Sample #1 Output =====
+First
+===== Sample #2 Input =====
+10
+catch
+chokudai
+class
+continue
+copy
+exec
+havoc
+intrinsic
+static
+yucatec
+===== Sample #2 Output =====
+Second
+===== Sample #3 Input =====
+16
+mnofcmzsdx
+lgeowlxuqm
+ouimgdjxlo
+jhwttcycwl
+jbcuioqbsj
+mdjfikdwix
+jhvdpuxfil
+peekycgxco
+sbvxszools
+xuuqebcrzp
+jsciwvdqzl
+obblxzjhco
+ptobhnpfpo
+muizaqtpgx
+jtgjnbtzcl
+sivwidaszs
+===== Sample #3 Output =====
+First

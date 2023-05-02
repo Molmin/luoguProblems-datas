@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+10 1 11
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+2 8 6 10
+===== Sample #1 Output =====
+1
+2
+3
+4
+5
+6
+7
+8
+9
+6
+Explanation: There is only one instruction: L = 2, R = 8, v = 6, p = 10. There are 4 numbers
+(2,3,4,5) less than 6, so k = 4. The new number in A[10] is 11 ∗ 4/(8 − 2 + 1) = 44/7 = 6.

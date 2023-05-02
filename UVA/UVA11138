@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+3 4
+0 0 1 0
+1 1 0 1
+0 0 1 0
+5 5
+1 0 0 1 1
+1 1 0 0 0
+1 0 0 0 0
+0 1 1 0 0
+0 0 0 0 1
+===== Sample #1 Output =====
+Case 1: a maximum of 2 nuts and bolts can be fitted together
+Case 2: a maximum of 5 nuts and bolts can be fitted together

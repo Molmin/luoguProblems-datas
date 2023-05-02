@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+11 2
+v 2 + c 19
+i v 2 c 3 7 3
+s 4 7
+v 1 + c 13
+v 2 - c 3
+i c 0 c 1 2 0
+i v 2 c 5 12 8
+s 9 12
+v 1 + c 23
+v 2 - c 5
+i c 0 c 1 7 0
+
+===== Sample #1 Output =====
+1
+1
+1
+2
+1
+1
+

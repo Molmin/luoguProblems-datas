@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+6 6 8
+1 2
+2 3
+2 4
+1 4
+2 5
+1 6
+GC
+DELETE 5
+DELETE 3
+GC
+DELETE 1
+GC
+DELETE 2
+GC
+1 2 3 4 5 6
+
+===== Sample #1 Output =====
+149
+
+===== Sample #2 Input =====
+样例 2 见附件 garbage2.in
+本组数据满足测试点 6 的限制。
+===== Sample #2 Output =====
+样例 2 见附件 garbage2.ans
+===== Sample #3 Input =====
+样例 3 见附件 garbage3.in
+本组数据满足测试点 11 的限制。
+===== Sample #3 Output =====
+样例 3 见附件 garbage3.ans

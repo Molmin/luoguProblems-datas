@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+abcdef
+1
+2
+
+===== Sample #1 Output =====
+aedcbf
+
+===== Sample #2 Input =====
+vwxyz
+2
+2 2
+
+===== Sample #2 Output =====
+vwxyz
+
+===== Sample #3 Input =====
+abcdef
+3
+1 2 3
+
+===== Sample #3 Output =====
+fbdcea
+

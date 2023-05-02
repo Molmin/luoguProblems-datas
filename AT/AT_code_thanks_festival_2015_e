@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4
+ratheads rhd
+thisisrhdcontest rhd
+yes no
+abba aba
+===== Sample #1 Output =====
+YES
+YES
+NO
+NO
+===== Sample #2 Input =====
+5
+abcdef bdf
+aabbccdd b
+abcabcabc aaba
+abcdcba dba
+ababababa aba
+===== Sample #2 Output =====
+YES
+YES
+NO
+YES
+YES

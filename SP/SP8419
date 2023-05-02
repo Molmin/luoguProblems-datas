@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+1 1 2 2
+===== Sample #1 Output =====
+YES
+
+Constraints:
+T &lt;= 25
+-10^10 &lt;= xs, ys, xd, yd &lt;= 10^10
+Note that, although the input values are constrained by the above inequality, the coordinates of the points
+at the intermediate steps need not be.

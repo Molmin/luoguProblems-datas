@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+1 2 2
+ab
+===== Sample #1 Output =====
+5/16
+===== Sample #2 Input =====
+3 3 10
+ban
+ana
+nab
+===== Sample #2 Output =====
+2/27

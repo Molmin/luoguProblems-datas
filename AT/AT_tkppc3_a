@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+E 120
+E 90
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+W 165
+E 165
+===== Sample #2 Output =====
+22

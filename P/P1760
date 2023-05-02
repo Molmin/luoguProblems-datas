@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+31
+===== Sample #1 Output =====
+2147483647
+===== Sample #2 Input =====
+15
+===== Sample #2 Output =====
+32767

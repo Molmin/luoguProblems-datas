@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+... --- ...
+.--- --- -... -.. --- -. . ..--.. ..-. .. -. . -.-.--
+===== Sample #1 Output =====
+Message #1
+SOS
+Message #2
+JOB DONE ? FINE!

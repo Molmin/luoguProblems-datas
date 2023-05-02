@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2 2 2 998244353
+===== Sample #1 Output =====
+35
+===== Sample #2 Input =====
+2 3 4 998244353
+===== Sample #2 Output =====
+127090
+===== Sample #3 Input =====
+31 41 59 998244353
+===== Sample #3 Output =====
+827794103

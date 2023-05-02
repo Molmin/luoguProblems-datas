@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+6
+IOJOIJ
+===== Sample #1 Output =====
+O
+I
+===== Sample #2 Input =====
+4
+JJOI
+===== Sample #2 Output =====
+J
+===== Sample #3 Input =====
+7
+IOJOJOJ
+===== Sample #3 Output =====
+O
+O
+O
+===== Sample #4 Input =====
+5
+JJJJJ
+===== Sample #4 Output =====
+J
+J
+J
+J

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+6 2 3 1 5
+===== Sample #1 Output =====
+0.8000000000
+===== Sample #2 Input =====
+6 2 10 1 5
+===== Sample #2 Output =====
+0.2500000000
+===== Sample #3 Input =====
+6 3 1 5 3
+===== Sample #3 Output =====
+1.0000000000
+===== Sample #4 Input =====
+10 7 7 6 0
+===== Sample #4 Output =====
+0.2857142857

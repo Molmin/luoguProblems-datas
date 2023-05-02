@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+8
+BWWWWWWB
+
+===== Sample #1 Output =====
+3
+6 2 4
+
+===== Sample #2 Input =====
+4
+BWBB
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+5
+WWWWW
+
+===== Sample #3 Output =====
+0
+
+===== Sample #4 Input =====
+3
+BWB
+
+===== Sample #4 Output =====
+2
+2 1 
+

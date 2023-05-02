@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+encode
+/AtCoder/ZipFile
+/AtCoder/Dir
+3
+fileA 100
+fileB 100
+fileC 200
+===== Sample #1 Output =====
+null
+===== Sample #2 Input =====
+decode
+/AtCoder/ZipFile
+/AtCoder/UnzipDir
+===== Sample #2 Output =====
+null

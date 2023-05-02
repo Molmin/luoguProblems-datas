@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4
+Ann
+Anna
+Sabrina
+John
+Petrov
+Ivanova
+Stoltz
+Abacaba
+
+===== Sample #1 Output =====
+Ann Abacaba, Anna Ivanova, John Petrov, Sabrina Stoltz
+===== Sample #2 Input =====
+4
+Aa
+Ab
+Ac
+Ba
+Ad
+Ae
+Bb
+Bc
+
+===== Sample #2 Output =====
+Aa Ad, Ab Ae, Ac Bb, Ba Bc

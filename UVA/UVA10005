@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+0 0
+1 0
+0 1
+1.0
+3
+0 0
+1 0
+0 1
+0.1
+0
+===== Sample #1 Output =====
+The polygon can be packed in the circle.
+There is no way of packing that polygon.

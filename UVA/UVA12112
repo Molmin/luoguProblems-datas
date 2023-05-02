@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+55
+XXXXX
+X@.#X
+XX.XX
+X...X
+XXXXX
+77
+XXXXXXX
+X.....X
+X@[=].X
+XXX.XXX
+XXX.XXX
+XXX#XXX
+XXXXXXX
+66
+XXXXXX
+X@...X
+XXXX=X
+X..O.X
+X.#O.X
+XXXXXX
+0
+===== Sample #1 Output =====
+Case 1: &gt;RR
+Case 2: R&gt;R
+Case 3: RR&gt;RLLLLL&gt;R

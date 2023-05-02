@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+HALO\n4\nH O\nL O\nA O\nO L&nbsp;
+===== Sample #1 Output =====
+YA\nYA\nYA\nTIDAK&nbsp;

@@ -1,0 +1,61 @@
+===== Sample #1 Input =====
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X
+X
+@ X
+X
+X
+X
+X
+X
+XXXXXX
+X
+X
+X
+X
+X
+X
+X
+XXXXXX
+X@
+X
+X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+@@
+XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+===== Sample #1 Output =====
+6 paths, 32 points, 3 turns
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X
+X#############@ X
+X
+### X
+# X
+X
+##################### X
+XXXXXX### ###X
+X
+X###############X
+X
+X# ###X
+XXXXXX
+X@#######X
+X
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________
+1 paths, 2 points, 0 turns
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X
+X
+X
+@@
+XXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXX
+______________________________

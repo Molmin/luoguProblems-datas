@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+7 5 17
+createContest 1 5 1001 1004 1002 1005 1006
+submission 1 1 1001 1 AC
+submission 2 1 1001 1 AC
+submission 3 1 1001 2 UNAC
+submission 4 1 1003 3 UNAC
+getRank 1 1
+getRank 1 2
+getRank 1 3
+rejudge 3
+submission 3 1 1001 2 AC
+getRank 1 2
+submission 5 1 1006 2 AC
+getRank 1 1
+submission 6 1 1006 2 UNAC
+getRank 1 2
+rejudge 5
+getRank 1 2
+
+===== Sample #1 Output =====
+1 1 1 1
+2 0 2 3
+3 0 2 3
+2 1 1 2
+1 1 2 2
+2 2 1 1
+2 1 1 2
+

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4 4
+luka
+o#a#
+kula
+i#a#
+===== Sample #1 Output =====
+kala
+===== Sample #2 Input =====
+4 4
+luka
+o#a#
+kula
+i#as
+===== Sample #2 Output =====
+as
+===== Sample #3 Input =====
+4 5
+adaca
+da##b
+abb#b
+abbac
+===== Sample #3 Output =====
+abb

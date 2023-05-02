@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+15 10
+DZFDFZDFDDDDDDF
+
+===== Sample #1 Output =====
+82
+
+===== Sample #2 Input =====
+6 4
+YJSNPI
+
+===== Sample #2 Output =====
+4
+

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+4 2
+ovo
+vov
+SD-114
+SD-114.zip/SD-114/ovo/ovo.cpp
+SD-114.zip/SD114/vov/vov.cpp
+LG-514
+LG-514.zip/lg-514/ovo/ovo.cpp
+LG-514.zip/LG-514/vov/ovo.cpp
+PJ-998
+PJ-998.zip/PJ-998/PJ-998/ovo/ovo.cpp
+PJ-998/PJ-998/vov/vov.cpp
+fusu
+fusu.zip/fusu/ovo/ovo.cpp
+fusu.zip/fusu/ovo/vov.cpp
+===== Sample #1 Output =====
+Fusu is happy!
+Fusu is angry!
+Fusu is angry!
+Fusu is angry!
+Fusu is angry!
+Fusu is angry!
+Fusu is happy!
+Fusu is angry!

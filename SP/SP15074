@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2 8\n30\n20\n10\n40\nS 1\nW\nR 4 9\nS 4\nW\nR 2 35\nS 2\nW
+===== Sample #1 Output =====
+

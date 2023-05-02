@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+3
+SEND MORE MONEY
+3
+CROSS ROADS DANGER
+===== Sample #1 Output =====
+D=7 E=5 M=1 N=6 O=0 R=8 S=9 Y=2
+A=5 C=9 D=1 E=4 G=7 N=8 O=2 R=6 S=3

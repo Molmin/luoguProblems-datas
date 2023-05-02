@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+COUNT 4 2
+GENERATE 4 3
+END
+===== Sample #1 Output =====
+3
+4
+A BCD
+ABC D
+ABD C
+ACD B

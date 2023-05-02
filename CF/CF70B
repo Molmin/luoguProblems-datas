@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+25
+Hello. I am a little walrus.
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+2
+How are you?
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+19
+Hello! Do you like fish? Why?
+
+===== Sample #3 Output =====
+3
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+AiBjCiDECjDiFGC
+AaBiCaDECiDaFGC
+cDEcDEbDE
+aDEbDE
+ccddef
+aab
+===== Sample #1 Output =====
+1
+1
+2

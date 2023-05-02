@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n8\n1 2 3 2 3 3 2 1 0\n3\n1 0 0 1\n-1\n\n
+===== Sample #1 Output =====
+\n  &nbsp; _\n&nbsp;/\/ \\n/&nbsp;&nbsp;&nbsp;&nbsp; \\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; \\n***\n\_/\n***

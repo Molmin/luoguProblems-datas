@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+5
+270
+250
+250
+230
+250
+
+===== Sample #1 Output =====
+20 ml. from cup #4 to cup #1.
+
+===== Sample #2 Input =====
+5
+250
+250
+250
+250
+250
+
+===== Sample #2 Output =====
+Exemplary pages.
+
+===== Sample #3 Input =====
+5
+270
+250
+249
+230
+250
+
+===== Sample #3 Output =====
+Unrecoverable configuration.
+

@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+3 7
+ABA
+CB
+ABACB
+===== Sample #1 Output =====
+4

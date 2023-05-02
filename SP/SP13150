@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+2 8.75\n10 8.7 25000
+===== Sample #1 Output =====
+2
+\n\n\n\n2 &lt;= N &lt;= 5000\n1 &lt;= L &lt;= 1000000\n1 &lt;= V &lt;= 1000000\n\n.\n

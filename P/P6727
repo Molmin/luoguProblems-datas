@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+3 3
+aaa
+abc
+aba
+a*a
+aaa*
+*aaa
+===== Sample #1 Output =====
+2
+1
+1
+===== Sample #2 Input =====
+5 3
+eedecc
+ebdecb
+eaba
+ebcddc
+eb
+e*
+*dca
+e*c
+===== Sample #2 Output =====
+5
+0
+2

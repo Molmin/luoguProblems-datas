@@ -1,0 +1,60 @@
+===== Sample #1 Input =====
+PARAM A B
+IF A > 5 THEN
+C = B * A
+END IF
+D = B - C
+Z = Y + X
+E = T
+F = E + E
+V = G + G
+RETURN F
+===== Sample #1 Output =====
+Line 5: variable C might not have been
+initialized
+Line 6: variable X might not have been
+initialized
+Line 6: variable Y might not have been
+initialized
+Line 7: variable T might not have been
+initialized
+Line 9: variable G might not have been
+initialized
+===== Sample #2 Input =====
+PARAM G
+RETURN G
+B = K
+RETURN C
+===== Sample #2 Output =====
+Line 3: unreachable code
+Line 4: unreachable code
+===== Sample #3 Input =====
+PARAM T C
+B = T
+A = 4
+IF A < 4 THEN
+IF B > 3 THEN
+Q = 100 + F
+ELSE
+IF C = -1111111111 THEN
+Q = T - A
+IF Q = 0 THEN
+V = V - 1
+END IF
+ELSE
+RETURN I
+E = A
+END IF
+END IF
+ELSE
+Q = 1
+END IF
+RETURN Q
+===== Sample #3 Output =====
+Line 6: variable F might not have been
+initialized
+Line 11: variable V might not have
+been initialized
+Line 14: variable I might not have
+been initialized
+Line 15: unreachable code

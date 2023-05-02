@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+3
+C
+Z
+P
+
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+6
+C
+C
+P
+C
+Z
+Z
+===== Sample #2 Output =====
+5
+===== Sample #3 Input =====
+6
+B
+B
+B
+B
+B
+B
+===== Sample #3 Output =====
+2

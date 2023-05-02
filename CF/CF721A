@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+3
+BBW
+
+===== Sample #1 Output =====
+1
+2 
+===== Sample #2 Input =====
+5
+BWBWB
+
+===== Sample #2 Output =====
+3
+1 1 1 
+===== Sample #3 Input =====
+4
+WWWW
+
+===== Sample #3 Output =====
+0
+
+===== Sample #4 Input =====
+4
+BBBB
+
+===== Sample #4 Output =====
+1
+4 
+===== Sample #5 Input =====
+13
+WBBBBWWBWBBBW
+
+===== Sample #5 Output =====
+3
+4 1 3 

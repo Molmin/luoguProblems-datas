@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+10
+codeforces
+
+===== Sample #1 Output =====
+YES
+code
+
+===== Sample #2 Input =====
+5
+aaaaa
+
+===== Sample #2 Output =====
+NO
+

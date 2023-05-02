@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+xyz
+abc
+===== Sample #1 Output =====
+xaybzc
+===== Sample #2 Input =====
+atcoderbeginnercontest
+atcoderregularcontest
+===== Sample #2 Output =====
+aattccooddeerrbreeggiunlnaerrccoonntteesstt

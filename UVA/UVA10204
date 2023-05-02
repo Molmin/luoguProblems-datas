@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+8 8 12 7
+8 12 8
+8 8 12 7
+7 12 8
+8 8 12 7
+1 7 13
+100 200 99 190
+100 195 30
+===== Sample #1 Output =====
+The box will not go on the truck.
+The box goes on the truck.
+The box will not go on the truck.
+The box goes on the truck.

@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+5
+Server 192.168.1.1:8080
+Server 192.168.1.1:8080
+Client 192.168.1.1:8080
+Client 192.168.1.1:80
+Client 192.168.1.1:99999
+
+===== Sample #1 Output =====
+OK
+FAIL
+1
+FAIL
+ERR
+
+===== Sample #2 Input =====
+10
+Server 192.168.1.1:80
+Client 192.168.1.1:80
+Client 192.168.1.1:8080
+Server 192.168.1.1:80
+Server 192.168.1.1:8080
+Server 192.168.1.999:0
+Client 192.168.1.1.8080
+Client 192.168.1.1:8080
+Client 192.168.1.1:80
+Client 192.168.1.999:0
+
+===== Sample #2 Output =====
+OK
+1
+FAIL
+FAIL
+OK
+ERR
+ERR
+5
+1
+ERR
+
+===== Sample #3 Input =====
+见附件中的 network/network3.in。
+===== Sample #3 Output =====
+见附件中的 network/network3.ans。
+===== Sample #4 Input =====
+见附件中的 network/network4.in。
+===== Sample #4 Output =====
+见附件中的 network/network4.ans。

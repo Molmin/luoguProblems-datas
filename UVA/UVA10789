@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+ABCC
+AABBBBDDDDD
+ABCDFFFF
+===== Sample #1 Output =====
+Case 1: C
+Case 2: AD
+Case 3: empty

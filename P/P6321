@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 3 1 2
+.x.
+x.x
+.x. 
+===== Sample #1 Output =====
+..xx..
+xx..xx
+..xx.. 
+===== Sample #2 Input =====
+3 3 2 1
+.x.
+x.x
+.x.
+===== Sample #2 Output =====
+.x.
+.x.
+x.x
+x.x
+.x.
+.x.

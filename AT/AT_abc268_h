@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+abcdefghijklmn
+3
+abcd
+ijk
+ghi
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+atcoderbeginnercontest
+1
+abc
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+aaaaaaaaa
+2
+aa
+xyz
+===== Sample #3 Output =====
+4

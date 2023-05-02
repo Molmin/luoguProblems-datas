@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5.0 8.25
+3.25 8.00 T
+TO
+LU
+S
+1.0 2.0
+.55 1.3 B
+LO
+S
+===== Sample #1 Output =====
+Paper number 1
+Beginning paper dimensions 5.000000 X 8.250000
+Dot is on TOP of page 1. Position: 3.250000 X 8.000000
+After folding paper. Paper dimensions: 2.500000 X 4.125000
+Dot is on TOP of page 2. Position 0.750000 X 3.875000
+Paper number 2
+Beginning paper dimensions 1.000000 X 2.000000
+Dot is on BOTTOM of page 1. Position: 0.550000 X 1.300000
+After folding paper. Paper dimensions: 0.500000 X 2.000000
+Dot is on BOTTOM of page 2. Position 0.050000 X 1.300000

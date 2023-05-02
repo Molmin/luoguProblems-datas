@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+abb
+dad
+
+===== Sample #1 Output =====
+2
+a d
+b a
+===== Sample #2 Input =====
+8
+drpepper
+cocacola
+
+===== Sample #2 Output =====
+7
+l e
+e d
+d c
+c p
+p o
+o r
+r a
+

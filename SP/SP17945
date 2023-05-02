@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+1
+===== Sample #1 Output =====
+1
+
+
+3 0\n1 2 3 4 5\n2 4 6 40 80&nbsp;\n4 7 8 72 123
+\n4 3 2 1\n4 6 80 2\n4 7 123 8
+
+
+
+&nbsp;
+
+
+
+Input 2
+Output 2
+
+
+0 3\n4 3 2 1\n4 6 80 2\n4 7 123 8
+\n5\n40\n72
+
+
+
+Explanation
+The example above don't show any concrete strategy. It just shows, that strategy must be coherent (when Mickey for given set of cards 1 2 3 4 5 leave on the table 4 3 2 1, then Donald for given cards 4 3 2 1 should answer with the number 5).
+Generally You can implement Your own strategy satisfying the conditions below:
+
+for Mickey's query "a1 a2 ... ak" You should reply "b1 b2 ... bk-1", such that {b1, b2, ..., bk-1} is subset of {a1, a2, ..., ak}
+for Donald's query "b1 b2 ... bk-1" reply the number c, such that {b1, b2, ..., bk-1, c} = {a1, a2, ..., ak}
+
+&nbsp;
+Note
+The problem appeared in MWPZ 2007 contest in Poland, with different story (in original problem there was Polish characters Jacek and Placek). The main page of contest is http://mwpz.poznan.pl

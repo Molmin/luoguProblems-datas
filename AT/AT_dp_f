@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+axyb
+abyxb
+===== Sample #1 Output =====
+axb
+===== Sample #2 Input =====
+aa
+xayaz
+===== Sample #2 Output =====
+aa
+===== Sample #3 Input =====
+a
+z
+===== Sample #3 Output =====
+
+===== Sample #4 Input =====
+abracadabra
+avadakedavra
+===== Sample #4 Output =====
+aaadara

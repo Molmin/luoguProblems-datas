@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+7\n1 3 2 1 5 2 2\n4\n1 2\n1 5\n3 5\n4 5
+===== Sample #1 Output =====
+8\n16\n8\n5\n\nNOTE: for first query sabbir will buy all the gifts of prices 1 , 2 , 1 , 2, 2 . so, sum is 8\nfor second query sabbir will buy all the gifts . so the sum is 16\n&nbsp;

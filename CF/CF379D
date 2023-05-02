@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3 2 2 2
+
+===== Sample #1 Output =====
+AC
+AC
+
+===== Sample #2 Input =====
+3 3 2 2
+
+===== Sample #2 Output =====
+Happy new year!
+
+===== Sample #3 Input =====
+3 0 2 2
+
+===== Sample #3 Output =====
+AA
+AA
+
+===== Sample #4 Input =====
+4 3 2 1
+
+===== Sample #4 Output =====
+Happy new year!
+
+===== Sample #5 Input =====
+4 2 2 1
+
+===== Sample #5 Output =====
+Happy new year!
+

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+5
+hello
+10
+codeforces
+5
+eevee
+6
+appall
+===== Sample #1 Output =====
+1
+helno
+2
+codefofced
+1
+eeeee
+0
+appall

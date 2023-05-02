@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+1
+5 5 2
+1 1 2 2
+0 1 2 3
+===== Sample #1 Output =====
+Case 1
+Query 1: 10
+Query 2: 5

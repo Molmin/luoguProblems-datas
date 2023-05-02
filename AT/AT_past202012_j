@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+ab2c1
+6
+===== Sample #1 Output =====
+b
+===== Sample #2 Input =====
+atcoder
+6
+===== Sample #2 Output =====
+e
+===== Sample #3 Input =====
+a999999999999999
+1000000000000000
+===== Sample #3 Output =====
+a

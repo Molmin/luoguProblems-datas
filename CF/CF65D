@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+11
+G????SS???H
+
+===== Sample #1 Output =====
+Gryffindor
+Ravenclaw
+
+===== Sample #2 Input =====
+2
+H?
+
+===== Sample #2 Output =====
+Gryffindor
+Ravenclaw
+Slytherin
+

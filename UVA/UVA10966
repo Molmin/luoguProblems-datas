@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+pwd
+cd acm
+mkdir ./acm
+ls ./acm
+cd acm
+pwd
+touch acm -h -1000
+cd ..
+cd /
+grep
+ls -r -s
+ls -r -h
+find acm -h -r | grep "1000"
+exit
+===== Sample #1 Output =====
+/
+path not found
+[empty]
+/acm
+bad usage
+/acm 0 dir
+/acm 0 dir
+/acm/acm 1000 hidden
+/acm/acm 1000 hidden

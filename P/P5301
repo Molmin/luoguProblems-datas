@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+0
+0
+7m 4p 2s 7s 6p 8s 7p 5s 9s 9s 1p 5m 9m 5s 4p 5s E 1p 6s 5p B 4m 6m W 6p 6s E 9s 5p 2s 8s 8p 4m 3s 9m 5p 3s 2s 6s 8s 8p 6p 5m 4s 3m 4s 5s 4s 6m 9s 6p N 5m 7s 4m 2m 2s 6s 3m 7p B B N 1m 3m B 8p F 7p 0
+W 4p N 3m 2m B 9m 3p 1p 6p S 4s 5p 8s 4m 5s 2s 3s 0
+===== Sample #1 Output =====
+1308622848
+127401984

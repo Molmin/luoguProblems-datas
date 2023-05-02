@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+6
+aaab
+zzzb
+codeforces
+atcoder
+codeforces
+tokitlx
+aaaa
+aaaaaa
+abcd
+abcd
+c
+f
+===== Sample #1 Output =====
+YES
+*b
+YES
+*co*
+NO
+YES
+a*a*a*a
+YES
+abcd
+NO

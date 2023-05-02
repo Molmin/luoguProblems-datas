@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+racecar
+fastcar
+aaadbccb
+===== Sample #1 Output =====
+1
+7
+3

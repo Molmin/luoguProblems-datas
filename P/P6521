@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 1
+0000
+a010
+0202
+a0e2
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+4 2
+0000
+a010
+0202
+a0e2
+===== Sample #2 Output =====
+3

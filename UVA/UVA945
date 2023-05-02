@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+5
+10
+5
+8
+4
+3
+2
+1
+1
+2
+3
+4
+===== Sample #1 Output =====
+:3:
+211
+342
+=====
+123
+cargo weight: 16
+unused weight: 4
+unloaded weight: 4

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5 1 2 2 3 4 5 -1 -1
+7 1 2 2 3 3 1 4 5 5 6 6 7 7 4 -1 -1
+4 1 2 1 3 1 4 -1 -1
+3 1 2 2 3 3 1 -1 -1
+3 1 2 2 1 -1 -1
+0
+===== Sample #1 Output =====
+Set 1: Minimum links to open is 1
+Set 2: Minimum links to open is 2
+Set 3: Minimum links to open is 1
+Set 4: Minimum links to open is 1
+Set 5: Minimum links to open is 1

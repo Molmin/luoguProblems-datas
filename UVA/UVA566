@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+clone JOE from ADAM
+clone BOB from ADAM mutating HEM
+clone SAM from BOB mutating BLD
+clone ED from SAM mutating BLD
+clone FRANK from ED mutating HEM
+clone KAIN from ABEL
+clone ABEL from KAIN
+===== Sample #1 Output =====
+clone JOE from ADAM is consistent and safe
+clone BOB from ADAM is consistent and safe
+clone SAM from BOB is consistent and safe
+clone ED from SAM was at least twice mutated with BLD
+clone FRANK from ED has no connection to ADAM
+clone KAIN from ABEL has no connection to ADAM
+clone ABEL from KAIN has no connection to ADAM

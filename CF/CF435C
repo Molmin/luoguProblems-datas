@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+5
+3 1 2 5 1
+
+===== Sample #1 Output =====
+     <span class="tex-span"> / </span><span class="tex-span">\</span>     
+  <span class="tex-span"> / </span><span class="tex-span">\</span><span class="tex-span"> / </span>  <span class="tex-span">\</span>    
+ <span class="tex-span"> / </span>      <span class="tex-span">\</span>   
+<span class="tex-span"> / </span>        <span class="tex-span">\</span>  
+          <span class="tex-span">\</span><span class="tex-span"> / </span>
+
+===== Sample #2 Input =====
+3
+1 5 1
+
+===== Sample #2 Output =====
+<span class="tex-span"> / </span><span class="tex-span">\</span>     
+  <span class="tex-span">\</span>    
+   <span class="tex-span">\</span>   
+    <span class="tex-span">\</span>  
+     <span class="tex-span">\</span><span class="tex-span"> / </span>
+

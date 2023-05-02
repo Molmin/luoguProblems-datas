@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+abc
+dddncabca
+===== Sample #1 Output =====
+abc is substring of dddncabca
+===== Sample #2 Input =====
+aaa
+bbb
+===== Sample #2 Output =====
+No substring

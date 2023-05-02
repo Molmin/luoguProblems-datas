@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+3
+TMT
+3
+MTT
+6
+TMTMTT
+6
+TMTTTT
+6
+TTMMTT
+===== Sample #1 Output =====
+YES
+NO
+YES
+NO
+YES

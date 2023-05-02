@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+(*a++(*)
+(*a{+}*)
+===== Sample #1 Output =====
+NO 6
+YES

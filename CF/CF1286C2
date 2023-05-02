@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+
+a
+aa
+a
+
+cb
+b
+c
+
+c
+===== Sample #1 Output =====
+? 1 2
+
+? 3 4
+
+? 4 4
+
+! aabc

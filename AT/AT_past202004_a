@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+1F 5F
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+B1 B7
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+1F B1
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+B9 9F
+===== Sample #4 Output =====
+17

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+NIVA
+HLAD
+HSIN
+DEDA
+
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+6
+BAKA
+BARA
+BALC
+CALC
+ARHC
+BLIC
+
+===== Sample #2 Output =====
+8

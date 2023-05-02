@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+5 3
+4 2 1 10 5
+apple
+orange
+mango
+
+===== Sample #1 Output =====
+7 19
+
+===== Sample #2 Input =====
+6 5
+3 5 1 6 8 1
+peach
+grapefruit
+banana
+orange
+orange
+
+===== Sample #2 Output =====
+11 30
+

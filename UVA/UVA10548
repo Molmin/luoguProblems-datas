@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+3 5 17
+7 -23 571
+10 36 7
+===== Sample #1 Output =====
+1
+Infinitely many solutions
+Impossible

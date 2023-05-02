@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+abc123abc2a3a1
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+borna123vitez
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+as23dkrf23smk1asd23sam9
+===== Sample #3 Output =====
+3

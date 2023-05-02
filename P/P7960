@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+4
+6
+33
+69
+300
+
+===== Sample #1 Output =====
+8
+36
+80
+-1
+
+===== Sample #2 Input =====
+5
+90
+99
+106
+114
+169
+
+===== Sample #2 Output =====
+92
+100
+109
+-1
+180
+
+===== Sample #3 Input =====
+见附件中的 number/number3.in
+===== Sample #3 Output =====
+见附件中的 number/number3.ans
+===== Sample #4 Input =====
+见附件中的 number/number4.in
+===== Sample #4 Output =====
+见附件中的 number/number4.ans

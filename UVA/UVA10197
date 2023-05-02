@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+falar talk
+compor compose
+andar walk
+===== Sample #1 Output =====
+falar (to talk)
+eu
+falo
+tu
+falas
+ele/ela fala
+ns
+falamos
+vs
+falais
+eles/elas falam
+compor (to compose)
+Unknown conjugation
+andar (to walk)
+eu
+ando
+tu
+andas
+ele/ela anda
+ns
+andamos
+vs
+andais
+eles/elas andam

@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+2 3
+ATK 2000
+DEF 1700
+2500
+2500
+2500
+
+===== Sample #1 Output =====
+3000
+
+===== Sample #2 Input =====
+3 4
+ATK 10
+ATK 100
+ATK 1000
+1
+11
+101
+1001
+
+===== Sample #2 Output =====
+992
+
+===== Sample #3 Input =====
+2 4
+DEF 0
+ATK 0
+0
+0
+1
+1
+
+===== Sample #3 Output =====
+1
+

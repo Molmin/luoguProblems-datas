@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+2
+10
+100
+===== Sample #1 Output =====
+Underflow!
+3628800
+Overflow!

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5
+abcde
+===== Sample #1 Output =====
+e
+===== Sample #2 Input =====
+1
+a
+===== Sample #2 Output =====
+a

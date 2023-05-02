@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+10
+4 5 3 7 2 8 1 6 10 9
+1 Hello Bob
+1995 CERC
+0
+0
+===== Sample #1 Output =====
+BolHeol b
+C RCE

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+.
+(a a) (a b) (b).
+(a b c) (b a e) (c d)
+(d d) (e b).
+===== Sample #1 Output =====
+a
+b
+a b e
+c
+d

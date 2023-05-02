@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+2 3 1
+===== Sample #1 Output =====
+8
+UZMI L L
+STAVI L D
+UZMI L L
+UZMI D L
+STAVI L L
+UZMI L D
+STAVI L L
+STAVI D L
+===== Sample #2 Input =====
+4
+1 1 2 5
+===== Sample #2 Output =====
+0

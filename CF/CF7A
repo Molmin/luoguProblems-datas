@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+WWWBWWBW
+BBBBBBBB
+WWWBWWBW
+WWWBWWBW
+WWWBWWBW
+WWWBWWBW
+WWWBWWBW
+WWWBWWBW
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+WWWWWWWW
+BBBBBBBB
+WWWWWWWW
+WWWWWWWW
+WWWWWWWW
+WWWWWWWW
+WWWWWWWW
+WWWWWWWW
+
+===== Sample #2 Output =====
+1
+

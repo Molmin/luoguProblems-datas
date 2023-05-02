@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+file:
+
+0
+4
+11
+-1
+
+
+ 
+===== Sample #1 Output =====
+file:
+
+1
+2
+20

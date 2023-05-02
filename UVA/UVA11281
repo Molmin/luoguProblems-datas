@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3
+4.0 5.0 6.0
+3
+3.0 4.0 5.0
+5.0 5.0 5.0
+4.5 4.5 8.0
+===== Sample #1 Output =====
+Peg A will fit into hole(s): 2 3
+Peg B will fit into hole(s): 3
+Peg C will not fit into any holes

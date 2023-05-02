@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2
+3 5
+1 2 3
+5 10
+1 2 2 4 5
+===== Sample #1 Output =====
+Case 1: 6
+Case 2: 30
+
+Notes: For the first case of the Sample Input, the orderings are
+12
+13
+21
+23
+31
+32
+Only 1 or 2 or 3 is not solutions since we can still place another box.

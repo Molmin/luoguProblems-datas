@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+apple
+pepperoni
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+lover
+driver
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+bidhan
+roy
+
+===== Sample #3 Output =====
+-1
+
+===== Sample #4 Input =====
+testsetses
+teeptes
+
+===== Sample #4 Output =====
+3
+

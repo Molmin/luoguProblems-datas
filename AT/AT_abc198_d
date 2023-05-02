@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+a
+b
+c
+===== Sample #1 Output =====
+1
+2
+3
+===== Sample #2 Input =====
+x
+x
+y
+===== Sample #2 Output =====
+1
+1
+2
+===== Sample #3 Input =====
+p
+q
+p
+===== Sample #3 Output =====
+UNSOLVABLE
+===== Sample #4 Input =====
+abcd
+efgh
+ijkl
+===== Sample #4 Output =====
+UNSOLVABLE
+===== Sample #5 Input =====
+send
+more
+money
+===== Sample #5 Output =====
+9567
+1085
+10652

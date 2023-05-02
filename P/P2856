@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 13
+11
+ALL
+BALL
+BELL
+CALK
+CALL
+CELL
+DILL
+FILL
+FILM
+ILL
+MILK
+===== Sample #1 Output =====
+7
+AB
+CDEFGHIJK
+LM

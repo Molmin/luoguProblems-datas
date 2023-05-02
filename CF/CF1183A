@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+432
+
+===== Sample #1 Output =====
+435
+
+===== Sample #2 Input =====
+99
+
+===== Sample #2 Output =====
+103
+
+===== Sample #3 Input =====
+237
+
+===== Sample #3 Output =====
+237
+
+===== Sample #4 Input =====
+42
+
+===== Sample #4 Output =====
+44
+

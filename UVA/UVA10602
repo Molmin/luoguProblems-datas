@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3
+3
+this
+thin
+thing
+4
+popcorn
+apple
+apricote
+plum
+2
+hello
+hello
+===== Sample #1 Output =====
+6
+this
+thin
+thing
+21
+popcorn
+plum
+apricote
+apple
+5
+hello
+hello

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+PROGRAM SAMPLEINPUT;
+VAR
+TEMP : RECORD
+FIRST, SECOND : REAL;
+END;
+BEGIN {Ignore this }
+TEMP.FIRST := 5.0E-2;
+READLN (TEMP.SECOND);
+WRITELN ('THE ANSWER IS', TEMP.FIRST * TEMP.SECOND : 7 : 3)
+END.
+~~A. N. Onymous
+===== Sample #1 Output =====
+Program by A. N. Onymous contains 29 units.

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 4
+abc
+bacb
+
+===== Sample #1 Output =====
+74
+===== Sample #2 Input =====
+7 9
+adcbbde
+bdaegbcba
+
+===== Sample #2 Output =====
+2128

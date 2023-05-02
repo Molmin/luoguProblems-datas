@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+Po|Px|Sxo#Soo#|o#Soo#|o#
+===== Sample #1 Output =====
+3
+Po|Px|Sxo#Sox#|o#Soo#|o#
+===== Sample #2 Input =====
+Po|SPo|oo|o#Px|oo|o##Po|Sxo#Po|ox|o#|o#|o#
+===== Sample #2 Output =====
+7
+Po|SPo|xx|o#Px|ox|o##Po|Sxx#Po|ox|o#|o#|o#

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4
+int
+printf
+scanf
+ntnt
+===== Sample #1 Output =====
+23
+===== Sample #2 Input =====
+4
+ireallywanttobemissjiaransdog
+butmissjiaransaidthatshelikedcatsandicried
+iknowwhyicrywheniamneitheradognoracatbecauseimactuallyamouse
+ineverexpectedmissjiarantolikeherselfiunderstandthatallpeopleliketounderstandthecutedogorcatthatyuyuusestomakemoneyandnoonelikesthemousewithwetandwetdiseases
+===== Sample #2 Output =====
+391

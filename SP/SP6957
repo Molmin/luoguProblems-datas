@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\nUDOVICAB??IVODUANAVOL?MILOVANA\nCCA\n1\n\n
+===== Sample #1 Output =====
+\n15\nANAVOLIMILOVANA 16\nUDOVICABACIVODU 1\n\n\nNote that both palindromes have 1 letter which Fernando has changed.\n\n\n\nInput:\nABCDE??ABCDE??\nABCD\n1\n\nOutput:\n5\nCBABC 6\n\n\nInput:\nABCDE??ABCDEFG\nFG\n0\n\nOutput:\n1\nA 1\nA 8\nB 2\nB 9\nC 10\nC 3\nD 4\nD 11\nE 5\nE 12\nF 13\nF 6\nG 7\nG 14\n\n

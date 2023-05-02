@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3x7
+===== Sample #1 Output =====
+21
+===== Sample #2 Input =====
+9x9
+===== Sample #2 Output =====
+81
+===== Sample #3 Input =====
+1x1
+===== Sample #3 Output =====
+1

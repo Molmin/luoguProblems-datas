@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+47
+74
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+774
+744
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+777
+444
+
+===== Sample #3 Output =====
+3
+

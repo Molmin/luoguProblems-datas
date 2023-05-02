@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+6
+form
+formal
+malformed
+for
+man
+remake
+3
+cool
+cool
+old
+0
+===== Sample #1 Output =====
+11
+3

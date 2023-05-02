@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+4
+sword weapon 10 2 3 2
+pagstarmor armor 0 15 3 1
+iceorb orb 3 2 13 2
+longbow weapon 9 1 2 1
+5
+mike gladiator 5 longbow
+bobby sentry 6 pagstarmor
+petr gladiator 7 iceorb
+teddy physician 6 sword
+blackjack sentry 8 sword
+
+===== Sample #1 Output =====
+sword 2 petr mike 
+pagstarmor 1 blackjack 
+iceorb 2 teddy bobby 
+
+===== Sample #2 Input =====
+4
+sword weapon 10 2 3 2
+pagstarmor armor 0 15 3 1
+iceorb orb 3 2 13 2
+longbow weapon 9 1 2 1
+6
+mike gladiator 5 longbow
+bobby sentry 6 pagstarmor
+petr gladiator 7 iceorb
+teddy physician 6 sword
+blackjack sentry 8 sword
+joe physician 6 iceorb
+
+===== Sample #2 Output =====
+longbow 1 mike 
+pagstarmor 1 bobby 
+iceorb 2 petr joe 
+

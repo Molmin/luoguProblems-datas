@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+0 0
+===== Sample #1 Output =====
+OUT
+===== Sample #2 Input =====
+27 0
+===== Sample #2 Output =====
+IN
+===== Sample #3 Input =====
+0 27
+===== Sample #3 Output =====
+OUT
+===== Sample #4 Input =====
+27 27
+===== Sample #4 Output =====
+IN

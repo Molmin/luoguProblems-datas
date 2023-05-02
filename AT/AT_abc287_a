@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+For
+Against
+For
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+5
+Against
+Against
+For
+Against
+For
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+1
+For
+===== Sample #3 Output =====
+Yes

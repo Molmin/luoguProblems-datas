@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+a
+aa
+ab
+===== Sample #1 Output =====
+1
+499122179
+499122179
+===== Sample #2 Input =====
+3
+a
+aa
+aaa
+===== Sample #2 Output =====
+1
+2
+3

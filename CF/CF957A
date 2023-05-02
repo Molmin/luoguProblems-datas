@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+5
+CY??Y
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+5
+C?C?Y
+
+===== Sample #2 Output =====
+Yes
+
+===== Sample #3 Input =====
+5
+?CYC?
+
+===== Sample #3 Output =====
+Yes
+
+===== Sample #4 Input =====
+5
+C??MM
+
+===== Sample #4 Output =====
+No
+
+===== Sample #5 Input =====
+3
+MMY
+
+===== Sample #5 Output =====
+No
+

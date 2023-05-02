@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+monday
+tuesday
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+sunday
+sunday
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+saturday
+tuesday
+
+===== Sample #3 Output =====
+YES
+

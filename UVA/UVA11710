@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 3
+Picadilly
+Victoria
+Queensway
+Picadilly Victoria 2
+Queensway Victoria 10
+Queensway Picadilly 20
+Picadilly
+4 2
+Picadilly
+Victoria
+Queensway
+Temple
+Picadilly Victoria 2
+Temple Queensway 100
+Temple
+0 0
+===== Sample #1 Output =====
+12
+Impossible

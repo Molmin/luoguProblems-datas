@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+1
+4 5
+===== Sample #1 Output =====
+A1B3C1A2B4D3E1C2D4E2C3A4B2D1E3C4A3B1D2E4

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1
+++X
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+2
+X++
+--X
+
+===== Sample #2 Output =====
+0
+

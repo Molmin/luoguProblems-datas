@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+9
+rack car kiosk minumum atom
+metal lima arctic kenia
+5
+star rest type plane east
+===== Sample #1 Output =====
+arctic car rack kiosk kenia atom minumum metal lima
+No way

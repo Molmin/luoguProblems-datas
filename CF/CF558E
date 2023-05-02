@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+10 5
+abacdabcda
+7 10 0
+5 8 1
+1 4 0
+3 6 0
+7 10 1
+
+===== Sample #1 Output =====
+cbcaaaabdd
+===== Sample #2 Input =====
+10 1
+agjucbvdfk
+1 10 1
+
+===== Sample #2 Output =====
+abcdfgjkuv

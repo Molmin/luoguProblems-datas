@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3 3
+>vo
+vv>
+x>>
+===== Sample #1 Output =====
+1
+>vo
+vv>
+x<>
+===== Sample #2 Input =====
+3 6
+>>vv<<
+^ovvx^
+^<<>>^
+===== Sample #2 Output =====
+2
+>>vv<<
+^o>>x^
+^<<>>^
+===== Sample #3 Input =====
+4 4
+x.v.
+.>.<
+>.<.
+.^.o
+===== Sample #3 Output =====
+4
+x<<.
+.>^<
+>.<^
+.^.o

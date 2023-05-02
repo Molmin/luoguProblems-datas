@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3 1 0 0 0 2
+0 -3 0 4
+1 2 -1 1
+1 -2 2 -1
+
+
+Input details:
+
+Bessie starts at point (0, 0) and is moving at 2 units per second in the (positive) y-direction. There are 3 cattle bruisers, the first of which starts at point (0, -3) and travels 4 units per second in the y-direction. The maximum distance for a cattle bruiser to be in range of Bessie is 1 unit.
+===== Sample #1 Output =====
+2

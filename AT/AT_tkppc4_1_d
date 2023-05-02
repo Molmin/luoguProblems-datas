@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+51 2 1 2 1
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+51 3 5 2 1
+===== Sample #2 Output =====
+3

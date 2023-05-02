@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 2
+URL
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+4 500000000000000000
+RRUU
+===== Sample #2 Output =====
+500000000000000000
+===== Sample #3 Input =====
+30 123456789
+LRULURLURLULULRURRLRULRRRUURRU
+===== Sample #3 Output =====
+126419752371

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+---
+-O-
+---
+===== Sample #1 Output =====
+Dont know.
+1
+
+===== Sample #2 Input =====
+---
+-O-
+-XO
+===== Sample #2 Output =====
+xiaoa will win.
+3

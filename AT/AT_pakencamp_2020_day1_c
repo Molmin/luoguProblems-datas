@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+2
+2
+kaage penguinman
+2
+penguinman rho
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+3
+1
+penguinman
+1
+kaage
+1
+rho
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+3
+3
+a b c
+2
+a ba
+3
+a ba abc
+===== Sample #3 Output =====
+1

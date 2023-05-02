@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+4 6
+2S 3S 4S 7S 8S AS
+5H 6H 7H 5S TC AC
+8H 9H TH 7C 8C 9C
+2D 2C 3C 4C 5C 6C
+
+===== Sample #1 Output =====
+No solution.
+===== Sample #2 Input =====
+4 6
+2S 3S 4S 7S 8S AS
+5H 6H 7H J1 TC AC
+8H 9H TH 7C 8C 9C
+2D 2C 3C 4C 5C 6C
+
+===== Sample #2 Output =====
+Solution exists.
+Replace J1 with 2H.
+Put the first square to (1, 1).
+Put the second square to (2, 4).
+
+===== Sample #3 Input =====
+4 6
+2S 3S 4S 7S 8S AS
+5H 6H 7H QC TC AC
+8H 9H TH 7C 8C 9C
+2D 2C 3C 4C 5C 6C
+
+===== Sample #3 Output =====
+Solution exists.
+There are no jokers.
+Put the first square to (1, 1).
+Put the second square to (2, 4).
+

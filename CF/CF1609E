@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+9 12
+aaabccccc
+4 a
+4 b
+2 b
+5 a
+1 b
+6 b
+5 c
+2 a
+1 a
+5 a
+6 b
+7 b
+===== Sample #1 Output =====
+0
+1
+2
+2
+1
+2
+1
+2
+2
+2
+2
+2

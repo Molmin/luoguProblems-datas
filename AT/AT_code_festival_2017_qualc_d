@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+aabxyyzz
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+byebye
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+abcdefghijklmnopqrstuvwxyz
+===== Sample #3 Output =====
+26
+===== Sample #4 Input =====
+abcabcxabcx
+===== Sample #4 Output =====
+3

@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+3
+1 0 0
+0 1 0
+0 0 1
+
+===== Sample #1 Output =====
+LM
+MW
+MW
+
+===== Sample #2 Input =====
+7
+0 8 9
+5 9 -2
+6 -8 -7
+9 4 5
+-4 -9 9
+-4 5 2
+-6 8 -7
+
+===== Sample #2 Output =====
+LM
+MW
+LM
+LW
+MW
+LM
+LW
+
+===== Sample #3 Input =====
+2
+1 0 0
+1 1 0
+
+===== Sample #3 Output =====
+Impossible
+

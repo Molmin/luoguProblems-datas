@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1\n6\n0 0\n5 0\n4 2\n5 4\n0 4\n1 2\n3\n1 1\n1 2\n5 2\n\n
+===== Sample #1 Output =====
+\n32.000 1 0\n\nExplaination: 32.000 area of paper to cover the kite. Only 1st hole can be made successfully (2nd is on parimeter, 3rd is out the kite)\nKite has non-convex shape\n

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n4 11\nadd 1 2\nadd 2 3\nadd 3 4\nadd 1 4\nconn 4 2\nrem 1 2\nconn 2 4\nrem 3 4\nconn 4 2\nadd 2 4\nconn 4 2\n\n
+===== Sample #1 Output =====
+\nYES\nYES\nNO\nYES\n\nThis example will be the first test case.

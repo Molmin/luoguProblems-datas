@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+X1 s1 s2 10
+X0 s1 s3 11
+01 s2 s1 01
+1X s2 s3 00
+X0 s2 s3 00
+1X s3 s1 11
+0X s3 s2 00
+===== Sample #1 Output =====
+3 1

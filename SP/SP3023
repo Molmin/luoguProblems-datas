@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3
+110
+011
+4
+0011
+1110
+0
+===== Sample #1 Output =====
+overflow
+1010

@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+8
+3
+BRB
+5
+RRBBB
+6
+RBRBRB
+8
+BBRRBRRB
+6
+BRRBRB
+12
+RBRBRBRBRRBB
+12
+RBRBRBRBBBRR
+4
+RBBR
+===== Sample #1 Output =====
+Bob
+Bob
+Alice
+Alice
+Alice
+Alice
+Bob
+Bob

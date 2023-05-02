@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+QWERTYUIOPASDFGHJKLZXCVBNM
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+===== Sample #1 Output =====
+No
+Yes

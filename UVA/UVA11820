@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+ab
+abcd
+abd
+bde
+CgeF
+abc
+abcd
+abde
+abdeabde
+abdeCgeFabde
+===== Sample #1 Output =====
+1 2
+ab c
+1 1
+abcd
+2 2
+a bde
+abd e
+4 4
+a bde a bde
+a bde abd e
+abd e a bde
+abd e abd e
+4 5
+a bde CgeF a bde
+a bde CgeF abd e
+abd e CgeF a bde
+abd e CgeF abd e

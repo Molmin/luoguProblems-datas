@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n36\n37\n38\n\n
+===== Sample #1 Output =====
+\nInstance 1\nyes\n\nInstance 2\nno\n\nInstance 3\nno\n

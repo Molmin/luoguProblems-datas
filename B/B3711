@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+234
+1
+286
+===== Sample #1 Output =====
+Yes
+No
+Yes
+===== Sample #2 Input =====
+1
+2386
+===== Sample #2 Output =====
+Yes

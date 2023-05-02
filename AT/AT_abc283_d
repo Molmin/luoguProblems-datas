@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+((a)ba)
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+(a(ba))
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+(((())))
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+abca
+===== Sample #4 Output =====
+No

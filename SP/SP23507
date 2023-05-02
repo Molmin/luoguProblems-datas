@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n7\nAUGCAAG\nGGAUGCG\n2\n1 3 4\n6 1 2
+===== Sample #1 Output =====
+\n4\n1

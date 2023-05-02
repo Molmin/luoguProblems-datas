@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+3
+aaa
+aa
+abb
+
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+3
+x
+x
+xy
+
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+5
+mir
+mirta
+ta
+ir
+t
+
+===== Sample #3 Output =====
+6

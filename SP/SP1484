@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+&lt;THU>\n	&lt;Team>\n		&lt;ACRush>&lt;/ACRush>\n		&lt;Jelly>&lt;/Jelly>\n		&lt;Cooly>&lt;/Cooly>\n	&lt;/Team>\n	&lt;JiaJia>\n		&lt;Team>\n			&lt;Ahyangyi>&lt;/Ahyangyi>\n			&lt;Dragon>&lt;/Dragon>\n			&lt;Cooly>&lt;Amber>&lt;/Amber>&lt;/Cooly>\n		&lt;/Team>\n	&lt;/JiaJia>\n&lt;/THU>
+&lt;Team>&lt;Cooly>&lt;/Cooly>&lt;/Team>
+===== Sample #1 Output =====
+2
+2
+7

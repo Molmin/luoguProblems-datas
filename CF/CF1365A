@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+2 2
+0 0
+0 0
+2 2
+0 0
+0 1
+2 3
+1 0 1
+1 1 0
+3 3
+1 0 0
+0 0 0
+1 0 0
+===== Sample #1 Output =====
+Vivek
+Ashish
+Vivek
+Ashish

@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+aaxbab
+12
+ab
+da
+subsequence
+aaxbab
+a
+aa
+aaa
+aaaa
+ba
+x
+xb
+xb
+===== Sample #1 Output =====
+2 4
+-1
+-1
+1 6
+1 1
+1 2
+1 5
+-1
+4 5
+3 3
+3 4
+3 4

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+10 5 8 54
+1 1 5
+2 1 1
+1 10 4
+1 10 2
+1 10 3
+2 10 1
+2 10 2
+2 10 3
+===== Sample #1 Output =====
+a[0] = 1 ; This is a comment
+
+a[1] = 5 ; Don't include any multibyte character in your program
+a[2] = 4
+a[3] = 2
+a[4] = 3
+----
+a[2015] = X ; no meaning
+a[2016] = Y ; no meaning too
+----
+A = a[a[0]];
+a[0] = a[0] + 1

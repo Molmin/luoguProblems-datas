@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+A:BD;C:BD;F:E;G:DEH;H:EG. A H
+E:AB. A B
+B:ACD. B D
+A:B;B:C;D:E. A D
+#
+===== Sample #1 Output =====
+Paskill trapped in node D Lisper trapped in node F
+Both annihilated in node E
+Lisper destroyed in node B
+Lisper trapped in node E

@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3 4
+abac
+caab
+acba
+
+===== Sample #1 Output =====
+acab
+
+===== Sample #2 Input =====
+3 4
+kbbu
+kbub
+ubkb
+
+===== Sample #2 Output =====
+kbub
+
+===== Sample #3 Input =====
+5 4
+abcd
+dcba
+acbd
+dbca
+zzzz
+
+===== Sample #3 Output =====
+-1
+

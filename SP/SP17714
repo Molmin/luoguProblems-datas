@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+6\n2\n3\n4\n5\n20\n123456&nbsp;
+===== Sample #1 Output =====
+\n1\n1\n2\n1\n3\n6

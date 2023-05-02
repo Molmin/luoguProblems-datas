@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3 3
+25 37 45
+51 12 34
+94 83 27
+10000
+0 0
+===== Sample #1 Output =====
+Region 1
+Water level is 46.67 meters.
+66.67 percent of the region is under water.

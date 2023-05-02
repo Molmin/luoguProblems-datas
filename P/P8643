@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 2 2
+ATC
+TCG
+ACG
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+4 3 3
+AAA
+AAAA
+AAA
+AAA
+===== Sample #2 Output =====
+7

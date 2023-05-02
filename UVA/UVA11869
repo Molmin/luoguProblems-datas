@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+1
+8
+&lt;a good="true" wants="no"&gt;
+&lt;b&gt;
+&lt;c contest="running"&gt;
+&lt;d ballon="no"&gt;
+&lt;/d&gt;
+&lt;/c&gt;
+&lt;/b&gt;
+&lt;/a&gt;
+4
+a.b.c.d["ballon"]
+a.c["contest"]
+a.b.c["contest"]
+c["contest"]
+===== Sample #1 Output =====
+Case 1:
+no
+Undefined
+running
+Undefined

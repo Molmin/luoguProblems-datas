@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4
+YaoLin 87 82 Y N 0
+ChenRuiyi 88 78 N Y 1
+LiXin 92 88 N N 0
+ZhangQin 83 87 Y N 1
+
+===== Sample #1 Output =====
+ChenRuiyi
+9000
+28700
+

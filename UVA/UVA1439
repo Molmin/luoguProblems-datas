@@ -1,0 +1,54 @@
+===== Sample #1 Input =====
+2
+P Q
+R S
+6
+P Q
+Q R
+R S
+S T
+T U
+U P
+4
+P Q
+P Q
+P Q
+P Q
+3
+P Q
+Q R
+R P
+6
+P Q
+Q S
+S R
+R P
+P S
+R Q
+===== Sample #1 Output =====
+0
+P Q
+R S
+0
+P Q
+R Q
+R S
+T S
+T U
+P U
+0
+P Q
+P Q
+P Q
+P Q
+1
+P Q
+Q R
+P R
+2
+P Q
+Q S
+R S
+P R
+P S
+R Q

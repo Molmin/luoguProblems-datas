@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+10
+hello
+===== Sample #1 Output =====
+hello
+===== Sample #2 Input =====
+37
+narasenntannkagakugijyutudaigakuinndaigaku
+===== Sample #2 Output =====
+narasenntannkagakugijyutudaigakuinnda

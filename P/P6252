@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+5 60 18 2
+0 0
+20 20
+30 10
+50 30
+70 20
+===== Sample #1 Output =====
+6460
+===== Sample #2 Input =====
+4 10 1 1
+0 0
+1 9
+9 9
+10 0
+===== Sample #2 Output =====
+impossible

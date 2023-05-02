@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+A*G?C
+3
+AGTC
+AGTGTC
+AGTGC
+===== Sample #1 Output =====
+1

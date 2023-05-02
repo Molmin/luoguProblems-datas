@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+90 180 45 195
+===== Sample #1 Output =====
+120
+===== Sample #2 Input =====
+1
+1
+===== Sample #2 Output =====
+359
+===== Sample #3 Input =====
+10
+215 137 320 339 341 41 44 18 241 149
+===== Sample #3 Output =====
+170

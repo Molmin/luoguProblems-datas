@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+20 10
+e l 3
+e o 1
+o n 2
+o r 4
+r a 4
+i n 5
+e n 2
+n t 3
+t w 3
+w i 5
+===== Sample #1 Output =====
+470059518

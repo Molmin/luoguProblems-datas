@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+1 4
+A A A 2
+3 aaa
+8 aaaaaaaa
+5 ababa
+1 a
+3 1
+A B C 1
+C P C 7
+B I C 11
+4 icpc
+===== Sample #1 Output =====
+CASE #1
+POSSIBLE WITH 7 DIAMONDS
+POSSIBLE WITH 22 DIAMONDS
+IMPOSSIBLE
+POSSIBLE WITH 1 DIAMONDS
+CASE #2
+POSSIBLE WITH 23 DIAMONDS

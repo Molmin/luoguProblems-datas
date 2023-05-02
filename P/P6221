@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 2
+a b
+ab bd
+abc abd
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+3 3
+a b c
+aa ab ac
+aaa aab aca
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+3 1
+a
+bc
+def
+===== Sample #3 Output =====
+0

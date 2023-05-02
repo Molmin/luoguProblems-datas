@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+2
+ab
+bc
+
+===== Sample #1 Output =====
+YES
+acbbac
+
+===== Sample #2 Input =====
+3
+aa
+bc
+
+===== Sample #2 Output =====
+YES
+cacbacbab
+
+===== Sample #3 Input =====
+1
+cb
+ac
+
+===== Sample #3 Output =====
+YES
+abc
+

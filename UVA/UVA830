@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+1
+16 12
+b...c.fgh...
+baabca.jkyyy
+...bcak..yyy
+....ca...yyy
+zzzzzz...uuu
+zzzzzz.s.uuu
+zzzzzzsssuuu
+.tttt.sssuuu
+ttttt.sssuuu
+.tttt.sss.u.
+.........hh.
+bbbb..fffhh.
+bbbb..fffhh.
+bbbbgggg.hh.
+bbbbgggg.ppp
+bbbbgggg.ppp
+===== Sample #1 Output =====
+6 3 2 3 1 2 1 3

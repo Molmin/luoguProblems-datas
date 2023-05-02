@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 2 1 2
+7 2 3 3
+9 3 3 1
+0
+-2 8 1 8
+0 7 6 10 0 9
+-5 9
+===== Sample #1 Output =====
+Scenario 1.
+Situation Impossible
+Scenario 2.
+Goal with 3 kicks: (0,0)(-4,0)(-4,14)(-2,14)
+Scenario 3.
+Goal with 1 kicks: (0,0)(0,18)

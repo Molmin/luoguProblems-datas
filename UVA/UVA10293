@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+This is fun-
+ny! Mr.P and I’ve never seen
+this ice-cream flavour
+before.Crazy eh?
+#
+This is fun-
+ny! Mr.P and I’ve never seen
+this ice-cream flavour
+before.Crazy eh?
+#
+===== Sample #1 Output =====
+1 1
+2 3
+3 2
+4 3
+5 3
+6 1
+7 1
+8 1
+1 1
+2 3
+3 2
+4 3
+5 3
+6 1
+7 1
+8 1

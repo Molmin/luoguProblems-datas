@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+1020
+400
+0
+===== Sample #1 Output =====
+1020 8
+400 2
+Comments: The 8 solution pairs for the ﬁrst sample input are (1, 2039), (2, 680), (5, 227), (14, 76),
+(76, 14), (227 5), (680, 2) and (2039, 1).

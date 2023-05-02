@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+10 20
+3 0
+3 6
+4 9
+16 25
+
+===== Sample #1 Output =====
+POSSIBLE
+4 16
+112
+
+===== Sample #2 Input =====
+1 10
+3 3
+0 10
+0 10
+0 10
+1 2
+1 3
+2 3
+
+===== Sample #2 Output =====
+IMPOSSIBLE
+

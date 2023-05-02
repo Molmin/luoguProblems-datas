@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+AspiRin
+cisapride
+2-PENICILLIN
+Cefradine-6
+===== Sample #1 Output =====
+Aspirin
+Cisapride
+2-penicillin
+Cefradine-6

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+ABC
+BLJTV1
+BLJTV2
+===== Sample #1 Output =====
+33
+===== Sample #2 Input =====
+4
+ABC1
+ABC02
+BLJTV2
+BLJTV1
+===== Sample #2 Output =====
+11144411144
+===== Sample #3 Input =====
+4
+ABC1
+ABC02
+BLJTV2
+BLJTV1
+===== Sample #3 Output =====
+33144413

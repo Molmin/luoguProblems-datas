@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2\n 10000000001 3\n 23 51 100\n 10000000001 3\n 100 52 22 \n
+===== Sample #1 Output =====
+\nCase #1: 100000004\nCase #2: IMPOSSIBLE\n\n\n

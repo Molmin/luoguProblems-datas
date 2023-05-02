@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+helloworld
+ehoolwlroz
+
+===== Sample #1 Output =====
+3
+h e
+l o
+d z
+
+===== Sample #2 Input =====
+hastalavistababy
+hastalavistababy
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+merrychristmas
+christmasmerry
+
+===== Sample #3 Output =====
+-1
+

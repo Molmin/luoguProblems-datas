@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2 
+1 1 
+1
+2 30 
+197943 
+249832
+===== Sample #1 Output =====
+Preempt.
+Leapfrog.

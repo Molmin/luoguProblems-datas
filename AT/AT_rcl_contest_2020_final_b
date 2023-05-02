@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 2 6
+----
+-o--
+x---
+-x--
+XYZX
+ZAYX
+ZBZB
+XYZX
+===== Sample #1 Output =====
+D
+R
+L
+P 2 0 0 1
+U

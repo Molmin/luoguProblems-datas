@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+1 1
+2 0
+0 2
+
+===== Sample #1 Output =====
+Ani
+
+===== Sample #2 Input =====
+4
+0 0
+0 1
+0 2
+0 8
+
+===== Sample #2 Output =====
+Borna
+

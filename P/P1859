@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 7 3 3
+.***
+..**
+*..*
+****
+LEFT
+FORWARD
+LEFT
+BACK
+FORWARD
+RIGHT
+FORWARD
+===== Sample #1 Output =====
+1

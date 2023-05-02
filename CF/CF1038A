@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+9 3
+ACAABCCAB
+
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+9 4
+ABCABCABC
+
+===== Sample #2 Output =====
+0

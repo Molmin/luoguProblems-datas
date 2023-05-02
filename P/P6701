@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+6
+SAB
+SBC
+SAA
+ACA
+BCC
+CBC
+3
+ABBCAAABCA
+CCC
+BA
+===== Sample #1 Output =====
+3
+1
+NIE

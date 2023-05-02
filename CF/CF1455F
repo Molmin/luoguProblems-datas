@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+4 2
+bbab
+7 5
+cceddda
+6 5
+ecdaed
+7 4
+dcdbdaa
+8 3
+ccabbaca
+5 7
+eabba
+===== Sample #1 Output =====
+aaaa
+baccacd
+aabdac
+aabacad
+aaaaaaaa
+abadb

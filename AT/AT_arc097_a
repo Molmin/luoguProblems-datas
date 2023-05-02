@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+aba
+4
+===== Sample #1 Output =====
+b
+===== Sample #2 Input =====
+atcoderandatcodeer
+5
+===== Sample #2 Output =====
+andat
+===== Sample #3 Input =====
+z
+1
+===== Sample #3 Output =====
+z

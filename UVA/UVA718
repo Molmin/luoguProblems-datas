@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2
+22 4 0 6
+3 2
+4 7
+13 6
+10 0
+1000 2 500 777
+2 0
+2 1
+===== Sample #1 Output =====
+It is possible to move the furniture.
+The furniture cannot be moved.

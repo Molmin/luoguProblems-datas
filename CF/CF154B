@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+10 10
++ 6
++ 10
++ 5
+- 10
+- 5
+- 6
++ 10
++ 3
++ 6
++ 3
+
+===== Sample #1 Output =====
+Success
+Conflict with 6
+Success
+Already off
+Success
+Success
+Success
+Success
+Conflict with 10
+Already on
+

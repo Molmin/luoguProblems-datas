@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5
+rint %r1;
+rint %r2;
+add %r1 %r2;
+wint;
+hlt;
+5 4
+===== Sample #1 Output =====
+9

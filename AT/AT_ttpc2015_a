@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+12B34567
+===== Sample #1 Output =====
+Bachelor 12
+===== Sample #2 Input =====
+00M00000
+===== Sample #2 Output =====
+Master 00
+===== Sample #3 Input =====
+13D10007
+===== Sample #3 Output =====
+Doctor 13

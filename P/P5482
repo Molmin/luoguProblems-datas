@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+9
+Add 1 1 1
+Add -2 4 3
+Query 0
+Del 1
+Query 0
+Del 2
+Query 0
+Add 8 9 100
+Query 10
+===== Sample #1 Output =====
+1
+1
+0
+0

@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+4 2
+ab 2
+a 2
+ba 2
+b 1
+bbaba 2
+aab 1
+===== Sample #1 Output =====
+4
+4
+===== Sample #2 Input =====
+15 4
+ba 18
+cbc 74
+aac 54
+ba 77
+a 66
+c 96
+cdb 47
+dc 45
+cb 62
+db 88
+dda 93
+db 34
+b 81
+acd 100
+da 80
+bcaacbbdcbabcda 4
+bccac 3
+abdbaca 5
+cbdaaaacaaca 3
+===== Sample #2 Output =====
+124
+66
+77
+108

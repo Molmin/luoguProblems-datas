@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+6 3
+8 11 13 14 16 19
+10 18 2 3 6 7
+
+===== Sample #1 Output =====
+8
+
+===== Sample #2 Input =====
+见附件中的 card/card2.in。
+===== Sample #2 Output =====
+见附件中的 card/card2.ans。
+===== Sample #3 Input =====
+见附件中的 card/card3.in。
+===== Sample #3 Output =====
+见附件中的 card/card3.ans。

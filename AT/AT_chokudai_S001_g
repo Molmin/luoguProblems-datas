@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+5
+3 1 5 4 2
+===== Sample #1 Output =====
+31542
+===== Sample #2 Input =====
+6
+1 2 3 4 5 6
+===== Sample #2 Output =====
+123456
+===== Sample #3 Input =====
+7
+7 6 5 4 3 2 1
+===== Sample #3 Output =====
+7654321
+===== Sample #4 Input =====
+20
+19 11 10 7 8 9 17 18 20 4 3 15 16 1 5 14 6 2 13 12
+===== Sample #4 Output =====
+370453866

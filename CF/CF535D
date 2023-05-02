@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+6 2
+ioi
+1 3
+
+===== Sample #1 Output =====
+26
+
+===== Sample #2 Input =====
+5 2
+ioi
+1 2
+
+===== Sample #2 Output =====
+0
+

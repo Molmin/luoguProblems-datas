@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+78
+99
+0
+===== Sample #1 Output =====
+Case 1: Public Key = 78 Private Key = 308646916096
+Case 2: Public Key = 99 Private Key = 817245479899

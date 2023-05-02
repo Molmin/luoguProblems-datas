@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3 5 10
+12 3
+7 8
+5 5
+
+===== Sample #1 Output =====
+Too Young
+Too Simple
+Sometimes Naive

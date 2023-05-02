@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+4
+ZAGREB
+SISAK
+ZADAR
+ZABOK
+ZA
+===== Sample #1 Output =====
+****B*D*
+*G******
+********
+********
+===== Sample #2 Input =====
+4
+SPLIT
+VINKOVCI
+NOVSKA
+RIJEKA
+VINKO
+===== Sample #2 Output =====
+********
+********
+********
+V*******
+===== Sample #3 Input =====
+4
+AAAABCD
+AAAABCA
+AAAACDE
+AAAAAAA
+AAAA
+===== Sample #3 Output =====
+***ABC**
+********
+********
+********

@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+1800777700088888000777
+===== Sample #1 Output =====
+13\n
+Explanation1800000000777 is the largest sub-sequence

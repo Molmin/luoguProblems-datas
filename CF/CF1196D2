@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+5 2
+BGGGG
+5 3
+RBRGR
+5 5
+BBBRR
+
+===== Sample #1 Output =====
+1
+0
+3
+

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+1
+5 6 9
+0 1
+0 0
+0 -1
+-1 0
+1 0
+1 2 10
+1 4 1
+2 3 8
+3 4 5
+3 5 1
+1 5 1
+===== Sample #1 Output =====
+1
+2 3 2
+===== Sample #2 Input =====
+见附件中的 intercept2.in
+===== Sample #2 Output =====
+见附件中的 intercept2.ans
+===== Sample #3 Input =====
+见附件中的 intercept3.in
+===== Sample #3 Output =====
+见附件中的 intercept3.ans

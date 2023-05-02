@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1990 1
+
+===== Sample #1 Output =====
+9190
+
+===== Sample #2 Input =====
+300 0
+
+===== Sample #2 Output =====
+300
+
+===== Sample #3 Input =====
+1034 2
+
+===== Sample #3 Output =====
+3104
+
+===== Sample #4 Input =====
+9090000078001234 6
+
+===== Sample #4 Output =====
+9907000008001234
+

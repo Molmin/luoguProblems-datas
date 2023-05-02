@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+---B--S-D--S--
+DDBDDBDDBDD
+===== Sample #1 Output =====
+Case 1: 4
+Case 2: 0

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+2 2 3
+...
+X.X
+
+X.X
+XXX
+2 2 3
+.X.
+.X.
+
+.X.
+.X.
+
+===== Sample #1 Output =====
+yes
+no
+

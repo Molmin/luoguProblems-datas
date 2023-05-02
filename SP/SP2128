@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+file:
+2
+3 3 3
+.x.
+.xo
+oox
+4 7 4
+....
+..x.
+ooox
+oxx.
+oox.
+o.ox
+..xx
+===== Sample #1 Output =====
+file: 
+0:1

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+2 5 4 9 15 11
+6 7 6 8 12 14
+===== Sample #1 Output =====
+AABABB
+===== Sample #2 Input =====
+2
+1 4 10 20
+3 5 8 13
+===== Sample #2 Output =====
+BBAA
+===== Sample #3 Input =====
+2
+3 4 5 6
+10 9 8 7
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+6
+25 18 40 37 29 95 41 53 39 69 61 90
+14 18 22 28 18 30 32 32 63 58 71 78
+===== Sample #4 Output =====
+BABBABAABABA

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+AHA
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+Z
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+XO
+
+===== Sample #3 Output =====
+NO
+

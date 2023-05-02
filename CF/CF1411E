@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2 -1
+ba
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+3 -7
+abc
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+7 -475391
+qohshra
+===== Sample #3 Output =====
+Yes

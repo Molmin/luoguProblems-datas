@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+6
+hhardh
+3 2 9 11 7 1
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+8
+hhzarwde
+3 2 6 9 4 8 7 1
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+6
+hhaarr
+1 2 3 4 5 6
+
+===== Sample #3 Output =====
+0
+

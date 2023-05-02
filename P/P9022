@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+57234
+00907
+34100
+99999
+
+===== Sample #1 Output =====
+right 234
+right 907
+left 100
+

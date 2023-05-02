@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+5
+3
+aab
+bcc
+4
+cabc
+abcb
+3
+abc
+tsr
+4
+aabd
+cccd
+5
+abcbd
+bcdda
+===== Sample #1 Output =====
+2
+3
+3
+2
+4

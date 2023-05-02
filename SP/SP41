@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3
+2
+acm
+ibm
+3
+acm
+malform
+mouse
+2
+ok
+ok
+===== Sample #1 Output =====
+The door cannot be opened.
+Ordering is possible.
+The door cannot be opened.

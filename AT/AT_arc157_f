@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+XXX
+YYY
+===== Sample #1 Output =====
+XY
+===== Sample #2 Input =====
+1
+X
+Y
+===== Sample #2 Output =====
+
+===== Sample #3 Input =====
+4
+XXYX
+YYYY
+===== Sample #3 Output =====
+XYY

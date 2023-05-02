@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+3
+1 1 2
+2
+3 4
+3
+2 3 5
+===== Sample #1 Output =====
+Case #1: Alice
+Case #2: Bob
+Case #3: Bob

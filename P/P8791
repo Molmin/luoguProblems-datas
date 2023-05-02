@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+long[] nums=new long[131072];
+===== Sample #1 Output =====
+1MB
+===== Sample #2 Input =====
+4
+int a=0,b=0;
+long x=0,y=0;
+String s1="hello",s2="world";
+long[] arr1=new long[100000],arr2=new long[100000];
+===== Sample #2 Output =====
+1MB538KB546B

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+10
+1
+2
+7
+14
+49
+9
+17
+76
+2888
+27
+===== Sample #1 Output =====
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+No

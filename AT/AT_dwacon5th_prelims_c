@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+18
+DWANGOMEDIACLUSTER
+1
+18
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+18
+DDDDDDMMMMMCCCCCCC
+1
+18
+===== Sample #2 Output =====
+210
+===== Sample #3 Input =====
+54
+DIALUPWIDEAREANETWORKGAMINGOPERATIONCORPORATIONLIMITED
+3
+20 30 40
+===== Sample #3 Output =====
+0
+1
+2
+===== Sample #4 Input =====
+30
+DMCDMCDMCDMCDMCDMCDMCDMCDMCDMC
+4
+5 10 15 20
+===== Sample #4 Output =====
+10
+52
+110
+140

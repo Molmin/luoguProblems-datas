@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+The number of test cases t is in the first line of input, then t test cases follow separated by an empty line.
+The first line of each test case contains digit K,  K is en element of
+{1,...,9}. The second line
+contains number n,  1&lt;=n&lt;=10. In the following  n lines there is the series  of natural numbers
+ a1,...,an,  
+1&lt;=ai&lt;=32000 (for i=1,..,n), one number in each line. 
+===== Sample #1 Output =====
+The output for each test case composes of  n lines. The i-th line should
+contain: 
+
+
+ exactly one number which is the minimal length of K-representation of ai,
+  assuming that such a representation of length not grater then 8 exists,
+ one word NO, if the minimal length of the K-representation of the number
+   ai
+  is grater than 8. 
+
+
+Example
+
+Sample input:
+1
+5
+2
+12
+31168
+
+Sample output
+4
+NO
+===== Sample #2 Input =====
+1
+5
+2
+12
+31168
+===== Sample #2 Output =====
+null

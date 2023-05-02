@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+01010101
+
+===== Sample #1 Output =====
+216
+
+===== Sample #2 Input =====
+3
+01101001
+
+===== Sample #2 Output =====
+168
+

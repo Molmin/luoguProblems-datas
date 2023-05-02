@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+((xx|xxx)x|(x|xx))xx  
+===== Sample #1 Output =====
+6

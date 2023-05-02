@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+4 5
+abcde
+abcde
+abcde
+abcde
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+1 1 1 1 1
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+4 3
+abc
+aba
+adc
+ada
+10 10 10
+10 1 10
+10 10 10
+10 1 10
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+3 3
+abc
+ada
+ssa
+1 1 1
+1 1 1
+1 1 1
+
+===== Sample #3 Output =====
+0
+

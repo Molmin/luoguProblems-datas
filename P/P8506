@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1
+#u#n#t#i#t#l#e#d#
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+1
+# a perfect title
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+10
+# a
+ # b
+## c
+#d
+#  
+e
+# f#g#h#i#j
+  ##k
+# #
+l # m
+===== Sample #3 Output =====
+4

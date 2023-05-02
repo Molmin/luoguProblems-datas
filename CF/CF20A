@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+//usr///local//nginx/sbin
+
+===== Sample #1 Output =====
+/usr/local/nginx/sbin
+

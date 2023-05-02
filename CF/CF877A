@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+Alex_and_broken_contest
+
+===== Sample #1 Output =====
+NO
+===== Sample #2 Input =====
+NikitaAndString
+
+===== Sample #2 Output =====
+YES
+===== Sample #3 Input =====
+Danil_and_Olya
+
+===== Sample #3 Output =====
+NO

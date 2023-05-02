@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5 3
+banana
+car
+sand
+uncharacteristically
+counterrevolutionaries
+RRR
+DNA
+SND
+===== Sample #1 Output =====
+counterrevolutionaries
+No valid word
+sand

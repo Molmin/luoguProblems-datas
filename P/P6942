@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+please sit spot. sit spot, sit. spot here now here.
+
+===== Sample #1 Output =====
+please, sit spot. sit spot, sit. spot, here now, here.
+
+===== Sample #2 Input =====
+one, two. one tree. four tree. four four. five four. six five.
+
+===== Sample #2 Output =====
+one, two. one, tree. four, tree. four, four. five, four. six five.
+

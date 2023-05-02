@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+10 120
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+10 125
+===== Sample #2 Output =====
+No

@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+8 0
+bwbb?www
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+10 3
+???ww?wb??
+4 ?
+5 ?
+2 w
+===== Sample #2 Output =====
+436731905
+218365953
+374341633
+530317313
+===== Sample #3 Input =====
+4 3
+bw?b
+1 w
+2 b
+1 w
+===== Sample #3 Output =====
+0
+0
+1
+1

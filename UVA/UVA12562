@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3
+2 1 2
+0 1
+b1=a1&amp;&amp;a2
+c1=b1
+c2=b1
+2 1 2
+0 1
+*b1=a1&amp;&amp;a2
+c1=b1
+c2=b1
+3 4 5
+0 0 0
+*b1=a1&amp;&amp;(a3||a2)
+b2=!a2
+b3=a2&amp;&amp;a3
+b4=a1
+c1=!b2
+c2=b3
+c3=b4
+c4=b2||!b4
+c5=!b2||!b4
+===== Sample #1 Output =====
+Case 1: Increased from 0 to 2.
+a1
+Case 2: Unable to improve future.
+Case 3: Increased from 2 to 4.
+a2 a3

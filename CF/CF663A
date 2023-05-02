@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+? + ? - ? + ? + ? = 42
+
+===== Sample #1 Output =====
+Possible
+9 + 13 - 39 + 28 + 31 = 42
+
+===== Sample #2 Input =====
+? - ? = 1
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+? = 1000000
+
+===== Sample #3 Output =====
+Possible
+1000000 = 1000000
+

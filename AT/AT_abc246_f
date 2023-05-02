@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2 2
+ab
+ac
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+4 3
+abcdefg
+hijklmnop
+qrstuv
+wxyz
+===== Sample #2 Output =====
+1352
+===== Sample #3 Input =====
+5 1000000000
+abc
+acde
+cefg
+abcfh
+dghi
+===== Sample #3 Output =====
+346462871

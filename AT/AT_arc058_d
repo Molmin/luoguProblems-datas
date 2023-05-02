@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3 7
+at
+coder
+codar
+===== Sample #1 Output =====
+atcodar
+===== Sample #2 Input =====
+3 7
+coder
+codar
+at
+===== Sample #2 Output =====
+codarat
+===== Sample #3 Input =====
+4 13
+kyuri
+namida
+zzzzzzz
+aaaaaa
+===== Sample #3 Output =====
+namidazzzzzzz

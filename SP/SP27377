@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\n1\n000000000\n2\n000000000\n000000000\n2\n100010000\n001010000
+===== Sample #1 Output =====
+Kang\nKung\nKung&nbsp;

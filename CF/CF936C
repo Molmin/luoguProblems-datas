@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+abacbb
+babcba
+
+===== Sample #1 Output =====
+4
+6 3 2 3
+
+===== Sample #2 Input =====
+3
+aba
+bba
+
+===== Sample #2 Output =====
+-1
+

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2 2
+0 0 4
+
+===== Sample #1 Output =====
+<span class="tex-span">\</span>../
+#<span class="tex-span">\</span>/#
+<span class="tex-span">\</span>##/
+.<span class="tex-span">\</span>/.
+
+===== Sample #2 Input =====
+2 3
+1 2 3
+
+===== Sample #2 Output =====
+###/<span class="tex-span">\</span>#
+##/..<span class="tex-span">\</span>
+#/....
+/.....
+

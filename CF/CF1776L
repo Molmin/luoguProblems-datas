@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+8
++-+---+-
+5
+2 1
+10 3
+7 9
+10 10
+5 3
+===== Sample #1 Output =====
+YES
+NO
+NO
+NO
+YES
+===== Sample #2 Input =====
+6
++-++--
+2
+9 7
+1 1
+===== Sample #2 Output =====
+YES
+YES
+===== Sample #3 Input =====
+20
++-----+--+--------+-
+2
+1000000000 99999997
+250000000 1000000000
+===== Sample #3 Output =====
+NO
+YES

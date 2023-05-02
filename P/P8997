@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+min(min(?,?),min(?,?))
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+max(?,max(?,min(?,?)))
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+min(max(?,?),min(?,max(?,?)))
+===== Sample #3 Output =====
+3

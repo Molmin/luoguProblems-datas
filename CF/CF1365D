@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+6
+1 1
+.
+1 2
+G.
+2 2
+#B
+G.
+2 3
+G.#
+B#.
+3 3
+#B.
+#..
+GG.
+2 2
+#B
+B.
+===== Sample #1 Output =====
+Yes
+Yes
+No
+No
+Yes
+Yes

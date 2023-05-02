@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+cacbac
+
+===== Sample #1 Output =====
+aba
+
+===== Sample #2 Input =====
+abc
+
+===== Sample #2 Output =====
+a
+
+===== Sample #3 Input =====
+cbacacacbcbababacbcb
+
+===== Sample #3 Output =====
+cbaaacbcaaabc

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+3 1 2
+3 1 x
+===== Sample #1 Output =====
+DA
+===== Sample #2 Input =====
+4
+4 5 iks ipsilon
+1 iks 3 iks
+===== Sample #2 Output =====
+NE
+===== Sample #3 Input =====
+5
+x 3 x y 3
+x y 2 z 3
+===== Sample #3 Output =====
+DA

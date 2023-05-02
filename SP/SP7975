@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n4\n13 7 5\n7 13 6\n14 3 12\n15 6 16\n0\n\n
+===== Sample #1 Output =====
+\n1. 22

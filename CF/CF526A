@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+16
+.**.*..*.***.**.
+
+===== Sample #1 Output =====
+yes
+===== Sample #2 Input =====
+11
+.*.*...*.*.
+
+===== Sample #2 Output =====
+no

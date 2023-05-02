@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+4 2
+N
+N
+Y
+N
+N
+N
+N
+===== Sample #1 Output =====
+? 1
+? 2
+? 3
+? 4
+R
+? 4
+? 1
+? 2
+! 3
+===== Sample #2 Input =====
+8 8
+N
+N
+N
+N
+Y
+Y
+===== Sample #2 Output =====
+? 2
+? 6
+? 4
+? 5
+? 2
+? 5
+! 6

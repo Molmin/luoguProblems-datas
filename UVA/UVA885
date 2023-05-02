@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+8936251KAT Shop
+7362812Penny Saver, Inc.
+7251887Kate’s Company
+8372974Fine Foods
+9273664Five Star Vending
+3523984K-B Enterprises
+723621899 Cents Only Store
+===== Sample #1 Output =====
+Fine Foods
+Five Star Vending
+KAT Shop
+K-B Enterprises
+Kate’s Company
+99 Cents Only Store
+Penny Saver, Inc.
+837 2974
+927 3664
+893 6251
+352 3984
+725 1887
+723 6218
+736 2812

@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+2
+0 2 1
+2 2 1
+===== Sample #1 Output =====
+1
+1
+===== Sample #2 Input =====
+2
+0 2 1
+3 2 1
+===== Sample #2 Output =====
+2
+-1 2
+===== Sample #3 Input =====
+1
+1 1 1
+===== Sample #3 Output =====
+impossible
+===== Sample #4 Input =====
+1
+1 114514 1
+===== Sample #4 Output =====
+too many
+===== Sample #5 Input =====
+1
+1 1 0
+===== Sample #5 Output =====
+0

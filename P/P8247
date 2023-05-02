@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 5
+K...K
+.K.K.
+..S..
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+3 5
+KKKKK
+KKSKK
+KKKKK
+===== Sample #2 Output =====
+12

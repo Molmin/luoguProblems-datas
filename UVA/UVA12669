@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3 gR
+PrOgRAMmINgiSgrEAt
+1 7
+4 18
+6 14
+9 abCAb
+aBcAbCAbaBCAb
+1 13
+1 13
+4 8
+5 11
+3 11
+4 10
+1 13
+8 8
+1 13
+===== Sample #1 Output =====
+0
+2
+-1
+2
+4
+1
+-1
+0
+5
+2
+-1
+4

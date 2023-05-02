@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+4
+QQAA
+4
+QQAQ
+3
+QAA
+1
+Q
+14
+QAQQAQAAQQQAAA
+===== Sample #1 Output =====
+Yes
+No
+Yes
+No
+Yes

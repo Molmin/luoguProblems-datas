@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+A
+3
+B A
+C B
+D A
+===== Sample #1 Output =====
+C
+3
+===== Sample #2 Input =====
+N
+5
+D A
+N B
+B A
+C D
+F A
+===== Sample #2 Output =====
+N
+1
+===== Sample #3 Input =====
+X
+4
+A X
+B X
+X A
+D A
+===== Sample #3 Output =====
+X
+2

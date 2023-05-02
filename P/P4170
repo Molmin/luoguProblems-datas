@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+AAAAA
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+RGBGR
+===== Sample #2 Output =====
+3

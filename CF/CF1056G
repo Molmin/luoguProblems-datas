@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+10 4
+3 1
+
+===== Sample #1 Output =====
+4
+
+===== Sample #2 Input =====
+10 4
+3 5
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+10543 437
+5492 1947349
+
+===== Sample #3 Output =====
+438
+

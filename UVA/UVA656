@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4
+1 2 3 4
+0 -2 -6 -12
+3
+1 2 3
+1 11 1998
+1
+1998
+1998
+0
+===== Sample #1 Output =====
+Program 1
+DUP DUP MUL SUB
+Program 2
+Impossible
+Program 3
+Empty sequence

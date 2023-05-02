@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1 6 6 0 0
+2 5 5 3 4 1 5 3 5
+2 1 1 2 2 3 3 4 4
+1 4 5 4 4
+0
+===== Sample #1 Output =====
+Only player Red can win
+Both players can win
+No players can win
+Only player Green can win

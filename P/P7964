@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+3
+section zivotinje
+section boje
+section voce
+===== Sample #1 Output =====
+1 zivotinje
+2 boje
+3 voce
+===== Sample #2 Input =====
+4
+section zivotinje
+subsection macke
+subsection psi
+subsubsection mops
+===== Sample #2 Output =====
+1 zivotinje
+1.1 macke
+1.2 psi
+1.2.1 mops
+===== Sample #3 Input =====
+4
+section zivotinje
+subsection psi
+section voce
+subsection ananas
+===== Sample #3 Output =====
+1 zivotinje
+1.1 psi
+2 voce
+2.1 ananas

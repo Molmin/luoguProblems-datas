@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+4 1
+4 2
+4 3
+4 4
+===== Sample #1 Output =====
+No solution
+2 persons/group, 3 days
+2 persons/group, 3 days
+4 persons/group, 1 day

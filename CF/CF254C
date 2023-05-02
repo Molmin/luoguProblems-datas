@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+ABA
+CBA
+
+===== Sample #1 Output =====
+1
+ABC
+
+===== Sample #2 Input =====
+CDBABC
+ADCABD
+
+===== Sample #2 Output =====
+2
+ADBADC
+

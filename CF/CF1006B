@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+8 3
+5 4 2 6 5 1 9 2
+
+===== Sample #1 Output =====
+20
+3 2 3
+===== Sample #2 Input =====
+5 1
+1 1 1 1 1
+
+===== Sample #2 Output =====
+1
+5
+
+===== Sample #3 Input =====
+4 2
+1 2000 2000 2
+
+===== Sample #3 Output =====
+4000
+2 2
+

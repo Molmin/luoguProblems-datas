@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3
+| 3
+^ 2
+| 1
+
+===== Sample #1 Output =====
+2
+| 3
+^ 2
+
+===== Sample #2 Input =====
+3
+&amp; 1
+&amp; 3
+&amp; 5
+
+===== Sample #2 Output =====
+1
+&amp; 1
+
+===== Sample #3 Input =====
+3
+^ 1
+^ 2
+^ 3
+
+===== Sample #3 Output =====
+0
+

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+abca
+2
+abca
+6
+codeforces
+1
+codeforces
+10
+codeforces
+100
+===== Sample #1 Output =====
+aa
+abc
+
+cdc
+codeforces

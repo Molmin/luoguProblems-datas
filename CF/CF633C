@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+30
+ariksihsidlihcdnaehsetahgnisol
+10
+Kira
+hates
+is
+he
+losing
+death
+childish
+L
+and
+Note
+
+===== Sample #1 Output =====
+Kira is childish and he hates losing 
+
+===== Sample #2 Input =====
+12
+iherehtolleh
+5
+HI
+Ho
+there
+HeLLo
+hello
+
+===== Sample #2 Output =====
+HI there HeLLo 
+

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2 x
+x>-3
+x<=1
+===== Sample #1 Output =====
+-3<x<=1
+===== Sample #2 Input =====
+3 y
+y>=5
+y>4
+y>=-2
+===== Sample #2 Output =====
+y>=5
+===== Sample #3 Input =====
+4 q
+q>=114514
+q>-200810
+q<-1022
+q<=-23333
+===== Sample #3 Output =====
+No Answer!

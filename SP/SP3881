@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+5
+SSPPR
+1
+SSPPR
+===== Sample #1 Output =====
+5
+10
+
+
+Input
+5
+SSPPR
+2
+PPRRS
+RRSSP
+
+Output
+10
+15
+
+
+Input
+4
+SPRS
+4
+RPRP
+SRRR
+SSPR
+PSPS
+
+Output
+12
+21

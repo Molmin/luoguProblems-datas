@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+BBNBBNBBBB NNNNNBBNNB
+BNBNB NBNBN
+BNBN NBNB
+B B
+* *
+===== Sample #1 Output =====
+3
+1
+1
+0

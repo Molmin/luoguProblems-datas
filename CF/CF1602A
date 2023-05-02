@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+fc
+aaaa
+thebrightboiler
+===== Sample #1 Output =====
+c f
+a aaa
+b therightboiler

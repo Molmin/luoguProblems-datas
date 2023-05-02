@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+kotlin
+codeforces
+abacaba
+ffccgc
+yz
+===== Sample #1 Output =====
+RRRRBB
+RRRRRRRBBB
+RRRRBBB
+RBBBBR
+RR

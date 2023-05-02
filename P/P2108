@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+six
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+negative seven hundred twenty nine
+===== Sample #2 Output =====
+-729
+===== Sample #3 Input =====
+one million one hundred one
+===== Sample #3 Output =====
+1000101
+===== Sample #4 Input =====
+eight hundred fourteen thousand twenty two
+===== Sample #4 Output =====
+814022

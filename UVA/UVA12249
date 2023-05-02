@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+3
+ABCD
+DEFGH
+CDEF
+2
+AAAAA
+AAAAAAA
+===== Sample #1 Output =====
+Case 1: 8
+Case 2: 7

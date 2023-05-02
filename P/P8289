@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+5
+#define BEGIN {
+#define END }
+#define INTEGER int
+class C BEGIN INTEGER x; END;
+INTEGER main() BEGIN C c; END
+
+===== Sample #1 Output =====
+
+
+
+class C { int x; };
+int main() { C c; }
+
+===== Sample #2 Input =====
+见附件中的 preprocessor/preprocessor2.in
+===== Sample #2 Output =====
+见附件中的 preprocessor/preprocessor2.ans
+===== Sample #3 Input =====
+见附件中的 preprocessor/preprocessor3.in
+===== Sample #3 Output =====
+见附件中的 preprocessor/preprocessor3.ans

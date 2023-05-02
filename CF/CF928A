@@ -1,0 +1,56 @@
+===== Sample #1 Input =====
+1_wat
+2
+2_wat
+wat_1
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+000
+3
+00
+ooA
+oOo
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+_i_
+3
+__i_
+_1_
+I
+
+===== Sample #3 Output =====
+No
+
+===== Sample #4 Input =====
+La0
+3
+2a0
+La1
+1a0
+
+===== Sample #4 Output =====
+No
+
+===== Sample #5 Input =====
+abc
+1
+aBc
+
+===== Sample #5 Output =====
+No
+
+===== Sample #6 Input =====
+0Lil
+2
+LIL0
+0Ril
+
+===== Sample #6 Output =====
+Yes
+

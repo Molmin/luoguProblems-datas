@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+2
+))
+12
+gl))hf))))))
+9
+gege)))))
+14
+)aa))b))))))))
+1
+)
+===== Sample #1 Output =====
+Yes
+No
+Yes
+Yes
+Yes

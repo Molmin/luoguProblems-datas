@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+perfect
+rhyme
+crime
+time
+
+crime
+rhyme
+===== Sample #1 Output =====
+time
+crime

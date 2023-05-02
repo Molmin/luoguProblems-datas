@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1 1 1
+
+===== Sample #1 Output =====
+332748118
+
+===== Sample #2 Input =====
+6 2 1
+
+===== Sample #2 Output =====
+760234711
+
+===== Sample #3 Input =====
+7 5 3
+
+===== Sample #3 Output =====
+223383352
+
+===== Sample #4 Input =====
+97 31 9984524
+
+===== Sample #4 Output =====
+267137618
+

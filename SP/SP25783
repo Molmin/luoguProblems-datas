@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+aabbaaccanbbbncc
+abc
+
+objectorientedprogramming
+ii
+===== Sample #1 Output =====
+Case 1: 6
+Case 2: 15

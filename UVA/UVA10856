@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+4
+240
+241
+-1
+===== Sample #1 Output =====
+Case 1: 4!
+Case 2: 101!
+Case 3: Not possible.

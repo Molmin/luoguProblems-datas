@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+4
+abacaba
+acaba
+abacaba
+acab
+
+===== Sample #1 Output =====
+OK
+OK
+abacaba1
+OK
+
+===== Sample #2 Input =====
+6
+first
+first
+second
+second
+third
+third
+
+===== Sample #2 Output =====
+OK
+first1
+OK
+second1
+OK
+third1
+

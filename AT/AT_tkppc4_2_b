@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3 21 21 31 2
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+5 31 22 33 44 53 4 5
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+4 31 21 31 42 3 4
+===== Sample #3 Output =====
+trumpet

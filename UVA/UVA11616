@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+XXV
+4
+942
+MCMLXXXIII
+===== Sample #1 Output =====
+25
+IV
+CMXLII
+1983

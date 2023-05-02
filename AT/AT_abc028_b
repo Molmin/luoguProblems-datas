@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+BEAF
+===== Sample #1 Output =====
+1 1 0 0 1 1
+===== Sample #2 Input =====
+DECADE
+===== Sample #2 Output =====
+1 0 1 2 2 0
+===== Sample #3 Input =====
+ABBCCCDDDDEEEEEFFFFFF
+===== Sample #3 Output =====
+1 2 3 4 5 6

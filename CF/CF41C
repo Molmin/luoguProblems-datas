@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+vasyaatgmaildotcom
+
+===== Sample #1 Output =====
+vasya@gmail.com
+
+===== Sample #2 Input =====
+dotdotdotatdotdotat
+
+===== Sample #2 Output =====
+dot..@..at
+
+===== Sample #3 Input =====
+aatt
+
+===== Sample #3 Output =====
+a@t
+

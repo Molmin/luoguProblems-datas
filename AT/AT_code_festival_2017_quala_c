@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+3 4
+aabb
+aabb
+aacc
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+2 2
+aa
+bb
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+5 1
+t
+w
+e
+e
+t
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+2 5
+abxba
+abyba
+===== Sample #4 Output =====
+No
+===== Sample #5 Input =====
+1 1
+z
+===== Sample #5 Output =====
+Yes

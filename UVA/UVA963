@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+5
+ate
+carrot
+rabbit
+the
+white
+6
+the white rabit ate ate carott
+20
+a
+abbey
+adapted
+ago
+almost
+but
+clumsy
+had
+he
+joined
+living
+manuel
+monk
+not
+of
+that
+the
+to
+way
+year
+22
+the clumsy momk manuel had joined the abey almost a
+year ago but he had not adapted to that way
+of leaving
+===== Sample #1 Output =====
+the white rabbit ate ate carrot
+the clumsy monk manuel had joined the abbey almost a
+year ago but he had not adapted to that way
+of living

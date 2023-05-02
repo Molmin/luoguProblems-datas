@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+9 5
+c t
+i r
+k p
+o c
+r o
+t e
+t f
+u h
+w p
+we we
+can the
+work people
+it of
+out the
+
+===== Sample #1 Output =====
+yes
+no
+no
+yes
+yes
+
+===== Sample #2 Input =====
+3 3
+a c
+b a
+a b
+aaa abc
+abc aaa
+acm bcm
+
+===== Sample #2 Output =====
+yes
+no
+yes
+

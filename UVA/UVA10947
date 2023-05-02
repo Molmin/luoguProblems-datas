@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1 1
+0 0 1
+0 3 1
+0
+1 1
+0 0 1
+0 5 1
+0
+1 1
+0 0 1
+0 6 1
+1
+0 3 1
+===== Sample #1 Output =====
+Larry and Ryan will escape!
+Larry and Ryan will be eaten to death.
+Larry and Ryan will escape!

@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+DBACEGF ABCDEFG
+BCAD CBAD
+===== Sample #1 Output =====
+ACBFGED
+CDAB

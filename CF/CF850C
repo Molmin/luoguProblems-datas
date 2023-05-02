@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+4
+1 1 1 1
+
+===== Sample #1 Output =====
+Arpa
+
+===== Sample #2 Input =====
+4
+1 1 17 17
+
+===== Sample #2 Output =====
+Mojtaba
+
+===== Sample #3 Input =====
+4
+1 1 17 289
+
+===== Sample #3 Output =====
+Arpa
+
+===== Sample #4 Input =====
+5
+1 2 3 4 5
+
+===== Sample #4 Output =====
+Arpa
+

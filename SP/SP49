@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+2 0.5
+0.5 0.6
+2 3
+
+0.1 1 
+2 0.1
+1 1
+===== Sample #1 Output =====
+Both hares and foxes will overgrow.
+Hares will die out while foxes will overgrow.

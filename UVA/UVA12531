@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+90
+65
+66
+67
+128
+0
+180
+===== Sample #1 Output =====
+Y
+N
+Y
+N
+N
+Y
+Y

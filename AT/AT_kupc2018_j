@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+1 8 1
+7
+===== Sample #1 Output =====
+Chinatsu
+===== Sample #2 Input =====
+1 1 1
+2
+===== Sample #2 Output =====
+Akari
+===== Sample #3 Input =====
+5 7 3
+83795 19140 82706 34385 26675
+2 74621
+3 60951
+===== Sample #3 Output =====
+Chinatsu
+Akari
+Chinatsu

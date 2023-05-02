@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2018
+
+===== Sample #1 Output =====
+2018
+
+===== Sample #2 Input =====
+1000000007
+
+===== Sample #2 Output =====
+10^9+7
+
+===== Sample #3 Input =====
+10000000000
+
+===== Sample #3 Output =====
+100^5
+
+===== Sample #4 Input =====
+2000000000
+
+===== Sample #4 Output =====
+2*10^9
+

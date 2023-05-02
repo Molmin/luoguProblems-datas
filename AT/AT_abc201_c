@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+ooo???xxxx
+===== Sample #1 Output =====
+108
+===== Sample #2 Input =====
+o?oo?oxoxo
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+xxxxx?xxxo
+===== Sample #3 Output =====
+15

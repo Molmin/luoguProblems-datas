@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 3
+cba
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+3 4
+cba
+
+===== Sample #2 Output =====
+cbd
+
+===== Sample #3 Input =====
+4 4
+abcd
+
+===== Sample #3 Output =====
+abda
+

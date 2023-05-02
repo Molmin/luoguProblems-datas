@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+1
+i
+is
+has
+have
+be
+my
+more
+contest
+me
+too
+if
+award
+#
+me
+aware
+m
+contest
+hav
+oo
+or
+i
+fi
+mre
+#
+===== Sample #1 Output =====
+me is correct
+aware: award
+m: i my me
+contest is correct
+hav: has have
+oo: too
+or:
+i is correct
+fi: i
+mre: more me

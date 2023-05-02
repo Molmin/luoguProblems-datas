@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4
+.xx.
+xxxx
+.xx.
+.x..
+3
+xxx
+xxx
+xxx
+===== Sample #1 Output =====
+4
+6

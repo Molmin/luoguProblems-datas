@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+hoin
+===== Sample #1 Output =====
+1 4
+===== Sample #2 Input =====
+7
+nivelle
+===== Sample #2 Output =====
+4 7
+===== Sample #3 Input =====
+6
+ananas
+===== Sample #3 Output =====
+1 5

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+aa
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+aaa
+
+===== Sample #2 Output =====
+5
+
+===== Sample #3 Input =====
+abacaba
+
+===== Sample #3 Output =====
+36
+

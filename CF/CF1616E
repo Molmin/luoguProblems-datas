@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+1
+a
+a
+3
+rll
+rrr
+3
+caa
+aca
+5
+ababa
+aabba
+===== Sample #1 Output =====
+-1
+0
+2
+2

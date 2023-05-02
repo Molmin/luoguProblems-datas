@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+42
+===== Sample #1 Output =====
+Not Prime
+===== Sample #2 Input =====
+49
+===== Sample #2 Output =====
+Prime
+===== Sample #3 Input =====
+3
+===== Sample #3 Output =====
+Prime
+===== Sample #4 Input =====
+1
+===== Sample #4 Output =====
+Not Prime

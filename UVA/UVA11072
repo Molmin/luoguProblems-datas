@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+0 0
+4 4
+0 4
+4 0
+6
+2 2
+4 4
+1 1
+0 2
+0 10
+10 0
+===== Sample #1 Output =====
+inside
+inside
+inside
+inside
+outside
+outside

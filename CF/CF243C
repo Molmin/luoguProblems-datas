@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+5
+R 8
+U 9
+L 9
+D 8
+L 2
+
+===== Sample #1 Output =====
+101
+===== Sample #2 Input =====
+7
+R 10
+D 2
+L 7
+U 9
+D 2
+R 3
+D 10
+
+===== Sample #2 Output =====
+52

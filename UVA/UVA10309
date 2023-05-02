@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+all_off
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+##########
+all_on
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+OOOOOOOOOO
+simple
+#O########
+OOO#######
+#O########
+####OO####
+###O##O###
+####OO####
+##########
+########O#
+#######OOO
+########O#
+end
+===== Sample #1 Output =====
+all_off 0
+all_on 44
+simple 4

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+6
+19
+17
+13
+1
+99
+1
+3
+20
+16
+===== Sample #1 Output =====
+Original position 6 parked in 16
+Original position 19 parked in 3
+Original position 17 did not park
+Original position 13 parked in 20
+Original position 1 parked in 1

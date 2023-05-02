@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+happy,newyear,enjoy
+===== Sample #1 Output =====
+happy newyear enjoy
+===== Sample #2 Input =====
+haiku,atcoder,tasks
+===== Sample #2 Output =====
+haiku atcoder tasks
+===== Sample #3 Input =====
+abcde,fghihgf,edcba
+===== Sample #3 Output =====
+abcde fghihgf edcba

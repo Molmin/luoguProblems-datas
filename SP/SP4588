@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+31 aaa
+37 abc
+29 hello*earth
+===== Sample #1 Output =====
+1 0 0
+0 1 0
+8 13 9 13 4 27 18 10 12 24 15

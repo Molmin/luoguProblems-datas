@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 7
+RBRRBRR
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+3 3
+BBB
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+12 10
+RRRRBRRRRB
+===== Sample #3 Output =====
+78

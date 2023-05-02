@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+1
+12 
+NNNENNWWWSSW
+===== Sample #1 Output =====
+2 3 11 W

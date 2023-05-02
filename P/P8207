@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3 12
+===== Sample #1 Output =====
+126
+===== Sample #2 Input =====
+6022 14076
+===== Sample #2 Output =====
+66140507445
+===== Sample #3 Input =====
+13063 77883
+===== Sample #3 Output =====
+3692727018161
+===== Sample #4 Input =====
+325735 425533
+===== Sample #4 Output =====
+1483175252352926

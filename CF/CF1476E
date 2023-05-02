@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+5 3 4
+_b_d
+__b_
+aaaa
+ab__
+_bcd
+abcd 4
+abba 2
+dbcd 5
+===== Sample #1 Output =====
+YES
+3 2 4 5 1
+===== Sample #2 Input =====
+1 1 3
+__c
+cba 1
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+2 2 2
+a_
+_b
+ab 1
+ab 2
+===== Sample #3 Output =====
+NO

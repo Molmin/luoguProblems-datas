@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3 3ababababa7 6aababaabababbababaababababababbababaababab\n
+===== Sample #1 Output =====
+\n(1,2)(1,4)(2,1)(2,3)(5,1)(5,3)

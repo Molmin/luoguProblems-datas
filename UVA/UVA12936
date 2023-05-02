@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+A-&gt;B: Hello!
+A-&gt;C: Hi!
+B-&gt;A: Hehe
+B-&gt;D: Hei!
+D-&gt;B: How are you?
+A-&gt;C: Hi???
+A-&gt;C: Are you there?
+B-&gt;D: Hehehei!
+D-&gt;B: What does hehehei mean?
+F-&gt;E: I want to hehehehehe yah.
+===== Sample #1 Output =====
+50%
+Problemsetter: Rujia Liu, Special Thanks: Md. Mahbubul Hasan, Feng Chen

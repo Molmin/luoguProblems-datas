@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3
+3 6 9
+
+===== Sample #1 Output =====
+4 3
+3 6 5
+
+===== Sample #2 Input =====
+4
+15 22 19 10
+===== Sample #2 Output =====
+lose

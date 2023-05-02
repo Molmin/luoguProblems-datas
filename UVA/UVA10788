@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+aaabba
+aabb
+bbababba
+===== Sample #1 Output =====
+Case 1: Valid, Multiple
+Case 2: Valid, Unique
+Case 3: Invalid

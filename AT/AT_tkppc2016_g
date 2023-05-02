@@ -1,0 +1,87 @@
+===== Sample #1 Input =====
+3 4
+1 2
+-2 -3
+-1 3
+1 -2
+1 3
+2 5
+6 4
+===== Sample #1 Output =====
+Possible
+Possible
+Possible
+===== Sample #2 Input =====
+3 4
+-1 -2
+2 3
+1 -2
+2 -3
+1 4
+2 5
+6 3
+===== Sample #2 Output =====
+Possible
+Possible
+Impossible
+===== Sample #3 Input =====
+4 20
+3 -2
+4 -3
+3 -1
+-2 -3
+-1 2
+2 -4
+2 -3
+4 -1
+1 4
+-1 -3
+4 2
+1 -3
+-2 -1
+2 3
+3 -4
+-4 -2
+-4 1
+-1 -4
+2 1
+-4 -3
+1 11
+16 2
+6 20
+8 12
+22 15
+18 5
+23 7
+9 10
+13 26
+19 21
+4 3
+28 31
+14 24
+27 30
+29 25
+17 34
+36 32
+35 33
+37 38
+===== Sample #3 Output =====
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Possible
+Impossible
+Possible
+Impossible

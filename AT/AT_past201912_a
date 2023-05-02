@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+678
+===== Sample #1 Output =====
+1356
+===== Sample #2 Input =====
+abc
+===== Sample #2 Output =====
+error
+===== Sample #3 Input =====
+0x8
+===== Sample #3 Output =====
+error
+===== Sample #4 Input =====
+012
+===== Sample #4 Output =====
+24

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+7 0
+Sigma 10
+Orisa 10
+Mei 10
+Reaper 10
+Moira 10
+Lucio 10
+Doomfist 1
+===== Sample #1 Output =====
+60
+===== Sample #2 Input =====
+8 2
+Pharah 5
+Mercy 5
+Reinhardt 10
+DVA 10
+SOLDIER:76 12
+Torbjorn 5
+Anna 8
+Baptiste 10
+Pharah Mercy 20
+Anna Pharah 5
+===== Sample #2 Output =====
+75

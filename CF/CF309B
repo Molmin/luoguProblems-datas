@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+9 4 12
+this is a sample text for croc final round
+
+===== Sample #1 Output =====
+this is a
+sample text
+for croc
+final round
+
+===== Sample #2 Input =====
+9 1 9
+this is a sample text for croc final round
+
+===== Sample #2 Output =====
+this is a
+
+===== Sample #3 Input =====
+6 2 3
+croc a a a croc a
+
+===== Sample #3 Output =====
+a a
+a
+
+===== Sample #4 Input =====
+2 2 5
+first second
+
+===== Sample #4 Output =====
+first
+

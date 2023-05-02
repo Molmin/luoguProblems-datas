@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\nXXOOOX\nOOOXX\nXOOOOOOOO\nXXXXOXXXXXXXOXOXXXXXXOXXXXXXXXX\nend\n\n
+===== Sample #1 Output =====
+\nI'd like to play first\nAfter you\nAfter you\nI'd like to play first\n

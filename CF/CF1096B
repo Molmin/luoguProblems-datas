@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+abaa
+
+===== Sample #1 Output =====
+6
+
+===== Sample #2 Input =====
+7
+aacdeee
+
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+2
+az
+
+===== Sample #3 Output =====
+3

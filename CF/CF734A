@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+ADAAAA
+
+===== Sample #1 Output =====
+Anton
+
+===== Sample #2 Input =====
+7
+DDDAADA
+
+===== Sample #2 Output =====
+Danik
+
+===== Sample #3 Input =====
+6
+DADADA
+
+===== Sample #3 Output =====
+Friendship
+

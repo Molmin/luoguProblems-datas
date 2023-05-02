@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+ababcababa
+0010100100
+0010101001
+===== Sample #1 Output =====
+NO:5
+YES
+YES

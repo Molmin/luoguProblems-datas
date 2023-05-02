@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2   \n1\n1\n4\n1100\n1100\n0011\n0011\n
+===== Sample #1 Output =====
+Odd\nEven\n\n

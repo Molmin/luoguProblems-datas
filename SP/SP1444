@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+
+BP +
+BPC +
+TURBO -
+
+EXCHANGE +
+EXT +
+HARDWARE +
+MOUSE &#8211;
+NETWORK &#8211;
+===== Sample #1 Output =====
+2
+2

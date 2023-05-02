@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+3
+1 1 1
+bessie noun
+10 5 4
+bessie noun
+taught transitive-verb
+flew intransitive-verb
+elsie noun
+farmer noun
+john noun
+and conjunction
+and conjunction
+nhoj noun
+mooed intransitive-verb
+24 5 4
+but conjunction
+bessie noun
+taught transitive-verb
+flew intransitive-verb
+elsie noun
+farmer noun
+john noun
+and conjunction
+and conjunction
+nhoj noun
+mooed intransitive-verb
+bob noun
+impressed transitive-verb
+cow noun
+impressed transitive-verb
+leaped intransitive-verb
+elsie noun
+bella noun
+buttercup noun
+pushed transitive-verb
+mooed intransitive-verb
+envy noun
+john noun
+nhoj noun
+
+===== Sample #1 Output =====
+0
+
+9
+nhoj mooed. farmer taught elsie, bessie and john flew.
+23
+nhoj mooed. nhoj impressed john, farmer, elsie, bessie and cow impressed bob. bella pushed elsie and buttercup flew. envy mooed but john leaped.

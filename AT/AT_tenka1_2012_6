@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+lower_camel_case
+===== Sample #1 Output =====
+lowerCamelCase
+===== Sample #2 Input =====
+_snakeCase_
+===== Sample #2 Output =====
+_snake_case_
+===== Sample #3 Input =====
+KLab
+===== Sample #3 Output =====
+KLab
+===== Sample #4 Input =====
+_
+===== Sample #4 Output =====
+_
+===== Sample #5 Input =====
+a_bc_9a_b
+===== Sample #5 Output =====
+a_bc_9a_b

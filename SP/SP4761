@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+5
+1
+5
+1
+7
+4
+1 2 3 4
+10
+1 2 3 4 5 6 7 8 9 10
+2
+1000000 1000001
+===== Sample #1 Output =====
+Julia wins.
+Take 5 sticks from heap number 1.
+
+Robert wins.
+
+Julia wins.
+Take 3 sticks from heap number 4.
+
+Julia wins.
+Take 5 sticks from heap number 6.
+
+Julia wins.
+Take 5 sticks from heap number 1.

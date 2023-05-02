@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+4 1
+21243
+1
+1
+2 2
+122121111111
+3
+1 2 3
+===== Sample #1 Output =====
+ORDER OF RACING: 4 1 2 3
+ORDER OF RACING: 2 1
+ORDER OF RACING: 2 1
+INVALID SIMULATION

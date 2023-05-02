@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+ACABCB
+ABCAB
+aa0123456789b
+===== Sample #1 Output =====
+An echo string with buffer size ten
+Not an echo string, but still consistent with the theory
+Not consistent with the theory

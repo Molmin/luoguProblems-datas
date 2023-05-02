@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2 2 1
+===== Sample #1 Output =====
+RY
+GR
+===== Sample #2 Input =====
+2 3 2
+===== Sample #2 Output =====
+RYB
+RGB

@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+GENIUS
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+DOCTOR
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+IRENE
+===== Sample #3 Output =====
+YES
+===== Sample #4 Input =====
+MARY
+===== Sample #4 Output =====
+NO
+===== Sample #5 Input =====
+SMARTPHONE
+===== Sample #5 Output =====
+NO
+===== Sample #6 Input =====
+REVOLVER
+===== Sample #6 Output =====
+YES
+===== Sample #7 Input =====
+HOLMES
+===== Sample #7 Output =====
+NO
+===== Sample #8 Input =====
+WATSON
+===== Sample #8 Output =====
+YES

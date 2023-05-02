@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+4
+hello
+hello
+hello
+helloo
+hello
+hlllloo
+hello
+helo
+
+===== Sample #1 Output =====
+YES
+YES
+NO
+NO
+
+===== Sample #2 Input =====
+5
+aa
+bb
+codeforces
+codeforce
+polycarp
+poolycarpp
+aaaa
+aaaab
+abcdefghijklmnopqrstuvwxyz
+zabcdefghijklmnopqrstuvwxyz
+
+===== Sample #2 Output =====
+NO
+NO
+YES
+NO
+NO
+

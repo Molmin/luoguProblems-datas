@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+ASSA
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+STOP
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+FFEE
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+FREE
+===== Sample #4 Output =====
+No

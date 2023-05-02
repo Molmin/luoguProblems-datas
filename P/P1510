@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+100 2 10
+50 5
+50 5
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+10 2 1
+50 5
+10 2
+===== Sample #2 Output =====
+Impossible

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2 5 4 10
+.2...
+...W.
+WWW..
+.X.1.
+1 5 4 10
+.....
+...W.
+WWW..
+.X.1.
+===== Sample #1 Output =====
+6
+NO SOLUTION

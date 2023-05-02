@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4 5
+1 2 1
+1 3 2
+2 4 2
+3 4 1
+2 3 1
+2 1
+1 2 5
+0 0
+===== Sample #1 Output =====
+The minimal cost for test case 1 is 6.
+There is no reliable net possible for test case 2.

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1 1 1 1
+youshouldnot
+thoushaltnot
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+2 4 10 3
+ab
+ba
+
+===== Sample #2 Output =====
+3
+
+===== Sample #3 Input =====
+1 10 20 30
+a
+za
+
+===== Sample #3 Output =====
+1
+

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+6
+abcbab
+2
+cb
+cbab
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+4
+abab
+2
+bac
+baba
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+6
+abcabc
+2
+abca
+cab
+===== Sample #3 Output =====
+1

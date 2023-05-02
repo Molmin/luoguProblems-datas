@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+10
+YES
+yES
+yes
+Yes
+YeS
+Noo
+orZ
+yEz
+Yas
+XES
+===== Sample #1 Output =====
+YES
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+NO

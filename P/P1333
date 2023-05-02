@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+blue red
+red violet
+cyan blue
+blue magenta
+magenta cyan
+
+===== Sample #1 Output =====
+Possible
+

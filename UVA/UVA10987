@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+3
+100
+200 100
+3
+100
+300 100
+===== Sample #1 Output =====
+Case #1:
+2
+1 2 100
+2 3 100
+Case #2:
+Need better measurements.

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 3 2
+YYY
+NNN
+YNY
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+4 4 1
+NNNY
+NNYN
+NYNN
+YNNN
+
+===== Sample #2 Output =====
+4
+

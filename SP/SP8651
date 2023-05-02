@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+11
+a + a
+e - A
+91 * 89
+AEIOU + abcd
+A - B
+b ^ 2
+5 ^ 0
+123 - 45
+ABC * 10
+6 - 6
+0 ^ 0
+===== Sample #1 Output =====
+1U
+U
+1W59
+L6ZR
+LIFD
+WP
+1
+de
+ABC0
+0
+1

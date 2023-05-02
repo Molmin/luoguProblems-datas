@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+2 2 3
+intel
+code
+ch allenge
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+4
+1 2 3 1
+a
+bcdefghi
+jklmnopqrstu
+vwxyz
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+4
+13 11 15 15
+to be or not to be that is the question
+whether tis nobler in the mind to suffer
+the slings and arrows of outrageous fortune
+or to take arms against a sea of troubles
+
+===== Sample #3 Output =====
+YES
+

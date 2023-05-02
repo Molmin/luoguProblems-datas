@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4 5 2 3 21 21 31 42 43 4G C P P1 2
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+5 4 3 5 3
+1 2
+2 3
+3 4
+4 5
+G C C G G
+4 5 4
+===== Sample #2 Output =====
+9

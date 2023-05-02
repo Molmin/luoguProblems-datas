@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+internationalization
+===== Sample #1 Output =====
+i18n
+===== Sample #2 Input =====
+smiles
+===== Sample #2 Output =====
+s4s
+===== Sample #3 Input =====
+xyz
+===== Sample #3 Output =====
+x1z

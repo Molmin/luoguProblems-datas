@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+AGTTGAATTT
+GTCGGACTTT
+===== Sample #1 Output =====
+AGT-TGAATTT
+-GTCGGACTTT

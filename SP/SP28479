@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+1\n6\nW abcdef\nQ bacdef\nQ abcdef\nW abadef\nQ abcdeg\nQ abgdef\n
+===== Sample #1 Output =====
+\nTest 1\n0\n0\nabcdef\nabadef\n

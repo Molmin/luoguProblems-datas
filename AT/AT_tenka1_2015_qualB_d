@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+9
+4
+hELLO
+hELL
+EGG
+ODD
+===== Sample #1 Output =====
+773407734
+===== Sample #2 Input =====
+5
+3
+ZO
+OIO
+IOIO
+===== Sample #2 Output =====
+0.201
+===== Sample #3 Input =====
+25
+10
+BED
+BEL
+BIG
+DIE
+DIG
+DOG
+OLD
+shE
+qED
+ZOO
+===== Sample #3 Output =====
+918910900738345310070038
+===== Sample #4 Input =====
+5
+1
+hELLO
+===== Sample #4 Output =====
+0.7734

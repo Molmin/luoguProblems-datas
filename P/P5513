@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+221LU
+12L2
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+111RRRRRRR
+222
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+11111
+222222
+===== Sample #3 Output =====
+10

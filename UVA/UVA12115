@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+abca 2
+3 2 5 7
+3 2 3 2
+Aacc32 1
+1 1 8 2
+===== Sample #1 Output =====
+Square 1:
+Query 1:
+bcccba
+bcacba
+bcccba
+Query 2:
+b
+Square 2:
+Query 1:
+AA
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa
+Aa

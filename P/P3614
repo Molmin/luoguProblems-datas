@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+7
+0
+xxoooxx
+xxoyoxx
+oooyooo
+ooooooo
+ooooooo
+xxoooxx
+xxoooxx
+===== Sample #1 Output =====
+2 4 D
+===== Sample #2 Input =====
+7
+2
+2 4
+3 4
+===== Sample #2 Output =====
+3 4 U

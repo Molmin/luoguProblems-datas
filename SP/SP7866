@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1
+aabbcc
+5
+b*c
+a?b+c+
+ab?c
+b?c?
+a?b?c?
+===== Sample #1 Output =====
+bbc
+abbcc
+-1
+
+a

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+XWY
+ZX
+ZXY
+ZXW
+YWWX
+#
+===== Sample #1 Output =====
+XZYW

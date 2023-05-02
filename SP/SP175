@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+The number of test cases t is in the first line of input, then t test cases follow separated by an empty line
+In the first line of a test case there is a number n, 3 &lt;= n &lt;= 1000, which equals the number of vertices of the polygon. The vertices of the polygon are numbered from 0 to n-1 clockwise. The following n-2 lines describe the triangles in the triangulation. There are three integers separated by single spaces in the (i+1)-st line, where 1 &lt;= i &lt;= n-2. These are the numbers of the vertices of the i-th triangle in the triangulation.
+===== Sample #1 Output =====
+For each test case your program should produce one line with exactly one integer - the maximal number of triangles in the triangulation, that can be intersected by a single elementary triangle of the input polygon. 
+
+Example
+Sample input:
+1
+6
+0 1 2
+2 4 3
+0 5 4
+2 4 0
+
+Sample output:
+4
+===== Sample #2 Input =====
+1
+6
+0 1 2
+2 4 3
+0 5 4
+2 4 0
+===== Sample #2 Output =====
+null

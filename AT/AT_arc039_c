@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+RLU
+===== Sample #1 Output =====
+-1 1
+===== Sample #2 Input =====
+7
+RURDRUL
+===== Sample #2 Output =====
+0 1
+===== Sample #3 Input =====
+25
+RLRLRLRLRLRLURLRLRLRLRLRL
+===== Sample #3 Output =====
+-12 1

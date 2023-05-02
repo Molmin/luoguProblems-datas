@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+httpsunrux
+
+===== Sample #1 Output =====
+http://sun.ru/x
+
+===== Sample #2 Input =====
+ftphttprururu
+
+===== Sample #2 Output =====
+ftp://http.ru/ruru
+

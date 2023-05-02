@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+x
+
+===== Sample #1 Output =====
+x
+
+===== Sample #2 Input =====
+yxyxy
+
+===== Sample #2 Output =====
+y
+
+===== Sample #3 Input =====
+xxxxxy
+
+===== Sample #3 Output =====
+xxxx
+

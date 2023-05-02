@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+ABCCAD
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+5
+AAABACADBABBBCBDCACBCCCDDDBDCDD
+
+===== Sample #2 Output =====
+4
+

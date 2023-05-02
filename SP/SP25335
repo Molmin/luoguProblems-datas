@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3 3
+8
+1 1
+1 2
+1 3
+2 1
+2 3
+3 1
+3 2
+3 3
+2
+3 2
+1 3
+===== Sample #1 Output =====
+Eefun gagal mengedit data\n1&nbsp;

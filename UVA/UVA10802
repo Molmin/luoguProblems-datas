@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+6 4 5
+5 0
+2 5
+4 0
+3 1
+4 4 0
+0 1
+1 2
+0 2
+0 3
+===== Sample #1 Output =====
+Case #1:
+5 0
+No drive.
+5 2
+No drive.
+5 0 4
+5
+Case #2:
+0
+0 1
+0 1 2
+No drive.

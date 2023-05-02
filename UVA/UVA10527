@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+0
+1
+4
+7
+18
+49
+51
+768
+-1
+===== Sample #1 Output =====
+10
+11
+14
+17
+29
+77
+There is no such number.
+2688

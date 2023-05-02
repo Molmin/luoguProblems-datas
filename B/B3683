@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+3 2
+abc
+abc
+1 2 d
+0 2 d
+5 0
+abdce
+acdce
+
+===== Sample #1 Output =====
+Yes
+No
+Yes
+No

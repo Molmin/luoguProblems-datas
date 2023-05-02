@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+0.0 0.0 1.0
+-1.5 -1.5 0.5
+1.5 1.5 0.5
+-2.0 2.0 3.5
+3
+3.0 2.0 2.0
+0.0 -0.5 1.0
+0.0 0.0 2.0
+5
+-2.0 0.0 1.0
+1.0 -1.0 1.0
+0.0 1.0 0.5
+2.0 0.0 1.0
+-1.0 1.0 1.0
+-1
+===== Sample #1 Output =====
+The largest component contains 4 rings.
+The largest component contains 2 rings.
+The largest component contains 3 rings.

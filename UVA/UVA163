@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+A2W S1N E
+TURN SHARP LEFT
+GO 1
+TURN RIGHT
+TURN LEFT
+TURN SHARP LEFT
+GO 1
+TURN LEFT
+STOP
+A2W S1N W
+GO STRAIGHT 2
+TURN LEFT
+GO ON 2
+TURN HALF LEFT
+TURN LEFT
+GO 2
+STOP
+END
+===== Sample #1 Output =====
+A3W S1N E
+Illegal stopping place

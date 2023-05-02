@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2 2
+yz
+
+===== Sample #1 Output =====
+26
+
+===== Sample #2 Input =====
+2 3
+yx
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+4 7
+abcd
+
+===== Sample #3 Output =====
+21962
+

@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+a
+b
+c
+===== Sample #1 Output =====
+92
+===== Sample #2 Input =====
+2
+aa
+a
+===== Sample #2 Output =====
+21
+===== Sample #3 Input =====
+2
+a
+a
+===== Sample #3 Output =====
+10
+===== Sample #4 Input =====
+2
+abcd
+aabb
+===== Sample #4 Output =====
+124
+===== Sample #5 Input =====
+3
+ddd
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaabbbbbbbbbbbcccccccccccciiiiiiiiiiiiiiiiiiiiiiooooooooooqqqqqqqqqqqqqqqqqqvvvvvzzzzzzzzzzzz
+===== Sample #5 Output =====
+15706243380

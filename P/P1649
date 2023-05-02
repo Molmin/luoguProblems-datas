@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+3
+. x A
+. . .
+B x .
+===== Sample #1 Output =====
+2

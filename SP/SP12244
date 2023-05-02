@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+7\nT\nF\nAND(T, T)\nOR(T, F)\nNOT(T)\nAND(OR(T, F), AND(F, F))\nAND(AND(AND(OR(T, F), F), F), T)
+===== Sample #1 Output =====
+T\nF\nT\nT\nF\nF\nF

@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+2 700
+3 500
+5 800
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+2 2000
+3 500
+5 800
+===== Sample #2 Output =====
+7
+===== Sample #3 Input =====
+2 400
+3 500
+5 800
+===== Sample #3 Output =====
+2
+===== Sample #4 Input =====
+5 25000
+20 1000
+40 1000
+50 1000
+30 1000
+1 1000
+===== Sample #4 Output =====
+66

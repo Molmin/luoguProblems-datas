@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+alpha beta gamma
+alpha gamma beta
+===== Sample #1 Output =====
+2/3
+===== Sample #2 Input =====
+5
+naboo geonosis yavin hoth endor
+geonosis yavin hoth endor naboo
+===== Sample #2 Output =====
+6/10

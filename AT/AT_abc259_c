@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+abbaac
+abbbbaaac
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+xyzz
+xyyzz
+===== Sample #2 Output =====
+No

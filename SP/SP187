@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+The number of test cases t is in the first line of input, then t test cases follow separated by an empty line.
+In the first line of a test case there is one positive integer n, not greater than 30000, which denotes the number of points. In the following n lines there are coordinates of points. Each line contains two integers x, y separated by a single space, 0  &lt;=  x  &lt;=  30000, 0  &lt;=  y  &lt;=  30000. The numbers in the i-th line are the coordinates of the i-th point.
+===== Sample #1 Output =====
+s the result.
+===== Sample #2 Input =====
+1
+6
+1 6
+10 8
+1 5
+2 20
+4 4
+6 2
+===== Sample #2 Output =====
+3

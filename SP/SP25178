@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\n4 4 2 1 5\n4 1 1 1 1\n2 10 1
+===== Sample #1 Output =====
+Case 1: 10\nCase 2: 0\nCase 3: 9

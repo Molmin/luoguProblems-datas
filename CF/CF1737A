@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+12 3
+cabccadabaac
+12 6
+cabccadabaac
+12 12
+cabccadabaac
+25 1
+abcdefghijklmnopqrstuvwxy
+10 5
+bcdxedbcfg
+===== Sample #1 Output =====
+edb
+ccbbba
+bbbbbaaaaaaa
+z
+aaaaa

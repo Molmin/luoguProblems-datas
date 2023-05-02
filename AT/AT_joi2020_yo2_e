@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+11
+S+?-(R+?)*P
+S
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+15
+?+?-?*?+?-?*?+?
+R
+===== Sample #2 Output =====
+2187
+===== Sample #3 Input =====
+13
+(((((R)))))+?
+P
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+1
+P
+S
+===== Sample #4 Output =====
+0
+===== Sample #5 Input =====
+27
+R+((?+S-?*P+?)-P*?+S-?)*R+?
+P
+===== Sample #5 Output =====
+381
+===== Sample #6 Input =====
+83
+((R+?)*(?+?))*((?+?)*(?+?))*((?+?)*(?+?))-((S+?)*(?+?))*((?+?)*(?+?))*((?+?)*(?+?))
+P
+===== Sample #6 Output =====
+460353133

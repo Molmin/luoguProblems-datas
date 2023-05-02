@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+1
+a
+2
+ba
+10
+codeforces
+26
+abcdefghijklmnopqrstuvwxyz
+26
+abcdefghijklmnopqrstuvwxzy
+===== Sample #1 Output =====
+b
+ac
+abcdebfadg
+bcdefghijklmnopqrstuvwxyza
+bcdefghijklmnopqrstuvwxyaz

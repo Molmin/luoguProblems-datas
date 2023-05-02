@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+3 3
+.o.
+.x.
+o.o
+4 4
+....
+.ox.
+.xo.
+....
+5 5
+.ooo.
+.x...
+..xoo
+x.xoo
+.ox.x
+===== Sample #1 Output =====
+Case #1: 14
+Case #2: -1
+Case #3: 28

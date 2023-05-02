@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+BACD
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+ABCD
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+CABD
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+ACACA
+===== Sample #4 Output =====
+Yes
+===== Sample #5 Input =====
+XX
+===== Sample #5 Output =====
+No

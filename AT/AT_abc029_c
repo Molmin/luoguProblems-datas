@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+===== Sample #1 Output =====
+a
+b
+c
+===== Sample #2 Input =====
+2
+===== Sample #2 Output =====
+aa
+ab
+ac
+ba
+bb
+bc
+ca
+cb
+cc

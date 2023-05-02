@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3 2
+0 0
+0 0
+0 0
+
+===== Sample #1 Output =====
+NIE
+
+===== Sample #2 Input =====
+2 3
+7 7 7
+7 7 10
+
+===== Sample #2 Output =====
+TAK
+1 3 
+

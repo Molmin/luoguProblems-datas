@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+A**1MP19*
+4
+A001MP199
+E885EE098
+A111MP199
+KT7351TTB
+
+===== Sample #1 Output =====
+2
+A001MP199
+A111MP199
+

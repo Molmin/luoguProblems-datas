@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+the dog and a cat know goofy
+jimmy kills tom
+goofy hate mouse jerry
+tom hates jerry , jimmy hates tom
+===== Sample #1 Output =====
+YES I WILL
+NO I WON’T
+NO I WON’T
+YES I WILL

@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+   #   include &lt;cstdio&gt;
+
+using namespace std;
+
+int main     (   ){
+puts(&quot;Hello # World&quot;); #
+#
+}
+
+===== Sample #1 Output =====
+   #   include &lt;cstdio&gt;
+usingnamespacestd;intmain(){puts(&quot;Hello#World&quot;);#
+#
+}
+
+===== Sample #2 Input =====
+#
+
+#
+
+===== Sample #2 Output =====
+#
+
+#
+

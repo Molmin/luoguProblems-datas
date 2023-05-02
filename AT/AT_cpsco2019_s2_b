@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+4
++ 100
+- 80
+* 3
++ 300
+===== Sample #1 Output =====
+1200
+===== Sample #2 Input =====
+3
+- 314
+- 159
+- 265
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+4
+* 8
++ 7
+* 0
+* 5
+===== Sample #3 Output =====
+280

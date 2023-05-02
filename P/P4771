@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+5 5 5
+1 2 3 4 5
+2 3 4 5 1
+3 4 5 1 2
+4 5 1 2 3
+5 1 2 3 4
+1 2
+2 3
+3 4
+4 5
+5 1
+
+===== Sample #1 Output =====
+Pool Babingbaboom!
+Pool Babingbaboom!
+1
+2
+0

@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+ATGCATGC
+4
+2 1 8 ATGC
+2 2 6 TTT
+1 4 T
+2 2 6 TA
+
+===== Sample #1 Output =====
+8
+2
+4
+
+===== Sample #2 Input =====
+GAGTTGTTAA
+6
+2 3 4 TATGGTG
+1 1 T
+1 6 G
+2 5 9 AGTAATA
+1 10 G
+2 2 6 TTGT
+
+===== Sample #2 Output =====
+0
+3
+1
+

@@ -1,0 +1,49 @@
+===== Sample #1 Input =====
+3 4
+AAAA
+ABCA
+AAAA
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+3 4
+AAAA
+ABCA
+AADA
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+4 4
+YYYR
+BYBY
+BBBY
+BBBY
+
+===== Sample #3 Output =====
+Yes
+
+===== Sample #4 Input =====
+7 6
+AAAAAB
+ABBBAB
+ABAAAB
+ABABBB
+ABAAAB
+ABBBAB
+AAAAAB
+
+===== Sample #4 Output =====
+Yes
+
+===== Sample #5 Input =====
+2 13
+ABCDEFGHIJKLM
+NOPQRSTUVWXYZ
+
+===== Sample #5 Output =====
+No
+

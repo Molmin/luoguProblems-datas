@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+abcabdc
+a
+bbbbbbbbbb
+codeforces
+cffcfccffccfcffcfccfcffccffcfccf
+zyzyzwxxyyxxyyzzyzzxxwzxwywxwzxxyzzw
+===== Sample #1 Output =====
+abdc
+a
+b
+deforces
+cf
+xyzzw

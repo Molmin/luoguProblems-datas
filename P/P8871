@@ -1,0 +1,161 @@
+===== Sample #1 Input =====
+#include<iostream>
+using namespace std;
+int main(){
+    int a, b;
+    cin >> a >> b;
+    cout << a + b << endl;
+    cout << a - b << endl;
+    cout << a * b << endl;
+    cout << a / b << endl;
+    return 0;
+}
+
+===== Sample #1 Output =====
+ 1 #include<iostream>
+ 2 using namespace std;
+ 3 int main(){
+ 4     int a, b;
+ 5     cin >> a >> b;
+ 6     cout << a + b << endl;
+ 7     cout << a - b << endl;
+ 8     cout << a * b << endl;
+ 9     cout << a / b << endl;
+10     return 0;
+11 }
+
+===== Sample #2 Input =====
+public class Main {
+    public static void main(String[] args) throws Exception {
+        int b = 0, c = 0;
+        for (int a = 123; a < 333; a++) {
+            int[] array = new int[10];
+            Boolean flag = true;
+            b = a * 2;
+            c = a * 3;
+            array[a / 100] = 1;
+            array[a / 10 % 10] = 1;
+            array[a % 10] = 1;
+
+            array[b / 100] = 1;
+            array[b / 10 % 10] = 1;
+            array[b % 10] = 1;
+
+            array[c / 100] = 1;
+            array[c / 10 % 10] = 1;
+            array[c % 10] = 1;
+            for (int i = 1; i < array.length; i++) {
+                if (array[i] != 1) {
+                    flag = false;
+                    break;
+                }
+            }
+            if (flag)
+                System.out.println(a + " " + b + " " + c);
+        }
+    }
+}
+===== Sample #2 Output =====
+ 1 public class Main {
+ 2     public static void main(String[] args) throws Exception {
+ 3         int b = 0, c = 0;
+ 4         for (int a = 123; a < 333; a++) {
+ 5             int[] array = new int[10];
+ 6             Boolean flag = true;
+ 7             b = a * 2;
+ 8             c = a * 3;
+ 9             array[a / 100] = 1;
+10             array[a / 10 % 10] = 1;
+11             array[a % 10] = 1;
+12 
+13             array[b / 100] = 1;
+14             array[b / 10 % 10] = 1;
+15             array[b % 10] = 1;
+16 
+17             array[c / 100] = 1;
+18             array[c / 10 % 10] = 1;
+19             array[c % 10] = 1;
+20             for (int i = 1; i < array.length; i++) {
+21                 if (array[i] != 1) {
+22                     flag = false;
+23                     break;
+24                 }
+25             }
+26             if (flag)
+27                 System.out.println(a + " " + b + " " + c);
+28         }
+29     }
+30 }
+
+===== Sample #3 Input =====
+Tao hua kai yo li hua kai, jie jie mei mei dong qi lai;
+Tao hua kai yo li hua kai, jie jie mei mei tiao qi lai.
+    Gei ni zi ji, chun yi mai huai (yi ya yo);
+    Gei xin shang ren, chun se man kai.
+Tao hua kai yo li hua kai, jie jie mei mei dong qi lai; 
+Tao hua kai yo li hua kai, jie jie mei mei tiao qi lai.
+    Gei tong bao men, chun yi man huai, hai hai yo;
+    Gei zhe da di, chun se quan kai!!!
+Cong na nu jiang nan, dao mo he bei,
+    Dao chu dou you hua rong ming mei.
+Lai hui hui shou, zai diao ge tou,
+    Wu xian chun guang zai wo xiong.
+Cong jing cheng, dao yuan ye,
+    Dao chu dou you sheng de xi yue.
+Lai hui hui shou, zai yan ran huang ge tou,
+    Wu xian CHUN GUANG XIAN ZU GUO!!!
+Tao hua kai yo li hua kai, Jiong xian mei mei dong qi lai;
+Tao hua kai yo li hua kai, Jie jie mei mei tiao qi lai.
+    Gei ni zi ji, chun yi mai huai chun yi man huai yi ya yo;
+    Gei xin shang ren, chun se man kai chun se man kai.
+Tao hua kai yo li hua kai, Jie jie mei mei dong qi lai;
+Tao hua kai yo li hua kai, Jie jie mei mei tiao qi lai.
+    Gei tong bao men, chun yi man huai, hai hai yo;
+    Gei zhe da di, chun se quan kai!!!
+Cong na nu jiang nan, dao mo he bei,
+    Dao chu dou you hua rong ming mei.
+Lai hui hui shou, zai diao ge tou,
+    Wu xian chun guang zai wo xiong.
+Cong jing cheng, dao yuan ye,
+    Dao chu dou you sheng de xi yue.
+Lai hui hui shou, zai yan ran huang ge tou,
+    Wu xian CHUN GUANG XIAN ZU GUO!!!
+Lai hui hui shou, zai yan ran huang ge tou,
+    Wu xian CHUN GUANG XIAN ZU GUO!!!
+
+===== Sample #3 Output =====
+ 1 Tao hua kai yo li hua kai, jie jie mei mei dong qi lai;
+ 2 Tao hua kai yo li hua kai, jie jie mei mei tiao qi lai.
+ 3     Gei ni zi ji, chun yi mai huai (yi ya yo);
+ 4     Gei xin shang ren, chun se man kai.
+ 5 Tao hua kai yo li hua kai, jie jie mei mei dong qi lai; 
+ 6 Tao hua kai yo li hua kai, jie jie mei mei tiao qi lai.
+ 7     Gei tong bao men, chun yi man huai, hai hai yo;
+ 8     Gei zhe da di, chun se quan kai!!!
+ 9 Cong na nu jiang nan, dao mo he bei,
+10     Dao chu dou you hua rong ming mei.
+11 Lai hui hui shou, zai diao ge tou,
+12     Wu xian chun guang zai wo xiong.
+13 Cong jing cheng, dao yuan ye,
+14     Dao chu dou you sheng de xi yue.
+15 Lai hui hui shou, zai yan ran huang ge tou,
+16     Wu xian CHUN GUANG XIAN ZU GUO!!!
+17 Tao hua kai yo li hua kai, Jiong xian mei mei dong qi lai;
+18 Tao hua kai yo li hua kai, Jie jie mei mei tiao qi lai.
+19     Gei ni zi ji, chun yi mai huai chun yi man huai yi ya yo;
+20     Gei xin shang ren, chun se man kai chun se man kai.
+21 Tao hua kai yo li hua kai, Jie jie mei mei dong qi lai;
+22 Tao hua kai yo li hua kai, Jie jie mei mei tiao qi lai.
+23     Gei tong bao men, chun yi man huai, hai hai yo;
+24     Gei zhe da di, chun se quan kai!!!
+25 Cong na nu jiang nan, dao mo he bei,
+26     Dao chu dou you hua rong ming mei.
+27 Lai hui hui shou, zai diao ge tou,
+28     Wu xian chun guang zai wo xiong.
+29 Cong jing cheng, dao yuan ye,
+30     Dao chu dou you sheng de xi yue.
+31 Lai hui hui shou, zai yan ran huang ge tou,
+32     Wu xian CHUN GUANG XIAN ZU GUO!!!
+33 Lai hui hui shou, zai yan ran huang ge tou,
+34     Wu xian CHUN GUANG XIAN ZU GUO!!!
+

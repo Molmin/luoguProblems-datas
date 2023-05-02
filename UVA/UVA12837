@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+1
+abab
+3
+a a
+a b
+ba ab
+===== Sample #1 Output =====
+Case 1:
+2
+2
+1

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+15000 15000 15000 2
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+5000 10000 15000 3
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+15000 15000 15000 3
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+15000 15000 15000 4
+===== Sample #4 Output =====
+4
+===== Sample #5 Input =====
+15000 15000 15000 5
+===== Sample #5 Output =====
+5
+===== Sample #6 Input =====
+15000 15000 15000 6
+===== Sample #6 Output =====
+14

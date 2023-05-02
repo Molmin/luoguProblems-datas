@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4
+good
+
+===== Sample #1 Output =====
+0
+good
+
+===== Sample #2 Input =====
+4
+aabc
+
+===== Sample #2 Output =====
+2
+ab
+
+===== Sample #3 Input =====
+3
+aaa
+
+===== Sample #3 Output =====
+3
+
+

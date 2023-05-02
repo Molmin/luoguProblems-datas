@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+a
+abcdfdcecba
+abbaxyzyx
+codeforces
+acbba
+===== Sample #1 Output =====
+a
+abcdfdcba
+xyzyx
+c
+abba

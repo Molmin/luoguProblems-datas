@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+7 5 1
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+2 2 1
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+1 100 97
+===== Sample #3 Output =====
+YES
+===== Sample #4 Input =====
+40 98 58
+===== Sample #4 Output =====
+YES
+===== Sample #5 Input =====
+77 42 36
+===== Sample #5 Output =====
+NO

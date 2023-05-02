@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2\n3\nXXX\nX.X\nXXX\n3\nXXX\nXXX\nXXX\n\n
+===== Sample #1 Output =====
+1\n5

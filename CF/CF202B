@@ -1,0 +1,47 @@
+===== Sample #1 Input =====
+4
+find the next palindrome
+1
+10 find the previous palindrome or print better luck next time
+
+===== Sample #1 Output =====
+1
+[:||||||:]
+
+===== Sample #2 Input =====
+3
+add two numbers
+3
+1 add
+2 two two
+3 numbers numbers numbers
+
+===== Sample #2 Output =====
+Brand new problem!
+
+===== Sample #3 Input =====
+4
+these papers are formulas
+3
+6 what are these formulas and papers
+5 papers are driving me crazy
+4 crazy into the night
+
+===== Sample #3 Output =====
+1
+[:||||:]
+
+===== Sample #4 Input =====
+3
+add two decimals
+5
+4 please two decimals add
+5 decimals want to be added
+4 two add decimals add
+4 add one two three
+7 one plus two plus three equals six
+
+===== Sample #4 Output =====
+3
+[:|||:]
+

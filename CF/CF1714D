@@ -1,0 +1,56 @@
+===== Sample #1 Input =====
+6
+bababa
+2
+ba
+aba
+caba
+2
+bac
+acab
+abacabaca
+3
+aba
+bac
+aca
+baca
+3
+a
+c
+b
+codeforces
+4
+def
+code
+efo
+forces
+aaaabbbbcccceeee
+4
+eeee
+cccc
+aaaa
+bbbb
+===== Sample #1 Output =====
+3
+2 2
+1 1
+2 4
+-1
+4
+1 1
+2 6
+3 3
+3 7
+4
+3 1
+1 2
+2 3
+1 4
+2
+4 5
+2 1
+4
+3 1
+4 5
+2 9
+1 13

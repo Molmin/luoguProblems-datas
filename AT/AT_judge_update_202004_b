@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4
+10 B
+6 R
+2 R
+4 B
+===== Sample #1 Output =====
+2
+6
+4
+10
+===== Sample #2 Input =====
+2
+5 B
+7 B
+===== Sample #2 Output =====
+5
+7

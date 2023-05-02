@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3 3
+1 2 BMJ
+2 3 MJP
+3 1 JPB
+5
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3 4
+1 2 B
+2 1 P
+1 3 J
+3 1 M
+8
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+5 7
+1 2 B
+2 4 M
+1 3 J
+3 4 MB
+4 1 JP
+4 5 J
+5 1 P
+7
+===== Sample #3 Output =====
+5

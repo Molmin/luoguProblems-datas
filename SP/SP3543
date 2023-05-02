@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+3 3
+A 3
+B 2
+C 4
+3
+1 2 3
+===== Sample #1 Output =====
+AAB
+ACC
+BCC
+
+Input:
+4 5
+E 4
+A 3
+B 3
+C 3
+D 3
+2
+2 4
+
+Output:
+AC
+BE
+DE
+ED
+
+Input:
+4 6
+F 1
+E 3
+A 3
+B 3
+C 3
+D 3
+4
+1 2 3 4
+
+Output:
+IMPOSSIBLE

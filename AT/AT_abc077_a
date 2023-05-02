@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+pot
+top
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+tab
+bet
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+eye
+eel
+===== Sample #3 Output =====
+NO

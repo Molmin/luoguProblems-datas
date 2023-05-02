@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+A278832
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+A089956
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+A089957
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+A144045
+===== Sample #4 Output =====
+1

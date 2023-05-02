@@ -1,0 +1,84 @@
+===== Sample #1 Input =====
+4
+a 3
+2
+b 1
+c 1
+ 
+b 2
+0
+ 
+b 1
+1
+b 2
+ 
+c 1
+1
+b 2
+
+===== Sample #1 Output =====
+2
+b 1
+c 1
+
+===== Sample #2 Input =====
+9
+codehorses 5
+3
+webfrmk 6
+mashadb 1
+mashadb 2
+ 
+commons 2
+0
+ 
+mashadb 3
+0
+ 
+webfrmk 6
+2
+mashadb 3
+commons 2
+ 
+extra 4
+1
+extra 3
+ 
+extra 3
+0
+ 
+extra 1
+0
+ 
+mashadb 1
+1
+extra 3
+ 
+mashadb 2
+1
+extra 1
+
+===== Sample #2 Output =====
+4
+commons 2
+extra 1
+mashadb 2
+webfrmk 6
+
+===== Sample #3 Input =====
+3
+abc 1
+2
+abc 3
+cba 2
+
+abc 3
+0
+
+cba 2
+0
+
+===== Sample #3 Output =====
+1
+cba 2
+

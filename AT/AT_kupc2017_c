@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+kupc
+===== Sample #1 Output =====
+yzp
+===== Sample #2 Input =====
+10
+abcde
+===== Sample #2 Output =====
+utuvc
+===== Sample #3 Input =====
+4
+zzz
+===== Sample #3 Output =====
+zzz
+===== Sample #4 Input =====
+9
+kyotouniversityprogrammingcontest
+===== Sample #4 Output =====
+txxsxtwztwyrrsyyzwxyrtuzuxsvvswzs

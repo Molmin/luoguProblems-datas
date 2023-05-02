@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+2
+ivan 1 00123
+masha 1 00123
+
+===== Sample #1 Output =====
+2
+masha 1 00123 
+ivan 1 00123 
+
+===== Sample #2 Input =====
+3
+karl 2 612 12
+petr 1 12
+katya 1 612
+
+===== Sample #2 Output =====
+3
+katya 1 612 
+petr 1 12 
+karl 1 612 
+
+===== Sample #3 Input =====
+4
+ivan 3 123 123 456
+ivan 2 456 456
+ivan 8 789 3 23 6 56 9 89 2
+dasha 2 23 789
+
+===== Sample #3 Output =====
+2
+dasha 2 23 789 
+ivan 4 789 123 2 456 
+

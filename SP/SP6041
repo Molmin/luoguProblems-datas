@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\n\n  /\\n /  \\n/    \\n\n
+===== Sample #1 Output =====
+\nTotal Walk Distance = 6\nUp 3 steps\nDown 3 steps\n\n

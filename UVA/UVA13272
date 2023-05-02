@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+5
+()
+&lt;&gt;
+(&lt;&gt;)&gt;&lt;
+()()
+{[[}
+===== Sample #1 Output =====
+Case 1:
+2
+0
+Case 2:
+2
+0
+Case 3:
+4
+2
+0
+0
+0
+0
+Case 4:
+4
+0
+2
+0
+Case 5:
+0
+0
+0
+0

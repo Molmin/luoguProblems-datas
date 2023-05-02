@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+a
+2
+a
+aa
+
+a+
+2
+a
+aa
+
+a+bc
+6
+abbacadabba
+aaaabc
+abc
+bc
+abcd
+babc
+===== Sample #1 Output =====
+Y.
+YY
+.YY...

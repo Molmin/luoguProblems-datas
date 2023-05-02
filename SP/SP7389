@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+&nbsp;1.15
+4.56316411
+4.56316
+3.67
+3.66
+-1.00
+===== Sample #1 Output =====
+&nbsp;
+Case 1: 13
+Case 2: 847
+Case 3: 190
+Case 4: 3
+Case 5: 29

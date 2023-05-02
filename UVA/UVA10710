@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+54
+101
+144
+197
+1999999973
+1999999975
+-1
+===== Sample #1 Output =====
+54 is not a Jimmy-number
+101 is a Jimmy-number
+144 is not a Jimmy-number
+197 is a Jimmy-number
+1999999973 is a Jimmy-number
+1999999975 is not a Jimmy-number

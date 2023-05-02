@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2 2
+1 2 2
+2 2 6
+
+===== Sample #1 Output =====
+4 6
+===== Sample #2 Input =====
+2 2
+1 2 2
+2 2 5
+
+===== Sample #2 Output =====
+Impossible

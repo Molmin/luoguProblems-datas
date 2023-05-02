@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 6
+2 4
+
+
+===== Sample #1 Output =====
+y=2x
+
+
+===== Sample #2 Input =====
+3 5
+2 7
+===== Sample #2 Output =====
+y=-2x+11
+===== Sample #3 Input =====
+3 -1
+5 -2
+===== Sample #3 Output =====
+y=-1/2*x+1/2

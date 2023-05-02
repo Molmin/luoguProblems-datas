@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+1 2 3
+
+===== Sample #1 Output =====
+No
+
+===== Sample #2 Input =====
+6
+4 7 7 12 31 61
+
+===== Sample #2 Output =====
+Yes
+4 12 7 31 7 61 
+

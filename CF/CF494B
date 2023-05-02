@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+ababa
+aba
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+welcometoroundtwohundredandeightytwo
+d
+
+===== Sample #2 Output =====
+274201
+
+===== Sample #3 Input =====
+ddd
+d
+
+===== Sample #3 Output =====
+12
+

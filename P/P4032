@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+1
+2
+1 100
+10
+1 0 2
+2 0 1
+3 2 1
+4 2 2
+5 2 1
+200 0 1
+201 3 1 2
+202 1
+203 1
+204 1
+===== Sample #1 Output =====
+Succeeded!
+97
+YJQQQAQ is angry.
+2
+1
+2
+Yazid is angry.

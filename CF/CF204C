@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+AB
+BA
+
+===== Sample #1 Output =====
+0.400000000
+
+===== Sample #2 Input =====
+3
+AAB
+CAA
+
+===== Sample #2 Output =====
+0.642857143
+

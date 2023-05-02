@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2
+6 5
+PST#T
+BTJAS
+TYCVM
+YEHOF
+XIBKU
+N@RJB
+5 4
+JA#X
+JVBN
+XOHD
+DQEM
+T@IY
+===== Sample #1 Output =====
+forth forth right right forth forth forth
+right forth forth left forth forth right

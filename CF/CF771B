@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+8 3
+NO NO YES YES YES NO
+
+===== Sample #1 Output =====
+Adam Bob Bob Cpqepqwer Limak Adam Bob Adam
+===== Sample #2 Input =====
+9 8
+YES NO
+
+===== Sample #2 Output =====
+R Q Ccccccccc Ccocc Ccc So Strong Samples Ccc
+===== Sample #3 Input =====
+3 2
+NO NO
+
+===== Sample #3 Output =====
+Na Na Na

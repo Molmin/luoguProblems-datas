@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+bacdefghijklmnopqrstuvwxzy
+4
+abx
+bzz
+bzy
+caa
+===== Sample #1 Output =====
+bzz
+bzy
+abx
+caa
+===== Sample #2 Input =====
+zyxwvutsrqponmlkjihgfedcba
+5
+a
+ab
+abc
+ac
+b
+===== Sample #2 Output =====
+b
+a
+ac
+ab
+abc

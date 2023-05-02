@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+A J
+AA BCD
+ABC DEFG
+===== Sample #1 Output =====
+8
+129
+1770

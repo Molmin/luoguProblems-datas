@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+5
+vasya 100
+vasya 200
+artem 100
+kolya 200
+igor 250
+
+===== Sample #1 Output =====
+4
+artem noob
+igor pro
+kolya random
+vasya random
+
+===== Sample #2 Input =====
+3
+vasya 200
+kolya 1000
+vasya 1000
+
+===== Sample #2 Output =====
+2
+kolya pro
+vasya pro
+

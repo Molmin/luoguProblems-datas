@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3 4\n#..#\na..b\n####\n3 7\n#######\n#a...b#\n#######\n4 4\na...\n###.\n##..\nb...\n0 0\n
+===== Sample #1 Output =====
+\n5\nIMPOSSIBLE\n11\n\nNote:\n1st case:\none possibility is\n#..#    #..#    #.b#    #..#    #..#    #..#\na..b---&gt;.ab.---&gt;..a.---&gt;..ba---&gt;.b.a---&gt;b..a\n####    ####    ####    ####    ####    ####\n

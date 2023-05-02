@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+a?c
+b?
+===== Sample #1 Output =====
+Yes
+No
+No
+===== Sample #2 Input =====
+atcoder
+?????
+===== Sample #2 Output =====
+Yes
+Yes
+Yes
+Yes
+Yes
+Yes
+===== Sample #3 Input =====
+beginner
+contest
+===== Sample #3 Output =====
+No
+No
+No
+No
+No
+No
+No
+No

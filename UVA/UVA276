@@ -1,0 +1,69 @@
+===== Sample #1 Input =====
+||
+||
+|||
+||||
+nnnnnn 9
+||| n
+n
+9
+|||
+8
+===== Sample #1 Output =====
+|
+|| *
+The solution is: ||||
+|
+||
+|||| *
+The solution is: || n
+| *
+||
+|||| *
+|||||||| *
+The solution is: nnnnnnnn 88
+|
+||
+|||| *
+||||||||
+|||||| n
+|| nnn *
+|||| nnnnnn *
+The solution is: 8
+|
+||
+||||
+|||||||| *
+|||||| n
+|| nnn *
+|||| nnnnnn *
+|||||||| nn 9 *
+|||||| nnnnn 99 *
+|| n 99999 *
+The solution is: 888
+||
+||||
+|||
+||||||
+|| n
+nnnnnn 9
+nn 999
+nnnn 999999
+nnnnnnnn 99 8
+n
+nn
+nnnn
+nnnnnnnn
+nnnnnn 9
+nn 999
+nnnn 999999
+|||
+||||||
+|| n
+|||| nn
+|||||||| nnnn
+|||||| nnnnnnnnn
+|| nnnnnnnnn 9
+|||| nnnnnnnn 999
+|||||||| nnnnnn 9999999
+|||||| nnn 99999 8

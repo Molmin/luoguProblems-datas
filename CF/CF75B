@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+ahmed
+3
+ahmed posted on fatma's wall
+fatma commented on ahmed's post
+mona likes ahmed's post
+
+===== Sample #1 Output =====
+fatma
+mona
+
+===== Sample #2 Input =====
+aba
+1
+likes likes posted's post
+
+===== Sample #2 Output =====
+likes
+posted
+

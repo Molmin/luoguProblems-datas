@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+10
+4 4
+OOGO
+XXOO
+XOOX
+XXOO
+XXOO
+OOFO
+2
+2 2
+OG
+XX
+OO
+FO
+===== Sample #1 Output =====
+The minimum number of turns is 9.
+The problem has no solution.

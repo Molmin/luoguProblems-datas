@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+XY
+
+===== Sample #1 Output =====
+37
+28
+
+===== Sample #2 Input =====
+XYZ
+
+===== Sample #2 Output =====
+137
+047
+
+===== Sample #3 Input =====
+ZZZZZZ
+
+===== Sample #3 Output =====
+000000
+000000
+
+===== Sample #4 Input =====
+XYZXYZ
+
+===== Sample #4 Output =====
+-1
+

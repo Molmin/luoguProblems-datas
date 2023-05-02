@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 1
+EHE
+===== Sample #1 Output =====
+9
+===== Sample #2 Input =====
+10 6
+EHEEEHHEEH
+EHHHEEHHHE
+EHEHEHEEHH
+HEHEEEHEEE
+HHEEHEEEHE
+EHHEEEEEHE
+===== Sample #2 Output =====
+33

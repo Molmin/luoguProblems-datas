@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5 3
+1
+2 motarack
+2 mike
+1
+2 light
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+4 3
+1
+2 alice
+2 bob
+2 tanyaromanova
+
+===== Sample #2 Output =====
+1
+

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+2 vv 2
+7 vhhhvhh 4
+29 vvvvvvvvvvvvvvvvvvvvvvvvvvvvv 29
+===== Sample #1 Output =====
+7
+357
+1073741823

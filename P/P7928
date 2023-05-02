@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 1
+CCCP
+===== Sample #1 Output =====
+DA
+===== Sample #2 Input =====
+8 2
+PCPPCCCC
+
+===== Sample #2 Output =====
+DA
+===== Sample #3 Input =====
+9 1
+PPCPPCPPC
+===== Sample #3 Output =====
+NE

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2 1000
+1 1
+===== Sample #1 Output =====
+"\n"
+===== Sample #2 Input =====
+3 200
+3 100
+===== Sample #2 Output =====
+"\t"

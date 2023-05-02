@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+1 1
+1 2
+===== Sample #1 Output =====
+1
+4
+
+Constraints:
+t &lt;= 1000
+1 &lt;= n &lt;= 10^9
+1 &lt;= k &lt;= 1000

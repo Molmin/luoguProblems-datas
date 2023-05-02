@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+{a, b, c}
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+{b, a, b, a}
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+{}
+
+===== Sample #3 Output =====
+0
+

@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+1
+program Test;
+var n :integer;
+function harmonic(number :integer):real;
+var i :integer;
+result :real;
+begin
+result := 0;
+for i := 1 to number do
+begin
+number := number + 1/i;
+end;
+harmonic := result;
+end;
+begin
+writeln('Get n:');
+readln(n);
+writeln('harmonic number for n: ');
+writeln(harmonic(n));
+end.
+===== Sample #1 Output =====
+program Test;
+&amp;0 n :integer;
+&amp;14 harmonic(number :&amp;18):real;
+&amp;0 i :&amp;18;
+result :&amp;21;
+&amp;10
+&amp;22 := 0;
+&amp;2 i := 1 to &amp;20 do
+&amp;10
+&amp;20 := &amp;20 + 1/i;
+&amp;1;
+&amp;19 := &amp;22;
+&amp;1;
+&amp;10
+writeln('Get n:');
+readln(n);
+&amp;23('&amp;19 &amp;20 &amp;2 n: ');
+&amp;23(&amp;19(n));
+&amp;1.

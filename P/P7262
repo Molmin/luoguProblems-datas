@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 3 v
+.o.
+...
+xxx
+===== Sample #1 Output =====
+GG
+===== Sample #2 Input =====
+3 3 >
+...
+o.x
+...
+===== Sample #2 Output =====
+GG
+===== Sample #3 Input =====
+3 3 ^
+.o.
+...
+xxx
+===== Sample #3 Output =====
+OK

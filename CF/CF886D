@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+mail
+ai
+lru
+cf
+
+===== Sample #1 Output =====
+cfmailru
+
+===== Sample #2 Input =====
+3
+kek
+preceq
+cheburek
+
+===== Sample #2 Output =====
+NO
+

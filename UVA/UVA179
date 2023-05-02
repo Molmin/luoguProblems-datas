@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+Mary had a little lamb!!
+aMyrh daa l tilt ealbm!!
+hTsii s aetts
+Foobar
+blargg
+No cycle
+abc
+bca
+abcd
+#
+===== Sample #1 Output =====
+This is a test
+No cycle
+cab?d?

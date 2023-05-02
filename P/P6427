@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+BAACC
+===== Sample #1 Output =====
+3
+Bruno
+===== Sample #2 Input =====
+9
+AAAABBBBB
+===== Sample #2 Output =====
+4
+Adrian
+Bruno
+Goran

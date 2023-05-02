@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+(ab)c
+===== Sample #1 Output =====
+abbac
+===== Sample #2 Input =====
+past
+===== Sample #2 Output =====
+past
+===== Sample #3 Input =====
+(d(abc)e)()
+===== Sample #3 Output =====
+dabccbaeeabccbad

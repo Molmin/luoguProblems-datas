@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+5 5
+6
+house1 LOCATION A 0
+postoffice LOCATION A 4
+school DISTANCE 4 house1
+house2 DISTANCE 6 postoffice
+school DISTANCE 6 postoffice
+house3 DISTANCE 6 postoffice
+===== Sample #1 Output =====
+6 4

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2 3 5
+UDRRL
+S..
+.#G
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+3 3 5
+UDUDD
+S..
+...
+.G.
+===== Sample #2 Output =====
+-1
+===== Sample #3 Input =====
+3 3 5
+UDLRD
+S..
+.#.
+..G
+===== Sample #3 Output =====
+12

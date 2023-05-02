@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+23
+
+===== Sample #1 Output =====
+09:30
+
+===== Sample #2 Input =====
+28
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+2
+
+===== Sample #3 Output =====
+Impossible
+

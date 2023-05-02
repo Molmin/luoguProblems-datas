@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+8
+1 jead
+1 dec
+3 de 0 0 10
+1 dec
+3 de 0 1 10
+2 dec
+3 de 0 1 10
+3 de 0 2 10
+===== Sample #1 Output =====
+2
+4
+4
+-1

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3
+hot
+dog
+milk
+5
+hot
+dog
+dog
+milk
+hot
+
+===== Sample #1 Output =====
+3
+3
+

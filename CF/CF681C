@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+2
+insert 3
+getMin 4
+
+===== Sample #1 Output =====
+4
+insert 3
+removeMin
+insert 4
+getMin 4
+
+===== Sample #2 Input =====
+4
+insert 1
+insert 1
+removeMin
+getMin 2
+
+===== Sample #2 Output =====
+6
+insert 1
+insert 1
+removeMin
+removeMin
+insert 2
+getMin 2
+

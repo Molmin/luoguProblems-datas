@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+(a)\n3\na\nb\naa\n(a.b)\n3\na\nab\nb\n(a|b)\n4\na\nb\nab\nba\n(a*)\n3\na\naaaaaaaaaaa\naaaaabaaaaa\n((a*).(b*))\n3\nbbbaaa\naaabbb\nbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
+===== Sample #1 Output =====
+Y\nN\nN\nN\nY\nN\nY\nY\nN\nN\nY\nY\nN\nN\nY\nY

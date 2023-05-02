@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2
+2
+aaabbb
+bbaabb
+3
+icode
+coder
+contest
+===== Sample #1 Output =====
+4
+2

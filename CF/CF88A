@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+C E G
+
+===== Sample #1 Output =====
+major
+
+===== Sample #2 Input =====
+C# B F
+
+===== Sample #2 Output =====
+minor
+
+===== Sample #3 Input =====
+A B H
+
+===== Sample #3 Output =====
+strange
+

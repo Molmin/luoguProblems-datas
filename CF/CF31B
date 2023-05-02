@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+a@aa@a
+
+===== Sample #1 Output =====
+a@a,a@a
+
+===== Sample #2 Input =====
+a@a@a
+
+===== Sample #2 Output =====
+No solution
+
+===== Sample #3 Input =====
+@aa@a
+
+===== Sample #3 Output =====
+No solution
+

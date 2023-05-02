@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+aaab
+2
+aa 0 0
+aab 1 1
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+ltntlnen
+3
+n 0 0
+ttlneenl 1 4
+lelllt 1 1
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+a
+0
+
+===== Sample #3 Output =====
+1
+

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3 4
+PWGP
+WGPW
+GWPG
+===== Sample #1 Output =====
+P-GP
+WGP|
+G-PG
+===== Sample #2 Input =====
+3 4
+PWWP
+WWWW
+PGGP
+===== Sample #2 Output =====
+PWWP
+W\/W
+PGGP

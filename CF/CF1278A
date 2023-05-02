@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+5
+abacaba
+zyxaabcaabkjh
+onetwothree
+threetwoone
+one
+zzonneyy
+one
+none
+twenty
+ten
+
+===== Sample #1 Output =====
+YES
+YES
+NO
+YES
+NO
+

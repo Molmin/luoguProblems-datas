@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+5 3 18 10 46
+100 50 50 69 69
+0 2 3 4 5
+===== Sample #1 Output =====
+Case 1:
+.edcbcde..edcbcde..edcbcde..e
+edcbabcdeedcbabcdeedcbabcdeed
+.edcbcde..edcbcde..edcbcde..e
+..edcde....edcde....edcde....
+...ede......ede......ede.....
+....e........e........e......
+....e........e........e......
+...ede......ede......ede.....
+Case 2:
+utsrqponmlkjihgfedcb
+tsrqponmlkjihgfedcba
+srqponmlkjihgfedcbaz
+rqponmlkjihgfedcbazy
+qponmlkjihgfedcbazyx
+ponmlkjihgfedcbazyxw
+onmlkjihgfedcbazyxwv
+nmlkjihgfedcbazyxwvu
+mlkjihgfedcbazyxwvut
+lkjihgfedcbazyxwvuts
+kjihgfedcbazyxwvutsr
+jihgfedcbazyxwvutsrq
+ihgfedcbazyxwvutsrqp
+hgfedcbazyxwvutsrqpo
+gfedcbazyxwvutsrqpon
+fedcbazyxwvutsrqponm
+edcbazyxwvutsrqponml
+dcbazyxwvutsrqponmlk
+cbazyxwvutsrqponmlkj
+bazyxwvutsrqponmlkji

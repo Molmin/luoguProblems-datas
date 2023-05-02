@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+4 3 3
+CED
+CEB
+CBC
+DDA
+===== Sample #1 Output =====
+12

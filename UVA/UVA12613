@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+ab 3
+abc 5
+aba 4
+===== Sample #1 Output =====
+Case 1: 11
+Case 2: 42
+Case 3: 32

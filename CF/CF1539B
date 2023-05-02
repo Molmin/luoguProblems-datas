@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+7 3
+abacaba
+1 3
+2 5
+1 7
+===== Sample #1 Output =====
+4
+7
+11
+===== Sample #2 Input =====
+7 4
+abbabaa
+1 3
+5 7
+6 6
+2 4
+===== Sample #2 Output =====
+5
+4
+1
+5
+===== Sample #3 Input =====
+13 7
+sonoshikumiwo
+1 5
+2 10
+7 7
+1 13
+4 8
+2 5
+3 9
+===== Sample #3 Output =====
+82
+125
+9
+191
+62
+63
+97

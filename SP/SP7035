@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+143 10
+143 20
+667 20
+667 30
+2573 30
+2573 40
+0 0
+===== Sample #1 Output =====
+GOOD
+BAD 11
+GOOD
+BAD 23
+GOOD
+BAD 31

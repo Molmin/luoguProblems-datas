@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2 3
+UCM 2 3
+UAM 1 3
+UPM 1 2
+2 3
+UCM 2 3
+UAM 1 2
+UPM 2 2
+0 0
+===== Sample #1 Output =====
+NO PROBLEMS FOUND
+3 PROBLEMS FOUND

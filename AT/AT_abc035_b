@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+UL?
+1
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+UD?
+1
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+UUUU?DDR?LLLL
+1
+===== Sample #3 Output =====
+7
+===== Sample #4 Input =====
+UULL?
+2
+===== Sample #4 Output =====
+3

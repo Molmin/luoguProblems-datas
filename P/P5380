@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+18
+0 0 7 0
+9 0 8 0
+0 1 1 3
+0 2 2 0
+0 3 1 2
+0 4 0 3
+9 4 8 4
+3 2 2 3
+7 0 4 2
+7 0 5 3
+9 2 7 4
+2 0 4 3
+9 1 8 3
+4 3 6 6
+7 4 9 2
+8 4 9 4
+6 6 9 4
+9 8 8 8
+===== Sample #1 Output =====
+Invalid command
+Invalid command
+Invalid command
+Invalid command
+red guard;NA;no;no
+Invalid command
+blue captain;NA;no;no
+red soldier;NA;no;no
+Invalid command
+Invalid command
+blue elephant;NA;no;no
+red duck;NA;no;no
+blue horse;NA;no;no
+red duck;blue soldier;no;no
+Invalid command
+blue captain;NA;yes;no
+red duck;blue captain;no;yes
+Invalid command

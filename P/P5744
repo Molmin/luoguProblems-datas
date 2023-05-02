@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+kkksc03 24 0
+chen_zhe 14 400
+nzhtl1477 18 590
+===== Sample #1 Output =====
+kkksc03 25 0
+chen_zhe 15 480
+nzhtl1477 19 600

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+bdac 11
+abcd 5
+hjbrl 120
+===== Sample #1 Output =====
+Case 1: abcd
+Case 2: acdb
+Case 3: lrbjh

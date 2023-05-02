@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2 2 998244353
+
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+3 2 998244353
+===== Sample #2 Output =====
+499122177
+===== Sample #3 Input =====
+4 2 998244353
+===== Sample #3 Output =====
+332748118
+===== Sample #4 Input =====
+10 2 998244353
+===== Sample #4 Output =====
+113919852
+===== Sample #5 Input =====
+50 233 998244353
+===== Sample #5 Output =====
+634280054

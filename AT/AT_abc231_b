@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+5
+snuke
+snuke
+takahashi
+takahashi
+takahashi
+===== Sample #1 Output =====
+takahashi
+===== Sample #2 Input =====
+5
+takahashi
+takahashi
+aoki
+takahashi
+snuke
+===== Sample #2 Output =====
+takahashi
+===== Sample #3 Input =====
+1
+a
+===== Sample #3 Output =====
+a

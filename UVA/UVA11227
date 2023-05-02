@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+5
+0.00 0.00
+0.00 0.00
+1.00 1.00
+1.00 0.00
+0.00 1.00
+2
+0.00 0.00
+0.00 0.00
+6
+0.00 2.00
+0.00 0.00
+1.00 1.00
+1.00 0.00
+0.00 1.00
+0.00 -2.00
+===== Sample #1 Output =====
+Data set #1 contains 4 gnus, out of which a maximum of 2 are aligned.
+Data set #2 contains a single gnu.
+Data set #3 contains 6 gnus, out of which a maximum of 4 are aligned.

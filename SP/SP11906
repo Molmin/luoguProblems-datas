@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+23 3 1
+sss\nssX
+Oss3 3 3
+Xss&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+#s!
+s!O
+sss
+#!s
+!sO
+ss!
+#s!
+ssO\n\n
+===== Sample #1 Output =====
+3\n4 \n

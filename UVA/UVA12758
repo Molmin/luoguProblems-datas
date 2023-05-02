@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+ab
+2 4
+ww
+1 2
+===== Sample #1 Output =====
+Case 1: 453750
+Case 2: 675

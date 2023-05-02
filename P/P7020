@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+a
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+B|~B
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+c|~C
+
+===== Sample #3 Output =====
+3
+
+===== Sample #4 Input =====
+i|c|p|c
+
+===== Sample #4 Output =====
+7
+

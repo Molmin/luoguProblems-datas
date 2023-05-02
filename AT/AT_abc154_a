@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+red blue
+3 4
+red
+===== Sample #1 Output =====
+2 4
+===== Sample #2 Input =====
+red blue
+5 5
+blue
+===== Sample #2 Output =====
+5 4

@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+7
+ab??aba
+8
+a
+b
+ab
+abc
+abcd
+abcde
+abcdef
+abcdefg
+===== Sample #1 Output =====
+14
+13
+55
+105
+171
+253
+351
+465
+===== Sample #2 Input =====
+11
+???????????
+6
+abcdefghijklmnopq
+ecpnkhbmlidgfjao
+olehfan
+codef
+glhf
+q
+===== Sample #2 Output =====
+900057460
+712815817
+839861037
+756843750
+70840320
+66

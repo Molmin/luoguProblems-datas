@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+2 3
+1 R 2 R
+1 G 2 R
+1 B 2 G
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+1 0
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+22 0
+===== Sample #3 Output =====
+31381059609
+===== Sample #4 Input =====
+4 12
+2 R 3 R
+1 B 2 B
+2 R 3 B
+3 R 4 R
+1 B 4 G
+1 R 3 B
+3 G 4 B
+2 G 3 G
+1 B 2 R
+1 G 2 R
+1 R 3 G
+1 G 3 B
+===== Sample #4 Output =====
+13

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+5 
+1 1 H 
+2 2 H 
+3 3 G 
+4 4 H 
+6 6 H 
+
+===== Sample #1 Output =====
+2 
+1 

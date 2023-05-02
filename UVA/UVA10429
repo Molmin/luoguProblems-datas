@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+32 -10 20 CCW
+80 -40 0
+===== Sample #1 Output =====
+Element : 1
+Position of maximum normal stresses : 21.80 deg
+Maximum normal stresses : 40.00 MPa and -18.00 MPa
+Position of maximum shear stresses : 66.80 deg
+Maximum shear stress (xy plane) : 29.00 MPa
+Normal stress at this condition : 11.00 MPa
+Element : 2
+Position of maximum normal stresses : 0.00 deg
+Maximum normal stresses : 80.00 MPa and -40.00 MPa
+Position of maximum shear stresses : 45.00 deg
+Maximum shear stress (xy plane) : 60.00 MPa
+Normal stress at this condition : 20.00 MPa

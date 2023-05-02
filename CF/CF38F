@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+aba
+abac
+
+===== Sample #1 Output =====
+Second
+29 35
+
+===== Sample #2 Input =====
+3
+artem
+nik
+max
+
+===== Sample #2 Output =====
+First
+2403 1882
+

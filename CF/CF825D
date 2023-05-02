@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+?aa?
+ab
+
+===== Sample #1 Output =====
+baab
+
+===== Sample #2 Input =====
+??b?
+za
+
+===== Sample #2 Output =====
+azbz
+
+===== Sample #3 Input =====
+abcd
+abacaba
+
+===== Sample #3 Output =====
+abcd
+

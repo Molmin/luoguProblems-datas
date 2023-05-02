@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+===== Sample #1 Output =====
+a[0] = NOT in[0]
+a[1] = NOT in[1]
+a[2] = NOT in[2]
+a[901] = in[0] AND a[1]
+a[902] = in[0] AND a[2]
+a[910] = in[1] AND a[0]
+a[912] = in[1] AND a[2]
+a[920] = in[2] AND a[0]
+a[921] = in[2] AND a[1]
+out[0][1] = a[901] OR a[910]
+out[0][2] = a[902] OR a[920]
+out[1][0] = a[910] OR a[901]
+out[1][2] = a[912] OR a[921]
+out[2][0] = a[920] OR a[902]
+out[2][1] = a[921] OR a[912]

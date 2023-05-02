@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+3
+2 100
+23 23
+0 50000000
+===== Sample #1 Output =====
+Case 1:
+There are 10 primes in class 1.
+There are 9 primes in class 2.
+There are 5 primes in class 3.
+There are 1 primes in class 4.
+There are 0 primes in class 5.
+There are 0 primes in class 6.
+There are 0 primes in class 7.
+There are 0 primes in class 8.
+There are 0 primes in class 9.
+There are 0 primes in class 10.
+There are 0 primes in class 11.
+There are 0 primes in class 12.
+There are 0 primes in class 13.
+
+Case 2:
+There are 0 primes in class 1.
+There are 0 primes in class 2.
+There are 1 primes in class 3.
+There are 0 primes in class 4.
+There are 0 primes in class 5.
+There are 0 primes in class 6.
+There are 0 primes in class 7.
+There are 0 primes in class 8.
+There are 0 primes in class 9.
+There are 0 primes in class 10.
+There are 0 primes in class 11.
+There are 0 primes in class 12.
+There are 0 primes in class 13.
+
+Case 3:
+There are 54 primes in class 1.
+There are 14196 primes in class 2.
+There are 364182 primes in class 3.
+There are 1029984 primes in class 4.
+There are 939493 primes in class 5.
+There are 458831 primes in class 6.
+There are 150902 primes in class 7.
+There are 34878 primes in class 8.
+There are 7085 primes in class 9.
+There are 1310 primes in class 10.
+There are 203 primes in class 11.
+There are 15 primes in class 12.
+There are 1 primes in class 13.

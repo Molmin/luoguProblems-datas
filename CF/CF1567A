@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+1
+U
+2
+LR
+5
+LRDLR
+6
+UUUUUU
+===== Sample #1 Output =====
+D
+LR
+LRULR
+DDDDDD

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+6 4 20
+1 5 1 1
+3 10 2 3
+2 3 0 3
+1 2 0 3
+1 5 1 2
+0 7 0 1
+===== Sample #1 Output =====
+5
+10
+15
+10
+10
+0
+
+Output Explanation:
+
+For your assistance, here is the state of the dice after each turn:
+[1, 5, 1, 1]
+[1, 5, 1, 10]
+[1, 5, 3, 10]
+[1, 2, 3, 10]
+[10, 50, 30, 100]
+[7, 50, 30, 100]

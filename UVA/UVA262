@@ -1,0 +1,47 @@
+===== Sample #1 Input =====
+2
+1. Betty Boop
+2. Elmer Fudd
+3. Olive Oyl
+1 2 3
+1 2 3
+1 2 3
+2 1 3
+2 1 3
+2 1 3
+3 1 2
+3 1 2
+3 1 2
+1. Bill Clinton
+2. Barbara Bush
+3. Margaret Thatcher
+4. John Minor
+5. Clint Eastwood
+6. Jesse Ventura
+7. Sonny Bono
+8. Cher
+2 4 6 8
+1 2 3
+5 7
+8
+6 6
+5
+5
+5
+5 7 2
+8
+3 2 5
+===== Sample #1 Output =====
+Betty Boop with 3 votes is eliminated.
+Elmer Fudd with 3 votes is eliminated.
+Olive Oyl with 3 votes is eliminated.
+The election was indecisive.
+There were 9 valid ballots and 0 spoiled ballots.
+John Minor with 0 votes is eliminated.
+Jesse Ventura with 0 votes is eliminated.
+Sonny Bono with 0 votes is eliminated.
+Bill Clinton with 1 votes is eliminated.
+Barbara Bush with 1 votes is eliminated.
+Margaret Thatcher with 1 votes is eliminated.
+The winner of the election is Clint Eastwood.
+There were 10 valid ballots and 1 spoiled ballots.

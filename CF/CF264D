@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+RBR
+RGG
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+RGBB
+BRRBRR
+
+===== Sample #2 Output =====
+19
+
+===== Sample #3 Input =====
+RRRRRRRRRR
+RRRRRRRR
+
+===== Sample #3 Output =====
+8
+

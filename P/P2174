@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 6
+2 6 9
+M
+D 9
+B
+S
+M
+T
+===== Sample #1 Output =====
+81
+6
+2
+36
+12

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+44\n02\n03\n12\n13\n67\n02\n03\n04\n05\n12\n13\n14\n33\n01\n12\n20\n00\n\n
+===== Sample #1 Output =====
+2\n2\nThe meeting will be canceled

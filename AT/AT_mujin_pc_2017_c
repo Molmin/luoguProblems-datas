@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+axxxxza
+2
+1 7
+2 6
+===== Sample #1 Output =====
+No
+Yes
+===== Sample #2 Input =====
+aabcdefghijklmnopqrstuvwxyz
+1
+1 27
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+yzyyyzyzyyyz
+8
+1 6
+7 12
+1 12
+6 11
+1 1
+1 3
+4 9
+3 8
+===== Sample #3 Output =====
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No

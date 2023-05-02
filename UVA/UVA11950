@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+[[(Michael-P-S)(John-P-R)[(Peter-P-R)(Campanita-S-P)]](Wendy-S-S)(Guillermo-R-R)]
+===== Sample #1 Output =====
+Peter, Weapon: P VS Campanita, Weapon: S
+Won: Campanita
+Campanita, Weapon: S VS Michael, Weapon: P
+Won: Campanita
+Campanita, Weapon: S VS John, Weapon: P
+Won: Campanita
+Campanita, Weapon: P VS Wendy, Weapon: S
+Won: Wendy
+Wendy, Weapon: S VS Guillermo, Weapon: R
+Won: Guillermo
+Final Winner: (Guillermo-R-R)

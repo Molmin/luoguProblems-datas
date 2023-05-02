@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4
+1 10
+2 9
+3 7
+4 4
+===== Sample #1 Output =====
+3 7
+
+Constraints:
+1 &lt;= n &lt;= 100000
+1 &lt;= ti &lt;= 4
+1 &lt;= vi &lt;= 10^18

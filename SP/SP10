@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+8
+(a+(b*c))
+((a+b)*c)
+(a*(b*c))
+(a*(b/c)*d)
+((a/(b/c))/d)
+((x))
+(a+b)-(c-d)-(e/f)
+(a+b)+(c-d)-(e+f)
+===== Sample #1 Output =====
+a+b*c
+(a+b)*c
+a*b*c
+a*b/c*d
+a/(b/c)/d
+x
+a+b-(c-d)-e/f
+a+b+c-d-(e+f)

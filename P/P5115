@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+aabccbbbcbbcbccacbcb
+8 20
+===== Sample #1 Output =====
+140
+===== Sample #2 Input =====
+checkcheckcheckonetwo
+7 11
+===== Sample #2 Output =====
+216

@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+2 3
+3
+1 2 1
+2 3 2
+3 1 3
+2
+1 2
+2 1
+1 2
+===== Sample #1 Output =====
+0
+1
+===== Sample #2 Input =====
+见选手目录下的 lock/lock2.in。
+===== Sample #2 Output =====
+见选手目录下的 lock/lock2.ans。
+===== Sample #3 Input =====
+见选手目录下的 lock/lock3.in。
+===== Sample #3 Output =====
+见选手目录下的 lock/lock3.ans。
+===== Sample #4 Input =====
+见选手目录下的 lock/lock4.in。
+===== Sample #4 Output =====
+见选手目录下的 lock/lock4.ans。
+===== Sample #5 Input =====
+见选手目录下的 lock/lock5.in。
+===== Sample #5 Output =====
+见选手目录下的 lock/lock5.ans。

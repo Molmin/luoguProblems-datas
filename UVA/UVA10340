@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+sequence subsequence
+person compression
+VERDI vivaVittorioEmanueleReDiItalia
+caseDoesMatter CaseDoesMatter
+===== Sample #1 Output =====
+Yes
+No
+Yes
+No

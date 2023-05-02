@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+4
+20 4
+380 left
+720 left
+1340 right
+1040 left
+15 4
+380 left
+720 left
+1340 right
+1040 left
+15 4
+380 left
+720 left
+1340 left
+1040 left
+15 4
+380 right
+720 right
+1340 right
+1040 right
+===== Sample #1 Output =====
+3
+3
+5
+6

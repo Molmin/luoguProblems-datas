@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+A:FB;B:GC;D:GC;F:AGH;E:HD
+#
+===== Sample #1 Output =====
+A B C F G D H E -&gt; 3

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+a
+===== Sample #1 Output =====
+vowel
+===== Sample #2 Input =====
+z
+===== Sample #2 Output =====
+consonant
+===== Sample #3 Input =====
+s
+===== Sample #3 Output =====
+consonant

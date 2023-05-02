@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+
+===== Sample #1 Output =====
+\n3                                       2\n2 1 1\n\nInput:                              Output:\n3                                       3\n2 2 2\n\nInput:                              Output:\n2                                       0\n0 0\n\nInput:                              Output:\n2                                       -1\n10 10

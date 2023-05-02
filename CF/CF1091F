@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+1
+10
+G
+
+===== Sample #1 Output =====
+30
+
+===== Sample #2 Input =====
+2
+10 10
+WL
+
+===== Sample #2 Output =====
+40
+
+===== Sample #3 Input =====
+2
+1 2
+WL
+
+===== Sample #3 Output =====
+8
+
+===== Sample #4 Input =====
+3
+10 10 10
+GLW
+
+===== Sample #4 Output =====
+80
+

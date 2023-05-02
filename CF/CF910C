@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3
+ab
+de
+aj
+
+===== Sample #1 Output =====
+47
+
+===== Sample #2 Input =====
+5
+abcdef
+ghij
+bdef
+accbd
+g
+
+===== Sample #2 Output =====
+136542
+
+===== Sample #3 Input =====
+3
+aa
+jj
+aa
+
+===== Sample #3 Output =====
+44
+

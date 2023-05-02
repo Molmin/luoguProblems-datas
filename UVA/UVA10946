@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+5 5
+..AAA
+E.BBB
+..AA.
+CC.DD
+CC.D.
+5 5
+..AAA
+E.BBB
+..AA.
+CC.DD
+CC.D.
+0 0
+===== Sample #1 Output =====
+Problem 1:
+C 4
+A 3
+B 3
+D 3
+A 2
+E 1
+Problem 2:
+C 4
+A 3
+B 3
+D 3
+A 2
+E 1

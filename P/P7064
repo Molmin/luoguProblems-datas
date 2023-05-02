@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+a.*b
+bab
+
+===== Sample #1 Output =====
+abab
+
+===== Sample #2 Input =====
+(ab)*
+bb
+
+===== Sample #2 Output =====
+NO
+

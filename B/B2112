@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+Rock Scissors
+Paper Paper
+Rock Paper
+===== Sample #1 Output =====
+Player1
+Tie
+Player2

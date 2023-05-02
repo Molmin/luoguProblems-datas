@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+1
+2
+3
+4
+5
+14
+===== Sample #1 Output =====
+Case #1: 1
+Case #2: 5
+Case #3: 16
+Case #4: 42
+Case #5: 84
+Case #6: 3612

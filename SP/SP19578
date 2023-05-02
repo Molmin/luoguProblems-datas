@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+2 2\nSS\nHH
+\n
+===== Sample #1 Output =====
+4\n\nInput:
+5 1\nH\nS\nH\nH\nH
+\nOutput:
+1

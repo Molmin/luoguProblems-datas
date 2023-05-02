@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+abcdefg
+bcdefgh
+cdefghi
+3
+xxx
+yyy
+zzz
+0
+===== Sample #1 Output =====
+bcdefg
+cdefgh
+?

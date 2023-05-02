@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+10
+A ? ? D ? ? ? H ? ?
+4
+3
+8
+6
+10
+===== Sample #1 Output =====
+left of D
+H
+middle of D and H
+right of right of H

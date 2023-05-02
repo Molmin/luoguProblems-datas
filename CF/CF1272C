@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+7 2
+abacaba
+a b
+
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+10 3
+sadfaasdda
+f a d
+
+===== Sample #2 Output =====
+21
+
+===== Sample #3 Input =====
+7 1
+aaaaaaa
+b
+
+===== Sample #3 Output =====
+0
+

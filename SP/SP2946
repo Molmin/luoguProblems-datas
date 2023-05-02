@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+0 0 0 700
+49900 1000 149700 2
+50000 1000 150000 7
+0 0 0 10
+50 0 100 40
+60 0 200 1
+-1
+===== Sample #1 Output =====
+Part total solar eclipse
+Entire total solar eclipse

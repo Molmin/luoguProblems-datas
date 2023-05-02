@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+1
+50
+===== Sample #1 Output =====
+10 48
+===== Sample #2 Input =====
+1
+96
+===== Sample #2 Output =====
+12 60
+===== Sample #3 Input =====
+3
+240
+480
+1200
+===== Sample #3 Output =====
+20 240
+24 360
+32 840
+===== Sample #4 Input =====
+2
+2016
+423
+===== Sample #4 Output =====
+40 1680
+24 360

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+ABCDEFGHIJKLMNOPQRSGTUVWXYZ
+
+===== Sample #1 Output =====
+YXWVUTGHIJKLM
+ZABCDEFSRQPON
+
+===== Sample #2 Input =====
+BUVTYZFQSNRIWOXXGJLKACPEMDH
+
+===== Sample #2 Output =====
+Impossible
+

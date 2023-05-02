@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+A>B
+C<B
+A>C
+
+===== Sample #1 Output =====
+CBA
+===== Sample #2 Input =====
+A<B
+B>C
+C>A
+
+===== Sample #2 Output =====
+ACB

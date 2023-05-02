@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+mike 3
+andrew 5
+mike 2
+
+===== Sample #1 Output =====
+andrew
+
+===== Sample #2 Input =====
+3
+andrew 3
+andrew 2
+mike 5
+
+===== Sample #2 Output =====
+andrew
+

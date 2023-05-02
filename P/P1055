@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+0-670-82162-4
+===== Sample #1 Output =====
+Right
+===== Sample #2 Input =====
+0-670-82162-0
+===== Sample #2 Output =====
+0-670-82162-4

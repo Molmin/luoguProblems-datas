@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3 7
+345 800
+112 990
+53 122
+0 0
+===== Sample #1 Output =====
+.428571
+The last 6 digits repeat forever.
+.43125
+This expansion terminates.
+.113
+The last 2 digits repeat forever.
+.4344262295081967213114754098360655737704918032786
+885245901639
+The last 60 digits repeat forever.

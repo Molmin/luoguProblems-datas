@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+50 50 72 56 100 40 0 1 446
+===== Sample #1 Output =====
+AFO
+===== Sample #2 Input =====
+50 95 100 64 100 72 30 0 446
+===== Sample #2 Output =====
+AKIOI

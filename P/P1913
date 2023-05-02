@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5 5
+rrrrr
+rdddr
+rroll
+uuuuu
+uuuuu
+
+===== Sample #1 Output =====
+19

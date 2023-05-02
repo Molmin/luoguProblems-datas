@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+10
+12
+13
+100
+50002
+0
+===== Sample #1 Output =====
+Case 1:
+Peter has Forgotten Everything
+Case 2:
+3 4 5
+Case 3:
+Peter has Forgotten Everything
+Case 4:
+17 39 44
+18 41 41
+26 26 48
+29 29 42
+32 34 34
+Case 5:
+5435 22126 22441
+8696 17225 24081
+12926 14249 22827
+16305 16376 17321

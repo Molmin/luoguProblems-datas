@@ -1,0 +1,53 @@
+===== Sample #1 Input =====
+3
+eternalstaticfinal
+eternal
+static
+final
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+5
+eternalstaticfinal
+eternal
+static
+final
+fin
+al
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+5
+abcdef
+abc
+def
+abcdef
+d
+ef
+===== Sample #3 Output =====
+3
+===== Sample #4 Input =====
+5
+aaaa
+a
+aa
+aaa
+aaaa
+b
+===== Sample #4 Output =====
+8
+===== Sample #5 Input =====
+10
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+a
+aa
+aaa
+aaaa
+aaaaa
+aaaaaa
+aaaaaaa
+aaaaaaaa
+aaaaaaaaa
+aaaaaaaaaa
+===== Sample #5 Output =====
+146491918

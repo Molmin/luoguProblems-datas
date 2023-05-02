@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+aad
+aac
+
+===== Sample #1 Output =====
+aad
+
+===== Sample #2 Input =====
+abad
+bob
+
+===== Sample #2 Output =====
+daab
+
+===== Sample #3 Input =====
+abc
+defg
+
+===== Sample #3 Output =====
+-1
+
+===== Sample #4 Input =====
+czaaab
+abcdef
+
+===== Sample #4 Output =====
+abczaa
+

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+4 5
+5 5 6 7 8
+5 5 6 7 8
+5 6 7 8 8
+6 7 8 9 9
+4 5
+4 5 6 7 8
+4 5 6 7 8
+5 6 7 8 8
+6 7 8 9 9
+===== Sample #1 Output =====
+Maximal possible average mark - 5.50.
+Peter, you shouldn’t have played billiard that much.

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+7
+j......
+
+===== Sample #1 Output =====
+jolteon
+
+===== Sample #2 Input =====
+7
+...feon
+
+===== Sample #2 Output =====
+leafeon
+
+===== Sample #3 Input =====
+7
+.l.r.o.
+
+===== Sample #3 Output =====
+flareon
+

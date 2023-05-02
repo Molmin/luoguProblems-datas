@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+5
+hidan
+dan
+hanabi
+bi
+nabi
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+4
+abacaba
+abaca
+acaba
+aca
+===== Sample #2 Output =====
+4

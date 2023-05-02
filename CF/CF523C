@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+aba
+baobababbah
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+mars
+sunvenusearthmarsjupitersaturnuranusneptune
+
+===== Sample #2 Output =====
+0
+

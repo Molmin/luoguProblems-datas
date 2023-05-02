@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+4 5
+abcde
+fghij
+klmno
+pqrst
+1
+3 3
+===== Sample #1 Output =====
+mlkon
+hgfji
+cbaed
+rqpts
+===== Sample #2 Input =====
+3 7
+atcoder
+regular
+contest
+2
+1 1
+2 5
+===== Sample #2 Output =====
+testcon
+oderatc
+ularreg
+===== Sample #3 Input =====
+2 2
+ac
+wa
+3
+1 1
+1 1
+1 1
+===== Sample #3 Output =====
+ac
+wa

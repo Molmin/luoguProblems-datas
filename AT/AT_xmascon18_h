@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+USAGI
+UNAGI
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+WA
+AC
+===== Sample #2 Output =====
+4

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+345678 345678
+123123 123456
+123456 351624
+===== Sample #1 Output =====
+Equal
+Not Equal
+Equal

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+ABCXYZ
+===== Sample #1 Output =====
+CDEZAB
+===== Sample #2 Input =====
+0
+ABCXYZ
+===== Sample #2 Output =====
+ABCXYZ
+===== Sample #3 Input =====
+13
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+===== Sample #3 Output =====
+NOPQRSTUVWXYZABCDEFGHIJKLM

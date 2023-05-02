@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+5 1
+set 1 10
+set 2 15
+if 2
+set 1 7
+end
+===== Sample #1 Output =====
+17
+===== Sample #2 Input =====
+7 2
+set 3 4
+if 3
+set 10 4
+set 2 7
+set 10 1
+end
+set 4 2
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+9 200
+if 0
+set 5 5
+if 5
+set 100 13
+end
+if 100
+set 200 1
+end
+end
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+1 10
+set 1 15
+===== Sample #4 Output =====
+0

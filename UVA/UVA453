@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+0.0 0.0 1.0
+3.0 0.0 1.0
+0.0 0.0 1.0
+0.0 0.0 1.0
+0.0 0.0 1.0
+1.0 0.0 1.0
+===== Sample #1 Output =====
+NO INTERSECTION
+THE CIRCLES ARE THE SAME
+(0.500,-0.866)(0.500,0.866)

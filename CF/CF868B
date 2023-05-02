@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+12 30 45 3 11
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+12 0 1 12 1
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+3 47 0 4 9
+
+===== Sample #3 Output =====
+YES
+

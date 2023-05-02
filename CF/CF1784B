@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+2
+nwi
+inw
+3
+inn
+nww
+wii
+4
+win
+www
+iii
+nnn
+===== Sample #1 Output =====
+0
+2
+2 w 3 i
+3 w 1 n
+3
+2 w 3 i
+2 w 4 n
+3 i 4 n

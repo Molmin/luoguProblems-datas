@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+ab
+cd
+
+===== Sample #1 Output =====
+DRAW
+
+===== Sample #2 Input =====
+2
+xa
+ay
+
+===== Sample #2 Output =====
+FIRST
+
+===== Sample #3 Input =====
+3
+aab
+bcb
+bac
+
+===== Sample #3 Output =====
+DRAW
+

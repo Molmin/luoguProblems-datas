@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+61 61
+===== Sample #1 Output =====
+Case 1: 7
+Case 2: 17
+Case 3: 41
+Case 4: 97
+Case 5: 225
+Case 6: 513
+Case 7: 1153

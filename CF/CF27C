@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+5
+67 499 600 42 23
+
+===== Sample #1 Output =====
+3
+1 3 5
+
+===== Sample #2 Input =====
+3
+1 2 3
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+3
+2 3 1
+
+===== Sample #3 Output =====
+3
+1 2 3
+

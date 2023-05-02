@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5 9
+mahmoud mahmoudbadawy drmahmoud drevil mahmoud
+1 1 5
+1 1 2
+1 2 3
+2 3 mahmoud
+2 4 mahmoud
+2 2 mahmouu
+1 1 5
+1 2 3
+1 1 1
+
+===== Sample #1 Output =====
+14
+14
+13
+30
+12
+7
+

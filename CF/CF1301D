@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+3 3 4
+===== Sample #1 Output =====
+YES
+2
+2 R
+2 L
+===== Sample #2 Input =====
+3 3 1000000000
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+3 3 8
+===== Sample #3 Output =====
+YES
+3
+2 R
+2 D
+1 LLRR
+===== Sample #4 Input =====
+4 4 9
+===== Sample #4 Output =====
+YES
+1
+3 RLD
+===== Sample #5 Input =====
+3 4 16
+===== Sample #5 Output =====
+YES
+8
+3 R
+3 L
+1 D
+3 R
+1 D
+1 U
+3 L
+1 D

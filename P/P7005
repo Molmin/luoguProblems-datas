@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+6
+@Petr: Leaving for #NEERC tomorrow!
+@Roman: This #NEERC is going to be awesome!
+@Stone_in_forest: Nothing happened today.
+@NEERCNews: @Petr Don't forget an umbrella :)
+@Lydia: @NEERCNews cares about @Petr - so cute ^_^
+@Lydia: @Lydia @NEERCNews @Petr it won't be raining though!
+
+===== Sample #1 Output =====
+3
+1 4 5
+

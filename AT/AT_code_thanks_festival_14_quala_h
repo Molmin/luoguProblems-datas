@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2 10
+codethanks
+documentsk
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+6 4
+aaaa
+abba
+abba
+aaaa
+ccbb
+cdbb
+===== Sample #2 Output =====
+5

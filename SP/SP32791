@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2
+2 3 1 1 1
+abc
+bca
+2 3 2 5 4
+harry
+potter
+abcde
+qqwweerr
+ab
+abc
+abcd
+qqwwweer
+putter
+===== Sample #1 Output =====
+15
+5

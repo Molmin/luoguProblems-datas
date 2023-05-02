@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3 2 2
+1 2
+1 2
+AB
+BA
+AA
+===== Sample #1 Output =====
+0.25
+0.50
+0.25
+===== Sample #2 Input =====
+3 4 2
+1 2
+1 2
+AABA
+ABAA
+BAAA
+===== Sample #2 Output =====
+0.31
+0.33
+0.37

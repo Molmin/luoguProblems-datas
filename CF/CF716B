@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+ABC??FGHIJK???OPQR?TUVWXY?
+
+===== Sample #1 Output =====
+ABCDEFGHIJKLMNOPQRZTUVWXYS
+===== Sample #2 Input =====
+WELCOMETOCODEFORCESROUNDTHREEHUNDREDANDSEVENTYTWO
+
+===== Sample #2 Output =====
+-1
+===== Sample #3 Input =====
+??????????????????????????
+
+===== Sample #3 Output =====
+MNBVCXZLKJHGFDSAQPWOEIRUYT
+===== Sample #4 Input =====
+AABCDEFGHIJKLMNOPQRSTUVW??M
+
+===== Sample #4 Output =====
+-1

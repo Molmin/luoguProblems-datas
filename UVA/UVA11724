@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3
+a+b*c
+2
+a&gt;b
+c&gt;b
+z*(x+y)
+3
+z&gt;x
+x&gt;y
+z&gt;y
+a+b+c+a
+0
+===== Sample #1 Output =====
+Case 1: 4
+Case 2: 9
+Case 3: 4

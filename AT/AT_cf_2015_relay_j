@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4 2
+===== Sample #1 Output =====
+snuke
+===== Sample #2 Input =====
+1 999999999
+===== Sample #2 Output =====
+rng
+===== Sample #3 Input =====
+100 999999999
+===== Sample #3 Output =====
+snuke

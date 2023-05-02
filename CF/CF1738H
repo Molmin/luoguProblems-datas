@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+12
+push a
+pop
+push a
+push a
+push b
+push b
+push a
+push a
+pop
+pop
+pop
+push b
+===== Sample #1 Output =====
+1
+0
+1
+2
+3
+4
+5
+6
+5
+4
+3
+4

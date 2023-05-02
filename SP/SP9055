@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n\n5 3\n1 2 1 3 3\n0 2\n1 2\n0 4
+===== Sample #1 Output =====
+\n2\n1\n2\n\nNOTE - This problem is similar to a problem Frequent values.

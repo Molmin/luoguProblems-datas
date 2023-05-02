@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+To
+to be or not to be is a question
+
+===== Sample #1 Output =====
+2 0
+
+
+===== Sample #2 Input =====
+to
+Did the Ottoman Empire lose its power at that time
+===== Sample #2 Output =====
+-1

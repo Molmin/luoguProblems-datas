@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+aaaa 3
+ababab 4
+cdabcdab 5
+qwertyuiop 2
+abcabcabcabcx 5
+===== Sample #1 Output =====
+Case #1: 3
+Case #2: 7
+Case #3: 10
+Case #4: 120
+Case #5: 313

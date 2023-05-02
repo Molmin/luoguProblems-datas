@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+10
+0
+1
+0
+1
+2
+0
+1
+2
+3
+0
+
+===== Sample #1 Output =====
+0
+pushStack
+1 popStack
+pushStack
+pushQueue
+2 popStack popQueue
+pushStack
+pushQueue
+pushFront
+3 popStack popQueue popFront
+
+===== Sample #2 Input =====
+4
+1
+2
+3
+0
+
+===== Sample #2 Output =====
+pushStack
+pushQueue
+pushFront
+3 popStack popQueue popFront
+

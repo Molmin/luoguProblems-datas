@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+?
+....
+.xo.
+.ox.
+....
+?
+o...
+.ox.
+.xxx
+xooo
+$
+===== Sample #1 Output =====
+#####
+(0,1)

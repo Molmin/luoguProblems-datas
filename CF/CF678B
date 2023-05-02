@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2016
+
+===== Sample #1 Output =====
+2044
+
+===== Sample #2 Input =====
+2000
+
+===== Sample #2 Output =====
+2028
+
+===== Sample #3 Input =====
+50501
+
+===== Sample #3 Output =====
+50507
+

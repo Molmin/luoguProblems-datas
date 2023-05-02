@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+DHAKA 1 1
+DHAKA 2 1
+DHAKA 1 5
+DHAKA 2 10
+===== Sample #1 Output =====
+Case 1: T
+Case 2: E
+Case 3: E
+Case 4: S

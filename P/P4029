@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3 0
+A=?
+?=A+B
+C+O2=?
+===== Sample #1 Output =====
+A
+AB
+CO2
+===== Sample #2 Input =====
+3 1
+A1=?
+A1+?=B1
+C1+O2=?
+===== Sample #2 Output =====
+A
+No Solution
+CO2
+===== Sample #3 Input =====
+1 2
+A0B0C0D0E0F0G0H0I0JK0L0M0N0O0P0QR0S0T0U0V0W0X0Y2Z0=?
+===== Sample #3 Output =====
+JQY2
+===== Sample #4 Input =====
+2 3
+?=A0B0C0D0E0F0G0H0I0J1K0L0M0N0O0P0Q1R0S0T0U0V0W0X0Y2Z0
+A0B0C0D0E0F0G0H0I0J1K0L0M0N0O0P0Q1R0S0T0U0V0W0X0Y2Z0+A0B0C0D0E0F0G0H0I0J1K0L0M0N0O0P0Q1R0S0T0U0V0W0X0Y2Z0=?
+===== Sample #4 Output =====
+JQY2
+J2Q2Y4

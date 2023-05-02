@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+aabbbaad
+===== Sample #1 Output =====
+a2b3a2d1
+===== Sample #2 Input =====
+aabbbbbbbbbbbbxyza
+===== Sample #2 Output =====
+a2b12x1y1z1a1
+===== Sample #3 Input =====
+edcba
+===== Sample #3 Output =====
+e1d1c1b1a1

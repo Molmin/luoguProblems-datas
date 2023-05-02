@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+5 3
+1 2 3 4 5
+Query 5
+Modify 3 2
+Query 5
+===== Sample #1 Output =====
+35
+32

@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+5 8
+#......T
+..#*..#.
+..######
+...*...#
+####S.#*
+5
+10 50 50 100 30 80
+10 10
+#........*
+..#*..#...
+..######..
+.......#..
+####S..##.
+.*.#...#..
+.......#..
+.##.#....#
+.*.....#.#
+....*..#.T
+10
+100 400 20 50 150 250 30 70 4 5
+0 0
+===== Sample #1 Output =====
+Hunt #1
+The hunt is impossible.
+Hunt #2
+Minimum energy required = 17539 cal
+NWWWNNNEESPNWWSSSEEESSSWSSESPWWWNPWNNENPESEEESEEENENNNNNNPSSSSSWSSSSE

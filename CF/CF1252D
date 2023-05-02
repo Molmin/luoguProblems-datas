@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+3 3 5
+ABC
+BCD
+DAB
+ABC
+BC
+BD
+AC
+A
+
+===== Sample #1 Output =====
+2
+3
+1
+0
+2
+
+===== Sample #2 Input =====
+2 3 3
+AAA
+AAA
+A
+AAA
+AAAAA
+
+===== Sample #2 Output =====
+6
+4
+0
+

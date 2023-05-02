@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3
+BRB
+
+===== Sample #1 Output =====
+1
+GRB
+
+===== Sample #2 Input =====
+7
+RGBGRBB
+
+===== Sample #2 Output =====
+3
+RGBRGBR
+

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+123 4
+
+===== Sample #1 Output =====
+1845
+
+===== Sample #2 Input =====
+100 1
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+97461 457
+
+===== Sample #3 Output =====
+1805270103
+

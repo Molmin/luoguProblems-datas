@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+HTH
+
+===== Sample #1 Output =====
+0
+
+===== Sample #2 Input =====
+9
+HTHTHTHHT
+
+===== Sample #2 Output =====
+2
+

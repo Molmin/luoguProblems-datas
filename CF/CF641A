@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+&gt;&lt;
+1 2
+
+===== Sample #1 Output =====
+FINITE
+
+===== Sample #2 Input =====
+3
+&gt;&gt;&lt;
+2 1 1
+
+===== Sample #2 Output =====
+INFINITE

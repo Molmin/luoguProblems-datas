@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+13
+62
+===== Sample #1 Output =====
+131
+===== Sample #2 Input =====
+69120
+824
+===== Sample #2 Output =====
+869120
+===== Sample #3 Input =====
+6283185
+12566370
+===== Sample #3 Output =====
+6283185

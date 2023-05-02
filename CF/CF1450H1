@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+8 0
+bwbb?www
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+10 0
+???ww?wb??
+===== Sample #2 Output =====
+436731905
+===== Sample #3 Input =====
+4 0
+bw?b
+===== Sample #3 Output =====
+0

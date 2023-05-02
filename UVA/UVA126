@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+-yx8+9x3-1+y
+x5y+1+x3
+1
+1
+#
+===== Sample #1 Output =====
+13 2 11
+8
+6 5
+5 2
+3 3
+-x y - x y + 8x y + 9x - x y + x y + 8x + x y - 1 + y
+1

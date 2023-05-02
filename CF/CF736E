@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+5 5
+8 6 4 2 0
+
+===== Sample #1 Output =====
+yes
+XWWWW
+LXWWW
+LLXWW
+LLLXW
+LLLLX
+
+===== Sample #2 Input =====
+5 1
+9
+
+===== Sample #2 Output =====
+no
+

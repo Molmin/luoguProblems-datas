@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+3 3
+S.o
+.o.
+o.T
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+3 4
+S...
+.oo.
+...T
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+4 3
+.S.
+.o.
+.o.
+.T.
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+10 10
+.o...o..o.
+....o.....
+....oo.oo.
+..oooo..o.
+....oo....
+..o..o....
+o..o....So
+o....T....
+....o.....
+........oo
+===== Sample #4 Output =====
+5

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3
+5 7 4 2 6 6
+6 12 9 7 3 1 1
+3 2 1 1
+===== Sample #1 Output =====
+party 1 has power index 10
+party 2 has power index 2
+party 3 has power index 2
+party 4 has power index 6
+party 5 has power index 6
+party 1 has power index 18
+party 2 has power index 14
+party 3 has power index 14
+party 4 has power index 2
+party 5 has power index 2
+party 6 has power index 2
+party 1 has power index 3
+party 2 has power index 1
+party 3 has power index 1

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2&nbsp;4&nbsp;1 2 3 4&nbsp;6&nbsp;3 2 3 4 5 3&nbsp;
+===== Sample #1 Output =====
+2 3&nbsp;2 5&nbsp;

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+C E G
+C E F#
+G C E
+C Eb G
+c# a f#
+f g# C
+===== Sample #1 Output =====
+C E G is a C Major chord.
+C E F# is unrecognized.
+G C E is a C Major chord.
+C Eb G is a C Minor chord.
+c# a f# is a F# Minor chord.
+f g# C is a F Minor chord.

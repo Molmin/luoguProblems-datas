@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+3 3 6 5 4 3
+S..
+...
+..E
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+3 3 1 2 7 8
+S.E
+\-/
+...
+===== Sample #2 Output =====
+5
+===== Sample #3 Input =====
+3 3 1 2 7 8
+SEE
+\-/
+SSS
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+1 4 6 5 4 3
+S>#E
+===== Sample #4 Output =====
+0
+===== Sample #5 Input =====
+2 2 6 5 4 3
+#E
+S^
+===== Sample #5 Output =====
+3
+===== Sample #6 Input =====
+1 3 1 2 7 8
+S#E
+===== Sample #6 Output =====
+-1

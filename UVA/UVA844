@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+4
+L2
+T2
+L2
+B2
+R2
+QUIT
+4
+L2
+T2
+L2
+B2
+R2
+T1
+L2
+QUIT
+===== Sample #1 Output =====
+TIE GAME
+X WINS

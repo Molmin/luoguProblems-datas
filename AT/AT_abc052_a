@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3 5 2 7
+===== Sample #1 Output =====
+15
+===== Sample #2 Input =====
+100 600 200 300
+===== Sample #2 Output =====
+60000

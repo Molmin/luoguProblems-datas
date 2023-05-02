@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+3
+Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+4
+Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+2
+BadPilot : 59 min 59 sec 999 ms
+ABadPilot : 59 min 59 sec 999 ms
+===== Sample #1 Output =====
+Row 1
+Senna
+Schumacher
+Row 2
+Barrichello
+Row 1
+Senna
+Fangio
+Row 2
+Schumacher
+Barrichello
+Row 1
+ABadPilot
+BadPilot

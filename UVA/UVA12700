@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+3
+BBB
+3
+WWW
+3
+BWB
+4
+BWWT
+3
+BTW
+2
+AA
+===== Sample #1 Output =====
+Case 1: BANGLAWASH Case 2: WHITEWASH Case 3: BANGLADESH 2 - 1 Case 4: WWW 2 - 1
+Case 5: DRAW 1 1 Case 6: ABANDONED

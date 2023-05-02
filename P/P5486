@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+10 7
+XXXXXXX
+XOXXXXO
+XOXXXXO
+XOXXXOX
+OXXOXOX
+XOXOXOX
+OXXOXOX
+OXXXXOX
+XXXXXXX
+XXXXXXX
+2 9
+0 0
+===== Sample #1 Output =====
+Case 1:
+
+B: 2-5
+F: 5-9

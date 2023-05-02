@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+aKIHaBaRa
+aKIBa
+aSaKUSa
+SHINKIBA
+===== Sample #1 Output =====
+KIB
+===== Sample #2 Input =====
+3
+abc
+def
+ghi
+===== Sample #2 Output =====
+abc

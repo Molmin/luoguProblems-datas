@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+2
+AAA
+AAA
+BAB
+A
+B
+4
+2
+ABBA
+BBBB
+ABBB
+ABBA
+A
+B
+0
+===== Sample #1 Output =====
+A 3
+B 0
+A 1
+B 8

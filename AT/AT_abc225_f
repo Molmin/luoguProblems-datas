@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+4 3
+ode
+zaaa
+r
+atc
+===== Sample #1 Output =====
+atcoder
+===== Sample #2 Input =====
+5 2
+z
+z
+zzz
+z
+zzzzzz
+===== Sample #2 Output =====
+zz

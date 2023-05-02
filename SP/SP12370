@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+4 6
+hola 5
+como 5
+les 3
+va 2
+como-co 3
+mo-co 8
+mo-les 4
+como-como-les 12
+ta-no-sirven 100
+hasta-es 200
+2 3
+xyz 1000
+zyxxyz 1000
+xyz-zyx 1
+zyx-xyz 1
+xyz-xyz-zyx-xyz 1
+2 1
+abc 1
+abcabc 1000
+abc-abc 999
+1 1
+ser 10
+no-ser 5
+-1 -1
+===== Sample #1 Output =====
+6
+0
+*
+0

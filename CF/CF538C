@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+8 2
+2 0
+7 0
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+8 3
+2 0
+7 0
+8 3
+
+===== Sample #2 Output =====
+IMPOSSIBLE
+

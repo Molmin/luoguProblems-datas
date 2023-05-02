@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+1
+10
+3
+
+===== Sample #1 Output =====
+3
+101
+
+===== Sample #2 Input =====
+1
+11
+3
+
+===== Sample #2 Output =====
+5
+111
+
+===== Sample #3 Input =====
+12345
+12346
+6
+
+===== Sample #3 Output =====
+1
+012345
+

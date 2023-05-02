@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+99 99 99
+===== Sample #1 Output =====
+1.000000000
+===== Sample #2 Input =====
+98 99 99
+===== Sample #2 Output =====
+1.331081081
+===== Sample #3 Input =====
+0 0 1
+===== Sample #3 Output =====
+99.000000000
+===== Sample #4 Input =====
+31 41 59
+===== Sample #4 Output =====
+91.835008202

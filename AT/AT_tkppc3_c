@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5 10
+1 3 5 2 4
+===== Sample #1 Output =====
+Yay!
+===== Sample #2 Input =====
+null
+===== Sample #2 Output =====
+:(
+===== Sample #3 Input =====
+null
+===== Sample #3 Output =====
+Yay!

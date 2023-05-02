@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+5
+declare
+cancel 1
+declare
+cancel 2
+cancel 3
+===== Sample #1 Output =====
+3
+1 4 5

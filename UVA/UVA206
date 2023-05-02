@@ -1,0 +1,58 @@
+===== Sample #1 Input =====
+Sample Route List 1
+4 10
+able
+1 2
+baker
+-3 6
+charlie
+-4 -5
+donald
+4 -7
+eloise
+3 4
+frank
+2 2
+gertrude
+5 9
+horace
+-2 -5
+inez
+5 -3
+james
+0 1
+Sample Route List 2
+1 1
+charlie
+1 1
+===== Sample #1 Output =====
+Sample Route List 1
+Number of Customers: 10
+Number of Routes: 4
+Route ==&gt; 1
+Customer: frank
+Customer: eloise
+Customer: gertrude
+Route Length ==&gt; 28
+Route ==&gt; 2
+Customer: able
+Customer: james
+Customer: baker
+Route Length ==&gt; 22
+Route ==&gt; 3
+Customer: charlie
+Customer: horace
+Route Length ==&gt; 18
+Route ==&gt; 4
+Customer: donald
+Customer: inez
+Route Length ==&gt; 24
+Total Route Length ==&gt; 92
+***********************************
+Sample Route List 2
+Number of Customers: 1
+Number of Routes: 1
+Route ==&gt; 1
+Customer: charlie
+Route Length ==&gt; 4
+Total Route Length ==&gt; 4

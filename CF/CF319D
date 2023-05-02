@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+abccabc
+
+===== Sample #1 Output =====
+abc
+
+===== Sample #2 Input =====
+aaaabaaab
+
+===== Sample #2 Output =====
+ab
+
+===== Sample #3 Input =====
+birdbirdbirdistheword
+
+===== Sample #3 Output =====
+birdistheword
+

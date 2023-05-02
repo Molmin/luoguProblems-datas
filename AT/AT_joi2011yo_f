@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+2 3
+??O
+IIJ
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+2 2
+??
+??
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+3 3
+??I
+???
+O?J
+===== Sample #3 Output =====
+53
+===== Sample #4 Input =====
+5 4
+JOI?
+????
+????
+????
+?JOI
+===== Sample #4 Output =====
+28218

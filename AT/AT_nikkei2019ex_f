@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+20
+===== Sample #1 Output =====
+1
+a
+b
+ac
+d
+abe
+7
+ac
+b
+ad
+11
+abce
+13
+a
+bd
+ac
+17
+abe
+19
+acd

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+*aca?ctc
+6
+acaacatctc
+acatctc
+aacacatctc
+aggggcaacacctc
+aggggcaacatctc
+aggggcaacctct
+===== Sample #1 Output =====
+YES
+YES
+YES
+YES
+YES
+NO

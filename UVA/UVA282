@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+abFile001.c
+abFile001.cxx
+abprog001.c
+abfile.c
+abFile.c
+abFileprog.c
+end
+rename abFile*.c bprog*.cxx
+end
+acm.c
+end
+rename ac*.c ib*.cpp
+end
+===== Sample #1 Output =====
+rename abFile*.c bprog*.cxx
+mv abFile001.c bprog001.cxx
+mv abFile.c bprog.cxx
+mv abFileprog.c bprogprog.cxx
+rename ac*.c ib*.cpp
+mv acm.c ibm.cpp

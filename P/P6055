@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+50
+
+===== Sample #1 Output =====
+104527
+
+===== Sample #2 Input =====
+200
+
+===== Sample #2 Output =====
+6664993
+
+===== Sample #3 Input =====
+500000
+
+===== Sample #3 Output =====
+835964450
+
+===== Sample #4 Input =====
+10000000
+
+===== Sample #4 Output =====
+503290049
+===== Sample #5 Input =====
+100000000
+===== Sample #5 Output =====
+712748411
+
+===== Sample #6 Input =====
+1000000000
+===== Sample #6 Output =====
+845640070
+

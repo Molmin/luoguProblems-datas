@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3 ABCD\n13 ACM\n0\n\n
+===== Sample #1 Output =====
+\n1. CABD\n2. CAM

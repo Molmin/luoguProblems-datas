@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+ababa
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+zzcxx
+
+===== Sample #2 Output =====
+Yes
+
+===== Sample #3 Input =====
+yeee
+
+===== Sample #3 Output =====
+No
+

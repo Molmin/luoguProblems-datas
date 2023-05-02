@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+8
+"a,b"c,d
+===== Sample #1 Output =====
+"a,b"c.d
+===== Sample #2 Input =====
+5
+,,,,,
+===== Sample #2 Output =====
+.....
+===== Sample #3 Input =====
+20
+a,"t,"c,"o,"d,"e,"r,
+===== Sample #3 Output =====
+a."t,"c."o,"d."e,"r.

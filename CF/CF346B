@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+AJKEQSLOBSROFGZ
+OVGURWZLWVLUXTH
+OZ
+
+===== Sample #1 Output =====
+ORZ
+
+===== Sample #2 Input =====
+AA
+A
+A
+
+===== Sample #2 Output =====
+0
+

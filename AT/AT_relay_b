@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+pdbq
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+ppqb
+===== Sample #2 Output =====
+No

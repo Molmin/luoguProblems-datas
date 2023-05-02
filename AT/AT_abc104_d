@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+A??C
+===== Sample #1 Output =====
+8
+===== Sample #2 Input =====
+ABCBC
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+????C?????B??????A???????
+===== Sample #3 Output =====
+979596887

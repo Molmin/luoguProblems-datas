@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2
+2 3 9
+EEZZEEZZZ
+2 7 9
+EEZZEEZZZ
+
+===== Sample #1 Output =====
+0
+4
+
+===== Sample #2 Input =====
+2
+4 4 8
+CZBBCZBC
+1 1 4
+TTCT
+
+===== Sample #2 Output =====
+1
+0
+

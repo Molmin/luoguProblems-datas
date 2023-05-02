@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2
+b m
+m d
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+3
+a b
+b c
+c a
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+5
+aaa bbb
+yyy zzz
+ccc ddd
+xxx yyy
+bbb ccc
+===== Sample #3 Output =====
+Yes

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2
+GAUSS
+GALOIS
+ERDOS
+EULER
+4
+AA
+AB
+AC
+AD
+BA
+BB
+BC
+BD
+===== Sample #1 Output =====
+8
+56

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+7 20 12
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+20 7 12
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+23 0 23
+===== Sample #3 Output =====
+Yes

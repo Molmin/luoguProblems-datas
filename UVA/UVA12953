@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+4 5
+df bb cg df df 11
+ee az cg az ee 6
+df cg cg df df 10
+az az cg az az 6
+6 7 8 6 6
+3 4
+aa bb cc dd 10
+aa bb cc dd 10
+aa bb cc dd 10
+3 6 9 12
+3 3
+aa zz aa 27
+vv zz aa -5
+kk kk aa 40
+15 -7 54
+===== Sample #1 Output =====
+az 1
+bb 3
+cg 2
+df 2
+ee 1
+aa 1
+bb 2
+cc 3
+dd 4
+aa 18
+kk 11
+vv -14
+zz -9

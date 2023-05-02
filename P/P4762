@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+AAAA
+AGCTTGCA
+AAGGGGAAGGGGAA
+AAACAGTCCTGACAAAAAAAAAAAAC
+===== Sample #1 Output =====
+3
+8
+6
+18

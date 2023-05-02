@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2 2
+cf
+cf
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+1 12
+codefestival
+===== Sample #2 Output =====
+2

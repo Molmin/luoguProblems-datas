@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+1 100
+100 1
+99 99
+99 99
+
+===== Sample #1 Output =====
+Team 1
+
+===== Sample #2 Input =====
+1 1
+2 2
+3 3
+2 2
+
+===== Sample #2 Output =====
+Team 2
+
+===== Sample #3 Input =====
+3 3
+2 2
+1 1
+2 2
+
+===== Sample #3 Output =====
+Draw
+

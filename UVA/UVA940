@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+0123
+abcdefg
+===== Sample #1 Output =====
+1210
+2020
+bcba
+caca
+cbcaa
+dcbbaaa

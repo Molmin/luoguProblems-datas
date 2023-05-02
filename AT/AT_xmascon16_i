@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+4 5
+1 1 1
+o.ooo
+ooooo
+.o.oo
+.oooo
+===== Sample #1 Output =====
+L
+===== Sample #2 Input =====
+5 9
+1 4 2
+.o.......
+oooo.ooo.
+oooo.oooo
+ooo.ooooo
+oooo.oooo
+===== Sample #2 Output =====
+T
+===== Sample #3 Input =====
+1 4
+0 0 0
+oooo
+===== Sample #3 Output =====
+I
+===== Sample #4 Input =====
+8 7
+4 4 4
+oooooo.
+ooooooo
+ooooooo
+o.ooooo
+ooooo.o
+ooooooo
+ooooooo
+.oooooo
+===== Sample #4 Output =====
+S

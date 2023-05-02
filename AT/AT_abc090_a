@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+ant
+obe
+rec
+===== Sample #1 Output =====
+abc
+===== Sample #2 Input =====
+edu
+cat
+ion
+===== Sample #2 Output =====
+ean

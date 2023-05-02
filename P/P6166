@@ -1,0 +1,152 @@
+===== Sample #1 Input =====
+10
+T c
+T z
+T u
+T a
+T i
+T h
+T f
+T z
+P 3
+P 0
+
+===== Sample #1 Output =====
+a
+c
+
+===== Sample #2 Input =====
+98
+T u
+T g
+T p
+T h
+T w
+P 3
+P 0
+T d
+T d
+T r
+T v
+T z
+T w
+T h
+P 0
+T d
+T v
+T b
+P 9
+T n
+T e
+P 0
+T s
+T i
+T a
+P 6
+T b
+T n
+T m
+T t
+T m
+T g
+T y
+T g
+P 0
+T m
+P 18
+T r
+P 17
+T w
+T w
+T o
+T m
+T m
+P 0
+T q
+P 5
+T t
+P 27
+P 34
+T p
+T f
+T h
+T j
+T f
+T l
+P 3
+T f
+T q
+T h
+P 17
+T w
+T d
+T p
+T z
+P 0
+T m
+P 10
+T o
+P 5
+P 18
+P 7
+T q
+T z
+P 2
+T u
+P 10
+T e
+P 6
+T s
+T t
+P 24
+T s
+P 0
+T t
+T c
+P 4
+T j
+T o
+P 5
+T i
+P 11
+T a
+T t
+P 58
+P 51
+P 64
+P 12
+
+===== Sample #2 Output =====
+h
+u
+u
+z
+u
+d
+u
+i
+s
+u
+d
+g
+m
+h
+s
+u
+w
+d
+i
+r
+p
+w
+d
+m
+u
+w
+d
+h
+s
+o
+a
+d
+

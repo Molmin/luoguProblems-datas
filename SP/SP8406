@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n5 6\n20 30 10 50 40\n2 31\n1 2\n2 31\n3 11\n2 20\n2 50\n\n
+===== Sample #1 Output =====
+\n2\n3\n3\n0\n\nNote : Ideal time limit should be 2s. It has been increased to 7s, to let Java solutions pass, as the i/o is huge.\n\n* There are multiple test sets, and the judge shows the sum of the time taken over all test sets of your submission, if Accepted.

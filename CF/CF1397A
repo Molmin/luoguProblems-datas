@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4
+2
+caa
+cbb
+3
+cba
+cba
+cbb
+4
+ccab
+cbac
+bca
+acbcc
+4
+acb
+caf
+c
+cbafc
+===== Sample #1 Output =====
+YES
+NO
+YES
+NO

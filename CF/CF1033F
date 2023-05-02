@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+4 3 1
+13 10 6
+AXoA
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+1 7 6
+0 1 1 0 1 0 0
+A
+O
+X
+a
+o
+x
+
+===== Sample #2 Output =====
+40
+16
+25
+9
+33
+24
+
+===== Sample #3 Input =====
+6 2 4
+47 12
+AOXaox
+AAaaAA
+xxxxxx
+XXXXXX
+
+===== Sample #3 Output =====
+2
+3
+0
+2
+
+===== Sample #4 Input =====
+2 2 2
+2 0
+xO
+Ox
+
+===== Sample #4 Output =====
+2
+0
+

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4
+1 G
+5 R
+10 B
+15 G
+
+===== Sample #1 Output =====
+23
+
+===== Sample #2 Input =====
+4
+1 G
+2 R
+3 B
+10 G
+
+===== Sample #2 Output =====
+12
+

@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+6 6
+GCTACT
+GATCCT 1
+===== Sample #1 Output =====
+A
+AC
+ACT
+AT 
+C  
+CC 
+CCT
+CT 
+G  
+GA 
+GAC
+GACT
+GAT 
+GC  
+GCC 
+GCCT
+GCT 
+GT  
+GTC 
+GTCT
+GTT 
+T   
+TC  
+TCT 
+TT  
+26

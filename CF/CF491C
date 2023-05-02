@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+10 2
+aaabbbaaab
+bbbbabbbbb
+
+===== Sample #1 Output =====
+7
+ba
+
+===== Sample #2 Input =====
+10 2
+aaaaaaabbb
+bbbbaaabbb
+
+===== Sample #2 Output =====
+6
+ab
+
+===== Sample #3 Input =====
+9 4
+dacbdacbd
+acbdacbda
+
+===== Sample #3 Output =====
+9
+cdba
+

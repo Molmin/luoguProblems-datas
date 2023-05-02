@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+RYBGRYBGR
+
+===== Sample #1 Output =====
+0 0 0 0
+===== Sample #2 Input =====
+!RGYB
+
+===== Sample #2 Output =====
+0 1 0 0
+===== Sample #3 Input =====
+!!!!YGRB
+
+===== Sample #3 Output =====
+1 1 1 1
+===== Sample #4 Input =====
+!GB!RG!Y!
+
+===== Sample #4 Output =====
+2 1 1 0

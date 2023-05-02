@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+a ^b&amp;(b|a)~b^ a
+a^b&amp;(b|a)(a^(b&amp;(b|a)))
+~~~~z~~z
+===== Sample #1 Output =====
+No
+Yes
+Yes

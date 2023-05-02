@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+7
+aaaaaaa
+aaaaaaa
+aaaaaaa
+aaaaaaa
+aaaaaaa
+aaaaaaa
+aaaaaaa
+
+===== Sample #1 Output =====
+*******
+*******
+*******
+*******
+*******
+*******
+*******
+
+===== Sample #2 Input =====
+8
+qyizhong
+gydthkjy
+nwidghji
+orbzsfgz
+hhgrhwth
+zzzzzozo
+iwdfrgng
+yyyygggg
+===== Sample #2 Output =====
+*yizhong
+gy******
+n*i*****
+o**z****
+h***h***
+z****o**
+i*****n*
+y******g

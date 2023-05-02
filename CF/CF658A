@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 2
+50 85 250
+10 15 25
+
+===== Sample #1 Output =====
+Limak
+
+===== Sample #2 Input =====
+3 6
+50 85 250
+10 15 25
+
+===== Sample #2 Output =====
+Radewoosh
+
+===== Sample #3 Input =====
+8 1
+10 20 30 40 50 60 70 80
+8 10 58 63 71 72 75 76
+
+===== Sample #3 Output =====
+Tie
+

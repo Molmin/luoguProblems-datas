@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+YY...Y.Y.Y.
+2
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+YYYY....YYY
+3
+===== Sample #2 Output =====
+4

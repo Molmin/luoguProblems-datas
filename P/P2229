@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+start
+     i=0
+     j=0
+     loop 100
+          i=i+1
+          j=j+i
+          continue
+          loop 10
+               write j
+          end
+     end
+     loop 100
+          j=j+1
+          break
+          j=j+1
+     end
+     write j
+end
+
+===== Sample #1 Output =====
+5051

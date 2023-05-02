@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n _  _&nbsp; _&nbsp; _&nbsp; _  _ \n&nbsp;_| _| _|| ||_||_ \n|_&nbsp; _||_ |_|&nbsp; | _|\n    _&nbsp;&nbsp;&nbsp;&nbsp; _&nbsp;&nbsp;&nbsp;  _ \n&nbsp; ||_ |_||_&nbsp;  || |\n&nbsp; ||_|&nbsp; ||_|  ||_|\n _&nbsp; _&nbsp; _&nbsp; _&nbsp;&nbsp;&nbsp;  _ \n&nbsp; ||_||_||_&nbsp;  ||_|\n&nbsp; |&nbsp; |  | _|  ||_|\n\n\n
+===== Sample #1 Output =====
+\n\n232095\n164610\n799518\n

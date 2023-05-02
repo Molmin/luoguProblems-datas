@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+4
+2
+LL
+TT
+3
+TTT
+TTT
+TTT
+4
+TLLL
+LTLL
+LLTL
+LLLT
+5
+TLTLT
+TTTTT
+LLTLL
+LLLLL
+TLTLT
+===== Sample #1 Output =====
+Class Room#1 is paradoxical\n
+Class Room#2 contains atleast 0 and atmost 3 liars
+Class Room#3 contains atleast 3 and atmost 4 liars
+Class Room#4 contains atleast 4 and atmost 4 liars

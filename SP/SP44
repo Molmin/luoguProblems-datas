@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+5 6
+cebdbac
+cac
+ecd
+dca
+aba
+bac
+cedab
+4 4
+cca
+cad
+aac
+bca
+bdac
+===== Sample #1 Output =====
+abcde
+Message cannot be decrypted.

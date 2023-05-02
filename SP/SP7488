@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+5 5\n4 1 3 6 2\n1 2 4\n2 1 3\n0 0 3 2\n1 1 2\n2 2 4\n\n
+\n\n
+===== Sample #1 Output =====
+\n
+60\n1\n60\n2\n\n

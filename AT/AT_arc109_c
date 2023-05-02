@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 2
+RPS
+===== Sample #1 Output =====
+P
+===== Sample #2 Input =====
+11 1
+RPSSPRSPPRS
+===== Sample #2 Output =====
+P
+===== Sample #3 Input =====
+1 100
+S
+===== Sample #3 Output =====
+S

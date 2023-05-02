@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+5
+7
+11
+===== Sample #1 Output =====
+The Fibonacci number for 5 is 5
+The Fibonacci number for 7 is 13
+The Fibonacci number for 11 is 89

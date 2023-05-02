@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\n1\nORIZONDO\n2\nKLEITMAN LANDER\nORIZONDO KLEITMAN\n4\nORIZONDO B\nA B C\nB A E\nD F\n\n\n
+===== Sample #1 Output =====
+\nORIZONDO 0\nKLEITMAN 1 LANDER 2 ORIZONDO 0\nA 2 B 1 C 2 D E 2 F ORIZONDO 0\n

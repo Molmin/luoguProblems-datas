@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3
+
+===== Sample #1 Output =====
+*D*
+DDD
+*D*
+
+===== Sample #2 Input =====
+5
+
+===== Sample #2 Output =====
+**D**
+*DDD*
+DDDDD
+*DDD*
+**D**
+
+===== Sample #3 Input =====
+7
+
+===== Sample #3 Output =====
+***D***
+**DDD**
+*DDDDD*
+DDDDDDD
+*DDDDD*
+**DDD**
+***D***
+

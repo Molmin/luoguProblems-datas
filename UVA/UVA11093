@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+5
+1 1 1 1 1
+1 1 2 1 1
+7
+1 1 1 10 1 1 1
+2 2 2 2 2 2 2
+===== Sample #1 Output =====
+Case 1: Not possible
+Case 2: Possible from station 4

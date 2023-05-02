@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+6
+7
+abacaba
+7
+???????
+11
+aba?abacaba
+11
+abacaba?aba
+15
+asdf???f???qwer
+11
+abacabacaba
+===== Sample #1 Output =====
+Yes
+abacaba
+Yes
+abacaba
+Yes
+abadabacaba
+Yes
+abacabadaba
+No
+No

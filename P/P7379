@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+11
+7992739871x
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+5
+x2464
+===== Sample #2 Output =====
+5
+===== Sample #3 Input =====
+10
+93380x1696
+===== Sample #3 Output =====
+1

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+-2x+3y=4
+x-y=-1
+===== Sample #1 Output =====
+1
+2
+===== Sample #2 Input =====
+3x-5y=-21
+-5x+20y=70
+===== Sample #2 Output =====
+-2
+3
+===== Sample #3 Input =====
+6x+7y=30
+-x-y=-5
+===== Sample #3 Output =====
+5
+0

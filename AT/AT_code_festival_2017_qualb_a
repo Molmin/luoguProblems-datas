@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+CODEFESTIVAL
+===== Sample #1 Output =====
+CODE
+===== Sample #2 Input =====
+CODEFESTIVALFESTIVAL
+===== Sample #2 Output =====
+CODEFESTIVAL
+===== Sample #3 Input =====
+YAKINIKUFESTIVAL
+===== Sample #3 Output =====
+YAKINIKU

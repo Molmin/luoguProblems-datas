@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+3
+ABCA
+XBAZ
+BAD
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+9
+BEWPVCRWH
+ZZNQYIJX
+BAVREA
+PA
+HJMYITEOX
+BCJHMRMNK
+BP
+QVFABZ
+PRGKSPUNA
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+7
+RABYBBE
+JOZ
+BMHQUVA
+BPA
+ISU
+MCMABAOBHZ
+SZMEHMA
+===== Sample #3 Output =====
+4

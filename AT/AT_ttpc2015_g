@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+titech
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+tititechtech
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+titecg
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+tttiiittteeeccchhh
+===== Sample #4 Output =====
+Yes

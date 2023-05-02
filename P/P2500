@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 3
+1 2 1 
+2 3 2
+3 1 3
+5
+AskAA
+AskAB
+MoveB 2
+AskAA
+AskAB
+===== Sample #1 Output =====
+1
+No Found!
+3
+1

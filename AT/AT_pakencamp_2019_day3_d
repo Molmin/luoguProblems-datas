@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+1
+B
+R
+#
+W
+B
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3
+WWR
+#RW
+BW#
+##B
+RBR
+===== Sample #2 Output =====
+10
+===== Sample #3 Input =====
+8
+RRRRRRRR
+########
+BBBBBBBB
+RRRRRRRR
+WWWWWWWW
+===== Sample #3 Output =====
+28
+===== Sample #4 Input =====
+7
+BR#WB#R
+RWW#WRB
+##WBR#W
+WB#B#RW
+BRW##BB
+===== Sample #4 Output =====
+21

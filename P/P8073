@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+4 4
+.LX.
+.X..
+....
+.L..
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+4 4
+.XLX
+.X..
+...L
+.X..
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+7 7
+...X.X.
+XL....L
+.......
+...L...
+.....XL
+.......
+...X...
+===== Sample #3 Output =====
+1

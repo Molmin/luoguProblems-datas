@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3
+a???cb
+a??bbc
+a?b?c
+
+===== Sample #1 Output =====
+ababcb
+-1
+acbac
+

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n6\n0\n1\n2\n3\n4\n5\n\n
+===== Sample #1 Output =====
+\n1\nA+B\nA^2+2xAB+B^2\nA^3+3xA^2B+3xAB^2+B^3\nA^4+2^2xA^3B+2x3xA^2B^2+2^2xAB^3+B^4\nA^5+5xA^4B+2x5xA^3B^2+2x5xA^2B^3+5xAB^4+B^5\n\nWarning: Large output. Be careful with certain languages.\n

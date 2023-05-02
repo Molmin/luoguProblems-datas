@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+4
+hoge
+english
+hoge
+enigma
+===== Sample #1 Output =====
+No
+===== Sample #2 Input =====
+9
+basic
+c
+cpp
+php
+python
+nadesico
+ocaml
+lua
+assembly
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+8
+a
+aa
+aaa
+aaaa
+aaaaa
+aaaaaa
+aaa
+aaaaaaa
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+3
+abc
+arc
+agc
+===== Sample #4 Output =====
+No

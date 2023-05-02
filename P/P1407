@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+Melanie Ashley
+Scarlett Charles
+1
+Scarlett Ashley
+===== Sample #1 Output =====
+Safe
+Safe
+===== Sample #2 Input =====
+2
+Melanie Ashley
+Scarlett Charles
+2
+Scarlett Ashley
+Melanie Charles
+===== Sample #2 Output =====
+Unsafe
+Unsafe

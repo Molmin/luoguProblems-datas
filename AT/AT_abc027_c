@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+1
+===== Sample #1 Output =====
+Aoki
+===== Sample #2 Input =====
+5
+===== Sample #2 Output =====
+Takahashi
+===== Sample #3 Input =====
+7
+===== Sample #3 Output =====
+Aoki
+===== Sample #4 Input =====
+10
+===== Sample #4 Output =====
+Takahashi
+===== Sample #5 Input =====
+123456789123456789
+===== Sample #5 Output =====
+Aoki

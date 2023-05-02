@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+XS
+XS
+M
+XL
+S
+XS
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+2
+XXXL
+XXL
+XXL
+XXXS
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+2
+M
+XS
+XS
+M
+
+===== Sample #3 Output =====
+0
+

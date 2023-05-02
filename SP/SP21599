@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+1\n200 10\n
+===== Sample #1 Output =====
+155\n\n \nExplanation:- Naruto is going to give 100 power to 10 clones. So there will be an AP with first term as 1 common difference 2.\n&nbsp;On adding required terms we get 55, and hence total power is 155. \n

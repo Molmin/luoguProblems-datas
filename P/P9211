@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+25 8 5 10
+aaacdaabbbaabccaabcdaabcd
+
+===== Sample #1 Output =====
+5
+aaacd

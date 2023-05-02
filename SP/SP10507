@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3 4 2
+Curitiba
+LalLal
+Idappadi
+0 1 2
+2 1 1
+0 2 3
+1 2 6
+4 5 3
+heeymacarena
+haay
+abbaxx
+ddxdd
+0 3 20
+0 2 10
+2 3 5
+3 1 10
+2 1 20
+0 0 0
+===== Sample #1 Output =====
+2
+LalLal (12) 3
+Idappadi (20) 5
+4
+heeymacarena (2) 0
+haay (2) 20
+abbaxx (8) 10
+ddxdd (4) 25

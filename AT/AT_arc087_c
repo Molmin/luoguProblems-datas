@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+2 2
+00
+01
+===== Sample #1 Output =====
+Alice
+===== Sample #2 Input =====
+2 2
+00
+11
+===== Sample #2 Output =====
+Bob
+===== Sample #3 Input =====
+3 3
+0
+10
+110
+===== Sample #3 Output =====
+Alice
+===== Sample #4 Input =====
+2 1
+0
+1
+===== Sample #4 Output =====
+Bob
+===== Sample #5 Input =====
+1 2
+11
+===== Sample #5 Output =====
+Alice
+===== Sample #6 Input =====
+2 3
+101
+11
+===== Sample #6 Output =====
+Bob

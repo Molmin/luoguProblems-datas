@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+5
+a?b
+acb
+a?b
+abbb
+a*b
+abbbb
+a*b
+asbdfuisdhfsbdfsdfb
+abb
+
+bb
+===== Sample #1 Output =====
+Yes

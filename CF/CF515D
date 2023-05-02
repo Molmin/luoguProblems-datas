@@ -1,0 +1,45 @@
+===== Sample #1 Input =====
+3 3
+...
+.*.
+...
+
+===== Sample #1 Output =====
+Not unique
+
+===== Sample #2 Input =====
+4 4
+..**
+*...
+*.**
+....
+
+===== Sample #2 Output =====
+&lt;&gt;**
+*^&lt;&gt;
+*v**
+&lt;&gt;&lt;&gt;
+
+===== Sample #3 Input =====
+2 4
+*..*
+....
+
+===== Sample #3 Output =====
+*&lt;&gt;*
+&lt;&gt;&lt;&gt;
+
+===== Sample #4 Input =====
+1 1
+.
+
+===== Sample #4 Output =====
+Not unique
+
+===== Sample #5 Input =====
+1 1
+*
+
+===== Sample #5 Output =====
+*
+

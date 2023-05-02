@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+chokudai
+chokudaiz
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+snuke
+snekee
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+a
+aa
+===== Sample #3 Output =====
+Yes

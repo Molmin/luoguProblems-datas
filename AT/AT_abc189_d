@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+AND
+OR
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+5
+OR
+OR
+OR
+OR
+OR
+===== Sample #2 Output =====
+63

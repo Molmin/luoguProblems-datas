@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+4 2 5
+NewTroy Midvale Metrodale
+NewTroy    Midvale
+Midvale   --50-> Bakerline
+NewTroy     Bakerline
+0 0 0
+===== Sample #1 Output =====
+1. 80

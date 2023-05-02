@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+LLUUUR
+
+===== Sample #1 Output =====
+OK
+
+===== Sample #2 Input =====
+RRUULLDD
+
+===== Sample #2 Output =====
+BUG
+

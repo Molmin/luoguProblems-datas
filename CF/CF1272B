@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+6
+LRU
+DURLDRUDRULRDURDDL
+LRUDDLRUDRUL
+LLLLRRRR
+URDUR
+LLL
+
+===== Sample #1 Output =====
+2
+LR
+14
+RUURDDDDLLLUUR
+12
+ULDDDRRRUULL
+2
+LR
+2
+UD
+0
+
+

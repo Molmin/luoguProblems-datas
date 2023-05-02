@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n5 8\nWWWWWWW.\nWHDC...D\nW.WW.WCW\nW.OW..OW\n.WWWWWWW\n3 3\nODO\nDHD\nODO\n3 7\nWWWWWWW\nDH..OCD\nWWWWWWW\n4 1\nW\nH\nO\nW\n1 13\nHOW.DO.COW.DO\n-1 -1
+===== Sample #1 Output =====
+\n21\n-1\n8\n1\n1

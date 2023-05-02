@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+2 S
+TH
+9C
+KS
+QS
+JS
+TD
+AD
+JH
+===== Sample #1 Output =====
+60
+===== Sample #2 Input =====
+4 H
+AH
+KH
+QH
+JH
+TH
+9H
+8H
+7H
+AS
+KS
+QS
+JS
+TS
+9S
+8S
+7S
+===== Sample #2 Output =====
+92

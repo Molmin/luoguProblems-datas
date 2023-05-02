@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5 5
+3949 3774 3598 3469 3424
+===== Sample #1 Output =====
+1541
+===== Sample #2 Input =====
+5 3
+7 4 2 6 4
+===== Sample #2 Output =====
+7

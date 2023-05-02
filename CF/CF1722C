@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+1
+abc
+def
+abc
+3
+orz for qaq
+qaq orz for
+cod for ces
+5
+iat roc hem ica lly
+bac ter iol ogi sts
+bac roc lly iol iat
+===== Sample #1 Output =====
+1 3 1 
+2 2 6 
+9 11 5

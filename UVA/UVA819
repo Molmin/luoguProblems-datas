@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+-3 5
+7 9
+17 5
+4
+10 10
+10 20
+20 20
+20 10
+0
+===== Sample #1 Output =====
+Gift 1
+Minimum area = 80.000
+Maximum area = 200.000
+Gift 2
+Minimum area = 100.000
+Maximum area = 200.000

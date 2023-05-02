@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+2 10
+codeforces
+codeforces
+codehorses
+
+===== Sample #1 Output =====
+0
+12
+
+===== Sample #2 Input =====
+9 9
+vkontakte
+vcontacte
+vkontrakte
+vkollapse
+vkrokodile
+vtopke
+vkapuste
+vpechke
+vk
+vcodeforcese
+
+===== Sample #2 Output =====
+18
+14
+36
+47
+14
+29
+30
+0
+84
+

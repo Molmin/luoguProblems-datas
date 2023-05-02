@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+4 3 3 3 3
+6 2 4 5 5 2 1
+5 3 2 3 2 1
+0
+===== Sample #1 Output =====
+Possible
+Not possible
+Not possible

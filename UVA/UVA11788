@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+-15.1 40 12.2
+18 40 10
+19 40 10
+-8.76 8.50 30
+5 22.25 18.55
+===== Sample #1 Output =====
+goal
+bounce
+out
+goal
+out

@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+10 10 10
+10 7 6
+===== Sample #1 Output =====
+Case 1: 10.0000
+Case 2: 8.0342

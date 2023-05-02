@@ -1,0 +1,58 @@
+===== Sample #1 Input =====
+11
+Lousberg
+0.500000 1.000000
+Rasschaert
+0.000000 0.500000
+Lubbers
+0.000000 1.000000
+van_den_Hoogen -0.500000 1.000000
+Bink
+0.000000 1.500000
+van_de_Kieft 0.200000 0.800000
+Bronkhorst -0.300000 1.100000
+van_Dijk
+0.001000 1.001000
+Zijlstra
+0.010000 1.020000
+Duponselle -0.250000 0.900000
+Ramnath
+-0.400000 0.600000
+3
+Lousberg
+van_den_Hoogen
+1200
+Rasschaert Ramnath
+1000
+Lubbers
+van_Dijk
+10
+0
+0
+===== Sample #1 Output =====
+Scenario 1:
+------------------------------
+From Lousberg to van_den_Hoogen with range 1200 km:
+Lousberg
+at
+0 km.
+van_de_Kieft
+at 1198 km.
+Lubbers
+at 2154 km.
+Duponselle
+at 3065 km.
+van_den_Hoogen
+at 3969 km.
+------------------------------
+From Rasschaert to Ramnath with range 1000 km:
+No route for this range, minimum required range is 1217 km.
+------------------------------
+From Lubbers to van_Dijk with range 10 km:
+Lubbers
+at
+0 km.
+van_Dijk
+at
+5 km.
+------------------------------

@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+H
+HTHT
+TTHTHTHTHTHHTHTHTHTTTTTTHTHHHHHTT
+===== Sample #1 Output =====
+2
+20
+8589934598

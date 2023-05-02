@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+1
+topforces
+codecoder
+
+===== Sample #1 Output =====
+YES
+topforces
+codecoder
+
+===== Sample #2 Input =====
+3
+bab
+cac
+cdc
+bdb
+cdc
+cdc
+
+===== Sample #2 Output =====
+YES
+a
+d
+
+===== Sample #3 Input =====
+2
+you
+shal
+not
+pass
+
+===== Sample #3 Output =====
+NO
+

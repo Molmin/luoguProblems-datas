@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+2
+1 2
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+3
+3 22 115
+
+===== Sample #2 Output =====
+234
+
+===== Sample #3 Input =====
+2
+1 11
+
+===== Sample #3 Output =====
+-1
+
+===== Sample #4 Input =====
+2
+5 27
+
+===== Sample #4 Output =====
+-1
+
+===== Sample #5 Input =====
+2
+17 53
+
+===== Sample #5 Output =====
+-1
+
+===== Sample #6 Input =====
+10
+53 43 36 96 99 2 27 86 93 23
+
+===== Sample #6 Output =====
+3456

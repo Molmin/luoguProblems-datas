@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3
+1
+5 2
+2
+3 2
+2 6
+1
+2 2
+===== Sample #1 Output =====
+Case 1: M
+Case 2: J
+Case 3: Draw

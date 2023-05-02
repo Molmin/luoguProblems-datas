@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+10
+1001
+0
+0
+1
+1
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+10
+10001
+1
+2
+3
+4
+
+===== Sample #2 Output =====
+0
+

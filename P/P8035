@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+2 3 6
+(R1-R2-R3)
+===== Sample #1 Output =====
+11.00000
+===== Sample #2 Input =====
+3
+2 3 6
+(R1|R2|R3)
+===== Sample #2 Output =====
+1.00000
+===== Sample #3 Input =====
+5
+5.0 5.0 5.0 5.0 5.0
+((R1-(R2|R3)-(R4|R5))|(R1-(R2|R3)-(R4|R5)))
+===== Sample #3 Output =====
+5.00000

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+6
+Z
+Z^P
+!A
+!(AvP)^D
+AvZvP\A
+!A^(Z\(Dv!P))
+===== Sample #1 Output =====
+8
+4
+8
+0
+6
+2

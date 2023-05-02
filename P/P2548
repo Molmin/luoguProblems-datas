@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+4 3
+sunny plain full many
+sunny mountain full many
+sunny mountain full few
+===== Sample #1 Output =====
+sunny * full *

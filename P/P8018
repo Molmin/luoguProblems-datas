@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4 3 1
+DRD
+DUD
+DUD
+RUL
+===== Sample #1 Output =====
+4 2
+===== Sample #2 Input =====
+3 3 2
+RRR
+RRR
+RRR
+===== Sample #2 Output =====
+-1
+===== Sample #3 Input =====
+4 4 2
+RRDL
+RRDL
+DLRD
+RRRL
+===== Sample #3 Output =====
+2 3
+4 1

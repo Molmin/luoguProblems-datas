@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+test string test string test string
+repeat repeat
+===== Sample #1 Output =====
+test string
+repeat

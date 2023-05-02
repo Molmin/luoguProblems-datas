@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+enger0.in ans
+abc1.in abc1.out
+abc2.in abc2.out
+abc3.in abc3.out
+abc4.in abc4.out
+
+===== Sample #1 Output =====
+enger0.in enger0.ans
+enger1.in enger1.ans
+enger2.in enger2.ans
+enger3.in enger3.ans
+
+===== Sample #2 Input =====
+1
+aa.in0 aa.ou0
+aa.in1 aa.ou1
+aa.in2 aa.ou2
+
+===== Sample #2 Output =====
+aa.in1 aa.ou1
+aa.in2 aa.ou2
+aa.in3 aa.ou3
+

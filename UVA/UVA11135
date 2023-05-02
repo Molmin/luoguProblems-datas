@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+100.0 10.0 50.0 150.0 150.0 50.0
+100.0 10.0 50.0 250.0 150.0 50.0
+10.0 1.0 5 95 45 5
+10.0 1.0 5 95 35 5
+10.0 1.0 1.01 95 39 8.99
+0 0 0 0 0 0
+===== Sample #1 Output =====
+The gopher has to swim 28.28 meters and walk 113.14 meters.
+The gopher has to swim 48.28 meters and walk 183.06 meters.
+The gopher has to swim 21.31 meters and walk 78.96 meters.
+The gopher has to swim 20.49 meters and walk 75.89 meters.
+The gopher has to swim 20.49 meters and walk 75.21 meters.

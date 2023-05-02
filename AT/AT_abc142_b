@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 150
+150 140 100 200
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+1 500
+499
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+5 1
+100 200 300 400 500
+===== Sample #3 Output =====
+5

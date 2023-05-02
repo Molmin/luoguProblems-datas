@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+1
+5
+fd 100
+lt 120
+fd ?
+lt 120
+fd 100
+===== Sample #1 Output =====
+100

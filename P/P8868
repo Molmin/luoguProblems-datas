@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+0 2
+2 1
+1 2
+1
+1 2
+===== Sample #1 Output =====
+8
+===== Sample #2 Input =====
+见附件下的 match/match2.in。
+===== Sample #2 Output =====
+见附件下的 match/match2.ans。
+===== Sample #3 Input =====
+见附件下的 match/match3.in。
+===== Sample #3 Output =====
+见附件下的 match/match3.ans。

@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+5
+2 3
+4 5
+-1 -1
+-1 -1
+-1 -1
+LRLR
+3
+2 3
+-1 -1
+-1 -1
+LL
+===== Sample #1 Output =====
+Case 1: Yes
+Case 2: Yes

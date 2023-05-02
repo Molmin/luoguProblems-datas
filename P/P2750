@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+N
+2
+===== Sample #1 Output =====
+ABCDEFGHIJKLMNOPQRSUTVWXY
+===== Sample #2 Input =====
+W 
+ABCDEFGHIJKLMNOPQRSUTVWXY
+===== Sample #2 Output =====
+2

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+13 312 343
+
+===== Sample #1 Output =====
+34331213
+
+===== Sample #2 Input =====
+4
+7 13 4 246
+===== Sample #2 Output =====
+7424613

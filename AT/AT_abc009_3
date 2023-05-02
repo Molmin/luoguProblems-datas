@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3 2
+abc
+===== Sample #1 Output =====
+abc
+===== Sample #2 Input =====
+7 2
+atcoder
+===== Sample #2 Output =====
+actoder
+===== Sample #3 Input =====
+7 7
+atcoder
+===== Sample #3 Output =====
+acdeort
+===== Sample #4 Input =====
+10 3
+helloworld
+===== Sample #4 Output =====
+dehloworll

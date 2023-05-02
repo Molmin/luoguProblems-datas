@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+koeeok
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3
+kekoeo
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+4
+soolnlsn
+===== Sample #3 Output =====
+4

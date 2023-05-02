@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+\n2 \n3 3 1 \nWWW \nWAW \nWWW \n3 4 2 \nWAGW \nAGWA \nGWAG
+\n\n
+===== Sample #1 Output =====
+WWW \nWWW \nWWW \n&nbsp;\nWWWA \nWWAG \nWAGW

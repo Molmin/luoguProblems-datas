@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+hhoowaaaareyyoouu
+
+===== Sample #1 Output =====
+wre
+===== Sample #2 Input =====
+reallazy
+
+===== Sample #2 Output =====
+rezy
+===== Sample #3 Input =====
+abacabaabacabaa
+
+===== Sample #3 Output =====
+a

@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+1
+8
+atol
+lato
+microphotographics
+rata
+rola
+tara
+tola
+pies
+tola
+kola
+aatr
+photomicrographics
+END
+===== Sample #1 Output =====
+Anagrams for: tola
+1) atol
+2) lato
+3) tola
+Anagrams for: kola
+No anagrams for: kola
+Anagrams for: aatr
+1) rata
+2) tara
+Anagrams for: photomicrographics
+1) microphotographics

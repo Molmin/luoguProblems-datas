@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+oxoxoxoxoxoxox
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+xxxxxxxx
+===== Sample #2 Output =====
+NO

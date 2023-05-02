@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+3
+9
+iredppipe
+piedpiper
+4
+estt
+test
+4
+tste
+test
+
+===== Sample #1 Output =====
+2
+1
+2
+
+===== Sample #2 Input =====
+4
+1
+a
+z
+5
+adhas
+dasha
+5
+aashd
+dasha
+5
+aahsd
+dasha
+
+===== Sample #2 Output =====
+-1
+2
+2
+3
+

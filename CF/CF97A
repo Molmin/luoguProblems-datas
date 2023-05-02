@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+8 8
+.aabbcc.
+.defghi.
+kdefghij
+klmnopqj
+.lmnopq.
+.rstuvw.
+xrstuvwy
+xzzAABBy
+
+===== Sample #1 Output =====
+10080
+.001122.
+.001122.
+33440055
+33440055
+.225566.
+.225566.
+66113344
+66113344
+

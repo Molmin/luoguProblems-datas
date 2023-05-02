@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+A AB BA CA BBC
+.
+ABABACABAABC
+
+===== Sample #1 Output =====
+11
+

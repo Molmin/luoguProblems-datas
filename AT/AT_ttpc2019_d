@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1
+13
+===== Sample #1 Output =====
+An
+===== Sample #2 Input =====
+2
+17 13
+===== Sample #2 Output =====
+An
+===== Sample #3 Input =====
+6
+49529 868033 52361 519803 19289 386501
+===== Sample #3 Output =====
+Ai

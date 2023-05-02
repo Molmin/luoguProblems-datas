@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+4
+ABDCE
+BACDE
+ABCED
+ACBDE
+0
+===== Sample #1 Output =====
+ABCDE is the median ranking with value 4.

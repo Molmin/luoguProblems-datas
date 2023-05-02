@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+This is an longinput string
+sort the this line if is has soft line break
+#
+this is a set of sit
+#
+timk tidk tisk tia tiy tiz
+#
+===== Sample #1 Output =====
+Set #1:
+This 1
+an 1
+break 1
+has 1
+if 1
+is 2
+line 2
+longi 1
+soft 2
+strin 1
+the 1
+this 1
+Set #2:
+a 1
+is 1
+of 1
+set 1
+sit 1
+this 1
+Set #3:
+tiz 3
+tisk 3

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+north
+3
+north
+east
+south
+0
+===== Sample #1 Output =====
+5
+1

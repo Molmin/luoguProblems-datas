@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+bbaba
+bb
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+baaba
+ab
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+abcde
+abcde
+
+===== Sample #3 Output =====
+0
+
+===== Sample #4 Input =====
+asdfasdf
+fasd
+
+===== Sample #4 Output =====
+3
+

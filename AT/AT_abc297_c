@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2 3
+TTT
+T.T
+===== Sample #1 Output =====
+PCT
+T.T
+===== Sample #2 Input =====
+3 5
+TTT..
+.TTT.
+TTTTT
+===== Sample #2 Output =====
+PCT..
+.PCT.
+PCTPC

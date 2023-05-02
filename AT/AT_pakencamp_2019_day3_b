@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+1
+black
+===== Sample #1 Output =====
+black
+===== Sample #2 Input =====
+7
+black
+white
+white
+white
+white
+white
+black
+===== Sample #2 Output =====
+white
+===== Sample #3 Input =====
+9
+black
+black
+black
+black
+black
+black
+black
+black
+black
+===== Sample #3 Output =====
+black

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+1
+2
+
+===== Sample #1 Output =====
+Connected: 1
+Eulerian: 1
+Bipartite: 1
+
+Connected: 1
+Eulerian: 0
+Bipartite: 2
+
+

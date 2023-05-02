@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+\n
+  2 \n
+  3 18\n
+  DAA\n
+  BDA\n
+  BBD \n
+
+  3 18\n
+  DAA\n
+  ADA\n
+  AAD
+===== Sample #1 Output =====
+\n
+  DBBBD\n
+
+  DADAD
+
+Explanation: \n
+  Test case I: Master Set = { &#8220;DAAAD&#8221;, &#8220;DADAD&#8221;,&#8221;DBBBD&#8221;,&#8221;DBDBD&#8221;}\n
+  Test case II: Master Set = { &#8220;DAAAD&#8221;,&#8221;DAAAD&#8221;,&#8221;DADAD&#8221;,&#8221;DADAD&#8221;}\n

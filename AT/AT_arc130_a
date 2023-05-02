@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+7
+abbbcca
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+4
+xxxx
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+2
+pp
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+2
+st
+===== Sample #4 Output =====
+0

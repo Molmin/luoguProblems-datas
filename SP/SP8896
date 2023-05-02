@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+.*
+asdf
+f.*d.
+sefdfsde
+[0-9]+
+asd345dsf
+[^\*-\*]
+**asdf**fasd
+b[a-z]*r[s-u]*
+abcdefghijklmnopqrstuvwxyz
+[T-F]
+dfkgjf
+end
+===== Sample #1 Output =====
+

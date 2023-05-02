@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3 3 100 140
+...
+A*.
+.B.
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+3 3 2 8
+B*.
+BB*
+BBB
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+3 4 5 4
+..*B
+..**
+D...
+
+===== Sample #3 Output =====
+7
+

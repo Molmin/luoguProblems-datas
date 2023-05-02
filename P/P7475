@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+3
+fan
+fantasy
+father
+6
+fat 1
+fa 1
+fan 1
+fan 1
+fa 1
+fant 1
+===== Sample #1 Output =====
+father
+father
+fan
+fan
+fan
+fantasy
+===== Sample #2 Input =====
+5
+uva
+usaco
+usa
+usssu
+konjac
+11
+u 2
+u 2
+kkk 1
+uv 2
+us 3
+u 4
+u 1
+u 2
+k 1
+u 3
+usa 1
+===== Sample #2 Output =====
+usaco
+usa
+404Error
+uva
+usssu
+uva
+uva
+usa
+konjac
+usaco
+usa

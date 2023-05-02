@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3 3 3
+s1 v1 s1
+s3 s19 v2
+v3 s-1 v-1
+
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+5 10 3
+s81 s47 s3 s0 s82 s31 s89 v0 s97 v-1
+s14 s94 v1 v-1 v1 s106 v1 v0 v-1 v0
+s93 s105 v-1 s219 v0 v0 v-1 v1 s225 v1
+v0 s160 v1 v1 s348 s120 s240 s392 s280 s172
+s305 s455 s140 v-1 s455 v0 v-1 v0 v1 s410
+
+===== Sample #2 Output =====
+430

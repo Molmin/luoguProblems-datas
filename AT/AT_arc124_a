@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3 2
+L 1
+R 2
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+30 10
+R 6
+R 8
+R 7
+R 25
+L 26
+L 13
+R 14
+L 11
+L 23
+R 30
+===== Sample #2 Output =====
+343921442

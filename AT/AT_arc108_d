@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4
+A
+B
+B
+A
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+1000
+B
+B
+B
+B
+===== Sample #2 Output =====
+1

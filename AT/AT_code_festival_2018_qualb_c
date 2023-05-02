@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+3
+===== Sample #1 Output =====
+X..
+..X
+X..
+===== Sample #2 Input =====
+6
+===== Sample #2 Output =====
+X.X..X
+..X.X.
+X..X..
+.X...X
+X..X..
+.X..X.
+===== Sample #3 Input =====
+21
+===== Sample #3 Output =====
+XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX
+X....X....X....X....X
+X.XXXX.XX.XX.X.X.XXXX
+X.XXXX.XX.XX.X.X....X
+X.XXXX.XX.XX.X.X.XXXX
+X....X....X....X....X
+XXXXXXXXXXXXXXXXXXXXX
+X....X....XX...X....X
+X.XXXX.XXXX.XXXXXX.XX
+X....X....XX..XXXX.XX
+X.XXXX.XXXXXXX.XXX.XX
+X.XXXX....X...XXXX.XX
+XXXXXXXXXXXXXXXXXXXXX
+XXX.XX.XX.X....X.XXXX
+XXX.XX.XX.X.XX.X.XXXX
+XXX.XX.XX.X....X.XXXX
+XXX.XXX..XX.XX.X.XXXX
+XXX.XXXX.XX.XX.X....X
+XXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXX

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3
+FordCannon 1
+EdmondMortar 10
+HopcroftRifle 00
+3
+FordCannon 01
+EdmondMortar 001
+HopcroftRifle 01001
+0
+===== Sample #1 Output =====
+Case #1: Not ambiguous.
+Case #2: Ambiguous.

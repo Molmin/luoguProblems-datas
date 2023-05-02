@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+baaaababababbababbab
+11
+baaaababababbababbab
+3
+cccccc
+0
+===== Sample #1 Output =====
+5 12
+none
+4 2

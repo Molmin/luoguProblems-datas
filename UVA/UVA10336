@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+2
+4 8
+ttuuttdd
+ttuuttdd
+uuttuudd
+uuttuudd
+9 9
+bbbbbbbbb
+aaaaaaaab
+bbbbbbbab
+baaaaacab
+bacccccab
+bacbbbcab
+bacccccab
+baaaaaaab
+bbbbbbbbb
+===== Sample #1 Output =====
+World #1
+t: 3
+u: 3
+d: 1
+World #2
+b: 2
+a: 1
+c: 1

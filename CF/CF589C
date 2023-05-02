@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+masterpiece
+1 3
+3
+1 22 m
+9 14 e
+8 15 p
+
+===== Sample #1 Output =====
+2
+4
+0
+
+===== Sample #2 Input =====
+polycarp
+1 2
+0
+2 15 p
+1 16 p
+
+===== Sample #2 Output =====
+2
+4
+

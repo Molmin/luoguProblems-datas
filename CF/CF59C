@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+a?c
+
+===== Sample #1 Output =====
+IMPOSSIBLE
+
+===== Sample #2 Input =====
+2
+a??a
+
+===== Sample #2 Output =====
+abba
+
+===== Sample #3 Input =====
+2
+?b?a
+
+===== Sample #3 Output =====
+abba
+

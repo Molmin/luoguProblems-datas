@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+5 5
+xooxx
+xoxxo
+xxoox
+ooxoo
+xoxxx
+===== Sample #1 Output =====
+Possible
+===== Sample #2 Input =====
+2 9
+oxxxxoxxo
+oxoxxoxxo
+===== Sample #2 Output =====
+Possible
+===== Sample #3 Input =====
+9 25
+xxxxxxxxxxxxxxxxxxxxxxxxx
+xxoooxxxoooxxooooxxxoooxx
+xoxxxoxoxxxoxoxxxoxoxxxox
+xoxxxxxoxxxoxoxxxoxoxxxxx
+xxoooxxxoooxxooooxxoxxxxx
+xxxxxoxoxxxoxoxxxxxoxxxxx
+xoxxxoxoxxxoxoxxxxxoxxxox
+xxoooxxxoooxxoxxxxxxoooxx
+xxxxxxxxxxxxxxxxxxxxxxxxx
+===== Sample #3 Output =====
+Impossible
+===== Sample #4 Input =====
+6 6
+oxxxxo
+xoooxx
+xoooox
+xoooox
+xxooxx
+oxxxxo
+===== Sample #4 Output =====
+Impossible

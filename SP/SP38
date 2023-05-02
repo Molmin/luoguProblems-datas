@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+3 3
+###
+#.#
+###
+7 6
+#######
+#.#.###
+#.#.###
+#.#.#.#
+#.....#
+#######
+===== Sample #1 Output =====
+Maximum rope length is 0.
+Maximum rope length is 8.

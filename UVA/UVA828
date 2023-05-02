@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+1
+RSAEIO
+2
+5
+RTSSKAEAGE
+GRSCAV
+RGSSCAV
+RUSIQO
+RUSSGAACEV JEGIITOOGR
+===== Sample #1 Output =====
+RICE
+error in encryption
+EAT
+error in encryption
+SEAT HERE

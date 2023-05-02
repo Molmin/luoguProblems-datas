@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+1 5
+B 0 A 4
+B 1 B 3
+A 5 B 7
+B 2 A 6
+B 1 A 7
+===== Sample #1 Output =====
+24
+
+===== Sample #2 Input =====
+2 5
+B 0 A 4
+B 1 B 3
+A 5 B 7
+B 2 A 6
+B 1 A 7
+===== Sample #2 Output =====
+22

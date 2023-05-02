@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+6
+5
+zx
+ab
+cc
+zx
+ba
+2
+ab
+bad
+4
+co
+def
+orc
+es
+3
+a
+b
+c
+3
+ab
+cd
+cba
+2
+ab
+ab
+===== Sample #1 Output =====
+YES
+NO
+NO
+YES
+YES
+NO

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+7
+ABXCABC
+===== Sample #1 Output =====
+ABC
+===== Sample #2 Input =====
+6
+ABCDEF
+===== Sample #2 Output =====
+NOT POSSIBLE
+===== Sample #3 Input =====
+9
+ABABABABA
+===== Sample #3 Output =====
+NOT UNIQUE

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+
+===== Sample #1 Output =====
+O-|OO-OO
+
+===== Sample #2 Input =====
+13
+
+===== Sample #2 Output =====
+O-|OOO-O
+O-|O-OOO
+
+===== Sample #3 Input =====
+720
+
+===== Sample #3 Output =====
+O-|-OOOO
+O-|OO-OO
+-O|OO-OO
+

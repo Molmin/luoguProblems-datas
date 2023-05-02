@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+8
+aaaabbb
+bbaaaaabbb
+aaaaaa
+abab
+a
+b
+aaaab
+bbaaa
+===== Sample #1 Output =====
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+YES

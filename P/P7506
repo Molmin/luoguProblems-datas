@@ -1,0 +1,45 @@
+===== Sample #1 Input =====
+2 1 10
+JoesSR B9 A99 PASS
+Cirno C2 D2 A49
+E49 DOUBLE PASS A19 A49 A99 A99 A99 A99 A99  
+===== Sample #1 Output =====
+Round 1:
+JoesSR used A99,now p=99.
+Cirno used D2,now p=49.
+JoesSR used E49,now p=49.
+Cirno used C2,now p=98.
+JoesSR used B9,now p=89.
+Cirno used DOUBLE,now p=89.
+JoesSR used PASS,now p=89.
+Cirno lost the game.
+===== Sample #2 Input =====
+3 2 25
+Cirno A9 A19 B1
+Reimu TURN A9 C2
+Marisa DOUBLE D2 D2
+A9 B9 C2 PASS PASS A9 A1 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99 A99
+
+===== Sample #2 Output =====
+Round 1:
+Cirno used A19,now p=19.
+Reimu used C2,now p=38.
+Marisa used D2,now p=19.
+Cirno used A9,now p=28.
+Reimu used A9,now p=37.
+Marisa used C2,now p=74.
+Cirno used A9,now p=83.
+Reimu used B9,now p=74.
+Marisa used A9,now p=83.
+Cirno used A1,now p=84.
+Reimu used PASS,now p=84.
+Marisa used D2,now p=42.
+Cirno used B1,now p=41.
+Reimu used TURN,now p=41.
+Cirno used PASS,now p=41.
+Marisa used DOUBLE,now p=41.
+Reimu lost the game.
+Round 2:
+Reimu used A99,now p=99.
+Marisa lost the game.
+

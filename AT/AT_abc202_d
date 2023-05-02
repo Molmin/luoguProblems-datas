@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+2 2 4
+===== Sample #1 Output =====
+baab
+===== Sample #2 Input =====
+30 30 118264581564861424
+===== Sample #2 Output =====
+bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa

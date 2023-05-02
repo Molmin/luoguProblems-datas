@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+26A 10A 5QA 100RQ6A 5QRQRR
+===== Sample #1 Output =====
+Case 1:\n10\n10\nCase 2:\n5\nEmpty

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+5 1 2 5 5 2
+
+===== Sample #1 Output =====
+5
+AAAAA
+BBBBB
+BBBBB
+CCCCC
+CCCCC
+
+===== Sample #2 Input =====
+4 4 2 6 4 2
+
+===== Sample #2 Output =====
+6
+BBBBBB
+BBBBBB
+AAAACC
+AAAACC
+AAAACC
+AAAACC
+

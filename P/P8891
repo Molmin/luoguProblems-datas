@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+6 1
+1 1 4 5 1 1
+0 7
+===== Sample #1 Output =====
+1 1 4 5 1 1
+===== Sample #2 Input =====
+3 1
+0 3 9
+1 2
+===== Sample #2 Output =====
+-2 3 9
+===== Sample #3 Input =====
+见文件附件的 queries3.in
+===== Sample #3 Output =====
+见文件附件的 queries3.ans
+===== Sample #4 Input =====
+见文件附件的 queries4.in
+===== Sample #4 Output =====
+见文件附件的 queries4.ans

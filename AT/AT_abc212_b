@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+7777
+===== Sample #1 Output =====
+Weak
+===== Sample #2 Input =====
+0112
+===== Sample #2 Output =====
+Strong
+===== Sample #3 Input =====
+9012
+===== Sample #3 Output =====
+Weak

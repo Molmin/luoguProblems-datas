@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+5
+newfile
+newfile
+newfolder
+newfile
+newfolder
+===== Sample #1 Output =====
+newfile
+newfile(1)
+newfolder
+newfile(2)
+newfolder(1)
+===== Sample #2 Input =====
+11
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+===== Sample #2 Output =====
+a
+a(1)
+a(2)
+a(3)
+a(4)
+a(5)
+a(6)
+a(7)
+a(8)
+a(9)
+a(10)

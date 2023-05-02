@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3 2 1
+2 2 1
+1 1
+1 2
+
+
+
+Input details:
+
+There are three calves.  Pizza Farm has two toppings and each pizza
+must have exactly one topping.  The first calf likes both of the
+toppings, the second calf likes only the first topping, and the
+third calf likes only the second topping.
+===== Sample #1 Output =====
+2

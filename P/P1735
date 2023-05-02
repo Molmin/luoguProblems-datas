@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+A*C
+*AC
+ACA
+===== Sample #1 Output =====
+No answer
+===== Sample #2 Input =====
+3
+AAA
+CAA
+AAA
+===== Sample #2 Output =====
+3
+

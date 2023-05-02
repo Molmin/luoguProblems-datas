@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3 \n2 2 4 \n2 4 5 \n3 11 12 13\n
+===== Sample #1 Output =====
+Infinite \n6 \n30\nExplanation\nSample Test 2 :\nYou cannot express 1,2,3,6,7 and 11 using only the integers 4 and 5.\n\n

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+1
+yamamoto yamada
+===== Sample #1 Output =====
+abcefghijklmdnopqrstuvwxyz
+===== Sample #2 Input =====
+3
+xx xy
+z w
+v w
+===== Sample #2 Output =====
+abcdefghijklmnopqrstuvxyzw
+===== Sample #3 Input =====
+2
+a b
+b a
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+1
+yamamoto yama
+===== Sample #4 Output =====
+-1

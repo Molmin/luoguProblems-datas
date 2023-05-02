@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+COL1
+Bogota Cali
+Bogota Barranquilla
+* * *
+COL2
+Barranquilla Bogota
+Armenia Cali
+Barranquilla Armenia
+Bogota Cali
+Cali Barrranquilla
+* * *
+COL1
+Bogota Cali
+Bogota Barranquilla
+* * *
+COL3
+Bogota Armenia
+Armenia Cali
+Cali Medellin
+Medellin Barranquilla
+* * *
+END
+===== Sample #1 Output =====
+YES: COL2 is a more detailed version of COL1
+NO: COL3 is not a more detailed version of COL1

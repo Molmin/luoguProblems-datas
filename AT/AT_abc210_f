@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3
+2 5
+10 9
+4 8
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+2
+10 100
+1000 10000
+===== Sample #2 Output =====
+No

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+12 6
+kimiwakawaii
+R 2 4
+P 4
+D 1
+I 0 w
+T 3
+Q 3 10
+===== Sample #1 Output =====
+2
+m
+5
+

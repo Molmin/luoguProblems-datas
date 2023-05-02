@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+01232009
+01232008
+===== Sample #1 Output =====
+1 10/30/2009 scorpio
+2 10/29/2008 scorpio

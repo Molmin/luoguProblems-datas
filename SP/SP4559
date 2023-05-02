@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+2 
+FORMULA 1 Gran Premio Telefonica de Espana 2006
+Pos  Driver                    Team
+1    Fernando Alonso           Renault.
+2    Michael Schumacher        Ferrari.
+3    Giancarlo Fisichella      Renault.
+4    Felipe Massa              Ferrari.
+5    Kimi Raikkonen            McLaren-Mercedes.
+6    Jenson Button             Honda.
+7    Rubens Barrichello        Honda.
+8    Nick Heidfeld             Sauber-BMW.
+---
+FORMULA 1 Grand Prix de Monaco 2006
+Pos  Driver                    Team
+1    Fernando Alonso           Renault.
+2    Jaun-Pablo Montoya        McLaren-Mercedes.
+3    David Coulthard           RBR-Ferrari.
+4    Rubens Barrichello        Honda.
+5    Michael Schumacher        Ferrari.
+6    Giancarlo Fisichella      Renault.
+7    Nick Heidfeld             Sauber-BMW.
+8    Ralf Schumacher           Toyota.
+---
+0
+===== Sample #1 Output =====
+Season 1:
+Drivers Standing:
+Fernando Alonso          20
+Michael Schumacher       12
+Giancarlo Fisichella     9
+Jaun-Pablo Montoya       8
+Rubens Barrichello       7
+David Coulthard          6
+Felipe Massa             5
+Kimi Raikkonen           4
+Jenson Button            3
+Nick Heidfeld            3
+Ralf Schumacher          1
+
+Teams Standing:
+Renault                  29
+Ferrari                  17
+McLaren-Mercedes         12
+Honda                    10
+RBR-Ferrari              6
+Sauber-BMW               3
+Toyota                   1

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5
+threehorses
+goodsubstrings
+secret
+primematrix
+beautifulyear
+
+===== Sample #1 Output =====
+j
+
+===== Sample #2 Input =====
+4
+aa
+bdefghijklmn
+opqrstuvwxyz
+c
+
+===== Sample #2 Output =====
+ab
+

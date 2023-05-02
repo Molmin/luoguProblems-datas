@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+5 3
+abc
+aaaaa
+xyz
+a
+def
+===== Sample #1 Output =====
+aaaaa
+abc
+xyz
+===== Sample #2 Input =====
+4 4
+z
+zyx
+zzz
+rbg
+===== Sample #2 Output =====
+rbg
+z
+zyx
+zzz
+===== Sample #3 Input =====
+3 1
+abc
+arc
+agc
+===== Sample #3 Output =====
+abc

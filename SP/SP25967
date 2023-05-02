@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+5 3
+8
+S 2
+A 2 3
+E 2 3
+S 2
+A 4 5
+A 3 5
+E 3 5
+S 3
+===== Sample #1 Output =====
+1
+Yes
+2
+No
+2
+
+
+Explanation-Initially no one has any friend.So community of '2' consist of only '2' i.e size-1. Then '2' and '3' becomes friends .This forms a community of 2 people. '4' and '5' also becomes friends.This forms another community of 2 people. '5' is unable to accept friend request of '3' (because it would result in a community of 4 people(>3).

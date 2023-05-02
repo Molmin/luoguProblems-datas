@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+3 3
+5 2 15
+M S S
+S S S
+S S P
+S W N N N N N N N N N N N N N
+2 1 0
+1 2 0
+===== Sample #1 Output =====
+-1
+===== Sample #2 Input =====
+3 3
+5 2 15
+M S S
+S S S
+S S P
+S E N N N N N N N N N N N N N
+2 1 0
+1 2 0
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+5 5
+4 1 15
+M S S S S
+S S S S L
+S S S L L
+S S S S S
+S S S S P
+C C C C S S E E C C C C C C C
+0 1 4
+===== Sample #3 Output =====
+8

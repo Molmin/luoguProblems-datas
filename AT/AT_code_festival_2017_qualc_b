@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+2 3
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+3
+3 3 3
+===== Sample #2 Output =====
+26
+===== Sample #3 Input =====
+1
+100
+===== Sample #3 Output =====
+1
+===== Sample #4 Input =====
+10
+90 52 56 71 44 8 13 30 57 84
+===== Sample #4 Output =====
+58921

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+1
+2 2 4
+A-b B-a
+a-A b-B
+===== Sample #1 Output =====
+YES
+A-b-B-a-A

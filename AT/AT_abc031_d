@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+6 4
+356 migoro
+461 yoroi
+2 ni
+12 ini
+===== Sample #1 Output =====
+i
+ni
+mi
+yo
+go
+ro
+===== Sample #2 Input =====
+3 4
+21 aaa
+12 aaa
+123 aaaaaa
+13 aaaa
+===== Sample #2 Output =====
+a
+aa
+aaa
+===== Sample #3 Input =====
+2 3
+12211 abcaaaaabcabc
+2121 aaabcaaabc
+222221 aaaaaaaaaaabc
+===== Sample #3 Output =====
+abc
+aa
+===== Sample #4 Input =====
+2 1
+12 abcab
+===== Sample #4 Output =====
+ab
+cab

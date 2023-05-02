@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+6
+abc
+bdi
+cj*
+d**
+i**
+j**
+===== Sample #1 Output =====
+abdicj

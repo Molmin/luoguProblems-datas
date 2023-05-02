@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+7
+7
+UUURDDL
+2
+UR
+8
+RRRUUDDD
+3
+LLL
+4
+DUUR
+5
+RUDLL
+11
+LLLLDDRUDRD
+===== Sample #1 Output =====
+YES
+YES
+NO
+NO
+YES
+YES
+NO

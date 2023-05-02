@@ -1,0 +1,74 @@
+===== Sample #1 Input =====
+2 2
+2 1
+1 1
+R**
+***
+**G
+
+===== Sample #1 Output =====
+        +-------+
+       /Y\YYYY'/|
+      /YY.*'YY/G|
+     /.YYYY\Y/G/|
+    +-------+G.G|
+    |\GGGGG/|\:G|
+    |G\GGG/G|G*G|
+    |GG\G/GG|G:\|
+    |GGGXGGG|G'G+-------+
+    |GG/G\GG|/G/G\YYYY'/|
+    |G/GGG\G|G/GG.*'YY/G|
+    |/GGGGG\|/.GGGG\Y/G/|
+    +-------+-------+G.G|
+   /Y\GGGG'/G\GGGG'/|\:G|
+  /YY.*'GG/GG.*'GG/G|G*G|
+ /.YYYY\G/.GGGG\G/G/|G:\|
++-------+-------+G.G|G'G+
+|\GGGGG/|\GGGGG/|\:G|/G/
+|G\GGG/G|G\GGG/G|G*G|G/
+|GG\G/GG|GG\G/GG|G:\|/
+|GGGXGGG|GGGXGGG|G'G+
+|GG/G\GG|GG/G\GG|/G/
+|G/GGG\G|G/GGG\G|G/
+|/GGGGG\|/GGGGG\|/
++-------+-------+
+
+===== Sample #2 Input =====
+3 4
+1 1 2 1
+1 2 1 2
+2 1 2 1
+**B
+***
+R*G
+
+===== Sample #2 Output =====
+                            +-------+
+                           /W\WWWW'/|
+                          /WW.*'WW/C|
+                         /.WWWW\W/C/|
+                +-------+-------+-------+
+               /W\WWWW'/|\YYYYY/W\WWWW'/|
+              /WW.*'WW/C|G\YYY/WW.*'WW/C|
+             /.WWWW\W/C/|GG\Y/.WWWW\W/C/|
+    +-------+-------+-------+-------+C.C|---+
+   /W\WWWW'/|\YYYYY/W\WWWW'/|\YYYYY/|\:C|C'/|
+  /WW.*'WW/C|G\YYY/WW.*'WW/C|G\YYY/Y|C*C|C/C|
+ /.WWWW\W/C/|GG\Y/.WWWW\W/C/|GG\Y/YY|C:\|/C/|
++-------+C.G|GGG+-------+C.G|GGGXYYY|C'C+C.C|
+|\YYYYY/|\:G|GG/|\YYYYY/|\:G|GG/G\YY|/C/|\:C|
+|Y\YYY/Y|C*G|G/K|Y\YYY/Y|C*G|G/GGG\Y|C/C|C*C|
+|YY\Y/YY|C:\|/KK|YY\Y/YY|C:\|/GGGGG\|/C/|C:\|
+|YYYXYYY|C'G+---|YYYXYYY|C'G+-------+C.C|C'C+
+|YY/Y\YY|/G/G\KK|YY/Y\YY|/G/G\GGGG'/|\:C|/C/
+|Y/YYY\Y|G/GG.*'|Y/YYY\Y|G/GG.*'WW/C|C*C|C/
+|/YYYYY\|/.YYYY\|/YYYYY\|/.WWWW\W/C/|C:\|/
++-------+-------+-------+-------+C.C|C'C+
+|\YYYYY/|\YYYYY/|\YYYYY/|\YYYYY/|\:C|/C/
+|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|Y\YYY/Y|C*C|C/
+|YY\Y/YY|YY\Y/YY|YY\Y/YY|YY\Y/YY|C:\|/
+|YYYXYYY|YYYXYYY|YYYXYYY|YYYXYYY|C'C+
+|YY/Y\YY|YY/Y\YY|YY/Y\YY|YY/Y\YY|/C/
+|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|Y/YYY\Y|C/
+|/YYYYY\|/YYYYY\|/YYYYY\|/YYYYY\|/
++-------+-------+-------+-------+

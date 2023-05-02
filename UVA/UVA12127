@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+1 1
+4 7
+3 8
+===== Sample #1 Output =====
+E
+B.B.BEB
+B.BBB.B
+B.....B
+B.BBB.B
+BBBBBBBB
+.......E
+BBBBBBBB

@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+1:
+7\n1 1 2 5 1 16 5\n
+===== Sample #1 Output =====
+1:
+4\n\nInput 2:\n3\n1 2 3\nOutput 2:\n3\n\nInput 3:\n10\n2 1 4 1 5 6 7 1 8 2\nOutput 3:\n6\n\nInput 4:\n20\n3 4 14 14 9 7 11 7 15 13 9 9 14 9 13 10 13 9 5 4\nOutput 4:\n7\n\nExplanation:\nInput 2: The maximum rarity is achieved by the sequence itself.\nInput 3: The maximum rarity is achieved by the subsequences 1 4 1 5 6 7 1 8 2, 4 1 5 6 7 1 8 2 and 5 6 7 1 8 2.\n            All the three contiguous subsequences have rarity 6.\nInput 4: The maximum rarity is achieved by the subsequence 11 7 15 13 9 9 14 9 13 10 13 9 5 4.\n            This sequence has 7 numbers which appear only once in it, i.e., 11, 7, 15, 14, 10, 5, 4.

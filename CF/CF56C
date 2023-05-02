@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+MIKE:MAX.,ARTEM:MIKE..,DMITRY:DMITRY.,DMITRY...
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+A:A..
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+A:C:C:C:C.....
+
+===== Sample #3 Output =====
+6
+

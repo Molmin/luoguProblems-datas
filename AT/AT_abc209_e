@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3
+abcd
+bcda
+ada
+===== Sample #1 Output =====
+Aoki
+Takahashi
+Draw
+===== Sample #2 Input =====
+1
+ABC
+===== Sample #2 Output =====
+Draw
+===== Sample #3 Input =====
+5
+eaaaabaa
+eaaaacaa
+daaaaaaa
+eaaaadaa
+daaaafaa
+===== Sample #3 Output =====
+Takahashi
+Takahashi
+Takahashi
+Aoki
+Takahashi

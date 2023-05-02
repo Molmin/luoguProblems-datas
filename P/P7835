@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4 3
+2 1 2
+3 1 1
+4 2 1
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+2 2
+2 1 2
+3 0 1
+===== Sample #2 Output =====
+Mystia will cook forever...

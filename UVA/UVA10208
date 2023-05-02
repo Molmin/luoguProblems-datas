@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+10
+12
+98
+99
+4!
+5!
+6!
+120!
+===== Sample #1 Output =====
+He might be honest.
+He is a liar.
+He might be honest.
+He is a liar.
+He is a liar.
+3
+He is a liar.
+3
+He might be honest.
+He is a liar.
+7 23 31 67 71 79 83 103 107

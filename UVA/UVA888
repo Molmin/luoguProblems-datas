@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+32121
+631232
+634132
+===== Sample #1 Output =====
+Game 1:the probability that player 1 wins = 0.667
+Game 2:the probability that player 1 wins = 0.093
+Game 3:the probability that player 1 wins = 0.366

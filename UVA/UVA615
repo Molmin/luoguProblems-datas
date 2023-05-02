@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+68 53 52 64
+56 00
+81 73 62 89 75
+74 78 76 00
+38 68 64
+53 56 52 00
+-1 -1
+===== Sample #1 Output =====
+Case 1 is a tree.
+Case 2 is a tree.
+Case 3 is not a tree.

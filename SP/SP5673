@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1 1\n1 2\n2 4\n0 0\n\n
+===== Sample #1 Output =====
+\n1/1\n1/2\n1/3\n\nConstraints : 1&lt;=T &lt;=30000  1&lt;=a&lt;=b&lt;=10^10\n

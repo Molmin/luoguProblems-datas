@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+abc
+
+===== Sample #1 Output =====
+YES
+abc
+
+===== Sample #2 Input =====
+abcd
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+xxxyxxx
+
+===== Sample #3 Output =====
+YES
+xxxxxxy
+

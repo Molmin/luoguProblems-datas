@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+1
+1 5
+===== Sample #1 Output =====
+15
+===== Sample #2 Input =====
+2
+9 13
+44 45
+===== Sample #2 Output =====
+19
+17
+===== Sample #3 Input =====
+1
+1998 2018
+===== Sample #3 Output =====
+102

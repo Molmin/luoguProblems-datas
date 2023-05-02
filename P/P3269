@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+hello
+4
+he
+l
+l
+o
+abacaba
+4
+ab
+ba
+a
+c
+===== Sample #1 Output =====
+4 5 
+4 6

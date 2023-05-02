@@ -1,0 +1,53 @@
+===== Sample #1 Input =====
+5 6
+Ben Alexander
+Alexander Dolly
+Dolly Ben
+Dolly Benedict
+Benedict Dolly
+Alexander Aaron
+14 34
+John Aaron
+Aaron Benedict
+Betsy John
+Betsy Ringo
+Ringo Dolly
+Benedict Paul
+John Betsy
+John Aaron
+Benedict George
+Dolly Ringo
+Paul Martha
+George Ben
+Alexander George
+Betsy Ringo
+Alexander Stephen
+Martha Stephen
+Benedict Alexander
+Stephen Paul
+Betsy Ringo
+Quincy Martha
+Ben Patrick
+Betsy Ringo
+Patrick Stephen
+Paul Alexander
+Patrick Ben
+Stephen Quincy
+Ringo Betsy
+Betsy Benedict
+Betsy Benedict
+Betsy Benedict
+Betsy Benedict
+Betsy Benedict
+Betsy Benedict
+Quincy Martha
+0 0
+===== Sample #1 Output =====
+Calling circles for data set 1:
+Ben, Alexander, Dolly, Benedict
+Aaron
+Calling circles for data set 2:
+John, Betsy, Ringo, Dolly
+Aaron
+Benedict
+Paul, George, Martha, Ben, Alexander, Stephen, Quincy, Patrick

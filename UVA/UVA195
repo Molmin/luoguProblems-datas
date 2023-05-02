@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3
+aAb
+abc
+acba
+===== Sample #1 Output =====
+Aab
+Aba
+aAb
+abA
+bAa
+baA
+abc
+acb
+bac
+bca
+cab
+cba
+aabc
+aacb
+abac
+abca
+acab
+acba
+baac
+baca
+bcaa
+caab
+caba
+cbaa

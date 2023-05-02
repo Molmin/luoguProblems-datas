@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+111
+===== Sample #1 Output =====
+40
+===== Sample #2 Input =====
+6
+110101
+===== Sample #2 Output =====
+616
+===== Sample #3 Input =====
+30
+001110011011011101010111011100
+===== Sample #3 Output =====
+549320998

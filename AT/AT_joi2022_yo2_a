@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+7
+joi
+joig
+ioi
+READ
+egoi
+READ
+READ
+===== Sample #1 Output =====
+ioi
+egoi
+joig
+===== Sample #2 Input =====
+20
+one
+READ
+two
+three
+four
+five
+six
+seven
+READ
+eight
+nine
+READ
+ten
+eleven
+READ
+READ
+twelve
+READ
+READ
+READ
+===== Sample #2 Output =====
+one
+seven
+nine
+eleven
+ten
+twelve
+eight
+six

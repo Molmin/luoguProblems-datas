@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+3
+ATCTACTG
+CTATACTG
+CTATGATC
+===== Sample #1 Output =====
+1

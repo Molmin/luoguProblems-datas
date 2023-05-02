@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+11 3 2
+ooxxxoxxxoo
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+5 2 3
+ooxoo
+===== Sample #2 Output =====
+1
+5
+===== Sample #3 Input =====
+5 1 0
+ooooo
+===== Sample #3 Output =====
+
+===== Sample #4 Input =====
+16 4 3
+ooxxoxoxxxoxoxxo
+===== Sample #4 Output =====
+11
+16

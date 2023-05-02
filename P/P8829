@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+128MB=?GB
+===== Sample #1 Output =====
+0.125000
+===== Sample #2 Input =====
+64MB=?KB
+===== Sample #2 Output =====
+65536.000000

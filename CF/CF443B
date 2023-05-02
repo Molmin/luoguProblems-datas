@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+aaba
+2
+
+===== Sample #1 Output =====
+6
+
+===== Sample #2 Input =====
+aaabbbb
+2
+
+===== Sample #2 Output =====
+6
+
+===== Sample #3 Input =====
+abracadabra
+10
+
+===== Sample #3 Output =====
+20
+

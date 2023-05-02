@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3 5
+RPS
+1 S
+2 R
+3 P
+1 P
+2 P
+
+===== Sample #1 Output =====
+2
+2
+1
+2
+2
+3
+

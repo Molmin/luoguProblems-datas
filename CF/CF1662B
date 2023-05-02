@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+AA
+GA
+MA
+===== Sample #1 Output =====
+2
+AG
+AM
+===== Sample #2 Input =====
+TEDDY
+HEDWIG
+RACCOON
+===== Sample #2 Output =====
+8
+AT
+CH
+CY
+DG
+DO
+ER
+IN
+OW
+===== Sample #3 Input =====
+BDC
+CAA
+CE
+===== Sample #3 Output =====
+4
+AD
+AE
+BB
+CC

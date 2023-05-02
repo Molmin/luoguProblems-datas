@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+9 8
+2 -6 3 5 1 -5 -3 6 3
+GET-SUM 5 4
+MAX-SUM 1 9
+INSERT 8 3 -5 7 2
+DELETE 12 1
+MAKE-SAME 3 3 2
+REVERSE 3 6
+GET 5
+MAX-SUM 1 11
+===== Sample #1 Output =====
+-1
+10
+-5
+10

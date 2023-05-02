@@ -1,0 +1,51 @@
+===== Sample #1 Input =====
+0 2 3
+CYJian
+JerryC
+Justin
+CYJian
+a10 b10 c10 d10 a9
+JerryC
+cA b2 c3 d4 d5
+Justin
+aA bA dA a4 c6
+CYJian
+aA b2 c3 d4 a5
+JerryC
+bA c2 d3 a4 b5
+Justin
+cA d2 a3 c4 c5
+===== Sample #1 Output =====
+CYJian 220
+JerryC -160
+Justin -60
+===== Sample #2 Input =====
+0 3 4
+CYJian
+JerryC
+Samcompu
+Hsl2363
+CYJian
+a2 b5 c8 d4 aA
+Samcompu
+a2 bA c3 a4 c5
+JerryC
+aA b2 c7 c4 c6
+Hsl2363
+aA bA cA dA a10
+Samcompu
+a2 b2 c2 d2 b10
+JerryC
+a3 b3 c3 d3 c10
+Hsl2363
+a5 c6 d8 a9 b9
+JerryC
+b6 b2 c9 a7 d2
+CYJian
+b5 d5 c5 a6 d9
+===== Sample #2 Output =====
+CYJian 120
+JerryC 150
+Samcompu -60
+Hsl2363 -210
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2 3
+===== Sample #1 Output =====
+Ant
+===== Sample #2 Input =====
+1 0
+===== Sample #2 Output =====
+Bug
+===== Sample #3 Input =====
+-100 100
+===== Sample #3 Output =====
+Draw

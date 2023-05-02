@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+0 0 1
+1 1 0
+3 0 1
+0 1 1
+===== Sample #1 Output =====
+L1
+L1
+L1
+L3
+D1
+R2
+U3
+R3
+D2
+===== Sample #2 Input =====
+2
+2 0
+2 0
+0 0
+0 0
+===== Sample #2 Output =====
+NO

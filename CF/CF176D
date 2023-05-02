@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2
+cba
+dgh
+2
+1 2
+aedfhr
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+2
+b
+a
+5
+1 2 1 2 1
+aaa
+
+===== Sample #2 Output =====
+2
+

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2 2 2
+and xx nand xx
+and xx or xx
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+3 2 2
+and xx. nor .xx
+and xx nor xx
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+4 4 5
+nor x..x and ..xx and xx.. nand xx..
+nand ..xx nor ..xx and xx.. nor ..xx or ..xx
+
+===== Sample #3 Output =====
+2
+

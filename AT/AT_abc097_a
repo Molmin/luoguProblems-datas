@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 7 9 3
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+100 10 1 2
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+10 10 10 1
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+1 100 2 10
+===== Sample #4 Output =====
+Yes

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+2
+3 3
+#c#
+.#m
+#.#
+
+3 3
+#c#
+.#.
+#m#
+===== Sample #1 Output =====
+cat
+mouse

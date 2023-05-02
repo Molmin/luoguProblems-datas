@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+25
+30
+3121
+-1
+===== Sample #1 Output =====
+25 coconuts, 3 people and 1 monkey
+30 coconuts, no solution
+3121 coconuts, 5 people and 1 monkey

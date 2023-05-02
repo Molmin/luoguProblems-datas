@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+aab 2
+===== Sample #1 Output =====
+aba
+===== Sample #2 Input =====
+baba 4
+===== Sample #2 Output =====
+baab
+===== Sample #3 Input =====
+ydxwacbz 40320
+===== Sample #3 Output =====
+zyxwdcba

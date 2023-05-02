@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4 3 2 10007
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+6 4 1 769626776
+===== Sample #2 Output =====
+472
+===== Sample #3 Input =====
+66 11 9 786747482
+===== Sample #3 Output =====
+206331312
+===== Sample #4 Input =====
+99 30 18 650457567
+===== Sample #4 Output =====
+77365367

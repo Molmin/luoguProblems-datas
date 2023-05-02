@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+.BAC.
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+AA..CB
+
+===== Sample #2 Output =====
+No
+

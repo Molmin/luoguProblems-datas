@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+abcd
+bdac
+aca
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+4
+dwango
+niconico
+niwango
+ginza
+===== Sample #2 Output =====
+NO

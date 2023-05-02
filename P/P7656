@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 2
+===== Sample #1 Output =====
+B wins
+1 2
+2 1
+===== Sample #2 Input =====
+7 4
+===== Sample #2 Output =====
+A wins
+1 winning
+2 winning
+3 4
+4 3

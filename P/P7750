@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4 
+acefdb
+===== Sample #1 Output =====
+abcdef
+===== Sample #2 Input =====
+1000 
+aaaaaa
+===== Sample #2 Output =====
+aaaaaa
+===== Sample #3 Input =====
+11 
+srama
+===== Sample #3 Output =====
+sarma

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+5
+1
+100
+102
+-1
+===== Sample #1 Output =====
+4 2
+1 3
+2 11
+NOT FOUND
+Figure 2: Farey Polygon of order 4 and magniﬁcation 2

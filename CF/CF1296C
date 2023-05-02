@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+4
+LRUD
+4
+LURD
+5
+RRUDU
+5
+LLDDR
+===== Sample #1 Output =====
+1 2
+1 4
+3 4
+-1

@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+123
+
+===== Sample #1 Output =====
+164
+
+===== Sample #2 Input =====
+001
+
+===== Sample #2 Output =====
+3
+
+===== Sample #3 Input =====
+105004400
+
+===== Sample #3 Output =====
+127807548
+
+===== Sample #4 Input =====
+4774
+
+===== Sample #4 Output =====
+6245
+
+===== Sample #5 Input =====
+4369383968
+
+===== Sample #5 Output =====
+353343059
+
+===== Sample #6 Input =====
+447723168365033648256648424988
+
+===== Sample #6 Output =====
+42233771
+

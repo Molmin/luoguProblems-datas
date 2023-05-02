@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\n10 19\n1 9\n20 29\n\n\n&nbsp;
+===== Sample #1 Output =====
+\n4\n4\n5\n\nNote: c will be less than 100\nt and f will be less than 10^8 inclusive\n

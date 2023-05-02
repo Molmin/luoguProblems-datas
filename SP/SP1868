@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+100.00 6.00 1
+100.00 6.00 12
+1000.00 6.00 12
+0.00 0.00 0
+===== Sample #1 Output =====
+Case 1. $100.00 at 6.00% APR compounded 1 times yields $106.00
+Case 2. $100.00 at 6.00% APR compounded 12 times yields $106.12
+Case 3. $1000.00 at 6.00% APR compounded 12 times yields $1061.63

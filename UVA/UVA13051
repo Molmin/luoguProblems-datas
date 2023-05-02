@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4
+3
+NYY
+YNY
+YYN
+4
+NYNN
+YNYY
+NYNN
+NYNN
+4
+NYYY
+YNYY
+YYNY
+YYYN
+2
+NN
+NN
+===== Sample #1 Output =====
+Case 1: 4
+Case 2: 1
+Case 3: 38
+Case 4: 0

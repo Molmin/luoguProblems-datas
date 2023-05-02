@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+yx
+axy
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+ratcode
+atlas
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+cd
+abc
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+w
+ww
+===== Sample #4 Output =====
+Yes
+===== Sample #5 Input =====
+zzz
+zzz
+===== Sample #5 Output =====
+No

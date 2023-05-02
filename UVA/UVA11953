@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2
+4
+x...
+..x.
+@.@.
+....
+2
+..
+x.
+===== Sample #1 Output =====
+Case 1: 2
+Case 2: 1

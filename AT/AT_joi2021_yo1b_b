@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+8
+BITAROOI
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+6
+BBOOII
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+5
+IOIOI
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+9
+RATRATRAT
+===== Sample #4 Output =====
+No
+===== Sample #5 Input =====
+1
+A
+===== Sample #5 Output =====
+No

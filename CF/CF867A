@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+4
+FSSF
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+2
+SF
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+10
+FFFFFFFFFF
+
+===== Sample #3 Output =====
+NO
+
+===== Sample #4 Input =====
+10
+SSFFSFFSFF
+
+===== Sample #4 Output =====
+YES
+

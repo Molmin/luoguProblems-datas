@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3 2
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+98 7654321
+===== Sample #2 Output =====
+257361229

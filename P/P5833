@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+Buttercup must be milked beside Bella
+Blue must be milked beside Bella
+Sue must be milked beside Beatrice
+===== Sample #1 Output =====
+Beatrice
+Sue
+Belinda
+Bessie
+Betsy
+Blue
+Bella
+Buttercup

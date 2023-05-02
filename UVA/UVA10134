@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1
+fish
+fish
+lunch
+bait
+fish
+bait
+fish
+bait
+bait
+fish
+fish
+fish
+fish
+lunch
+lunch
+lunch
+lunch
+fish
+fish
+fish
+===== Sample #1 Output =====
+2

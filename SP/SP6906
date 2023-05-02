@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+\n10 2\n 0 0 9 1 0 0\n 1 0 3 \n
+===== Sample #1 Output =====
+\n14&nbsp;
+(the sum of the first 4 squares ( from 0 to 3 ) is 14 )

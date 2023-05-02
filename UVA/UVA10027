@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+1
+"AyB"
+"A"-&gt;"ab"
+"Ay"-&gt;"cdy"
+"B"-&gt;"w"
+"B"-&gt;"x"
+===== Sample #1 Output =====
+9

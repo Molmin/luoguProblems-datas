@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+eel
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+ataatmma
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+snuke
+===== Sample #3 Output =====
+-1

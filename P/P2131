@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+((B)())
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+((((B)(B))((B)()))(B))
+===== Sample #2 Output =====
+impossible
+===== Sample #3 Input =====
+(()(((B)(B))(B)))
+===== Sample #3 Output =====
+1

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+aadddddddddddddddddddddddffffffffffffffffwwwwwwwwwwwwccccalalala
+A a:6,c:6
+B w:12
+C d:25
+D d:22,c:4,l:3,f:15
+===== Sample #1 Output =====
+A 3.20
+B 3.20
+D 9.60

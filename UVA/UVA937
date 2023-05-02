@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+4
+6
+010001
+001000
+000100
+010000
+12
+LA
+DO
+NO
+ON
+AM
+CAR
+GAS
+ROD
+MUG
+RULE
+MORE
+ONES
+===== Sample #1 Output =====
+M1CAR1
+ON1MUG
+ROD1LA
+E1ONES

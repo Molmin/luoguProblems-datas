@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+1
+5 EFFERVESCENCE
+2E
+1E1F1V1C1E
+1E2F1C1R
+1S2E
+1P1E2F
+===== Sample #1 Output =====
+YES
+YES
+NO
+YES
+NO

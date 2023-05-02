@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2\n\n3\nA47&nbsp;=&nbsp;5&nbsp;+&nbsp;ZZ22\nZZ22&nbsp;=&nbsp;3\nA9&nbsp;=&nbsp;13&nbsp;+&nbsp;A47&nbsp;*&nbsp;ZZ22\n\n2\nA1&nbsp;=&nbsp;4&nbsp;/&nbsp;7&nbsp;+&nbsp;4&nbsp;/&nbsp;7\nB2&nbsp;=&nbsp;3&nbsp;*&nbsp;3&nbsp;/&nbsp;7
+===== Sample #1 Output =====
+A47&nbsp;=&nbsp;8\nA9&nbsp;=&nbsp;37\nZZ22&nbsp;=&nbsp;3\n\nA1&nbsp;=&nbsp;0\nB2&nbsp;=&nbsp;1

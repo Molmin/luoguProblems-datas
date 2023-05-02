@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+5 25 2 4 1
+
+===== Sample #1 Output =====
+RRUURURU
+
+===== Sample #2 Input =====
+3 6 1 2 2
+
+===== Sample #2 Output =====
+URUR
+
+===== Sample #3 Input =====
+3 5 1 2 2
+
+===== Sample #3 Output =====
+Impossible
+
+===== Sample #4 Input =====
+20 492 11 4 8
+
+===== Sample #4 Output =====
+RRRRRRRRRRRRRRRRUUUUURUUUUURRUUUUUUUUU
+

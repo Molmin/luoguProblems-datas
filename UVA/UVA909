@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+aaaaaaaarstqahbbbbbbb
+aaaaaaaaaa
+abcdefghij
+===== Sample #1 Output =====
+[135]a[5]rstqah[134]b
+[137]a
+[9]abcdefghij

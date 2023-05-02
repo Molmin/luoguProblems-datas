@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+3
+LEFT
+RIGHT
+SAME AS 2
+5
+LEFT
+SAME AS 1
+SAME AS 2
+SAME AS 1
+SAME AS 4
+===== Sample #1 Output =====
+1
+-5

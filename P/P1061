@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+  2 10 5
+  bdfij
+
+===== Sample #1 Output =====
+bdghi
+bdghj
+bdgij
+bdhij
+befgh
+

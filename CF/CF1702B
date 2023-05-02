@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+lollipops
+stringology
+abracadabra
+codeforces
+test
+f
+===== Sample #1 Output =====
+2
+4
+3
+4
+1
+1

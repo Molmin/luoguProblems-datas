@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+naan
+===== Sample #1 Output =====
+nyaan
+===== Sample #2 Input =====
+4
+near
+===== Sample #2 Output =====
+near
+===== Sample #3 Input =====
+8
+national
+===== Sample #3 Output =====
+nyationyal

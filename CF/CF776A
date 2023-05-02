@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+ross rachel
+4
+ross joey
+rachel phoebe
+phoebe monica
+monica chandler
+
+===== Sample #1 Output =====
+ross rachel
+joey rachel
+joey phoebe
+joey monica
+joey chandler
+
+===== Sample #2 Input =====
+icm codeforces
+1
+codeforces technex
+
+===== Sample #2 Output =====
+icm codeforces
+icm technex
+

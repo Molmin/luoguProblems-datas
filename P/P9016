@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3 8 4
+a ab
+a bc
+c de
+b bbb
+===== Sample #1 Output =====
+bdebbb

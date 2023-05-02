@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+adam
+ineedhelpsosineedhelpsos
+mark
+ineedmorehelpsoshelpmesossoshelpme
+===== Sample #1 Output =====
+mark
+3
+===== Sample #2 Input =====
+3
+susan
+sosososososos
+jack
+sossossossos
+allen
+soshelpsossossossossos
+===== Sample #2 Output =====
+susan allen
+6

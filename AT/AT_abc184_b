@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 0
+xox
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+20 199999
+oooooooooxoooooooooo
+===== Sample #2 Output =====
+200017
+===== Sample #3 Input =====
+20 10
+xxxxxxxxxxxxxxxxxxxx
+===== Sample #3 Output =====
+0

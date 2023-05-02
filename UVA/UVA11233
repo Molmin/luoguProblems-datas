@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3 7
+rice rice
+spaghetti spaghetti
+octopus octopi
+rice
+lobster
+spaghetti
+strawberry
+octopus
+peach
+turkey
+===== Sample #1 Output =====
+rice
+lobsters
+spaghetti
+strawberries
+octopi
+peaches
+turkeys

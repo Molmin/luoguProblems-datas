@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+GGGG
+WWBB
+OORR
+YYYY
+BBWW
+RROO
+WRRG
+WORO
+BGBW
+YYOG
+BORY
+GYWB
+===== Sample #1 Output =====
+2
+6

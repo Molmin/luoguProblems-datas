@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+Wow, it is a Race cat!
+0
+abcdefg
+0
+Kitty: Madam, I’m adam.
+===== Sample #1 Output =====
+Case 1: 8 3
+Case 2: 1 1
+Case 3: 15 8

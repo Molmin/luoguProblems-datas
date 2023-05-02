@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2 2
+RL
+LR
+
+===== Sample #1 Output =====
+LOSE
+
+===== Sample #2 Input =====
+2 2
+RR
+RR
+
+===== Sample #2 Output =====
+WIN
+

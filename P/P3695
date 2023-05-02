@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+{ vars
+    a:int
+    b:int
+}
+
+:set a, 1
+:set b, 2
+:yosoro a+b
+
+===== Sample #1 Output =====
+3

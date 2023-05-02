@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+aab
+
+===== Sample #1 Output =====
+bab
+
+===== Sample #2 Input =====
+caaab
+
+===== Sample #2 Output =====
+cabab
+
+===== Sample #3 Input =====
+zscoder
+
+===== Sample #3 Output =====
+zscoder
+

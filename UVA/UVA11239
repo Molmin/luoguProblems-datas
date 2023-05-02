@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+UBQTS TXT
+tthumb
+LIVESPACE BLOGJAM
+philton
+aeinstein
+YOUBOOK
+j97lee
+sswxyzy
+j97lee
+aeinstein
+SKINUX
+1
+0
+===== Sample #1 Output =====
+YOUBOOK 2
+LIVESPACE BLOGJAM 1
+UBQTS TXT 1
+SKINUX 0

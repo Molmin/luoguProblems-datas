@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+1T1b5T!1T2b1T1b2T!1T1b1T2b2T!1T3b1T1b1T!3T3b1T!1T3b1T1b1T!5T1*1T
+11X21b1X
+4X1b1X
+===== Sample #1 Output =====
+T TTTTT
+T T TT
+T T TT
+T TT
+TTT T
+T TT
+TTTTT*T
+XX X
+XXXX X

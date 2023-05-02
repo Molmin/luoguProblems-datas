@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+0
+
+===== Sample #1 Output =====
+? /?/ ?
+
+===== Sample #2 Input =====
+1
+
+===== Sample #2 Output =====
+a = ? max ?
+(a max a) / a
+

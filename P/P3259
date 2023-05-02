@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+5 8 1 100 10
+start 0 0
+azhan 10 10
+xxgasxx 0 5
+bpoint 20 5
+end 0 100
+start azhan sdf 30
+azhan xxgasxx ewfg 20
+start end r3tg 200
+end azhan 1xq2 70
+azhan bpoint gg 10
+xxgasxx bpoint kk 30
+bpoint end dsg 40
+xxgasxx end t_s 100
+===== Sample #1 Output =====
+162.500

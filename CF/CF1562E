@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+7
+5
+acbac
+8
+acabacba
+12
+aaaaaaaaaaaa
+10
+abacabadac
+8
+dcbaabcd
+3
+cba
+6
+sparky
+===== Sample #1 Output =====
+9
+17
+12
+29
+14
+3
+9

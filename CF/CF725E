@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+12
+3
+5
+3
+4
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+50
+8
+1
+2
+4
+8
+16
+37
+37
+37
+
+===== Sample #2 Output =====
+Greed is good
+

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+abcbac
+===== Sample #1 Output =====
+abc
+2
+===== Sample #2 Input =====
+4
+abababab
+===== Sample #2 Output =====
+abab
+1
+===== Sample #3 Input =====
+3
+agccga
+===== Sample #3 Output =====
+cga
+0
+===== Sample #4 Input =====
+4
+atcodeer
+===== Sample #4 Output =====
+-1

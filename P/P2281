@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+A + B 									
+3 A + 4 A B^3 + C
+
+===== Sample #1 Output =====
+C+B+4A+4AB^3
+BC+AC+3AB+4AB^4+3A^2+4A^2B^3
+

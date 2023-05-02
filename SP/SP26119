@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+3
+0 9 4
+9 0 4
+4&nbsp;4 0
+1
+===== Sample #1 Output =====
+4.5
+Explanation:
+  According to given data, you need:\n  9 units of time to move between spots 0 and 1\n  4 units of time to move between spots 0 and 2\n  4 units of time o move between spots 1 and 2 \n  You have a single Divyastra. The optimal solution is to use a Divyastra and move&nbsp; directly from spot 0 to spot 1. This &nbsp;will take 9/2 = 4.5 units of time.

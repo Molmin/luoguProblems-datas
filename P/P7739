@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2 3
+WE
+APPEND E
+FLIP 1 2
+REVERSE 2 3
+
+===== Sample #1 Output =====
+2 3
+3 4
+5 3
+5 2
+

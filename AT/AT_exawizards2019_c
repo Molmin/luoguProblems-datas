@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+3 4
+ABC
+A L
+B L
+B R
+A R
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+8 3
+AABCBDBA
+A L
+B R
+A R
+===== Sample #2 Output =====
+5
+===== Sample #3 Input =====
+10 15
+SNCZWRCEWB
+B R
+R R
+E R
+W R
+Z L
+S R
+Q L
+W L
+B R
+C L
+A L
+N L
+E R
+Z L
+S L
+===== Sample #3 Output =====
+3

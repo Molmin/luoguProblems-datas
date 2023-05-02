@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+2 8
+
+===== Sample #1 Output =====
+biceps
+
+===== Sample #2 Input =====
+3
+5 1 10
+
+===== Sample #2 Output =====
+back
+
+===== Sample #3 Input =====
+7
+3 3 2 7 9 6 8
+
+===== Sample #3 Output =====
+chest
+

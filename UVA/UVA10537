@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+1
+a Z
+19 a Z
+5
+A D
+D X
+A b
+b c
+c X
+39 A X
+-1
+===== Sample #1 Output =====
+Case 1:
+20
+a-Z
+Case 2:
+44
+A-b-c-X

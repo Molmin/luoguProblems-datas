@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n12 espada 10 basto 11 basto\n7 espada 1 oro 2 oro\n7 espada 1 oro 6 espada\n-1 * -1 * -1 *\n\n
+===== Sample #1 Output =====
+7\n10\n0

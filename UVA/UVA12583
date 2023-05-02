@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+6 2 SULTAN
+6 1 MAHBUB
+6 2 MAHBUB
+===== Sample #1 Output =====
+Case 1: 0
+Case 2: 0
+Case 3: 1

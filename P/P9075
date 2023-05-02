@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+3 100 100
+1 2
+2 1
+===== Sample #1 Output =====
+Right output! cnt1 = 2, cnt2 = 5.
+===== Sample #2 Input =====
+见附件中的 ds2.in
+===== Sample #2 Output =====
+见附件中的 ds2.ans
+===== Sample #3 Input =====
+见附件中的 ds3.in
+===== Sample #3 Output =====
+见附件中的 ds3.ans
+===== Sample #4 Input =====
+见附件中的 ds4.in
+===== Sample #4 Output =====
+见附件中的 ds4.ans
+===== Sample #5 Input =====
+见附件中的 ds5.in
+===== Sample #5 Output =====
+见附件中的 ds5.ans
+===== Sample #6 Input =====
+见附件中的 ds6.in
+===== Sample #6 Output =====
+见附件中的 ds6.ans
+===== Sample #7 Input =====
+见附件中的 ds7.in
+===== Sample #7 Output =====
+见附件中的 ds7.ans

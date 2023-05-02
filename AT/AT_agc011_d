@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+5 1
+ABAAA
+===== Sample #1 Output =====
+BBAAA
+===== Sample #2 Input =====
+5 2
+ABAAA
+===== Sample #2 Output =====
+ABBBA
+===== Sample #3 Input =====
+4 123456789
+AABB
+===== Sample #3 Output =====
+BABA

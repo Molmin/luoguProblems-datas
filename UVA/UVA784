@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+2
+XXXXXXXXX
+X X X
+X *
+X
+X X X
+XXXXXXXXX
+X X
+X X
+X X
+XXXXX
+_____
+XXXXX
+X X
+X * X
+X X
+XXXXX
+_____
+===== Sample #1 Output =====
+XXXXXXXXX
+X###X###X
+X#######X
+X###X###X
+XXXXXXXXX
+X X
+X X
+X X
+XXXXX
+_____
+XXXXX
+X###X
+X###X
+X###X
+XXXXX
+_____

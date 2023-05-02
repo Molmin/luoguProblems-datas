@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+7 0 6 30
+===== Sample #1 Output =====
+Aoki
+===== Sample #2 Input =====
+7 30 7 30
+===== Sample #2 Output =====
+Takahashi
+===== Sample #3 Input =====
+0 0 23 59
+===== Sample #3 Output =====
+Takahashi

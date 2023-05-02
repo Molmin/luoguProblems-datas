@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+5
+1
+2
+2
+3
+4
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+7
+1
+1
+1
+1
+6
+6
+6
+===== Sample #2 Output =====
+ABSOLUTELY NO
+===== Sample #3 Input =====
+8
+1
+1
+1
+2
+3
+4
+4
+5
+===== Sample #3 Output =====
+NO

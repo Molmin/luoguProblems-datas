@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+7
+4
+meOw
+14
+mMmeoOoWWWwwwW
+3
+mew
+7
+MmeEeUw
+4
+MEOW
+6
+MmyaVW
+5
+meowA
+===== Sample #1 Output =====
+YES
+YES
+NO
+NO
+YES
+NO
+NO

@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+1
+11
+7
+1234530
+1510
+16340
+734810
+934810
+9 1 9 10 11 0
+10 11 6 3 0
+ADORNO
+ADORNO
+AMOR
+ANA
+ARLINDO
+ANTUNES
+HORTA
+PORTA
+PORTAO
+PORTAL
+PAPEL
+PARVO
+ELMO
+ESTE
+ESSE
+ARMADURA
+HELENA
+ERGONOMICO
+EVA
+ERVA
+CARMO
+COUVE
+*
+end{verbatim}
+\subsection*{Sample Output}
+\begin{verbatim}
+ADORNMHTPEL
+===== Sample #1 Output =====
+

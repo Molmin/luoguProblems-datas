@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+4 5
+_XXX_
+XXXX_
+XXXXX
+_XXXX
+===== Sample #1 Output =====
+2 3

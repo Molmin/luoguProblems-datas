@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+abbaac
+ac
+bccddaaf
+zzzzzzzzzz
+===== Sample #1 Output =====
+abac
+ac
+bcdaf
+zzzzzz

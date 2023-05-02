@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+15 3
+cccaabababaccbc
+
+===== Sample #1 Output =====
+cccbbabaccbc
+
+===== Sample #2 Input =====
+15 9
+cccaabababaccbc
+
+===== Sample #2 Output =====
+cccccc
+
+===== Sample #3 Input =====
+1 1
+u
+
+===== Sample #3 Output =====
+

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+01\n143\n743\n600
+===== Sample #1 Output =====
+1\n20\n12\n-1

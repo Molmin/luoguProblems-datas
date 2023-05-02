@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4
+taro
+jiro
+taro
+saburo
+===== Sample #1 Output =====
+taro
+===== Sample #2 Input =====
+1
+takahashikun
+===== Sample #2 Output =====
+takahashikun
+===== Sample #3 Input =====
+9
+a
+b
+c
+c
+b
+c
+b
+d
+e
+===== Sample #3 Output =====
+b

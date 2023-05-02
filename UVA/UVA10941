@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+abba
+ab
+4
+baaabad
+aa
+badccaa
+cc
+a
+ab
+4
+bb
+ab
+ba
+aa
+===== Sample #1 Output =====
+5
+-1

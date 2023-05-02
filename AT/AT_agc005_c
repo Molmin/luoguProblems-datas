@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+5
+3 2 2 3 3
+===== Sample #1 Output =====
+Possible
+===== Sample #2 Input =====
+3
+1 1 2
+===== Sample #2 Output =====
+Impossible
+===== Sample #3 Input =====
+10
+1 2 2 2 2 2 2 2 2 2
+===== Sample #3 Output =====
+Possible
+===== Sample #4 Input =====
+10
+1 1 2 2 2 2 2 2 2 2
+===== Sample #4 Output =====
+Impossible
+===== Sample #5 Input =====
+6
+1 1 1 1 1 5
+===== Sample #5 Output =====
+Impossible
+===== Sample #6 Input =====
+5
+4 3 2 3 4
+===== Sample #6 Output =====
+Possible

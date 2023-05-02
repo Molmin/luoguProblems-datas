@@ -1,0 +1,6 @@
+===== Sample #1 Input =====
+(2,0)
+(0,6)
+===== Sample #1 Output =====
+wins 2738632; loses 3409819
+wins 4121220; loses 4678487

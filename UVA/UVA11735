@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+1 0 2 2
+1 0 7 0
+1 2 1 2
+===== Sample #1 Output =====
+Board 1: 2 / 3
+Board 2: 1 / 1
+Board 3: 0 / 1

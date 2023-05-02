@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+10
+1 A
+1 2
+1 4
+2 3
+2 5
+2 6
+3 9
+3 10
+3 Q
+4 J
+===== Sample #1 Output =====
+Yes
+2
+===== Sample #2 Input =====
+10
+1 A
+1 2
+1 4
+2 3
+2 5
+2 6
+3 9
+3 10
+3 Q
+4 K
+===== Sample #2 Output =====
+Yes
+2

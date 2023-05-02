@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+1
+5 4 2 1
+ABCD
+ABCA
+EFAC
+BCAG
+AZIP
+===== Sample #1 Output =====
+Case 1: 26

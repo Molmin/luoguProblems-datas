@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+WUBWUBABCWUB
+
+===== Sample #1 Output =====
+ABC 
+===== Sample #2 Input =====
+WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB
+
+===== Sample #2 Output =====
+WE ARE THE CHAMPIONS MY FRIEND 

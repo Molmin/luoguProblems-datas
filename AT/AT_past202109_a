@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+600 200 100 750
+===== Sample #1 Output =====
+700
+===== Sample #2 Input =====
+600 200 100 650
+===== Sample #2 Output =====
+650
+===== Sample #3 Input =====
+800 200 100 900
+===== Sample #3 Output =====
+900

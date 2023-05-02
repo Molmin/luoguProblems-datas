@@ -1,0 +1,50 @@
+===== Sample #1 Input =====
+5
+AACCMMAA
+ACA
+MM
+ACMAA
+AA
+A
+
+===== Sample #1 Output =====
+1 4
+MM
+A
+AA
+ACA
+ACMAA
+
+===== Sample #2 Input =====
+3
+ACMA
+ACM
+ACA
+AMA
+
+===== Sample #2 Output =====
+impossible
+
+===== Sample #3 Input =====
+1
+AM
+MA
+
+===== Sample #3 Output =====
+impossible
+
+===== Sample #4 Input =====
+4
+AAAAAA
+AA
+AAA
+A
+AAAAA
+
+===== Sample #4 Output =====
+0 4
+A
+AA
+AAA
+AAAAA
+

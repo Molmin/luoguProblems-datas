@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3   
+abc 
+efg 
+ijh
+===== Sample #1 Output =====
+a
+e
+i
+
+===== Sample #2 Input =====
+3
+aac
+aad
+aae
+===== Sample #2 Output =====
+aac
+aad
+aae

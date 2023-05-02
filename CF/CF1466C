@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+7
+babba
+abaac
+codeforces
+zeroorez
+abcdcba
+bbbbbbb
+a
+===== Sample #1 Output =====
+1
+1
+0
+1
+1
+4
+0

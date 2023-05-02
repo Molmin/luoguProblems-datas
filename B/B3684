@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+45 0
+===== Sample #1 Output =====
+nO
+===== Sample #2 Input =====
+0 45
+===== Sample #2 Output =====
+yEs
+===== Sample #3 Input =====
+49 51
+===== Sample #3 Output =====
+yeS
+===== Sample #4 Input =====
+50 50
+===== Sample #4 Output =====
+equal probability

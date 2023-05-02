@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+PD?D??P
+===== Sample #1 Output =====
+PDPDPDP
+===== Sample #2 Input =====
+P?P?
+===== Sample #2 Output =====
+PDPD

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2
+az
+bf
+
+===== Sample #1 Output =====
+bc
+
+===== Sample #2 Input =====
+5
+afogk
+asdji
+
+===== Sample #2 Output =====
+alvuw
+
+===== Sample #3 Input =====
+6
+nijfvj
+tvqhwp
+
+===== Sample #3 Output =====
+qoztvz
+

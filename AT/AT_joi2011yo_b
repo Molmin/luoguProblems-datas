@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+ABCD
+3
+ABCDXXXXXX
+YYYYABCDXX
+DCBAZZZZZZ
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+XYZ
+1
+ZAAAAAAAXY
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+PQR
+3
+PQRAAAAPQR
+BBPQRBBBBB
+CCCCCCCCCC
+===== Sample #3 Output =====
+2

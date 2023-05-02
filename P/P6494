@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+4
+Caterpie
+12 33
+Weedle
+12 42
+Pidgey
+12 47
+Rattata
+25 71 
+===== Sample #1 Output =====
+14
+Weedle 
+===== Sample #2 Input =====
+7
+Bulbasaur
+25 74
+Ivysaur
+100 83
+Charmander
+25 116
+Charmeleon
+100 32
+Squirtle
+25 1
+Wartortle
+100 173
+Pikachu
+50 154 
+===== Sample #2 Output =====
+11
+Charmander

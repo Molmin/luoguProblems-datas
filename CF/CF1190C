@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+4 2
+0101
+
+===== Sample #1 Output =====
+quailty
+
+===== Sample #2 Input =====
+6 1
+010101
+
+===== Sample #2 Output =====
+once again
+
+===== Sample #3 Input =====
+6 5
+010101
+
+===== Sample #3 Output =====
+tokitsukaze
+
+===== Sample #4 Input =====
+4 1
+0011
+
+===== Sample #4 Output =====
+once again
+

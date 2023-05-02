@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+7 9289 Vladivostok
+5 8523 Chabarovsk
+3 5184 Irkutsk
+8 2213 Yalutorovsk
+10 0 Moscow
+
+===== Sample #1 Output =====
+Yalutorovsk 112125
+

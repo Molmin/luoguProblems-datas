@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+1
+10
+===== Sample #1 Output =====
+Possible
+4
+0 0
+0 1
+1 1
+1 0
+0 0
+===== Sample #2 Input =====
+2
+1000
+===== Sample #2 Output =====
+Possible
+6
+1 0
+2 0
+2 1
+1 1
+0 1
+0 0
+1 0
+===== Sample #3 Input =====
+2
+1001
+===== Sample #3 Output =====
+Impossible
+===== Sample #4 Input =====
+1
+11
+===== Sample #4 Output =====
+Possible
+0
+1 1

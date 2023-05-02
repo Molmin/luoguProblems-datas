@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+1
+9 8
+2 -6 3 5 1 -5 -3 6 3
+GET-SUM 5 4
+MAX-SUM
+INSERT 8 3 -5 7 2
+DELETE 12 1
+MAKE-SAME 3 3 2
+REVERSE 3 6
+GET-SUM 5 4
+MAX-SUM
+===== Sample #1 Output =====
+-1
+10
+1
+10
+
+Hints:
+After the 3rd op., the sequence is 
+2 -6 3 5 1 -5 -3 6 -5 7 2 3
+
+After the 4th op., the sequence is 
+2 -6 3 5 1 -5 -3 6 -5 7 2
+
+After the 5th op., the sequence is 
+2 -6 2 2 2 -5 -3 6 -5 7 2
+
+After the 6th op., the sequence is 
+2 -6 6 -3 -5 2 2 2 -5 7 2

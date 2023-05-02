@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n6 6\npicsel\nSPLIT 3 petarv duxserbia\nSPLIT 5 sasav nikolaj\nQUERY 1\nQUERY 3\nQUERY 5\nQUERY 6
+===== Sample #1 Output =====
+\npetarv\npicsel\nduxserbia\nnikolaj

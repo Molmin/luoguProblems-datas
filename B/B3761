@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+U3R5D7
+5 2
+===== Sample #1 Output =====
+EJLDHACBFKGIMNOP
+===== Sample #2 Input =====
+U3U5U7
+105 3
+===== Sample #2 Output =====
+ABCDEFGHIJKLMNOP
+===== Sample #3 Input =====
+R3R5R7U3U5U7D3D5D7D7
+2 128
+===== Sample #3 Output =====
+KBPDECGHIJFLMNOA

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+7
+1 0e813c50
+1 00e9422b
+1 520cb7b4
+2 052dd9ad
+3 9dd5f347
+3 e35f067b
+1 bb4d4a99
+
+===== Sample #1 Output =====
+0e813c50
+00e9422b
+9dd5f347
+bb4d4a99
+

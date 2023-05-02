@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 6
+3 4 9
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+3 4
+30 10 20
+===== Sample #2 Output =====
+10
+===== Sample #3 Input =====
+5 12345
+1 2 3 4 5
+===== Sample #3 Output =====
+2472

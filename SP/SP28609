@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+5 10
+2 3 6 9 5
+5 20
+1 4 2 3 15
+5 20
+1 4 5 15 27
+5 16
+1 2 4 8 32
+===== Sample #1 Output =====
+Case #1: 3
+Case #2: 3
+Case #3: AMBIGIOUS
+Case #4: IMPOSSIBLE

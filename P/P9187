@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+5 3
+GHGGH
+GHHHH
+HGHHG
+===== Sample #1 Output =====
+5
+3
+5

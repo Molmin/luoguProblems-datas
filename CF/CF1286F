@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+1 10 100
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3
+5 3 -2
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+1
+0
+===== Sample #3 Output =====
+0

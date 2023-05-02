@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+3
+3
+Hamilton
+Vettel
+Webber
+2
+Webber
+Vettel
+2
+Hamilton
+Vettel
+
+===== Sample #1 Output =====
+Vettel
+Hamilton
+
+===== Sample #2 Input =====
+2
+7
+Prost
+Surtees
+Nakajima
+Schumacher
+Button
+DeLaRosa
+Buemi
+8
+Alonso
+Prost
+NinoFarina
+JimClark
+DeLaRosa
+Nakajima
+Patrese
+Surtees
+
+===== Sample #2 Output =====
+Prost
+Prost
+

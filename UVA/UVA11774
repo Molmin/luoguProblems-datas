@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+1 1
+1 2
+3 1
+2 2
+98876767 12234
+===== Sample #1 Output =====
+Case 1: 2
+Case 2: 3
+Case 3: 4
+Case 4: 2
+Case 5: 98889001

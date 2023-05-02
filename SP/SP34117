@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+10
+a
+xxxx
+ssfs
+aaabbacaa
+missimxx
+ababababgg
+dfsfsdgdg
+asdsasdswe
+chiaki
+teretwer
+===== Sample #1 Output =====
+1
+4
+3
+8
+6
+9
+6
+9
+3
+6

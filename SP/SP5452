@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\nWWBBFBW\nWWFBWBW\nFWBBWBW\n---\n\n
+===== Sample #1 Output =====
+\n1. 0\n2. 1\n3. 2

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+one
+two
+three
+deadend
+mit
+dartmouth
+linkoping
+tasmania
+york
+emory
+cornell
+duke
+kaunas
+hildesheim
+concord
+arkansas
+williams
+glasgow
+deadend
+===== Sample #1 Output =====
+11
+114

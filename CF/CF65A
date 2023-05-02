@@ -1,0 +1,42 @@
+===== Sample #1 Input =====
+100 200 250 150 200 250
+
+===== Sample #1 Output =====
+Ron
+
+===== Sample #2 Input =====
+100 50 50 200 200 100
+
+===== Sample #2 Output =====
+Hermione
+
+===== Sample #3 Input =====
+100 10 200 20 300 30
+
+===== Sample #3 Output =====
+Hermione
+
+===== Sample #4 Input =====
+0 0 0 0 0 0
+
+===== Sample #4 Output =====
+Hermione
+
+===== Sample #5 Input =====
+1 1 0 1 1 1
+
+===== Sample #5 Output =====
+Ron
+
+===== Sample #6 Input =====
+1 0 1 2 1 2
+
+===== Sample #6 Output =====
+Hermione
+
+===== Sample #7 Input =====
+100 1 100 1 0 1
+
+===== Sample #7 Output =====
+Ron
+

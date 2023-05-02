@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+WWWWWWWWWWWWWWWWWWWW
+WWLWE
+
+===== Sample #1 Output =====
+11:0
+11:0
+1:1
+
+21:0
+2:1
+

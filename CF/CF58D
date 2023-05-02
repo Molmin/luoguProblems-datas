@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+4
+b
+aa
+hg
+c
+.
+
+===== Sample #1 Output =====
+aa.b
+c.hg
+
+===== Sample #2 Input =====
+2
+aa
+a
+!
+
+===== Sample #2 Output =====
+a!aa
+
+===== Sample #3 Input =====
+2
+aa
+a
+|
+
+===== Sample #3 Output =====
+aa|a
+

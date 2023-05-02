@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+fixprefixsuffix
+
+===== Sample #1 Output =====
+fix
+===== Sample #2 Input =====
+abcdabc
+
+===== Sample #2 Output =====
+Just a legend

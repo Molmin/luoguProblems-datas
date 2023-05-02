@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2 5 1
+01001
+10110
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+2 5 0
+01001
+10110
+
+===== Sample #2 Output =====
+8
+

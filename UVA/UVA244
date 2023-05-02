@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+15.0 0.0
+5280.0
+10560.0
+5.0
+3.5 7.0 0.0
+5280.0
+10560.0
+2.0
+3.4 7.0 0.0
+5280.0
+10560.0
+2.0
+-1.0
+===== Sample #1 Output =====
+Scenario #1:
+Meeting time: 7.8 minutes
+Meeting distance: 7.500 miles from metro center hub
+Scenario #2:
+Meeting time: 4.0 minutes
+Meeting distance: 3.500 miles from metro center hub, in station 1
+Scenario #3:
+Meeting time: 4.1 minutes
+Meeting distance: 3.400 miles from metro center hub, in station 1

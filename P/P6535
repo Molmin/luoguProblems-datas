@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+18
+babic
+keksic
+boric
+bukic
+sarmic
+balic
+kruzic
+hrenovkic
+beslic
+boksic
+krafnic
+pecivic
+klavirkovic
+kukumaric
+sunkic
+kolacic
+kovacic
+prijestolonasljednikovic 
+===== Sample #1 Output =====
+bk 
+===== Sample #2 Input =====
+6
+michael
+jordan
+lebron
+james
+kobe
+bryant 
+===== Sample #2 Output =====
+PREDAJA

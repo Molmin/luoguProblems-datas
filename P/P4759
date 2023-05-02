@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3
+8
+10
+24
+
+===== Sample #1 Output =====
+IMPOSSIBLE
+10 = 1 + 2 + 3 + 4
+24 = 7 + 8 + 9
+

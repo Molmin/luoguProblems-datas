@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5 5 2
+0 1
+4 2
+1 2
+5 5 3
+0 1
+4 2
+4 3
+1 2
+0 0 0
+===== Sample #1 Output =====
+Case 1: Escaped again! More 2D grid problems!
+Case 2: Party time! Let’s find a restaurant!

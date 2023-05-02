@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+5 8
+Color 2 4 2
+Add 2 2
+Query 3
+Color 4 5 3
+Color 2 2 3
+Add 3 3
+Query 2
+Query 5
+===== Sample #1 Output =====
+2
+5
+3
+===== Sample #2 Input =====
+2 7
+Add 1 7
+Query 1
+Add 2 4
+Query 2
+Color 1 1 1
+Add 1 1
+Query 2
+===== Sample #2 Output =====
+7
+7
+8

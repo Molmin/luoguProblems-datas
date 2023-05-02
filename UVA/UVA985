@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+22
+NES
+S
+WS
+32
+NSWE
+SW
+SEW
+NEW
+SN
+===== Sample #1 Output =====
+4
+no path to exit
+Figure 3: The maze of the sample input 2

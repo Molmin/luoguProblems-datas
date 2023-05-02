@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+6
+1 GBIOOYBIOOYBB
+2 R
+3 O
+1 OOO
+2 R
+3 O
+===== Sample #1 Output =====
+OOYBB
+3
+OOO
+6
+

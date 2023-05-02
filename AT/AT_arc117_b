@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+1 2
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+6
+5 3 4 1 5 2
+===== Sample #2 Output =====
+32
+===== Sample #3 Input =====
+7
+314 159 265 358 979 323 846
+===== Sample #3 Output =====
+492018656

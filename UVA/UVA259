@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+A4 01234;
+Q1 5;
+P4 56789;
+A4 01234;
+Q1 5;
+P5 56789;
+===== Sample #1 Output =====
+AAAA_QPPPP
+!

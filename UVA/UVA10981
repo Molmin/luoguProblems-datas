@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2
+bbbba
+a
+bbbba
+a
+===== Sample #1 Output =====
+bbbba
+bbba
+bba
+bc
+a
+bbbba
+bbba
+bba
+bc
+a

@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+3
+110
+101
+
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+5
+10010
+00100
+===== Sample #2 Output =====
+1

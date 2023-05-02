@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+7
+1 A B 0800
+3 A C 0850
+2 B C 0700
+6 B D 1250
+5 B C 1400
+7 C A 1600
+8 D C 1130
+A B 0400
+A C 0135
+A D 0320
+B C 0345
+B D 0120
+C D 0200
+0
+===== Sample #1 Output =====
+Scenario 1
+Driver 1
+Bag #1 from station A to station B
+Bag #2 from station B to station C
+Bag #7 from station C to station A
+Total delivery time: 0920
+Total workday time: 0935
+Driver 2
+Bag #3 from station A to station C
+--&gt;Transit without delivery from station C to station B
+Bag #5 from station B to station C
+Total delivery time: 0520
+Total workday time: 0905
+Undelivered Bags:
+Bag #8 remains at station D
+Bag #6 remains at station B

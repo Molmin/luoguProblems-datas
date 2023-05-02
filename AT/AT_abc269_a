@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1 2 5 3
+===== Sample #1 Output =====
+6
+Takahashi
+===== Sample #2 Input =====
+10 -20 30 -40
+===== Sample #2 Output =====
+-700
+Takahashi
+===== Sample #3 Input =====
+100 100 100 -100
+===== Sample #3 Output =====
+40000
+Takahashi

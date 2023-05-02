@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+3 2
+novak goat 1
+goat simulator 3
+2
+novak simulator
+simulator goat
+===== Sample #1 Output =====
+4
+Roger
+===== Sample #2 Input =====
+3 3
+kile legend 4
+legend beer 5
+beer kile 6
+2
+kile beer
+legend kile
+===== Sample #2 Output =====
+9
+11
+===== Sample #3 Input =====
+4 5
+rafael me 5
+me ow 6
+ow ausopenfinal 2012
+ausopenfinal me 2
+rafael ausopenfinal 2
+3
+rafael me
+me rafael
+ow me
+===== Sample #3 Output =====
+4
+Roger
+2014

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+5 2
+6 4 5 4 2
+A D 7
+E B 8
+A D
+===== Sample #1 Output =====
+6

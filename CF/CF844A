@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+yandex
+6
+
+===== Sample #1 Output =====
+0
+
+===== Sample #2 Input =====
+yahoo
+5
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+google
+7
+
+===== Sample #3 Output =====
+impossible
+

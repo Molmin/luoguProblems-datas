@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+a a
+ab ba
+praveen praveen
+===== Sample #1 Output =====
+YES
+NO
+YES

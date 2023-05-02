@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1 2\nhello     word\n2 2\nracing club\n-1 -1\n
+===== Sample #1 Output =====
+10\n6

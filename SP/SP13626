@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2\n1\n2\n\n
+===== Sample #1 Output =====
+4\n10\n\nExplanation : \nIn first case {.25,.25,.25,.25} ,{.50,.25,.25} ,{1}, {.50,.50}

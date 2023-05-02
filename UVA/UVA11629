@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+6 5
+CDU 30.7
+SPD 20.8
+Gruene 12.1
+FDP 11.0
+DIELINKE 7.5
+CSU 7.2
+FDP &gt; 11
+CDU + SPD &lt; 50
+SPD + CSU &gt;= 28
+FDP + SPD + CDU &lt;= 42
+CDU + FDP + SPD + DIELINKE = 70
+===== Sample #1 Output =====
+Guess #1 was incorrect.
+Guess #2 was incorrect.
+Guess #3 was correct.
+Guess #4 was incorrect.
+Guess #5 was correct.

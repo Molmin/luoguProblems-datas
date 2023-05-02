@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+5 5 7
+#####
+#...#
+#...#
+#E..#
+#####
+UULLDDR
+
+===== Sample #1 Output =====
+6
+
+===== Sample #2 Input =====
+5 5 7
+#####
+#.#.#
+#...#
+#E..#
+#####
+UULLDDR
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+5 3 2
+###
+#.#
+#.#
+#E#
+###
+DD
+
+===== Sample #3 Output =====
+2
+

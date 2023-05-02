@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+ein kind haelt seinen &lt;schn&gt;abel &lt;n&gt;ur
+wenn es haengt an der ...
+weil wir zu spaet zur &lt;&gt;oma &lt;k&gt;amen
+verpassten wir das ...
+&lt;d&gt;u &lt;b&gt;ist
+...
+===== Sample #1 Output =====
+ein kind haelt seinen schnabel nur
+wenn es haengt an der nabel schnur
+weil wir zu spaet zur oma kamen
+verpassten wir das koma amen
+du bist
+bu dist

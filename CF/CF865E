@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+f1e
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+0f1e
+
+===== Sample #2 Output =====
+00f1
+
+===== Sample #3 Input =====
+12d2c
+
+===== Sample #3 Output =====
+00314
+

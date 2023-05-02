@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+5 3
+xyabd
+
+===== Sample #1 Output =====
+29
+===== Sample #2 Input =====
+7 4
+problem
+
+===== Sample #2 Output =====
+34
+===== Sample #3 Input =====
+2 2
+ab
+
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+12 1
+abaabbaaabbb
+
+===== Sample #4 Output =====
+1

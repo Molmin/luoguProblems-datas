@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+2
+4 7
+9 8
+14 17
+19 18
+
+===== Sample #1 Output =====
+2
+1
+
+===== Sample #2 Input =====
+2
+4 7
+14 17
+9 8
+19 18
+
+===== Sample #2 Output =====
+1
+2
+
+===== Sample #3 Input =====
+2
+4 8
+9 7
+14 18
+19 17
+
+===== Sample #3 Output =====
+syntax error
+
+===== Sample #4 Input =====
+3
+1 1
+4 8
+8 4
+10 6
+6 10
+10 10
+
+===== Sample #4 Output =====
+syntax error
+

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+A3C1G1C1U4A2U1
+1
+A3C1G1C1U4A2U1
+0
+A100U200
+2
+===== Sample #1 Output =====
+Case 1: 6
+Case 2: 5
+Case 3: 100
+ILLUSTRATION: One possible ﬁnal secondary structure for case 1 is depicted below that shows the 6
+base pairings.

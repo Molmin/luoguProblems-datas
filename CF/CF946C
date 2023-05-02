@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+aacceeggiikkmmooqqssuuwwyy
+
+===== Sample #1 Output =====
+abcdefghijklmnopqrstuvwxyz
+
+===== Sample #2 Input =====
+thereisnoanswer
+
+===== Sample #2 Output =====
+-1
+

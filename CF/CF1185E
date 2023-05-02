@@ -1,0 +1,63 @@
+===== Sample #1 Input =====
+1
+5 6
+...a..
+..bbb.
+...a..
+.cccc.
+...a..
+
+===== Sample #1 Output =====
+YES
+3
+1 4 5 4
+2 3 2 5
+4 2 4 5
+
+===== Sample #2 Input =====
+3
+3 3
+...
+...
+...
+4 4
+..c.
+adda
+bbcb
+....
+3 5
+..b..
+aaaaa
+..b..
+
+===== Sample #2 Output =====
+YES
+0
+YES
+4
+2 1 2 4
+3 1 3 4
+1 3 3 3
+2 2 2 3
+NO
+
+===== Sample #3 Input =====
+2
+3 3
+...
+.a.
+...
+2 2
+bb
+cc
+
+===== Sample #3 Output =====
+YES
+1
+2 2 2 2
+YES
+3
+1 1 1 2
+1 1 1 2
+2 1 2 2
+

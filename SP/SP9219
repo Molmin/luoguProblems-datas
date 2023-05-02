@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\n10 01 2 10\n11 11 2 10\n12 12 8 10\n
+===== Sample #1 Output =====
+\n\nyes\nno\nyes

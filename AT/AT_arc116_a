@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+2
+998244353
+1000000000000000000
+===== Sample #1 Output =====
+Same
+Odd
+Even

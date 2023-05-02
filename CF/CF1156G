@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+c=aa#bb
+d12=c
+res=c^d12
+tmp=aa$c
+
+===== Sample #1 Output =====
+2
+aaaa=aa#bb
+res=aaaa^aaaa
+
+===== Sample #2 Input =====
+2
+max=aaaa$bbbb
+min=bbbb^aaaa
+
+===== Sample #2 Output =====
+0

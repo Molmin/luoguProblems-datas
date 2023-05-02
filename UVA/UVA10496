@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+10 10
+1 1
+4
+2 3
+5 5
+9 4
+6 5
+===== Sample #1 Output =====
+The shortest path has length 24

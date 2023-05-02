@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+xudyhduxyz
+3
+xyz xyz
+dyh xyz
+dzy xyz
+
+===== Sample #1 Output =====
+3
+8
+-1
+
+===== Sample #2 Input =====
+abcabd
+3
+a c
+ab abc
+ab d
+
+===== Sample #2 Output =====
+2
+3
+3
+
+===== Sample #3 Input =====
+baabcabaaa
+2
+abca baa
+aa aba
+
+===== Sample #3 Output =====
+6
+4
+

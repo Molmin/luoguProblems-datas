@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3 1
+ABC
+===== Sample #1 Output =====
+aBC
+===== Sample #2 Input =====
+4 3
+CABA
+===== Sample #2 Output =====
+CAbA

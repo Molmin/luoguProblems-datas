@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4 6
+1 1 3 3
+2 2 4 5
+1 2 4 4
+1 3 1 4
+2 4 2 5
+1 4 2 3
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+3 2
+2 1 2 1
+2 2 3 1
+===== Sample #2 Output =====
+-1
+===== Sample #3 Input =====
+见附加文件的 subway3.in。 
+===== Sample #3 Output =====
+见附加文件的 subway3.ans。

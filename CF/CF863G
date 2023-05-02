@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+1
+3
+1
+
+===== Sample #1 Output =====
+Path
+inc 1
+inc 1
+
+===== Sample #2 Input =====
+1
+3
+2
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+2
+3 2
+1 1
+
+===== Sample #3 Output =====
+Cycle
+inc 1
+inc 1
+inc 2
+dec 1
+dec 1
+dec 2
+

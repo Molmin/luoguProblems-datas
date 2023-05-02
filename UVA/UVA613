@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+22
+31123314
+314213241519
+21221314
+111222234459
+-1
+===== Sample #1 Output =====
+22 is self-inventorying
+31123314 is self-inventorying
+314213241519 enters an inventory loop of length 2
+21221314 is self-inventorying after 2 steps
+111222234459 enters an inventory loop of length 2

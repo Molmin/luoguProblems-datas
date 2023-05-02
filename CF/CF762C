@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+hi
+bob
+
+===== Sample #1 Output =====
+-
+
+===== Sample #2 Input =====
+abca
+accepted
+
+===== Sample #2 Output =====
+ac
+
+===== Sample #3 Input =====
+abacaba
+abcdcba
+
+===== Sample #3 Output =====
+abcba
+

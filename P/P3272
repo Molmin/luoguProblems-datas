@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+2 2
+*_
+__
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+3 3
+ ___
+ _*_
+ ___
+===== Sample #2 Output =====
+8

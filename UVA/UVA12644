@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1 1
+icpc
+pic
+4 3
+sequoia
+march
+may
+tree
+ae
+aeiou
+acm
+===== Sample #1 Output =====
+1
+2

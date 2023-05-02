@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+-5 R
+0 P
+3 P
+7 B
+
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+5
+10 R
+14 B
+16 B
+21 R
+32 R
+
+===== Sample #2 Output =====
+24
+

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+dpdppd
+===== Sample #1 Output =====
+dddpdd
+===== Sample #2 Input =====
+3
+ddd
+===== Sample #2 Output =====
+ddd
+===== Sample #3 Input =====
+11
+ddpdpdppddp
+===== Sample #3 Output =====
+ddddpdpdddp

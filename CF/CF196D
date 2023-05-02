@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+aaaaaaa
+
+===== Sample #1 Output =====
+aabbcaa
+
+===== Sample #2 Input =====
+3
+zzyzzzz
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+4
+abbabbbabbb
+
+===== Sample #3 Output =====
+abbbcaaabab
+

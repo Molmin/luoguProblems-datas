@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+3 4
+**oo
+oo*o
+**oo
+===== Sample #1 Output =====
+144
+===== Sample #2 Input =====
+3 4
+**oo
+oo**
+**oo
+===== Sample #2 Output =====
+48
+===== Sample #3 Input =====
+2 2
+oo
+o*
+===== Sample #3 Output =====
+4
+===== Sample #4 Input =====
+1 4
+oooo
+===== Sample #4 Output =====
+9

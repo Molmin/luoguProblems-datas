@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+GATTACA
+GAGAGAG
+GATTACAGATTACA
+TGAC
+TGTAC
+TTGGAACC
+===== Sample #1 Output =====
+A 3
+GAGAG 2
+GATTACA 2
+No repetitions found!
+T 2
+A 2

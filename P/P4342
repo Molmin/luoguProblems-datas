@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+4
+t -7 t 4 x 2 x 5
+
+===== Sample #1 Output =====
+33
+1 2

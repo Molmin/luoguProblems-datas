@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+bedefead
+5
+2 e
+1 dc
+5 b
+7 ef
+6 ef
+
+===== Sample #1 Output =====
+deadbeef
+
+===== Sample #2 Input =====
+abacaba
+0
+
+===== Sample #2 Output =====
+aaaabbc
+
+===== Sample #3 Input =====
+fc
+2
+1 cfab
+2 f
+
+===== Sample #3 Output =====
+cf
+

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+xyz
+3
+xz
+y
+xzy
+===== Sample #1 Output =====
+2
+3
+0

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+3
+1 2 1
+4
+0 2 2 0
+4
+3 2 0 2
+1
+0
+===== Sample #1 Output =====
+Yes
+Yes
+No
+No

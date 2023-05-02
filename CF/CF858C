@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+hellno
+
+===== Sample #1 Output =====
+hell no 
+
+===== Sample #2 Input =====
+abacaba
+
+===== Sample #2 Output =====
+abacaba 
+
+===== Sample #3 Input =====
+asdfasdf
+
+===== Sample #3 Output =====
+asd fasd f 
+

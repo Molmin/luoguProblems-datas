@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+5 25
+3 30
+10 16
+0
+5 15 0
+0 -35 0
+8 17 11
+5 15 100
+3 -25 3
+12 19 6
+===== Sample #1 Output =====
+Trial 1, Volume = 2500.00
+Trial 2, Volume = 1950.00
+Trial 3, Volume = 0.00

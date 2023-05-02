@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5 5
+oooo#
+ooooo
+#oo#o
+o#ooo
+oo#oo
+
+===== Sample #1 Output =====
+7 2
+
+===== Sample #2 Input =====
+5 5
+oooo#
+ooooo
+#oo##
+o#o#o
+oo#oo
+
+===== Sample #2 Output =====
+-1

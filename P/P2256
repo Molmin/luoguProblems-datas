@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+10 6
+Jack
+Mike
+ASDA
+Michel
+brabrabra
+HeHe
+HeHE
+papapa
+HeY
+Obama
+Jack Obama
+HeHe HeHE
+brabrabra HeHe
+Obama ASDA
+papapa Obama
+Obama HeHE
+3
+Mike Obama
+HeHE Jack
+papapa brabrabra
+
+===== Sample #1 Output =====
+No.
+Yes.
+Yes.
+

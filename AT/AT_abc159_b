@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+akasaka
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+level
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+atcoder
+===== Sample #3 Output =====
+No

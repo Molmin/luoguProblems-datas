@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+2 11
+25
+30 50
+===== Sample #1 Output =====
+The jumping champion is 2
+No jumping champion
+The jumping champion is 4

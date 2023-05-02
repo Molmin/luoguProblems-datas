@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+10 0
+0
+===== Sample #1 Output =====
+89
+
+Input:
+10 0
+1
+
+Output:
+177
+
+Input:
+100 1
+1 1
+
+Output:
+343742333

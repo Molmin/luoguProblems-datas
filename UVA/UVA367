@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+150 49
+2 1
+2
+450
+44
+2
+9 4
+3 1
+1
+27
+0
+===== Sample #1 Output =====
+FRS #1:
+450 becomes 147
+44 becomes 11
+FRS #2:
+27 becomes 4

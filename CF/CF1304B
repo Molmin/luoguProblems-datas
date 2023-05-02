@@ -1,0 +1,38 @@
+===== Sample #1 Input =====
+3 3
+tab
+one
+bat
+===== Sample #1 Output =====
+6
+tabbat
+===== Sample #2 Input =====
+4 2
+oo
+ox
+xo
+xx
+===== Sample #2 Output =====
+6
+oxxxxo
+===== Sample #3 Input =====
+3 5
+hello
+codef
+orces
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+9 4
+abab
+baba
+abcd
+bcde
+cdef
+defg
+wxyz
+zyxw
+ijji
+===== Sample #4 Output =====
+20
+ababwxyzijjizyxwbaba

@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+2 4
+40 60
+1 35 4
+1 20 3
+1 40 10
+1 60 7
+3 5
+10 20 30
+2 10 50 12 30
+2 10 100 20 25
+1 25 19
+1 19 41
+2 10 18 30 42
+0 0
+===== Sample #1 Output =====
+Case 1
+Average turnaround time = 7.75
+Program 1 runs in region 1 from 0 to 4
+Program 2 runs in region 2 from 0 to 3
+Program 3 runs in region 1 from 4 to 14
+Program 4 runs in region 2 from 3 to 10
+
+Case 2
+Average turnaround time = 35.40
+Program 1 runs in region 2 from 25 to 55
+Program 2 runs in region 2 from 0 to 25
+Program 3 runs in region 3 from 0 to 19
+Program 4 runs in region 3 from 19 to 60
+Program 5 runs in region 1 from 0 to 18

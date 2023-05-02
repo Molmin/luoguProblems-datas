@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\n3 0 7\n3 3 3\n331105236 82934100 3711\n\n\n
+===== Sample #1 Output =====
+\nCase 1: 2\nCase 2: 1\nCase 3: 2622

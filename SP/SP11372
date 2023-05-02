@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+5 100
+50 10 20 30 40
+5 87
+21 45 30 12 14
+===== Sample #1 Output =====
+Scenario #1: 90
+Scenario #2: 65

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4
+las
+god
+psala
+sal 
+===== Sample #1 Output =====
+3 a
+===== Sample #2 Input =====
+4
+kisik
+ptq
+tttrp
+tulipan
+===== Sample #2 Output =====
+5 s

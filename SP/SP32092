@@ -1,0 +1,68 @@
+===== Sample #1 Input =====
+7
+8 4
+5 1 k
+4 3 H
+4 5 h
+5 7 K
+
+8 4
+5 2 h
+3 3 k
+6 4 H
+4 5 K
+
+8 6
+1 1 k
+4 1 H
+4 2 H
+2 3 H
+3 3 H
+7 6 K
+
+8 7
+1 1 k
+4 1 H
+4 2 H
+2 3 H
+3 3 H
+7 6 K
+2 7 r
+
+8 9
+1 1 K
+7 1 R
+8 1 r
+1 2 R
+3 2 h
+8 2 r
+1 5 r
+2 5 r
+6 6 k
+
+8 6
+1 1 k
+8 2 R
+4 4 B
+2 5 R
+7 6 K
+3 7 q
+
+8 9
+3 2 P
+4 2 P
+5 2 P
+3 3 P
+4 3 k
+5 3 P
+4 4 P
+5 4 p
+4 5 K
+===== Sample #1 Output =====
+Impossible
+Safe
+White Checkmate
+White Check - 1 Plausible Moves
+Black Checkmate
+White Check - 1 Plausible Moves
+Black Check - 5 Plausible Moves

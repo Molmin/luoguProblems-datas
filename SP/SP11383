@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\n0\n1\n2\n\n
+===== Sample #1 Output =====
+1\n3\n7 \n\nExtra: TLE is equal to 0.15s\n

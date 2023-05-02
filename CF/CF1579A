@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+ABACAB
+ABBA
+AC
+ABC
+CABCBB
+BCBCBCBCBCBCBCBC
+===== Sample #1 Output =====
+NO
+YES
+NO
+NO
+YES
+YES

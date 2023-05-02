@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+256
+rot- div rot div
+256
+bvsym div mix
+0
+===== Sample #1 Output =====
+8
+63457

@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+2
+4-4-2
+10-0-0
+10
+O
+O
+O
+O
+O
+O
+O
+O
+ON
+NO
+===== Sample #1 Output =====
+NE
+DA
+===== Sample #2 Input =====
+3
+4-4-2
+3-5-2
+4-3-3
+11
+OV
+OV
+OVN
+OV
+OV
+V
+V
+N
+O
+O
+O
+===== Sample #2 Output =====
+DA
+DA
+NE

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 4
+PP
+RR
+PS
+SS
+
+===== Sample #1 Output =====
+PS
+PP
+RR
+SS
+
+===== Sample #2 Input =====
+20 3
+PRSPS
+SSSSS
+PPSPP
+
+===== Sample #2 Output =====
+PRSPS
+PPSPP
+SSSSS
+

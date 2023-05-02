@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+catredo
+===== Sample #1 Output =====
+8
+===== Sample #2 Input =====
+atcoder
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+redocta
+===== Sample #3 Output =====
+21

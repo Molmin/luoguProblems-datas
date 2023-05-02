@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+3
+a*d
+abcd
+anestonestod
+facebook
+===== Sample #1 Output =====
+DA
+DA
+NE
+===== Sample #2 Input =====
+6
+h*n
+huhovdjestvarnomozedocisvastan
+honijezakon
+atila
+je
+bio
+hun 
+===== Sample #2 Output =====
+DA
+DA
+NE
+NE
+NE
+DA

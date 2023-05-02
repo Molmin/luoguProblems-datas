@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+colombia
+abcdba
+neversayeven
+neveroddoreven
+listentothesilence
+===== Sample #1 Output =====
+c
+ba
+even
+neveroddoreven
+sil

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2 6
+10
+99
+
+===== Sample #1 Output =====
+8
+
+===== Sample #2 Input =====
+2 0
+1
+9
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+19 7
+1000
+9999
+
+===== Sample #3 Output =====
+6
+

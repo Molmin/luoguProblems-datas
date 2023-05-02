@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 6	 	 
+1 2 10	 	 
+1 3 8	 	 
+3 2 3	 	 
+1 4 3	 	 
+1 3 6	 	 
+2 1 2	 	 
+
+===== Sample #1 Output =====
+-1 //No trail connects 4 to the rest of the fields.
+-1 //No trail connects 4 to the rest of the fields.
+-1 //No trail connects 4 to the rest of the fields.
+14 //Maintain 1 4 3, 1 3 8, and 3 2 3.
+12 //Maintain 1 4 3, 1 3 6, and 3 2 3.
+8 //Maintain 1 4 3, 2 1 2, and 3 2 3.
+//program exit	 
+

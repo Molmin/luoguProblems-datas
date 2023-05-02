@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+12??567890
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+65?5?4?
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+314159265358979
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+2???5????
+===== Sample #4 Output =====
+8
+===== Sample #5 Input =====
+52
+===== Sample #5 Output =====
+0

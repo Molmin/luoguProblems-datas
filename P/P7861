@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+5
+A
+B
+AA
+BBB
+AAA
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+5
+A
+ABA
+BBB
+ABABA
+AAAAAB
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+6
+A
+B
+A
+B
+A
+B
+===== Sample #3 Output =====
+3

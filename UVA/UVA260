@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+bbwb
+wwbw
+bbwb
+bwww
+4
+bbwb
+wwbw
+bwwb
+wwbb
+0
+===== Sample #1 Output =====
+1 W
+2 B

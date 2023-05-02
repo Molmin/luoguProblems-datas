@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+2
+aab
+aac
+
+===== Sample #1 Output =====
+2.000000000000000
+
+===== Sample #2 Input =====
+3
+aaA
+aBa
+Caa
+
+===== Sample #2 Output =====
+1.666666666666667
+
+===== Sample #3 Input =====
+3
+aca
+vac
+wqq
+
+===== Sample #3 Output =====
+1.000000000000000
+

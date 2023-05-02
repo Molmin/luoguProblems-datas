@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n5\n200 250\n150 200\n100 150\n50 100\n0 50\n\n&nbsp;
+===== Sample #1 Output =====
+\n2\n16\n3\n18\n6\n\n\nNOTE: t will be less than 100\nfrom and to will be between 0 and 10^9 inclusive

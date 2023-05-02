@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3 5
+011 1
+110 1
+101 0
+111 1
+010 1
+===== Sample #1 Output =====
+4
+Earth
+?y7M#
+Earth
+===== Sample #2 Input =====
+5 7
+01100 1
+11000 1
+10100 0
+11100 1
+00011 1
+00000 0
+11111 0
+===== Sample #2 Output =====
+Cannot Determine

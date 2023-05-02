@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+02:20
+13:00
+05:50
+01:00
+===== Sample #1 Output =====
+Saturday
+14:00
+===== Sample #2 Input =====
+02:20
+23:28
+00:40
+23:50
+===== Sample #2 Output =====
+Never
+===== Sample #3 Input =====
+23:19
+10:19
+02:42
+09:11
+===== Sample #3 Output =====
+Thursday
+00:31

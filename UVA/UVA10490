@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+3
+6
+0
+===== Sample #1 Output =====
+Perfect: 6!
+Perfect: 28!
+Given number is NOT prime! NO perfect number is available.

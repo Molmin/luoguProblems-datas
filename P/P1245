@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+8
+73373711664
+thi
+shs
+this
+is
+b
+a
+boo
+k
+===== Sample #1 Output =====
+thi shs b boo k

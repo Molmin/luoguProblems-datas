@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+6 12
+
+===== Sample #1 Output =====
+14
+
+===== Sample #2 Input =====
+11 14
+
+===== Sample #2 Output =====
+31
+
+===== Sample #3 Input =====
+1 5
+
+===== Sample #3 Output =====
+1
+
+===== Sample #4 Input =====
+3 8
+
+===== Sample #4 Output =====
+5
+
+===== Sample #5 Input =====
+5 7
+
+===== Sample #5 Output =====
+7
+
+===== Sample #6 Input =====
+21 21
+
+===== Sample #6 Output =====
+88
+

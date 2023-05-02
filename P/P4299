@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+10 10 
+Xor 
+Q 1 
+A 10 1 
+A 1 4 
+Q 4 
+Q 10 
+A 7 6 
+Xor 
+Q 7 
+Xor
+===== Sample #1 Output =====
+11 
+1 
+1 
+1 
+2 
+6 
+2 
+

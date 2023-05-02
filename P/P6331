@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+  ooo  
+  ooo  
+ooooooo
+ooo.ooo
+ooooooo
+  ooo  
+  ooo  
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+  ooo  
+  ooo  
+..ooo..
+oo...oo
+..ooo..
+  ooo  
+  ooo   
+===== Sample #2 Output =====
+12

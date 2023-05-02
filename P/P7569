@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3 3 2
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+3 3 3
+
+===== Sample #2 Output =====
+YES
+RDLDRRUU
+1 1
+===== Sample #3 Input =====
+6 4 4
+
+===== Sample #3 Output =====
+YES
+RRRDLLLDRRRDLLLDRRRDLLL
+1 1
+
+===== Sample #4 Input =====
+1 1 2000
+===== Sample #4 Output =====
+YES
+
+1 1

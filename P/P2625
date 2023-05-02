@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+3
+forward 100
+backward 100
+left 90
+===== Sample #1 Output =====
+141.421356

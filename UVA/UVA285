@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+second 1 1 r
+vis 1 3 r
+file 2 4 u
+castle 3 1 d
+end 6 3 u
+#
+6
+6
+second la nvis e ft l e $
+sample 1 4 r
+output 1 7 r
+for 3 3 u
+crossword 1 1 d
+is 2 5 l
+correct 1 1 r
+#
+7
+9
+correctr o o f sample si
+w
+output r
+d
+$
+===== Sample #1 Output =====
+The solution is correct.
+The solution is correct.

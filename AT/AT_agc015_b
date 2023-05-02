@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+UUD
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+UUDUUDUD
+===== Sample #2 Output =====
+77

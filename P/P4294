@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4 4
+0 1 1 0
+2 5 5 1
+1 5 5 1
+0 1 1 0
+===== Sample #1 Output =====
+6
+xoox
+___o
+___o
+xoox

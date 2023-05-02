@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+4
+0 0
+0 1
+1 0
+1 1
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+5
+0 0
+0 1
+0 2
+0 3
+1 1
+===== Sample #2 Output =====
+11
+===== Sample #3 Input =====
+1
+3141 2718
+===== Sample #3 Output =====
+0

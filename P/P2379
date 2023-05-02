@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+(a+b)*(a+b+c)
+===== Sample #1 Output =====
+a^2+2ab+ac+b^2+bc
+===== Sample #2 Input =====
+(a+b)*(a+b+c)
+===== Sample #2 Output =====
+a^2+2ab+ac+b^2+bc
+===== Sample #3 Input =====
+(2a+b)*(2a-b)
+===== Sample #3 Output =====
+4a^2-b^2
+===== Sample #4 Input =====
+(a+b)*(a+b)*(a+b)
+===== Sample #4 Output =====
+a^3+3a^2b+3ab^2+b^3
+===== Sample #5 Input =====
+f*(a+b+d+z)+f^2
+===== Sample #5 Output =====
+af+bf+df+fz+f^2
+===== Sample #6 Input =====
+(a+b+2c)*(a+b-2c)-(a+b)*(a+b)
+===== Sample #6 Output =====
+-4c^2

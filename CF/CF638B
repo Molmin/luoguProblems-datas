@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+bcd
+ab
+cdef
+
+===== Sample #1 Output =====
+abcdef
+
+===== Sample #2 Input =====
+4
+x
+y
+z
+w
+
+===== Sample #2 Output =====
+xyzw
+

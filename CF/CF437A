@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+A.VFleaKing_is_the_author_of_this_problem
+B.Picks_is_the_author_of_this_problem
+C.Picking_is_the_author_of_this_problem
+D.Ftiasch_is_cute
+
+===== Sample #1 Output =====
+D
+
+===== Sample #2 Input =====
+A.ab
+B.abcde
+C.ab
+D.abc
+
+===== Sample #2 Output =====
+C
+
+===== Sample #3 Input =====
+A.c
+B.cc
+C.c
+D.c
+
+===== Sample #3 Output =====
+B
+

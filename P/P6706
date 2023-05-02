@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+2 3 1
+7
+1 1
+1 2
+2 1
+1 2
+1 1
+2 2
+1 2
+===== Sample #1 Output =====
+CIKLUS
+CIKLUS
+1
+1
+2
+===== Sample #2 Input =====
+5
+0 3 5 3 4
+6
+1 1
+1 2
+2 4
+1 2
+2 3
+1 2
+===== Sample #2 Output =====
+1
+CIKLUS
+4
+3

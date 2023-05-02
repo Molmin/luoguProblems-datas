@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+This is ACM North Eastern European Regional Contest,
+sponsored by International Business Machines.
+The. Best. Contest. Ever.
+A Great Opportunity for all contestants.
+
+===== Sample #1 Output =====
+This is ACM NEERC (North Eastern European Regional Contest),
+sponsored by IBM (International Business Machines).
+The. Best. Contest. Ever.
+A GO (Great Opportunity) for all contestants.
+
+===== Sample #2 Input =====
+ab Ab A Abc AB Abcd ABc Abcde AbC
+
+===== Sample #2 Output =====
+ab Ab A Abc AB Abcd ABc Abcde AbC
+
+===== Sample #3 Input =====
+Oh  No  Extra Spaces.And,Punctuation Ruin Everything
+
+===== Sample #3 Output =====
+Oh  No  ES (Extra Spaces).And,PRE (Punctuation Ruin Everything)
+

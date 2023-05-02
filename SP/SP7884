@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2 \nCC \nCC\n\n
+===== Sample #1 Output =====
+\n2\n\nInput:\n3 \nCCB \nCCB \nCBB\n\nOutput:\n5\n\nInput:\n5\nBCCBB\nBBCBB\nBCCBB\nBBBBB\nCCBBB\n\nOutput:\n8

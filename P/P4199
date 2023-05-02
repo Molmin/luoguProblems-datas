@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+abaabaa
+===== Sample #1 Output =====
+14
+===== Sample #2 Input =====
+aaabbbaaa
+===== Sample #2 Output =====
+44
+===== Sample #3 Input =====
+aaaaaaaa
+===== Sample #3 Output =====
+53

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5
+EXCHANGE +
+EXT +
+HARDWARE +
+MOUSE -
+NETWORK -
+===== Sample #1 Output =====
+2
+E*
+===== Sample #2 Input =====
+5
+EXCHANGE +
+EXTRAS +
+HARDWARE +
+MOUSE -
+NETWORK -
+
+===== Sample #2 Output =====
+3
+*A*

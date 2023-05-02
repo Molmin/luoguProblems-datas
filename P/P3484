@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+K adeccecced
+N 5
+
+===== Sample #1 Output =====
+5
+acedccecced addebcecced adebebecced adecbedcced cceccecce
+4
+aedddde bdecdde bececde ccedcde
+

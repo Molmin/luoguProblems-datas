@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+Bw
+1
+ww
+8
+===== Sample #1 Output =====
+BBBw 20.0%
+BBww 40.0%
+BwBw 20.0%
+Bwww 20.0%
+BBBB 15.58%
+BBBw 16.12%
+BBww 16.67%
+BwBw 16.67%
+Bwww 17.21%
+wwww 17.75%

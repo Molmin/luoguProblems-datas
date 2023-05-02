@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+sippuu
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+iphone
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+coffee
+===== Sample #3 Output =====
+Yes

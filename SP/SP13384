@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+l
+nlnll
+nlnnlll
+===== Sample #1 Output =====
+0
+2
+3

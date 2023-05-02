@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3
+teama 10
+teamb 20
+teamc 40
+2
+10 20
+teama
+
+===== Sample #1 Output =====
+2 3
+===== Sample #2 Input =====
+2
+teama 10
+teamb 10
+2
+10 10
+teamb
+
+===== Sample #2 Output =====
+2 2

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+2 3
+HHH
+HHH
+2 3
+HHH
+TTH
+2 1
+T
+H
+===== Sample #1 Output =====
+=_=
+-_-
+-_-

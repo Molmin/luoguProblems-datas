@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+13 4+-+0124
+===== Sample #1 Output =====
+Experiment #1:+-+-----++++Constraints:1&lt;=t&lt;=151&lt;=n&lt;=1410&lt;=k&lt;=10000&lt;=ki&lt;=10^9

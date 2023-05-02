@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+to be or not to be
+
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+10
+a ab a a b ab a a b c
+
+===== Sample #2 Output =====
+13
+
+===== Sample #3 Input =====
+6
+aa bb aa aa bb bb
+
+===== Sample #3 Output =====
+11
+

@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+2
+aaa
+bbb
+3
+aab
+aba
+bbb
+===== Sample #1 Output =====
+Nina
+===== Sample #2 Input =====
+2
+acg
+beh
+2
+adi
+bfj
+===== Sample #2 Output =====
+Emilija
+===== Sample #3 Input =====
+3
+ja
+sam
+vlak
+5
+sto
+zgazit
+ce
+te
+mali
+===== Sample #3 Output =====
+Nina

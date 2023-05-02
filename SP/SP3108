@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+5 1
+NNNNY
+NNNNY
+NNNNY
+NNNNY
+YYYYN
+4 2
+NYNN
+YNYN
+NYNY
+NNYN
+4 1
+NYNY
+YNYN
+NYNY
+YNYN
+===== Sample #1 Output =====
+2
+4
+INFINITE GAME

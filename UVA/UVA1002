@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4
+11D
+23D
+31A
+52A
+SLOW
+AGAIN
+BOY
+TAIL
+BEAR
+0
+===== Sample #1 Output =====
+Trial 1: BOY

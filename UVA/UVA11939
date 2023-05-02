@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+50 52 0 10
+0 0 0 0
+100 117 0 50
+150 170 1 -60
+===== Sample #1 Output =====
+---Start of test case---
+TIME = 0.00, GO
+RTIME = 360.45
+ANGLE = 2.86
+VX = 55.49
+VY = 2.77
+BURST START AT TIME = 50.00
+BURST END AT TIME = 52.00
+TIME = 52.00, GO
+RTIME = 308.35
+ANGLE = 2.86
+VX = 55.49
+VY = 2.78
+---End of test case---
+---Start of test case---
+TIME = 0.00, GO
+RTIME = 360.45
+ANGLE = 2.86
+VX = 55.49
+VY = 2.77
+BURST START AT TIME = 100.00
+TIME = 105.00, GO
+TIME = 110.00, GO
+TIME = 115.00, GO
+BURST END AT TIME = 117.00
+TIME = 117.00, GO
+RTIME = 239.21
+ANGLE = 2.91
+VX = 55.48
+VY = 2.82
+BURST START AT TIME = 150.00
+TIME = 155.00, GO
+TIME = 160.00, GO
+TIME = 165.00, ABORT
+---End of test case---

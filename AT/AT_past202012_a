@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+xooox
+===== Sample #1 Output =====
+o
+===== Sample #2 Input =====
+xxxxx
+===== Sample #2 Output =====
+x
+===== Sample #3 Input =====
+xoxxo
+===== Sample #3 Output =====
+draw

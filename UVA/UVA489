@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+cheese
+chese
+2
+cheese
+abcdefg
+3
+cheese
+abcdefgij
+-1
+===== Sample #1 Output =====
+Round 1
+You win.
+Round 2
+You chickened out.
+Round 3
+You lose.

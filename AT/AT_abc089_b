@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+G W Y P Y W
+===== Sample #1 Output =====
+Four
+===== Sample #2 Input =====
+9
+G W W G P W P G G
+===== Sample #2 Output =====
+Three
+===== Sample #3 Input =====
+8
+P Y W G Y W Y Y
+===== Sample #3 Output =====
+Four

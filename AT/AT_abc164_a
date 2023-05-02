@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4 5
+===== Sample #1 Output =====
+unsafe
+===== Sample #2 Input =====
+100 2
+===== Sample #2 Output =====
+safe
+===== Sample #3 Input =====
+10 10
+===== Sample #3 Output =====
+unsafe

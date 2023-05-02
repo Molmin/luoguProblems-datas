@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+11
+00000000008
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+22
+0011223344556677889988
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+11
+31415926535
+
+===== Sample #3 Output =====
+0
+

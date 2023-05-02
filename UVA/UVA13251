@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+f(g(h(a,a),h(a,a)),h(a,X),g(h(a,a),h(a,a)))
+h(a,b)
+h(a,a)
+h(A,a)
+CCPL
+f(a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a,a)
+f(g(a,X,a),g(a,a,X))
+f(g(a,X,a),g(a,X,a))
+===== Sample #1 Output =====
+6
+3
+2
+3
+1
+2
+5
+4

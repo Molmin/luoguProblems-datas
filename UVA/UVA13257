@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5
+PROGRAMMING
+COLOMBIA
+NUEVE
+AAAAAAA
+PQ
+===== Sample #1 Output =====
+110
+46
+9
+1
+0

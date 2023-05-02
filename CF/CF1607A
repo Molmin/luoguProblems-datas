@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+abcdefghijklmnopqrstuvwxyz
+hello
+abcdefghijklmnopqrstuvwxyz
+i
+abcdefghijklmnopqrstuvwxyz
+codeforces
+qwertyuiopasdfghjklzxcvbnm
+qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+qwertyuiopasdfghjklzxcvbnm
+abacaba
+===== Sample #1 Output =====
+13
+0
+68
+0
+74

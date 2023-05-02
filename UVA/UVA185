@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+V+V=X
+X+X=XX
+XX+XX=MXC
+#
+===== Sample #1 Output =====
+Correct ambiguous
+Correct impossible
+Incorrect valid

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+7
+===== Sample #1 Output =====
+ooooooo*******--
+oooooo--******o*
+oooooo******--o*
+ooooo--*****o*o*
+ooooo*****--o*o*
+oooo--****o*o*o*
+oooo****--o*o*o*
+ooo--***o*o*o*o*
+ooo*o**--*o*o*o*
+o--*o**oo*o*o*o*
+o*o*o*--o*o*o*o*
+--o*o*o*o*o*o*o*
+

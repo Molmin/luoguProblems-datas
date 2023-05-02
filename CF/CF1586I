@@ -1,0 +1,47 @@
+===== Sample #1 Input =====
+4
+S...
+..G.
+....
+...S
+===== Sample #1 Output =====
+MULTIPLE
+===== Sample #2 Input =====
+6
+S.....
+....G.
+..S...
+.....S
+....G.
+G.....
+===== Sample #2 Output =====
+NONE
+===== Sample #3 Input =====
+10
+.S....S...
+..........
+...SSS....
+..........
+..........
+...GS.....
+....G...G.
+..........
+......G...
+..........
+===== Sample #3 Output =====
+UNIQUE
+SSSSSSSSSS
+SGGGGGGGGS
+SGSSSSSSGS
+SGSGGGGSGS
+SGSGSSGSGS
+SGSGSSGSGS
+SGSGGGGSGS
+SGSSSSSSGS
+SGGGGGGGGS
+SSSSSSSSSS
+===== Sample #4 Input =====
+1
+.
+===== Sample #4 Output =====
+NONE

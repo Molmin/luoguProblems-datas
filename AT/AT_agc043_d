@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+1 998244353
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+2 998244353
+===== Sample #2 Output =====
+261
+===== Sample #3 Input =====
+314 1000000007
+===== Sample #3 Output =====
+182908545

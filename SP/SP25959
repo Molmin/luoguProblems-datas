@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\ndabab\n3\nab\nabaa\nbab\n
+===== Sample #1 Output =====
+\naba\nabab\nd

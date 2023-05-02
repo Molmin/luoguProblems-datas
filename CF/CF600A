@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+aba,123;1a;0
+
+===== Sample #1 Output =====
+"123,0"
+"aba,1a"
+
+===== Sample #2 Input =====
+1;;01,a0,
+
+===== Sample #2 Output =====
+"1"
+",01,a0,"
+
+===== Sample #3 Input =====
+1
+
+===== Sample #3 Output =====
+"1"
+-
+
+===== Sample #4 Input =====
+a
+
+===== Sample #4 Output =====
+-
+"a"
+

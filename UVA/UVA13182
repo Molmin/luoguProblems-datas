@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+GATTACCA
+TACAACAG
+AAAA
+GGGG
+ATTG
+GCCA
+===== Sample #1 Output =====
+4
+GATTACXACAG
+0
+No matches
+1
+ATTGCCA

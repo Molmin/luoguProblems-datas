@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+#George
++Rodney
+#Arthur
++Gareth
++Walter
+#Gareth
++Edward
+?Edward
+?Walter
+?Rodney
+?Arthur
+$
+===== Sample #1 Output =====
+Edward Arthur
+Walter Arthur
+Rodney George
+Arthur Arthur

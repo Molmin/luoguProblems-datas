@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+5 
+8 W 
+11 S 
+3 W 
+10 W 
+5 S 
+
+===== Sample #1 Output =====
+7 
+

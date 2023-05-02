@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+1
+A*X*C
+**CM*
+4
+*B***A
+AAAAAA
+6
+*B***A
+AAAAAA
+4
+*AA*******
+AAAAAAAAAA
+===== Sample #1 Output =====
+A*XHC
+*BA*BA
+*B***A
+*AA**A****

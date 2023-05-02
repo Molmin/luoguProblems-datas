@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+uncopyrightable
+===== Sample #1 Output =====
+yes
+===== Sample #2 Input =====
+different
+===== Sample #2 Output =====
+no
+===== Sample #3 Input =====
+no
+===== Sample #3 Output =====
+yes

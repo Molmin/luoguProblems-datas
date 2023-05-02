@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+2
+hello sam . say hello to everybody . good bye .
+*
+say hi to everybody .
+hi to everybody .
+hello joe .
+swerc
+#
+4
+Joe is my name . I have a dog . My dog is
+a
+cinnamon coloured golden retriever
+. The name of my father is Ben and the name
+of my mother is Linda .
+*
+Hello Joe , how are you ? Are you my friend ?
+Last day you told me : the name of my mother is Linda .
+You also told me : the name of my father is Ben .
+How are you my friend ?
+#
+===== Sample #1 Output =====
+Learning case 1
+What does the word "hi" mean?
+What does the sentence "say hi to everybody" mean?
+What does the sentence "hello joe" mean?
+What does the word "swerc" mean?
+Learning case 2
+What does the word "Hello" mean?
+What does the sentence "Hello Joe" mean?
+What does the word "how" mean?
+What does the word "are" mean?
+What does the word "you" mean?
+What does the sentence "how are you" mean?
+What does the word "friend" mean?
+What does the sentence "Are you my friend" mean?
+What does the word "Last" mean?
+What does the word "day" mean?
+What does the word "told" mean?
+What does the word "me" mean?
+What does the sentence "Last day you told me" mean?
+What does the word "also" mean?
+What does the sentence "You also told me" mean?
+What does the sentence "How are you my friend" mean?

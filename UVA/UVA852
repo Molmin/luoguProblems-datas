@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+OX..XXO..
+OXX.XOO..
+OOXX.XO.O
+.OOX.XOO.
+..OOXXXOO
+..OO.X.XO
+..OOXX.XX
+..OX.X...
+..OXX....
+===== Sample #1 Output =====
+Black 39 White 41

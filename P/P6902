@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+100 7
+1 50
+50 70
+70 90
+90 40
+20 60
+60 80
+80 20
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+8 2
+8 3
+5 7
+
+===== Sample #2 Output =====
+impossible
+
+===== Sample #3 Input =====
+8 2
+8 4
+5 7
+
+===== Sample #3 Output =====
+2
+

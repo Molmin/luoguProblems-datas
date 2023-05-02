@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+XXXOO.XXX
+XOXOXOXOX
+OXOXOXOXO
+XXOOOXXOX
+XO.OX...X
+.XXX.XOOO
+OOXXXOOXO
+end
+===== Sample #1 Output =====
+invalid
+valid
+invalid
+valid
+valid
+invalid
+invalid

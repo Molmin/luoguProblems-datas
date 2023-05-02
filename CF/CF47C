@@ -1,0 +1,52 @@
+===== Sample #1 Input =====
+NOD
+BAA
+YARD
+AIRWAY
+NEWTON
+BURN
+
+===== Sample #1 Output =====
+BAA...
+U.I...
+R.R...
+NEWTON
+..A..O
+..YARD
+
+===== Sample #2 Input =====
+AAA
+AAA
+AAAAA
+AAA
+AAA
+AAAAA
+
+===== Sample #2 Output =====
+AAA..
+A.A..
+AAAAA
+..A.A
+..AAA
+
+===== Sample #3 Input =====
+PTC
+JYNYFDSGI
+ZGPPC
+IXEJNDOP
+JJFS
+SSXXQOFGJUZ
+
+===== Sample #3 Output =====
+JJFS....
+Y..S....
+N..X....
+Y..X....
+F..Q....
+D..O....
+S..F....
+G..G....
+IXEJNDOP
+...U...T
+...ZGPPC
+

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3
+abcd
+abab
+a
+
+===== Sample #1 Output =====
+2
+3
+0
+

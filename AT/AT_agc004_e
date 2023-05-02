@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3 3
+o.o
+.Eo
+ooo
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+2 2
+E.
+..
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+3 4
+o...
+o...
+oooE
+===== Sample #3 Output =====
+5
+===== Sample #4 Input =====
+5 11
+ooo.ooo.ooo
+o.o.o...o..
+ooo.oE..o..
+o.o.o.o.o..
+o.o.ooo.ooo
+===== Sample #4 Output =====
+12

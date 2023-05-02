@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+hw?ap*yn?eww*ye*ar
+12
+
+===== Sample #1 Output =====
+happynewyear
+
+===== Sample #2 Input =====
+ab?a
+2
+
+===== Sample #2 Output =====
+aa
+===== Sample #3 Input =====
+ab?a
+3
+
+===== Sample #3 Output =====
+aba
+===== Sample #4 Input =====
+ababb
+5
+
+===== Sample #4 Output =====
+ababb
+===== Sample #5 Input =====
+ab?a
+1
+
+===== Sample #5 Output =====
+Impossible

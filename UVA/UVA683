@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+CA = AB + 6C
+DDE5 = DEFG - EHI + DDH
+A = 0
+*
+===== Sample #1 Output =====
+81
+1115
+?

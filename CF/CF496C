@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+1 10
+codeforces
+
+===== Sample #1 Output =====
+0
+
+===== Sample #2 Input =====
+4 4
+case
+care
+test
+code
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+5 4
+code
+forc
+esco
+defo
+rces
+
+===== Sample #3 Output =====
+4
+

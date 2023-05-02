@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+aaaabbabbaa
+5
+2 4
+7 10
+3 4
+1 2
+4 11
+
+===== Sample #1 Output =====
+1
+1
+2
+0
+2
+
+===== Sample #2 Input =====
+zzaaccaazzccaacczz
+3
+2 18
+10 18
+3 5
+
+===== Sample #2 Output =====
+1
+2
+0
+

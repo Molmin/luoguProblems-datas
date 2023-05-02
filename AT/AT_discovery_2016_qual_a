@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+40
+===== Sample #1 Output =====
+DiscoPresentsDiscoveryChannelProgramming
+Contest2016
+===== Sample #2 Input =====
+17
+===== Sample #2 Output =====
+DiscoPresentsDisc
+overyChannelProgr
+ammingContest2016
+===== Sample #3 Input =====
+51
+===== Sample #3 Output =====
+DiscoPresentsDiscoveryChannelProgrammingContest2016

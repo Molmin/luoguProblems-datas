@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+10
+rocesfedoc
+
+===== Sample #1 Output =====
+codeforces
+
+===== Sample #2 Input =====
+16
+plmaetwoxesisiht
+
+===== Sample #2 Output =====
+thisisexampletwo
+
+===== Sample #3 Input =====
+1
+z
+
+===== Sample #3 Output =====
+z
+

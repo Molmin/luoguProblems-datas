@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+12
+quatro
+vinte e tres
+cento e vinte e sete
+mil
+doze mil duzentos e cinco
+quatrocentos mil e cinco
+quatrocentos e trinta e sete mil e cem
+um milhao, cem mil quinhentos e seis
+trezentos e trinta e dois bilioes, quinze mil cento e oito
+mil milhoes
+duzentos bilioes, setenta e oito milhoes, sete mil e cem
+quinhentos bilioes e tres mil
+===== Sample #1 Output =====
+12
+4
+23
+127
+1000
+12205
+400005
+437100
+1100506
+332000015108
+1000000000
+200078007100
+500000003000

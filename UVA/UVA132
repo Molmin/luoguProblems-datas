@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+Object2
+4 3
+32 52 61 71 63 47 11 21 00
+Square
+2 2
+11 31 33 13 00
+#
+===== Sample #1 Output =====
+Object2
+6
+Square
+2

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3 3
+1 0.67 1.67
+1 2 1 430
+3 0 2 460
+1 4 0 420
+===== Sample #1 Output =====
+Nasa can spend 1354 taka.

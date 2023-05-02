@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 2 1 3
+
+===== Sample #1 Output =====
+TRIANGLE
+
+===== Sample #2 Input =====
+7 2 2 4
+
+===== Sample #2 Output =====
+SEGMENT
+
+===== Sample #3 Input =====
+3 5 9 1
+
+===== Sample #3 Output =====
+IMPOSSIBLE
+

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+4
+SwimmingPool OldTree
+BirdsNest Garage
+Garage SwimmingPool
+3
+Toilet Hospital
+VideoGame Toilet
+===== Sample #1 Output =====
+Scenario #1:
+BirdsNest
+Garage
+SwimmingPool
+OldTree
+
+Scenario #2:
+VideoGame
+Toilet
+Hospital

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2
+2
+1 2
+1 2
+2 2
+5
+1 2
+2 3
+3 4
+4 5
+4 4 4 4 4
+4 4 4 4 4
+===== Sample #1 Output =====
+Case 1:
+1: 2
+2: 3
+... 48 more lines with answer 0...
+Case 2:
+1: 0
+2: 0
+3: 0
+4: 15
+... 46 more lines with answer 0...

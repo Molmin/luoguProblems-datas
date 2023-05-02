@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+3
+511
+10
+10
+223
+20
+10
+10
+10
+15
+355
+50
+40
+30
+40
+50
+50
+30
+30
+20
+60
+===== Sample #1 Output =====
+green and blue died
+blue wins
+5
+green wins
+10
+10

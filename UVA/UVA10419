@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+20 10
+100 4
+10 2
+0 0
+===== Sample #1 Output =====
+CASE 1:
+No Solution.
+CASE 2:
+11+11+17+61
+CASE 3:
+3+7

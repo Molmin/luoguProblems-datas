@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+DDRRR
+
+===== Sample #1 Output =====
+D
+
+===== Sample #2 Input =====
+6
+DDRRRR
+
+===== Sample #2 Output =====
+R
+

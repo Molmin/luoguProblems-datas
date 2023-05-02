@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+abcd
+zaza
+ataka
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+4
+dfs
+bfs
+sms
+mms
+===== Sample #2 Output =====
+8
+===== Sample #3 Input =====
+3
+abc
+bcd
+a
+===== Sample #3 Output =====
+0
+===== Sample #4 Input =====
+6
+lapochka
+kartyshka
+bigbabytape
+morgenshtern
+ssshhhiiittt
+queen
+===== Sample #4 Output =====
+2028

@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+4
+hello
+hell
+heaven
+goodbye
+3
+hi
+he
+h
+7
+structure
+structures
+ride
+riders
+stress
+solstice
+ridiculous
+===== Sample #1 Output =====
+2.00
+1.67
+2.71

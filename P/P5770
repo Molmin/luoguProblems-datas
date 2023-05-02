@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+5
+5 1
+5 2
+5 3
+5 4
+5 5
+
+===== Sample #1 Output =====
+12
+aaaab
+12
+aaabb
+12
+aabab
+12
+aabbb
+12
+ababb
+

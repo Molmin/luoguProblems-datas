@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+The first line contains four
+numbers twenty eight. The next
+line is empty. The next two
+lines contain six strings '-'.
+The next line contains number
+four followed by number seventy
+seven followed by string 'meat'
+followed by three strings "!".
+===== Sample #1 Output =====
+28 28 28 28
+
+------
+------
+4 77 meat!!!

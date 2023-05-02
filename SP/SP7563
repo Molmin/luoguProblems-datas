@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+\n
+3\n2\njohn judy 1\nmary peter 1\n3\njohn judy 7\njohn peter 2\njudy peter 2\n7\njohn judy 3\nkatie peter 4\njohn peter 2\njudy mary 1\npeter mary 2\njohn katie 1\nkatie mary 1\n\n\n
+===== Sample #1 Output =====
+\n

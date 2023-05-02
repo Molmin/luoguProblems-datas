@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+AB
+?
+CD
+?
+4
+AB
+?
+?
+?
+0
+===== Sample #1 Output =====
+Case 1: 64
+Case 2: 128

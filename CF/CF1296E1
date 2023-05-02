@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+9
+abacbecfd
+===== Sample #1 Output =====
+YES
+001010101
+===== Sample #2 Input =====
+8
+aaabbcbb
+===== Sample #2 Output =====
+YES
+01011011
+===== Sample #3 Input =====
+7
+abcdedc
+===== Sample #3 Output =====
+NO
+===== Sample #4 Input =====
+5
+abcde
+===== Sample #4 Output =====
+YES
+00000

@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+23
+BBBB
+CCCC
+DDDD
+FFFF
+GGGG
+HHHH
+JJJJ
+KKKK
+LLLL
+MMMM
+NNNN
+PPPP
+QQQQ
+RRRR
+SSSS
+TTTT
+VVVV
+WWWW
+XXXX
+YYYY
+ZZZZ
+BAAC
+CAAB
+===== Sample #1 Output =====
+2

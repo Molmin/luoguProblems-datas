@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 2
+Joi
+===== Sample #1 Output =====
+JOI
+===== Sample #2 Input =====
+1 1
+O
+===== Sample #2 Output =====
+o
+===== Sample #3 Input =====
+6 3
+JoIOji
+===== Sample #3 Output =====
+JoioJI

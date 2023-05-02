@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+2 4
+ABCD
+ABCE
+1 2 3 4
+
+===== Sample #1 Output =====
+16
+===== Sample #2 Input =====
+3 3
+ABC
+BCD
+CDE
+5 4 12
+
+===== Sample #2 Output =====
+21

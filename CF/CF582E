@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+?
+2
+1 0 1 0 1
+0 1 1 0 1
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+(A)?(?)
+1
+1 1 0 0 0
+
+===== Sample #2 Output =====
+4
+
+===== Sample #3 Input =====
+((?)&(?))|((?)&(?))
+0
+
+===== Sample #3 Output =====
+4096
+===== Sample #4 Input =====
+b
+1
+1 0 1 1 1
+
+===== Sample #4 Output =====
+1
+

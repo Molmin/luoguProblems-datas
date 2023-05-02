@@ -1,0 +1,29 @@
+===== Sample #1 Input =====
+5
+a 0
+a 1
+b 2
+c 2 3
+b 4
+===== Sample #1 Output =====
+2
+1
+2
+===== Sample #2 Input =====
+11
+a 0
+a 1
+a 2
+a 3
+a 2
+c 4 5
+a 5
+a 6
+c 8 7
+b 8
+b 8
+===== Sample #2 Output =====
+2
+2
+8
+8

@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+1
+2 2
+===== Sample #1 Output =====
+4
+Explaination
+Leha can obtain total score 4 in the following way.
+
+    1. In the first step, he colors down left cell, all the neighboring cells of this cell are uncolored.
+        So, it adds 0 to total score.
+    2. In second step, he can color upper right cell, it also adds total 0 to the score.
+    3. In third step, he can color top left cell. 
+        There are two neighboring cell of this cell, both of which are colored. So, this add 2 to the score.
+    4. In the last step, he can choose the remaining down right cell. 
+        There are two neighboring cell of this cell, both of which are colored. 
+        So, this also add 2 to the score.
+
+Leha can't obtain a score more than 4. Hence 4 is the answer.

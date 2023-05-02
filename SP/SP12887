@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\n5 5\n1 1 \n3 4\nLRUD\n2 4\n0 2\n0 3\nRULD\n2 4\n0 2\n1 1 \nURDL\n\n
+===== Sample #1 Output =====
+\n10\n-1\n6\n\nExplanation:\n\nTestCase 1 : Minimum time at which A type ant reaches end point = 5 \nMinimum time at which B type ant reaches endpoint = 5\nTestCase 2 : B cannot reach endpoint. Hence answer is -1.\nTestCase 3 : Minimum time at which A type ant reaches end point = 4\nMinimum time at which B type ant reaches endpoint = 2

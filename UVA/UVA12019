@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+8
+1 6
+2 28
+4 5
+5 26
+8 1
+11 1
+12 25
+12 31
+===== Sample #1 Output =====
+Thursday
+Monday
+Tuesday
+Thursday
+Monday
+Tuesday
+Sunday
+Saturday

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+100.0 10.0 0.0 50.0 100.0 50.0
+100.0 10.0 0.0 50.0 100.0 150.0
+100.0 10.0 0.0 -50.0 100.0 50.0
+100.0 10.0 0.0 -50.0 100.0 150.0
+===== Sample #1 Output =====
+The gopher has to swim 0.00 meters and walk 100.00 meters.
+The gopher has to swim 20.00 meters and walk 128.06 meters.
+The gopher has to swim 20.00 meters and walk 128.06 meters.
+The gopher has to swim 40.00 meters and walk 188.68 meters.

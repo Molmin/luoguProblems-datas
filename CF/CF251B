@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+4 1
+2 3 4 1
+1 2 3 4
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+4 1
+4 3 1 2
+3 4 2 1
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+4 3
+4 3 1 2
+3 4 2 1
+
+===== Sample #3 Output =====
+YES
+
+===== Sample #4 Input =====
+4 2
+4 3 1 2
+2 1 4 3
+
+===== Sample #4 Output =====
+YES
+
+===== Sample #5 Input =====
+4 1
+4 3 1 2
+2 1 4 3
+
+===== Sample #5 Output =====
+NO
+

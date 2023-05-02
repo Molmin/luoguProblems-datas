@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+3
+Kuroo
+Shiro
+Katie
+
+===== Sample #1 Output =====
+Kuro
+
+===== Sample #2 Input =====
+7
+treasurehunt
+threefriends
+hiCodeforces
+
+===== Sample #2 Output =====
+Shiro
+
+===== Sample #3 Input =====
+1
+abcabc
+cbabac
+ababca
+
+===== Sample #3 Output =====
+Katie
+
+===== Sample #4 Input =====
+15
+foPaErcvJ
+mZaxowpbt
+mkuOlaHRE
+
+===== Sample #4 Output =====
+Draw
+

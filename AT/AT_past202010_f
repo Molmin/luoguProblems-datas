@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+6 2
+abcde
+caac
+abcde
+caac
+abc
+caac
+===== Sample #1 Output =====
+abcde
+===== Sample #2 Input =====
+9 3
+a
+a
+bb
+bb
+a
+ccc
+bb
+ccc
+dddd
+===== Sample #2 Output =====
+ccc
+===== Sample #3 Input =====
+7 2
+caac
+abcde
+caac
+abc
+abcde
+caac
+abc
+===== Sample #3 Output =====
+AMBIGUOUS

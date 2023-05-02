@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+0000 9999 1
+1000
+0000 9999 1
+0001
+5234 1212 3
+1023 0101 0001
+0 0 0
+===== Sample #1 Output =====
+Case 1: Permanently Locked
+Case 2: 9999
+Case 3: 48

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+C16H18O9+O2=CO2+H2O
+===== Sample #1 Output =====
+C16H18O9+16O2=16CO2+9H2O
+===== Sample #2 Input =====
+Cu(NO3)2+Fe=Fe(NO3)2+Cu
+===== Sample #2 Output =====
+Cu(NO3)2+Fe=Fe(NO3)2+Cu

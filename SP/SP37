@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+4
+2 4
+#.##
+###.
+3 6
+#....#
+#....#
+#..###
+2 3
+##.
+.##
+2 7
+#.#.#.#
+.#.#.#.
+1 1
+#
+1 10
+###....###
+3 2
+##
+.#
+.#
+1 5
+#.#.#
+===== Sample #1 Output =====
+The key falls to depth 2.
+The key falls to depth 0.
+The key can fall through.
+The key falls to depth 2.

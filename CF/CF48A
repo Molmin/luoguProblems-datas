@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+rock
+rock
+rock
+
+===== Sample #1 Output =====
+?
+
+===== Sample #2 Input =====
+paper
+rock
+rock
+
+===== Sample #2 Output =====
+F
+
+===== Sample #3 Input =====
+scissors
+rock
+rock
+
+===== Sample #3 Output =====
+?
+
+===== Sample #4 Input =====
+scissors
+paper
+rock
+
+===== Sample #4 Output =====
+?
+

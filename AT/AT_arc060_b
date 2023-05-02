@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+87654
+30
+===== Sample #1 Output =====
+10
+===== Sample #2 Input =====
+87654
+138
+===== Sample #2 Output =====
+100
+===== Sample #3 Input =====
+87654
+45678
+===== Sample #3 Output =====
+-1
+===== Sample #4 Input =====
+31415926535
+1
+===== Sample #4 Output =====
+31415926535
+===== Sample #5 Input =====
+1
+31415926535
+===== Sample #5 Output =====
+-1

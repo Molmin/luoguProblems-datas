@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+abbcd
+abccd
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+watanoharayasosimakaketekogiidenuto
+watanoharakogiidetemirebahisakatano
+===== Sample #2 Output =====
+20

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+6
+aloha
+arachnid
+dog
+gopher
+rat
+tiger
+3
+oak
+maple
+elm
+===== Sample #1 Output =====
+aloha.arachnid.dog.gopher.rat.tiger
+***

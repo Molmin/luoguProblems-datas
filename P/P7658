@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+1
+LOCK X
+2
+LOCK X
+LOCK Y
+===== Sample #1 Output =====
+1
+-1 1

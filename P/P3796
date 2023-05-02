@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+aba
+bab
+ababababac
+6
+beta
+alpha
+haha
+delta
+dede
+tata
+dedeltalphahahahototatalpha
+0
+===== Sample #1 Output =====
+4
+aba
+2
+alpha
+haha

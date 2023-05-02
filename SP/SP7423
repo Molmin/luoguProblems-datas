@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+\n14 abcab\n1000 abcde\n1000000000 z\n1 zzzzz\n-1 *
+\n
+===== Sample #1 Output =====
+\n4\n200\n1000000000\n0

@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+aaaabbbbaabbcccc
+2
+aaaabbbb
+abcabccc
+===== Sample #1 Output =====
+4

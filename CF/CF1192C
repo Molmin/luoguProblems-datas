@@ -1,0 +1,48 @@
+===== Sample #1 Input =====
+1
+radar
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+1
+robot
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+2
+FLOW
+WOLF
+
+===== Sample #3 Output =====
+2
+
+===== Sample #4 Input =====
+2
+baobab
+bob
+
+===== Sample #4 Output =====
+4097
+
+===== Sample #5 Input =====
+3
+TURING
+SUBMIT
+ACCEPT
+
+===== Sample #5 Output =====
+162
+
+===== Sample #6 Input =====
+3
+MAN1LA
+MAN6OS
+AN4NAS
+
+===== Sample #6 Output =====
+114
+

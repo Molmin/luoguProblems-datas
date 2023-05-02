@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+21 5
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+9435152 272
+
+===== Sample #2 Output =====
+282
+
+===== Sample #3 Input =====
+10 10
+
+===== Sample #3 Output =====
+infinity
+

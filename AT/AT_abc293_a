@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+abcdef
+===== Sample #1 Output =====
+badcfe
+===== Sample #2 Input =====
+aaaa
+===== Sample #2 Output =====
+aaaa
+===== Sample #3 Input =====
+atcoderbeginnercontest
+===== Sample #3 Output =====
+taocedbrgeniencrnoetts

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+10
+103
+0
+===== Sample #1 Output =====
+Scenario 1:
+1 2 5
+1 2 10
+1 5 10
+2 5 10
+Scenario 2:
+Such bells don’t exist

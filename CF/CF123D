@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+aaaa
+
+===== Sample #1 Output =====
+20
+
+===== Sample #2 Input =====
+abcdef
+
+===== Sample #2 Output =====
+21
+
+===== Sample #3 Input =====
+abacabadabacaba
+
+===== Sample #3 Output =====
+188
+

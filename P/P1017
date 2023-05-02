@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+30000 -2
+===== Sample #1 Output =====
+30000=11011010101110000(base-2)
+===== Sample #2 Input =====
+-20000 -2
+===== Sample #2 Output =====
+-20000=1111011000100000(base-2)
+===== Sample #3 Input =====
+28800 -16
+===== Sample #3 Output =====
+28800=19180(base-16)
+===== Sample #4 Input =====
+-25000 -16
+===== Sample #4 Output =====
+-25000=7FB8(base-16)

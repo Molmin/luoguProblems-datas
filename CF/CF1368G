@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2 4
+UUUU
+DDDD
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+2 3
+ULR
+DLR
+===== Sample #2 Output =====
+6
+===== Sample #3 Input =====
+6 6
+ULRUUU
+DUUDDD
+UDDLRU
+DLRLRD
+ULRULR
+DLRDLR
+===== Sample #3 Output =====
+133

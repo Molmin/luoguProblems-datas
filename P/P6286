@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+ab
+bc
+2 1 
+===== Sample #1 Output =====
+DA
+bacdefghijklmnopqrstuvwxyz 
+===== Sample #2 Input =====
+3
+abc
+bcd
+add
+1 2 3 
+===== Sample #2 Output =====
+NE 
+===== Sample #3 Input =====
+3
+bbb
+ccc
+ddd
+2 3 1 
+===== Sample #3 Output =====
+DA
+adbcefghijklmnopqrstuvwxyz 

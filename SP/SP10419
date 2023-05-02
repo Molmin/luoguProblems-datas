@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+ABACA\nNIE\nPIJ\nWODY\nCAMPINAS
+===== Sample #1 Output =====
+11\n7\n5\n8\n20

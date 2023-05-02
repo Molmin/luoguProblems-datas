@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+5 7
+11011
+query 1 2
+query 1 2
+query 1 6
+query 3 4
+toggle 3
+query 3 4
+query 1 6
+===== Sample #1 Output =====
+1
+2
+0
+0
+1
+2

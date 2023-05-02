@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+300 300 moveto
+0 72 rlineto
+2 1 scale
+36 0 rlineto
+1 -4 scale
+0 18 rlineto
+1 -0.25 scale
+0.5 1 scale
+300 300 translate
+90 rotate
+0 0 moveto
+0 72 rlineto
+2 1 scale
+36 0 rlineto
+1 -4 scale
+0 18 rlineto
+*
+===== Sample #1 Output =====
+300 300 moveto
+0 72 rlineto
+72 0 rlineto
+0 -72 rlineto
+300 300 moveto
+-72 0 rlineto
+0 72 rlineto
+72 0 rlineto

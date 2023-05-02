@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+codeforces
+2 0 0
+o 1 2
+e 1 2
+
+===== Sample #1 Output =====
+7
+
+===== Sample #2 Input =====
+codeforces
+2 1 1
+o 1 2
+o 1 2
+
+===== Sample #2 Output =====
+0
+

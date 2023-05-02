@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+4
+2 3 4
+*aba
+a*ab
+ba*b
+abb*
+
+===== Sample #1 Output =====
+1
+4 1
+
+===== Sample #2 Input =====
+4
+2 3 4
+*abc
+a*ab
+ba*b
+cbb*
+
+===== Sample #2 Output =====
+-1
+

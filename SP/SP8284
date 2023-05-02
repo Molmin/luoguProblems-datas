@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n1 \n4 \n1 \n2 \n3 \n-4\n
+===== Sample #1 Output =====
+6\nExplanation\nThe weights are 1,2,3,2\n\n

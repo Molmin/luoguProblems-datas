@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+3 1
+1 2 1
+
+===== Sample #1 Output =====
+Stannis
+
+===== Sample #2 Input =====
+3 1
+2 2 1
+
+===== Sample #2 Output =====
+Daenerys
+
+===== Sample #3 Input =====
+6 3
+5 20 12 7 14 101
+
+===== Sample #3 Output =====
+Stannis
+

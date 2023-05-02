@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+2
+3
+Aulatrias q
+0 0 1
+Binen q
+5 0 2
+Cahin q
+0 -4 3
+2
+Cahin
+3
+Aulatrias p
+0 0 1
+Binen p
+5 0 2
+Cahin p
+0 -4 3
+2
+Binen
+===== Sample #1 Output =====
+2
+4

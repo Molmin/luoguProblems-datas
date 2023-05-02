@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+a
+alien
+born
+less
+lien
+never
+nevertheless
+new
+newborn
+the
+zebra
+===== Sample #1 Output =====
+alien
+newborn

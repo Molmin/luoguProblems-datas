@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+BBW
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+BWBWBW
+===== Sample #2 Output =====
+6

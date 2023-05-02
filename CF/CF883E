@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+4
+a**d
+2
+abcd
+acbd
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+5
+lo*er
+2
+lover
+loser
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+3
+a*a
+2
+aaa
+aba
+
+===== Sample #3 Output =====
+1
+

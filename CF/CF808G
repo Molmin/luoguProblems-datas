@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+winlose???winl???w??
+win
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+glo?yto?e??an?
+or
+
+===== Sample #2 Output =====
+3
+
+===== Sample #3 Input =====
+??c?????
+abcab
+
+===== Sample #3 Output =====
+2
+

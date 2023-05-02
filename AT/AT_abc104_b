@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+AtCoder
+===== Sample #1 Output =====
+AC
+===== Sample #2 Input =====
+ACoder
+===== Sample #2 Output =====
+WA
+===== Sample #3 Input =====
+AcycliC
+===== Sample #3 Output =====
+WA
+===== Sample #4 Input =====
+AtCoCo
+===== Sample #4 Output =====
+WA
+===== Sample #5 Input =====
+Atcoder
+===== Sample #5 Output =====
+WA

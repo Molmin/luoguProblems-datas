@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+3 5
+ab a
+cc c
+ca a
+ee c
+ff d
+
+===== Sample #1 Output =====
+4
+
+===== Sample #2 Input =====
+2 8
+af e
+dc d
+cc f
+bc b
+da b
+eb a
+bb b
+ff c
+
+===== Sample #2 Output =====
+1
+
+===== Sample #3 Input =====
+6 2
+bb a
+ba a
+
+===== Sample #3 Output =====
+0
+

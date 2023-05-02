@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1 50 50
+ATATATATATATATATATATATAT
+===== Sample #1 Output =====
+665496236
+===== Sample #2 Input =====
+271 95 1
+TTTTTTTTTTTTTTTTTTTTTTTT
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+10000000000000000 62 20
+ATAATTATATTTAAAATATTATAT
+===== Sample #3 Output =====
+744124544

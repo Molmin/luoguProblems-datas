@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+file
+a b c b 0
+b c 0
+c 0
+d e f 0
+e f 0
+f e 0
+g h 0
+===== Sample #1 Output =====
+file
+3

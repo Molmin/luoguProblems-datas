@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+6
+Jack captain
+Alice woman
+Charlie man
+Teddy rat
+Bob child
+Julia woman
+
+===== Sample #1 Output =====
+Teddy
+Alice
+Bob
+Julia
+Charlie
+Jack
+

@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+4
+2
+1
+0 1
+5
+0
+4
+3
+0 1
+2 1
+2 3
+3
+9
+0 1
+0 2
+1 2
+1 0
+2 0
+2 1
+0 0
+1 1
+2 2
+===== Sample #1 Output =====
+Case #1: Yes
+Case #2: Yes
+Case #3: No
+Case #4: Yes

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+ada * byron = revived
+alan * turing = intellect
+barack + obama = amazes
+donald + trump = mutant
+===== Sample #1 Output =====
+323 * 18504 = 5976792
+2023 * 461938 = 934500574
+780831 + 47828 = 828659
+489634 + 12057 = 501691

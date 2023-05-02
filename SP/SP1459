@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+1 1 1 1
+0 0 6 3
+1 1 1 2
+[and 7 test cases more]
+===== Sample #1 Output =====
+6
+57
+8
+[and 7 test cases more]

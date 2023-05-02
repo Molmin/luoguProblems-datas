@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+600
+300
+220
+420
+===== Sample #1 Output =====
+520
+===== Sample #2 Input =====
+555
+555
+400
+200
+===== Sample #2 Output =====
+755
+===== Sample #3 Input =====
+549
+817
+715
+603
+===== Sample #3 Output =====
+1152

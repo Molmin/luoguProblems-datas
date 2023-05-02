@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3
+Math
+Algorithm
+Program
+2
+Picture 2
+System 1
+3
+0
+1
+3
+===== Sample #1 Output =====
+Math
+System
+Picture

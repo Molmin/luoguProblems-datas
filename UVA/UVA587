@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+3N,1E,1N,3E,2S,1W.
+10NW.
+END
+===== Sample #1 Output =====
+Map #1
+The treasure is located at (3.000,2.000).
+The distance to the treasure is 3.606.
+Map #2
+The treasure is located at (-7.071,7.071).
+The distance to the treasure is 10.000.

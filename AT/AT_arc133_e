@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+2 1 2 1
+===== Sample #1 Output =====
+11
+===== Sample #2 Input =====
+2 2 5 4
+===== Sample #2 Output =====
+2019
+===== Sample #3 Input =====
+2100 2300 2201 2022
+===== Sample #3 Output =====
+407723438

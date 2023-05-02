@@ -1,0 +1,58 @@
+===== Sample #1 Input =====
+3 3 4 2
+b
+bcd
+cd
+a
+ab
+abc
+===== Sample #1 Output =====
+6
+4
+6
+===== Sample #2 Input =====
+4 3 1 100
+a
+aaaa
+aaaaaaa
+aaaaaaaaaa
+aaa
+aaaaaa
+aaaaaaaaa
+===== Sample #2 Output =====
+2
+2
+2
+===== Sample #3 Input =====
+10 10 86 69
+bbabbaaaaa
+babaababab
+bbababbbba
+aaaaaaaaab
+bbbbbbaabb
+aabbabbbba
+babbbbbbaa
+baaabbaaaa
+aaaaababbb
+ababaaaaaa
+bbaabbbbaa
+abbbbabbbb
+abbaaabaaa
+ababaaaaab
+bbaabbaaaa
+abbbbbbabb
+aabbbabbba
+aaabbbaaaa
+abbbababab
+babaaabbbb
+===== Sample #3 Output =====
+930
+620
+775
+155
+775
+465
+775
+930
+620
+620

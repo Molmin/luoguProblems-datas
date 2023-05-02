@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+1
+5 10 10 10 30 10 20
+FORWARD 30
+PITCH 90
+FORWARD 10
+ROLL -90
+FORWARD 30
+===== Sample #1 Output =====
+Case 1: 10.0000000 31.622776602

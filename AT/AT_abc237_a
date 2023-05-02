@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+10
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+-9876543210
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+483597848400000
+===== Sample #3 Output =====
+No

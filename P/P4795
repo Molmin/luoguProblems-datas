@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+4 3 1
+ACC
+CCA
+ACA
+AAA
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+4 4 3
+CATT
+CAAA
+ATGA
+TCTA
+===== Sample #2 Output =====
+4
+

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 100
+1 4
+2 9
+3 16
+===== Sample #1 Output =====
+10201
+===== Sample #2 Input =====
+3 100
+1 1
+2 2
+3 3
+===== Sample #2 Output =====
+100

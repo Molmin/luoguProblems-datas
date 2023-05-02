@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+AH KH QH TH JH
+KH 5S 3C 5C 7D
+QH QD 2S QC 2C
+===== Sample #1 Output =====
+royal flush
+pair
+full house

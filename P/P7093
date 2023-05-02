@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+9
+2 8 4 1 1 4 4 4 4
+5
+2 16 4 8 2
+3
+2 2 2
+===== Sample #1 Output =====
+rrrlllrrr
+no
+no

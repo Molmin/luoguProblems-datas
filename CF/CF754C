@@ -1,0 +1,46 @@
+===== Sample #1 Input =====
+1
+2
+Vladik netman
+2
+?: Hello, Vladik!
+?: Hi
+
+===== Sample #1 Output =====
+netman: Hello, Vladik!
+Vladik: Hi
+
+===== Sample #2 Input =====
+1
+2
+netman vladik
+3
+netman:how are you?
+?:wrong message
+vladik:im fine
+
+===== Sample #2 Output =====
+Impossible
+
+===== Sample #3 Input =====
+2
+3
+netman vladik Fedosik
+2
+?: users are netman, vladik, Fedosik
+vladik: something wrong with this chat
+4
+netman tigerrrrr banany2001 klinchuh
+4
+?: tigerrrrr, banany2001, klinchuh, my favourite team ever, are you ready?
+klinchuh: yes, coach!
+?: yes, netman
+banany2001: yes of course.
+
+===== Sample #3 Output =====
+Impossible
+netman: tigerrrrr, banany2001, klinchuh, my favourite team ever, are you ready?
+klinchuh: yes, coach!
+tigerrrrr: yes, netman
+banany2001: yes of course.
+

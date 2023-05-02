@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+ab
+cbca
+3
+a b
+b ca
+a efg
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+a
+aaaaa
+2
+a aa
+a aaa
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+a
+z
+1
+a abc
+===== Sample #3 Output =====
+-1

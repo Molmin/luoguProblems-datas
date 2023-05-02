@@ -1,0 +1,46 @@
+===== Sample #1 Input =====
+3
+#book
+#bigtown
+#big
+
+===== Sample #1 Output =====
+#b
+#big
+#big
+
+===== Sample #2 Input =====
+3
+#book
+#cool
+#cold
+
+===== Sample #2 Output =====
+#book
+#co
+#cold
+
+===== Sample #3 Input =====
+4
+#car
+#cart
+#art
+#at
+
+===== Sample #3 Output =====
+#
+#
+#art
+#at
+
+===== Sample #4 Input =====
+3
+#apple
+#apple
+#fruit
+
+===== Sample #4 Output =====
+#apple
+#apple
+#fruit
+

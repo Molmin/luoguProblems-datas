@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+carthorse
+horse
+horse cart
+i do not know u
+ok i now donut
+orchestra
+===== Sample #1 Output =====
+carthorse = horse cart
+carthorse = orchestra
+horse cart = orchestra
+i do not know u = ok i now donut

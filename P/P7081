@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+move left, move right; move up
+move left, move down, move up
+
+===== Sample #1 Output =====
+s/right;/down,/g
+
+===== Sample #2 Input =====
+If not found: move x; else move -x
+If found: move x; else move -x
+
+===== Sample #2 Output =====
+s/ not//g
+
+===== Sample #3 Input =====
+abababa
+cbc
+
+===== Sample #3 Output =====
+s/aba/c/g
+

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+(())()(
+===== Sample #1 Output =====
+(())()()
+===== Sample #2 Input =====
+))((
+===== Sample #2 Output =====
+(())()()

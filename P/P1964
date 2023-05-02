@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+20 3
+63 1 64 yinshifen
+1 10 1 men
+1 1 64 yinshifen
+===== Sample #1 Output =====
+64

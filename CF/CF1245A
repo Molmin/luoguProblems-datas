@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4
+10 10
+1 10
+6 9
+7 3
+
+===== Sample #1 Output =====
+Infinite
+Finite
+Infinite
+Finite
+

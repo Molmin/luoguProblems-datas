@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n0 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0\n\n
+===== Sample #1 Output =====
+3\n\nHint \nExplanation of the sample: \n&nbsp;\nFlip coins 4, 9, and 11 to make them all tails: \n0 0 1 1 1 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 [initial state] \n0 0 0 0 0 0 0 1 1 0 1 1 0 0 0 0 0 0 0 0 [after flipping coin 4] \n0 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 [after flipping coin 9] \n0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 [after flipping coin 11]

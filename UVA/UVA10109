@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+1
+3 3
+9 4 1 -17
+1 -2 -6 14
+1 6 0 4
+2
+3 3
+2 2 2 2
+4 4 4 4
+16/1 16/1 16/1 16/1
+3
+2 3
+1 1 10
+1 1 20
+2 2 50
+4
+1 1
+3 10
+0
+===== Sample #1 Output =====
+Solution for Matrix System # 1
+x[1] = -2
+x[2] = 1
+x[3] = -3
+Solution for Matrix System # 2
+Infinitely many solutions containing 2 arbitrary constants.
+Solution for Matrix System # 3
+No Solution.
+Solution for Matrix System # 4
+x[1] = 10/3

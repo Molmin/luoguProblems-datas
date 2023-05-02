@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3 5 3 1 8
+BerBank University
+University BerMall
+University BerBank
+
+===== Sample #1 Output =====
+11
+
+===== Sample #2 Input =====
+4 2 1 300 1000
+a A
+A aa
+aa AA
+AA a
+
+===== Sample #2 Output =====
+5
+

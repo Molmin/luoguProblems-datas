@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+4
+&lt;n value='parent'&gt;
+&lt;n value='child'&gt;
+&lt;/n&gt;
+&lt;/n&gt;
+2
+next_sibling
+first_child
+0
+===== Sample #1 Output =====
+Case 1:
+parent
+child

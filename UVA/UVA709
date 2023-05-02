@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+28
+This is the example you are
+actually considering.
+25
+Writing e-mails is fun, and with this program,
+they even look nice.
+0
+===== Sample #1 Output =====
+This is the example you
+are actually considering.
+Writing e-mails is fun,
+and with this program,
+they even look nice.

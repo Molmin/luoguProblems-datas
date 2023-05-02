@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+a aa bb cc def ghi
+a a a a a bb bb bb bb c c
+===== Sample #1 Output =====
+3
+5

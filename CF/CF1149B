@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+6 8
+abdabc
++ 1 a
++ 1 d
++ 2 b
++ 2 c
++ 3 a
++ 3 b
++ 1 c
+- 2
+
+===== Sample #1 Output =====
+YES
+YES
+YES
+YES
+YES
+YES
+NO
+YES
+
+===== Sample #2 Input =====
+6 8
+abbaab
++ 1 a
++ 2 a
++ 3 a
++ 1 b
++ 2 b
++ 3 b
+- 1
++ 2 z
+
+===== Sample #2 Output =====
+YES
+YES
+YES
+YES
+YES
+NO
+YES
+NO
+

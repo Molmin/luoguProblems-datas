@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2 2
+C M
+Y Y
+
+===== Sample #1 Output =====
+#Color
+===== Sample #2 Input =====
+3 2
+W W
+W W
+B B
+
+===== Sample #2 Output =====
+#Black&amp;White
+===== Sample #3 Input =====
+1 1
+W
+
+===== Sample #3 Output =====
+#Black&amp;White

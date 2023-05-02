@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+AFB+8HC-4
+===== Sample #1 Output =====
+AFB tighten 8
+HC loosen 4
+===== Sample #2 Input =====
+AFB+8SC-4H-2GDPE+9
+===== Sample #2 Output =====
+AFB tighten 8
+SC loosen 4
+H loosen 2
+GDPE tighten 9

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+1 1 \nI \n2 2 \nXX \nXI \n2 2 \nXI \nIX \n3 3 \nIII \nIXI \nIII \n2 2 \nIO \nOO \n0 0
+===== Sample #1 Output =====
+Tie 4\nMartin 4\nTie 10\nTie 18\nFernando 4

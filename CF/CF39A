@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+1
+5*a++-3*++a+a++
+
+===== Sample #1 Output =====
+11
+
+===== Sample #2 Input =====
+3
+a+++++a
+
+===== Sample #2 Output =====
+8
+

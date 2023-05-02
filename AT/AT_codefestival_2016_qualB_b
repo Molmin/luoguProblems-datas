@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+10 2 3
+abccabaabb
+===== Sample #1 Output =====
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+No
+No
+No
+===== Sample #2 Input =====
+12 5 2
+cabbabaacaba
+===== Sample #2 Output =====
+No
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+No
+===== Sample #3 Input =====
+5 2 2
+ccccc
+===== Sample #3 Output =====
+No
+No
+No
+No
+No

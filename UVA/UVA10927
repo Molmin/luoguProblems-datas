@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+-1 0 1
+0 1 1
+1 0 1
+5
+-1 0 1
+-1 1 2
+-2 2 2
+-3 3 3
+-4 4 2
+0
+===== Sample #1 Output =====
+Data set 1:
+All the lights are visible.
+Data set 2:
+Some lights are not visible:
+x = -4, y = 4;
+x = -2, y = 2.

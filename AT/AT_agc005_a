@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+TSTTSS
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+SSTTST
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+TSSTTTSS
+===== Sample #3 Output =====
+4

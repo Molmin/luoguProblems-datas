@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+banana
+4
+
+===== Sample #1 Output =====
+2
+baan
+
+===== Sample #2 Input =====
+banana
+3
+
+===== Sample #2 Output =====
+3
+nab
+
+===== Sample #3 Input =====
+banana
+2
+
+===== Sample #3 Output =====
+-1
+

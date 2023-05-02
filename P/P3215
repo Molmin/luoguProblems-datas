@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+4 5
+((((
+Replace 1 2 )
+Query 1 2
+Swap 2 3
+Invert 3 4
+Query 1 4
+===== Sample #1 Output =====
+1
+2
+

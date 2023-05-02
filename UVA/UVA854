@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+THE QUICK BROWN FOX JUMPS
+OVER THE LAZY DOG.
+Don’t make codes for letters not appearing
+in the text!
+===== Sample #1 Output =====
+192
+204

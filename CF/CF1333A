@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+3 2
+3 3
+===== Sample #1 Output =====
+BW
+WB
+BB
+BWB
+BWW
+BWB

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 7
+abcdefgh
+===== Sample #1 Output =====
+abgfedch
+===== Sample #2 Input =====
+1 7
+reviver
+===== Sample #2 Output =====
+reviver
+===== Sample #3 Input =====
+4 13
+merrychristmas
+===== Sample #3 Output =====
+meramtsirhcyrs

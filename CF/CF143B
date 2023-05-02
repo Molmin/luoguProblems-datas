@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2012
+
+===== Sample #1 Output =====
+$2,012.00
+===== Sample #2 Input =====
+0.000
+
+===== Sample #2 Output =====
+$0.00
+===== Sample #3 Input =====
+-0.00987654321
+
+===== Sample #3 Output =====
+($0.00)
+===== Sample #4 Input =====
+-12345678.9
+
+===== Sample #4 Output =====
+($12,345,678.90)

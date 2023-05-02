@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+01W345
+729AB6
+CD8FGH
+IJELMN
+OPKRST
+UVQXYZ
+
+===== Sample #1 Output =====
+2
+R2
+U3
+

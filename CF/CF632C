@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+4
+abba
+abacaba
+bcd
+er
+
+===== Sample #1 Output =====
+abacabaabbabcder
+
+===== Sample #2 Input =====
+5
+x
+xx
+xxa
+xxaa
+xxaaa
+
+===== Sample #2 Output =====
+xxaaaxxaaxxaxxx
+
+===== Sample #3 Input =====
+3
+c
+cb
+cba
+
+===== Sample #3 Output =====
+cbacbc
+

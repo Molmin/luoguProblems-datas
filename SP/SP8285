@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2 2 4\n10 10 1\n
+===== Sample #1 Output =====
+\n1\n3025\nExplanation\nFirst case: You have to find the number of ways of choosing 4  independent rectangles from a 2x2 matrix.\nThe only way to do this is to  choose each cell as a separate rectangle.\n\n

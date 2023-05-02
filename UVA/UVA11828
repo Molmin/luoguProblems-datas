@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+3 2
+kxk
+4 1
+addc
+4 3
+Addc
+===== Sample #1 Output =====
+Case 1: 51
+Case 2: 2
+Case 3: 76

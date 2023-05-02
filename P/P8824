@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+6
+touch yyh
+touch yyhtql
+rename yyh yyhnb
+touch qwq
+rename qwq qaq
+ls
+===== Sample #1 Output =====
+yyhnb
+yyhtql
+qaq

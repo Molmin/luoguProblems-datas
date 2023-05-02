@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3 2
+aa
+ab
+aa
+===== Sample #1 Output =====
+2
+2 DS
+1 S
+===== Sample #2 Input =====
+5 6
+....dd
+.ccccd
+.cbbdd
+.aab.a
+aabbaa
+===== Sample #2 Output =====
+5
+2 DDDS
+4 DDLS
+6 DDDS
+2 DS
+5 S
+===== Sample #3 Input =====
+5 3
+...
+aab
+abb
+aab
+.bb
+===== Sample #3 Output =====
+-1

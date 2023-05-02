@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+mari
+to
+zzo
+1321
+===== Sample #1 Output =====
+marizzotomari
+===== Sample #2 Input =====
+abra
+cad
+abra
+123
+===== Sample #2 Output =====
+abracadabra
+===== Sample #3 Input =====
+a
+b
+c
+1
+===== Sample #3 Output =====
+a

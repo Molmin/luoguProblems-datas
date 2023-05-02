@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+aba
+ababaab
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+atcoder
+ac
+===== Sample #2 Output =====
+-1

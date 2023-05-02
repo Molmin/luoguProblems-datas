@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+4 3
+codeforces codesecrof
+contest round
+letter message
+codeforces contest letter contest
+
+===== Sample #1 Output =====
+codeforces round letter round
+
+===== Sample #2 Input =====
+5 3
+joll wuqrd
+euzf un
+hbnyiyc rsoqqveh
+hbnyiyc joll joll euzf joll
+
+===== Sample #2 Output =====
+hbnyiyc joll joll un joll
+

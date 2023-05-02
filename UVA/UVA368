@@ -1,0 +1,49 @@
+===== Sample #1 Input =====
+&lt;HTML&gt;
+&lt;HEAD&gt;
+&lt;TITLE&gt;Indexing Web Pages&lt;/TITLE&gt;
+&lt;/HEAD&gt;
+&lt;BODY&gt;
+&lt;P&gt;Write a program to create an index of a small collection
+of World Wide Web pages. Each "page" is a text file in a
+special format called HTML (HyperText Markup Language). The
+HTML format includes regular text and special HTML commands,
+which are always enclosed in angle braces. For example, the
+string &lt;A HREF="layout.htm"&gt; is an HTML command meaning that
+the following text should be highlighted; a user click on
+the highlighted text would cause a web browser to fetch and
+display the file layout.htm.&lt;/P&gt;
+&lt;H1&gt;Following Links&lt;/H1&gt;
+&lt;P&gt;Don't forget that links can be &lt;A HREF="index.htm"&gt;
+self-referential&lt;/A&gt;!&lt;/P&gt;
+&lt;/BODY&gt;
+&lt;/HTML&gt;
+&lt;A bunch of gibberish and a word&gt;
+Note that there is no rule that the file needs to be legal HTML
+(if you know the rules), or that words really be wordseiwlaoieu;a.
+&lt;A HREF="index.htm"&gt;Watch out for mutual references!
+&lt;/HTML&gt;
+file
+index
+html
+HTML
+recursion
+word
+is
+===== Sample #1 Output =====
+"file" can be found in the following pages:
+index.htm
+layout.htm
+"index" can be found in the following pages:
+index.htm
+"html" can be found in the following pages:
+index.htm
+layout.htm
+"HTML" can be found in the following pages:
+index.htm
+layout.htm
+"recursion" can not be found in any page.
+"word" can not be found in any page.
+"is" can be found in the following pages:
+index.htm
+layout.htm

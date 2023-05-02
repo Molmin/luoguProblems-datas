@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3 \n&nbsp;\noox \n.x. \n..x \n&nbsp;\nxox \nxoo \noxx \n&nbsp;\no.. \n... \n...
+===== Sample #1 Output =====
+lose \ntie \ninvalid\n\nExplanation: \nCase 1: Player x can win by placing x in either last cell of the middle row, or the first cell of the last row. So the next player, o, cant prevent him from winning from this state. \nCase 2: It is completed game, as you can see no one has won. So, it has ended in a tie. \nCase 3: Player x should have started the game. Hence such a state can never be reached.

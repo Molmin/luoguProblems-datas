@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+9 8
+17 0 12 6 10 8 2 4 5
+2 3 12
+2 3 6
+2 4 6
+4 6 2
+2 8 2
+1 2 17
+1 8 2
+9 9 14
+===== Sample #1 Output =====
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+Yes
+===== Sample #2 Input =====
+4 1
+7 21 14 0
+1 4 1000000000
+===== Sample #2 Output =====
+Yes

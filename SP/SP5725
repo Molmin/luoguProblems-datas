@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n3\n0 2 1\n1 2 3\n1 3 2\n\n
+===== Sample #1 Output =====
+\n1\n0\n2\n

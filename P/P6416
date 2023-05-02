@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+6
+JANJETINA
+5
+1 J
+1 A
+6 N
+6 I
+5 E
+===== Sample #1 Output =====
+1
+0
+2
+1
+1
+===== Sample #2 Input =====
+5
+A
+5
+1 A
+2 A
+3 A
+4 A
+5 B
+===== Sample #2 Output =====
+1
+2
+3
+4
+0
+===== Sample #3 Input =====
+3
+AB
+3
+2 A
+2 B
+3 B
+===== Sample #3 Output =====
+1
+1
+2

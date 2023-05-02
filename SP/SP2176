@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3 5 5
+...XX
+.X.XX
+XX...
+5 6 6
+..X.X.
+.XXX..
+.XX.X.
+.XXX.X
+.XX.XX
+0 0 0
+===== Sample #1 Output =====
+6
+9

@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+4 2
+abcd
+bcde
+bcad
+bcde
+
+===== Sample #1 Output =====
+aaabcde
+
+===== Sample #2 Input =====
+5 3
+bwwwz
+hrhdh
+sepsp
+sqfaf
+ajbvw
+
+===== Sample #2 Output =====
+aaaepfafw
+
+===== Sample #3 Input =====
+7 6
+ypnxnnp
+pnxonpm
+nxanpou
+xnnpmud
+nhtdudu
+npmuduh
+pmutsnz
+
+===== Sample #3 Output =====
+aaaaaaadudsnz
+

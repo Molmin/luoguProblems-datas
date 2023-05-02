@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+2 3 1
+9 4 7
+3 8
+10 5
+2
+19 3 1
+17 9 0
+
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+见附件中的 traffic/traffic2.in
+===== Sample #2 Output =====
+见附件中的 traffic/traffic2.ans
+===== Sample #3 Input =====
+见附件中的 traffic/traffic3.in
+===== Sample #3 Output =====
+见附件中的 traffic/traffic3.ans
+===== Sample #4 Input =====
+见附件中的 traffic/traffic4.in
+===== Sample #4 Output =====
+见附件中的 traffic/traffic4.ans
+===== Sample #5 Input =====
+见附件中的 traffic/traffic5.in
+===== Sample #5 Output =====
+见附件中的 traffic/traffic5.ans

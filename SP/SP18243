@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+3\nabc\n1 2\naa\n1 2\naba\n1 1
+===== Sample #1 Output =====
+3 4\n2 4\n3 3

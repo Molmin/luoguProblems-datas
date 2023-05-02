@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+aabbaabb
+computer
+abzla
+samhita
+===== Sample #1 Output =====
+aabbaa
+c
+aba
+aha

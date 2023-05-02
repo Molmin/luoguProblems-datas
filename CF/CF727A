@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2 162
+
+===== Sample #1 Output =====
+YES
+5
+2 4 8 81 162 
+
+===== Sample #2 Input =====
+4 42
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+100 40021
+
+===== Sample #3 Output =====
+YES
+5
+100 200 2001 4002 40021 
+

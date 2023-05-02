@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+PRuvetSTAaYA
+
+===== Sample #1 Output =====
+5
+
+===== Sample #2 Input =====
+OYPROSTIYAOPECHATALSYAPRIVETSTASYA
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+helloworld
+
+===== Sample #3 Output =====
+0
+

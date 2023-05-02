@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+ARC
+===== Sample #1 Output =====
+73
+===== Sample #2 Input =====
+S
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+NOLEMONNOMELON
+===== Sample #3 Output =====
+350

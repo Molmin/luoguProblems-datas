@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+2
+1
+10 1
+2 5
+2
+4
+4
+10 15 20 17
+0 3 4 3
+1 2 3
+4
+4
+10 15 50 30
+0 3 4 3
+1 2 3
+0
+===== Sample #1 Output =====
+45, 5
+Number of fish expected: 31
+240, 0, 0, 0
+Number of fish expected: 480
+115, 10, 50, 35
+Number of fish expected: 724

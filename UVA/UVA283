@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+3
+Hello Contestant,$
+Please write a program which gives$
+the text Hello world.$
+1
+To be or not to be, that is the question.$
+===== Sample #1 Output =====
+335
+167

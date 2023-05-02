@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+abaacb
+cbbaa
+#
+===== Sample #1 Output =====
+ababac
+No Successor

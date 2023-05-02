@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+9 3
+Amily S 1
+Lydia S 2
+Lisa S 4
+Beck H 1
+Freddie S 5
+Cliche S 6
+Aesop S 7
+Eli S 8
+Norton S 9
+Tiletower H 3
+Yidhra H 2
+Emma S 3
+
+===== Sample #1 Output =====
+Beck
+Lisa
+Emma
+Lydia
+Amily

@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4
+5 3
+ABC
+D-B
+CB-
+E-E
+CA-
+3 2
+AB
+C-
+-C
+4 4
+-A--
+BB--
+--CC
+--D-
+3 4
+AAAA
+BBBB
+CCCC
+===== Sample #1 Output =====
+Case 1: 12 123
+Case 2: -1
+Case 3: 23 123 234 1234
+Case 4: 1 2 3 4 12 13 14 23 24 34 123 124 134 234

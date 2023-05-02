@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3 1 282282277
+===== Sample #1 Output =====
+16
+===== Sample #2 Input =====
+50 25 998244353
+===== Sample #2 Output =====
+131276976

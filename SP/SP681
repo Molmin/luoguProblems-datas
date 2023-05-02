@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+2
+7 3 2
+22 5 4
+===== Sample #1 Output =====
+2
+10
+(* In the first test case , all the towers are : 2-1-2 , 2-3-2 . *)

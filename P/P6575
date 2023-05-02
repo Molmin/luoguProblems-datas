@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+4 2 1
+1 1
+2 0 2
+2 1 3
+1 2
+
+===== Sample #1 Output =====
+home
+2
+2 0 1
+2 2 3
+===== Sample #2 Input =====
+5 2 1
+1 1
+2 0 2
+2 1 3
+2 2 4
+1 3
+
+===== Sample #2 Output =====
+detention
+===== Sample #3 Input =====
+3 3 3
+2 1 2
+2 0 2
+1 0
+
+===== Sample #3 Output =====
+detention

@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+6
+tom
+lucius
+ginny
+harry
+ginny
+harry
+
+===== Sample #1 Output =====
+NO
+NO
+NO
+NO
+YES
+YES
+
+===== Sample #2 Input =====
+3
+a
+a
+a
+
+===== Sample #2 Output =====
+NO
+YES
+YES
+

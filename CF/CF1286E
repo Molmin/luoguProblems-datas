@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+7
+a 1
+a 0
+y 3
+y 5
+v 4
+u 6
+r 8
+===== Sample #1 Output =====
+1
+2
+4
+5
+7
+9
+12
+===== Sample #2 Input =====
+4
+a 2
+y 2
+z 0
+y 2
+===== Sample #2 Output =====
+2
+2
+2
+2
+===== Sample #3 Input =====
+5
+a 7
+u 5
+t 3
+s 10
+s 11
+===== Sample #3 Output =====
+7
+9
+11
+12
+13

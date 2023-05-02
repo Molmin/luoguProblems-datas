@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2 0 1 0 0 0 0 0 0
+1
+311 113
+===== Sample #1 Output =====
+2 1110
+
+Constraints:
+1 &lt;= (a1  + a2 + .... a9) &lt;= 500
+1 &lt;= Q &lt;= 20
+ai &gt;= 0

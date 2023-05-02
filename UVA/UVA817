@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2100100=
+77=
+=
+===== Sample #1 Output =====
+Problem 1
+2100-100=
+2*100*10+0=
+2*100*10-0=
+Problem 2
+IMPOSSIBLE

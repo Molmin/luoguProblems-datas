@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+0 1 2 3
+
+===== Sample #1 Output =====
+Shi
+2 0 1 3 
+2 1 3 0 
+
+===== Sample #2 Input =====
+2
+0 0 0 0
+
+===== Sample #2 Output =====
+Shi
+0 1 2 3 
+0 1 2 3 
+
+===== Sample #3 Input =====
+2
+0 1 2 2
+
+===== Sample #3 Output =====
+Fou
+

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n\n\n4\n3 42 7\n2 2 6\n2 1 105\n4 10 13\n\n
+===== Sample #1 Output =====
+\n\n\n2\n1\n1\n3\n\nWhitespace Explanation:\nIf there no input in any line, then the output for that line is a blank line :)) Sorry for inconvenience. >:)

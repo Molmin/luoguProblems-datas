@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+7 8 1 1
+7 9 5 2
+9.05 9.20 28 20
+===== Sample #1 Output =====
+Case #1: 9.00
+Case #2: Impossible
+Case #3: 9.41

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1
+4 11
+bbab
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+2
+44 1000
+baaaaaabaabbaaabbbbabbbaaabbbababaaabaaabaaa
+41 1000
+abaabbabaaabaabbbbbbbbbbbababbbbaaabaabbb
+===== Sample #2 Output =====
+195
+24

@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+4
+aabaaaabaa
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+2
+aabaaaabaa
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+3
+aabaaaabaa
+===== Sample #3 Output =====
+impossible
+===== Sample #4 Input =====
+5
+aabaaaabaa
+===== Sample #4 Output =====
+impossible
+===== Sample #5 Input =====
+2
+acaabcbababaaac
+===== Sample #5 Output =====
+6

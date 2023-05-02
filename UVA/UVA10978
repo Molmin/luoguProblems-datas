@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+13
+AS ACE
+2S TWO
+3S THREE
+4C FOUR
+5C FIVE
+6C SIX
+7D SEVEN
+8D EIGHT
+9D NINE
+TH TEN
+JH JACK
+QH QUEEN
+KH KING
+0
+===== Sample #1 Output =====
+QH 4C AS 8D KH 2S 7D 5C TH JH 3S 6C 9D

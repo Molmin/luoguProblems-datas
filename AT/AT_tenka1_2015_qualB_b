@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+{1:2}
+===== Sample #1 Output =====
+dict
+===== Sample #2 Input =====
+{1,2}
+===== Sample #2 Output =====
+set
+===== Sample #3 Input =====
+{}
+===== Sample #3 Output =====
+dict

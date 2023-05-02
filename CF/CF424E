@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+6
+RGB
+GRG
+BBB
+GGR
+BRG
+BRB
+
+===== Sample #1 Output =====
+17.119213696601992
+

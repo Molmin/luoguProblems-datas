@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+125 5
+30 3
+80 2
+81 3
+===== Sample #1 Output =====
+125 25 5 1
+Boring!
+Boring!
+81 27 9 3 1

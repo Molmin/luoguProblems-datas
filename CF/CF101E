@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+2 2 10
+0 0
+0 1
+
+===== Sample #1 Output =====
+2
+SC
+
+===== Sample #2 Input =====
+3 3 10
+0 2 0
+0 0 2
+
+===== Sample #2 Output =====
+10
+CSSC
+
+===== Sample #3 Input =====
+3 3 2
+0 1 1
+1 1 0
+
+===== Sample #3 Output =====
+4
+SCSC
+

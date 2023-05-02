@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+aababaababb
+===== Sample #1 Output =====
+7
+1 2 1
+1 10 5
+2 6 2
+4 9 3
+6 7 1
+7 10 2
+10 11 1

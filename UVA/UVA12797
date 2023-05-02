@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+6
+DdaAaA
+CBAcca
+eEaeeE
+bBbabB
+DbDdDc
+fFaAaC
+7
+aAaaaaa
+aAaaaAa
+aAaaaAA
+aaAaAaa
+AaAaaAa
+aaAAaAa
+aaaaaAa
+===== Sample #1 Output =====
+13
+-1

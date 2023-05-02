@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+​3 3
+EES
+SSW
+ESX​
+
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+​3 3
+EES
+SSW
+EEX​
+
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+​3 4
+EXES
+WSNS
+XNNX
+===== Sample #3 Output =====
+4

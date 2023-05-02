@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+banana
+?a?
+bananas
+?a?
+abide
+a??d
+abide
+a?d
+abracadabra
+a?a
+acisredis
+?b
+acisredis
+??
+icpc
+world?finals
+===== Sample #1 Output =====
+2
+3
+1
+0
+2
+0
+8
+0

@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+2
+1 2 2
+dd
+gg
+
+3 3 3
+aaa
+aaa
+baa
+
+aaa
+aaa
+baa
+
+aaa
+aaa
+bcc
+
+===== Sample #1 Output =====
+d 0 0 0
+g 0 1 0
+
+a 1 1 1
+b 1 2 0
+c 2 2 1

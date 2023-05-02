@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4 4
+2 2 2 2
+honi
+oker
+nera
+irak
+===== Sample #1 Output =====
+#.#.#.#.
+.#.#.#.#
+#.honi#.
+.#oker.#
+#.nera#.
+.#irak.#
+#.#.#.#.
+.#.#.#.#
+===== Sample #2 Input =====
+2 4
+1 0 3 1
+rima
+mama
+===== Sample #2 Output =====
+#.#.#.#
+rima.#.
+mama#.#
+.#.#.#.

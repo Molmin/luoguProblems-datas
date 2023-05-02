@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+000111
+101
+11
+011
+===== Sample #1 Output =====
+relatively prime
+01

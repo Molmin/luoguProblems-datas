@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4
+1 1 2
+2 10 4
+5 2 3
+3 2 2
+
+===== Sample #1 Output =====
+OBEY
+REBEL
+OBEY
+OBEY
+

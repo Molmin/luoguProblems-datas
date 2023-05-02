@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+6 10
+6 100
+0 0
+===== Sample #1 Output =====
+1 4 2 8 5 7
+Not found.

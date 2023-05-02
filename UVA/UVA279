@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+2
+2 vv 2
+7 vhhhvhh 4
+===== Sample #1 Output =====
+7
+357

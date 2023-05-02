@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+next
+2
+nextpermutation
+nextelement
+
+===== Sample #1 Output =====
+nextelement
+
+===== Sample #2 Input =====
+find
+4
+find
+findfirstof
+findit
+fand
+
+===== Sample #2 Output =====
+find
+
+===== Sample #3 Input =====
+find
+4
+fondfind
+fondfirstof
+fondit
+fand
+
+===== Sample #3 Output =====
+find
+

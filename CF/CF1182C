@@ -1,0 +1,51 @@
+===== Sample #1 Input =====
+14
+wow
+this
+is
+the
+first
+mcdics
+codeforces
+round
+hooray
+i
+am
+proud
+about
+that
+
+===== Sample #1 Output =====
+3
+about proud
+hooray round
+wow first
+this is
+i that
+mcdics am
+
+===== Sample #2 Input =====
+7
+arsijo
+suggested
+the
+idea
+for
+this
+problem
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+4
+same
+same
+same
+differ
+
+===== Sample #3 Output =====
+1
+same differ
+same same
+

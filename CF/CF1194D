@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+4
+0 3
+3 3
+3 4
+4 4
+
+===== Sample #1 Output =====
+Bob
+Alice
+Bob
+Alice
+

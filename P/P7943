@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+3 3 5
+aaa
+baa
+baa
+
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+3 3 2
+xyz
+qaq
+aba
+
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+5 3 2
+cca
+cbb
+acb
+bbb
+acb
+
+===== Sample #3 Output =====
+600
+===== Sample #4 Input =====
+5 3 5
+aba
+bbb
+bbb
+aba
+bcb
+
+===== Sample #4 Output =====
+120

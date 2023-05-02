@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+7
+aabaaab
+===== Sample #1 Output =====
+3 7 4 5 6 1 2

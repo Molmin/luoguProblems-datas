@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+180001
+12345
+615000
+===== Sample #1 Output =====
+Case 1: 2000
+Case 2: 0
+Case 3: 50250

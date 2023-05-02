@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+voltage
+tag
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+atcoder
+ace
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+gorilla
+gorillagorillagorilla
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+toyotasystems
+toyotasystems
+===== Sample #4 Output =====
+Yes

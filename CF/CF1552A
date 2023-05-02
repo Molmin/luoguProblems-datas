@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+3
+lol
+10
+codeforces
+5
+aaaaa
+4
+dcba
+===== Sample #1 Output =====
+2
+6
+0
+4

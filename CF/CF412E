@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+gerald.agapov1991@gmail.com
+
+===== Sample #1 Output =====
+18
+
+===== Sample #2 Input =====
+x@x.x@x.x_e_@r1.com
+
+===== Sample #2 Output =====
+8
+
+===== Sample #3 Input =====
+a___@1.r
+
+===== Sample #3 Output =====
+1
+
+===== Sample #4 Input =====
+.asd123__..@
+
+===== Sample #4 Output =====
+0
+

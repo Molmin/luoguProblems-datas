@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+5 4 0 0 0 0 0 0 0 0 0 0 0 0 0
+5 5 0 0 0 0 0 0 0 0 0 0 0 0 0
+100 100 0 0 0 0 0 0 0 0 0 2 1 0 0
+===== Sample #1 Output =====
+Case #1: Alice
+Case #2: Bob
+Case #3: Alice

@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+abcabcabc
+3
+ab
+bc
+ca
+1
+1
+1
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+abracadabra
+4
+b
+abra
+cad
+rac
+1
+10
+50
+100
+===== Sample #2 Output =====
+111
+===== Sample #3 Input =====
+abcd
+2
+ad
+bc
+1192
+794
+===== Sample #3 Output =====
+794

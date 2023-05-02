@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+&lt;a&gt;&lt;b&gt;&lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/a&gt;&lt;a&gt;&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;v/&gt;&lt;/b&gt;&lt;/a&gt;&lt;b&gt;&lt;/b&gt;
+4
+a
+a b b
+a b
+b a
+
+===== Sample #1 Output =====
+2
+1
+4
+0
+
+===== Sample #2 Input =====
+&lt;b&gt;&lt;aa/&gt;&lt;/b&gt;&lt;aa&gt;&lt;b/&gt;&lt;b/&gt;&lt;/aa&gt;
+5
+aa b
+b
+aa
+b aa
+a
+
+===== Sample #2 Output =====
+2
+3
+2
+1
+0
+

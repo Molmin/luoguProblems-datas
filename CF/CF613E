@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+code
+edoc
+
+code
+
+===== Sample #1 Output =====
+4
+
+===== Sample #2 Input =====
+aaa
+aaa
+
+aa
+
+===== Sample #2 Output =====
+14
+

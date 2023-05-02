@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+2
+aa
+7
+abcabcd
+5
+aaaaa
+10
+paiumoment
+4
+aazz
+===== Sample #1 Output =====
+2
+7
+2
+10
+3

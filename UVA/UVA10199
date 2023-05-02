@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+6
+sugarloaf
+maracana
+copacabana
+ipanema
+corcovado
+lapa
+7
+ipanema copacabana
+copacabana sugarloaf
+ipanema sugarloaf
+maracana lapa
+sugarloaf maracana
+corcovado sugarloaf
+lapa corcovado
+5
+guanabarabay
+downtown
+botanicgarden
+colombo
+sambodromo
+4
+guanabarabay sambodromo
+downtown sambodromo
+sambodromo botanicgarden
+colombo sambodromo
+0
+===== Sample #1 Output =====
+City map #1: 1 camera(s) found
+sugarloaf
+City map #2: 1 camera(s) found
+sambodromo

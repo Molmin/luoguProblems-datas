@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+123 223 123 523 200 2000
+===== Sample #1 Output =====
+4
+===== Sample #2 Input =====
+5
+1 2 3 4 5
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+8
+199 100 200 400 300 500 600 200
+===== Sample #3 Output =====
+9

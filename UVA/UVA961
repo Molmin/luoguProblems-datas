@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+0 30000
+1
+1
+1
+0
+( x1 + 1 )
+0 30000
+1
+1
+1
+1
+( x1 + 1 )
+0 30000
+1
+2
+1
+2
+1
+( x1 + 1 )
+( x1 + x2 )
+===== Sample #1 Output =====
+REGULAR
+INCOMPLETE 0
+INCOMPLETE 0
+AMBIGUOUS 2

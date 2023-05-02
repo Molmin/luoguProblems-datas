@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+6
+9 4
+aaaaaaaaa
+aaaa
+7 3
+abacaba
+aaa
+5 4
+aabcd
+abcd
+4 2
+abba
+bb
+6 4
+baraka
+baka
+8 7
+question
+problem
+===== Sample #1 Output =====
+5
+6
+3
+4
+4
+-1

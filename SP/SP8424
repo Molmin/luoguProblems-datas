@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+3 3
+5 10
+2 5 10
+-1 -10 3
+-3  6 -2
+2 3
+8 11
+2 5 10
+-1 -10 2
+===== Sample #1 Output =====
+6 10
+NO NO
+
+Constraints:
+t &lt;= 10
+1 &lt;= M,N &lt;= 25
+-1000 &lt;= A &lt;= B &lt; 1000
+-25 &lt;= Vij &lt;= 25

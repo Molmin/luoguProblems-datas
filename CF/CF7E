@@ -1,0 +1,37 @@
+===== Sample #1 Input =====
+1
+#define sum x + y
+1 * sum
+
+===== Sample #1 Output =====
+Suspicious
+
+===== Sample #2 Input =====
+1
+#define sum  (x + y)
+sum - sum
+
+===== Sample #2 Output =====
+OK
+
+===== Sample #3 Input =====
+4
+#define sum  x + y
+#define mul  a * b
+#define div  a / b
+#define expr sum + mul * div * mul
+expr
+
+===== Sample #3 Output =====
+OK
+
+===== Sample #4 Input =====
+3
+#define SumSafe   (a+b)
+#define DivUnsafe  a/b
+#define DenominatorUnsafe  a*b
+((SumSafe) + DivUnsafe/DivUnsafe + x/DenominatorUnsafe)
+
+===== Sample #4 Output =====
+Suspicious
+

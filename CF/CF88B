@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+2 2 1
+ab
+cd
+1
+A
+
+===== Sample #1 Output =====
+-1
+
+===== Sample #2 Input =====
+2 2 1
+ab
+cd
+1
+e
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+2 2 1
+ab
+cS
+5
+abcBA
+
+===== Sample #3 Output =====
+1
+
+===== Sample #4 Input =====
+3 9 4
+qwertyuio
+asdfghjkl
+SzxcvbnmS
+35
+TheQuIcKbRoWnFOXjummsovertHeLazYDOG
+
+===== Sample #4 Output =====
+2
+

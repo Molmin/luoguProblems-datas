@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+389
+207
+155
+300
+299
+170
+158
+65
+-1
+23
+34
+21
+-1
+-1
+===== Sample #1 Output =====
+Test #1:
+  maximum possible interceptions: 6
+
+Test #2:
+  maximum possible interceptions: 2

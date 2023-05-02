@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+20 3
+4 2 3 11 12
+1 7
+3 18 5 10
+
+===== Sample #1 Output =====
+We need 9 move operations.
+

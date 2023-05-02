@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 4 10 10
+oxxo
+xoox
+xoox
+oxxo
+xxxxxxoxxo
+oxxoooxoox
+xooxxxxoox
+xooxxxoxxo
+oxxoxxxxxx
+ooooxxxxxx
+xxxoxxoxxo
+oooxooxoox
+oooxooxoox
+xxxoxxoxxo
+===== Sample #1 Output =====
+4

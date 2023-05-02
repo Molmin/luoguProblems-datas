@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+45 \n125 \n148 \n233 \n2 4 11 \n346 \n1 \n56 \n125 \n148 \n233 \n2 4 11 \n346 \n4 5 12 \n2
+===== Sample #1 Output =====
+Case 1\nPoints: 3\n13\n13\n9\nCase 2\nPoints: 1\n19

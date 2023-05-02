@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+9
+add
+for 43
+end
+for 10
+for 15
+add
+end
+add
+end
+
+===== Sample #1 Output =====
+161
+
+===== Sample #2 Input =====
+2
+for 62
+end
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+11
+for 100
+for 100
+for 100
+for 100
+for 100
+add
+end
+end
+end
+end
+end
+
+===== Sample #3 Output =====
+OVERFLOW!!!
+

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+10 5
+bgcbaaaaaa
+cccaaaaaaa
+
+===== Sample #1 Output =====
+5 2
+===== Sample #2 Input =====
+10 100
+melodypond
+riversongg
+
+===== Sample #2 Output =====
+118219 79724
+

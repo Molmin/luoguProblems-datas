@@ -1,0 +1,66 @@
+===== Sample #1 Input =====
+3 7
+.......
+.......
+.BB.B..
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+4 5
+..B..
+..B..
+B.B.B
+BBB.B
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+4 6
+..B...
+B.B.BB
+BBB.BB
+BBBBBB
+
+===== Sample #3 Output =====
+1
+
+===== Sample #4 Input =====
+1 1
+B
+
+===== Sample #4 Output =====
+1
+
+===== Sample #5 Input =====
+10 7
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+.......
+...B...
+B.BB.B.
+
+===== Sample #5 Output =====
+3
+
+===== Sample #6 Input =====
+8 8
+........
+........
+........
+........
+.B......
+.B.....B
+.B.....B
+.BB...BB
+
+===== Sample #6 Output =====
+2
+

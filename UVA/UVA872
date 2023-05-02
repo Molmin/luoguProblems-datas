@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+1
+ABFG
+A&lt;B B&lt;F
+===== Sample #1 Output =====
+ABFG
+ABGF
+AGBF
+GABF

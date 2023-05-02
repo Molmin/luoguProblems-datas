@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+4\n1 0\n1 1\n1 2\n2 1\n\n\n
+===== Sample #1 Output =====
+IMPOSSIBLE\nPOSSIBLE\nPOSSIBLE\nIMPOSSIBLE\n\n
+Warning: Large I/O. Tested for most languages, but let me know if you are getting TLE.\n

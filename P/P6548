@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2
+ne
+===== Sample #1 Output =====
+NE
+n
+===== Sample #2 Input =====
+4
+kava
+===== Sample #2 Output =====
+DA
+ak
+===== Sample #3 Input =====
+8
+cokolada
+===== Sample #3 Output =====
+DA
+acko

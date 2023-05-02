@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+1 10
+B-5
+1 10
+S-5
+2 10
+B-3 S-6
+===== Sample #1 Output =====
+Case 1: 5
+Case 2: 10
+Case 3: 7

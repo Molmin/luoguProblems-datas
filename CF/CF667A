@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1 2 3 100
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+1 1 1 1
+
+===== Sample #2 Output =====
+YES
+3.659792366325
+

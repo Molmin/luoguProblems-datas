@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+2
+1
+AUA
+4
+GGACCUUUUGGACGC
+===== Sample #1 Output =====
+Case 1: 0 1
+Case 2: 4 1

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+000.89
+===== Sample #1 Output =====
+0D89
+===== Sample #2 Input =====
+-0020030004.567
+===== Sample #2 Output =====
+F2Q03W04D567

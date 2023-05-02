@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+5
+UPIT 1 b
+UPIT 3 b
+SMJER 4
+UPIT 7 a
+UPIT 10 z
+===== Sample #1 Output =====
+0
+1
+2
+1
+===== Sample #2 Input =====
+5
+SMJER 1
+SMJER 2
+SMJER 3
+UPIT 5 a
+UPIT 7 w
+===== Sample #2 Output =====
+2
+1
+===== Sample #3 Input =====
+4
+UPIT 100 a
+UPIT 200 c
+UPIT 300 a
+UPIT 400 b
+===== Sample #3 Output =====
+4
+8
+12
+16

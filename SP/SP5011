@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n5 4\nDijkstra 50\nIntersections 30\nLines 70\nCircles 120\nPoints 40\nIntersections Lines\nIntersections Circles\nLines Points\nCircles Points\n\n0 0\n\n
+===== Sample #1 Output =====
+\n3 90\n

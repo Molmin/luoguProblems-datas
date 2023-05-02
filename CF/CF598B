@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+abacaba
+2
+3 6 1
+1 4 2
+
+===== Sample #1 Output =====
+baabcaa
+

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+CODEFESTIVAL
+===== Sample #1 Output =====
+CODE FESTIVAL
+===== Sample #2 Input =====
+POSTGRADUATE
+===== Sample #2 Output =====
+POST GRADUATE
+===== Sample #3 Input =====
+ABCDEFGHIJKL
+===== Sample #3 Output =====
+ABCD EFGHIJKL

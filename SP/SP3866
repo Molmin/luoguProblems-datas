@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+1 a
+2 bb
+2 aa
+===== Sample #1 Output =====
+5
+The 5 palindromes are:
+aa aaa aaa bbb aaaa

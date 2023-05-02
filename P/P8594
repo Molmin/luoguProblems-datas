@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+4 3
+
+===== Sample #1 Output =====
+8
+
+===== Sample #2 Input =====
+15 5
+===== Sample #2 Output =====
+4015
+===== Sample #3 Input =====
+3050 1314
+===== Sample #3 Output =====
+670638639
+===== Sample #4 Input =====
+19198114 4154
+===== Sample #4 Output =====
+264122135

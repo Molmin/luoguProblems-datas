@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+4
+XOOO
+XXOO
+OOOO
+XXXX
+XOOO
+XOOO
+XOXO
+XOXX
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+2
+XX
+OO
+XO
+OX
+
+===== Sample #2 Output =====
+No
+

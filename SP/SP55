@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+P
+S
+S
+S
+E
+N
+E
+E
+S
+E
+E
+N
+N
+N
+N
+S
+S
+S
+W
+W
+N
+N
+W
+W
+W
+N
+S
+K
+[and 9 test cases more]
+===== Sample #1 Output =====
+23
+[and 9 test cases more]

@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3
+Spain Donna Elvira
+England Jane Doe
+Spain Donna Anna
+===== Sample #1 Output =====
+England 1
+Spain 2

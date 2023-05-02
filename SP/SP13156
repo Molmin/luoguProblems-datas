@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+1:
+\n4 4\n#..J\n#...\n#.T.\n####\n\n&nbsp;
+===== Sample #1 Output =====
+1:
+
+\nJ 1\n\nInput 2:
+\n6 3\n###\n#J#\n#.T\n###\n###\n#.#\n\n&nbsp;Output 2:
+
+\nT 2\n\nInput 3:
+\n7 7\n......#\n.......\n.......\n...J...\n...T...\n.......\n#......\n\n&nbsp;Output 3:
+
+J 3\n\nInput 4:
+\n7 7\n#.....#\n#......\n#......\nJ......\n#..T...\n#......\n#......\n\n&nbsp;Output 4:
+
+J 4\nExplanation&nbsp;In 1st Test case Jerry will move 1 step to its left and would escape.\n\nIn 2nd Test case Jerry can't escape so he will remain at its position and will be caught after 2 moves.\n\nIn 3rd Test case jerry will move 3 steps to its left and will escape.\n\nIn 4th Test case jerry will move 1 step to its right and then 3 steps up to escape.\n

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+r2
+100
+m1 r100 m1
+54
+r218 m3 r1
+0
+===== Sample #1 Output =====
+r2
+r1 m1

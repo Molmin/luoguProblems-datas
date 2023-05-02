@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+7 47
+7 2 4 6 3 7 10
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+4 4
+4 4 4 4
+===== Sample #2 Output =====
+No answer!

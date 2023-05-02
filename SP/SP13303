@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2
+OOX
+OX_
+__X
+
+XX_
+XOO
+_O_
+===== Sample #1 Output =====
+WON
+OOX
+OXX
+__X
+WON
+XXX
+XOO
+_O_

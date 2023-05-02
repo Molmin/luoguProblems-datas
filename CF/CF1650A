@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+abcde
+c
+abcde
+b
+x
+y
+aaaaaaaaaaaaaaa
+a
+contest
+t
+===== Sample #1 Output =====
+YES
+NO
+NO
+YES
+YES

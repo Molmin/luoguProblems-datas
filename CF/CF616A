@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+9
+10
+
+===== Sample #1 Output =====
+<
+
+===== Sample #2 Input =====
+11
+10
+
+===== Sample #2 Output =====
+>
+
+===== Sample #3 Input =====
+00012345
+12345
+
+===== Sample #3 Output =====
+=
+
+===== Sample #4 Input =====
+0123
+9
+
+===== Sample #4 Output =====
+>
+
+===== Sample #5 Input =====
+0123
+111
+
+===== Sample #5 Output =====
+>
+

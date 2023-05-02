@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+1010000011100000101011111010100010100110
+===== Sample #1 Output =====
+A PIG
+===== Sample #2 Input =====
+1
+===== Sample #2 Output =====
+Error
+===== Sample #3 Input =====
+0000001000000010000000100000001010100000
+===== Sample #3 Output =====
+22A
+===== Sample #4 Input =====
+IOIOOOOI
+===== Sample #4 Output =====
+Error

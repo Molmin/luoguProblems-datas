@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+9 8
+9 2
+===== Sample #1 Output =====
+1? - CLOSER
+9? - CLOSER
+6? - FARTHER
+8? - YES!!
+1? - CLOSER
+9? - FARTHER
+2? - YES!!

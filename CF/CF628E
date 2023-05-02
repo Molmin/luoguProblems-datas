@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+4 4
+zzzz
+zzz.
+.z..
+zzzz
+
+===== Sample #1 Output =====
+16
+
+===== Sample #2 Input =====
+1 4
+z.z.
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+2 2
+zz
+zz
+
+===== Sample #3 Output =====
+5
+

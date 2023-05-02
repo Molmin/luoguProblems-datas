@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+.*** 
+#*.x 
+###. 
+x... 
+===== Sample #1 Output =====
+.*** 
+x*#x 
+###. 
+.... 
+===== Sample #2 Input =====
+...x 
+###. 
+#*** 
+x..* 
+===== Sample #2 Output =====
+No winning move 
+Draw 
+===== Sample #3 Input =====
+.### 
+x#*x 
+***. 
+.... 
+===== Sample #3 Output =====
+No winning move 
+Losing 

@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3 4 5 1
+===== Sample #1 Output =====
+54
+===== Sample #2 Input =====
+1 2 3 0
+===== Sample #2 Output =====
+4
+===== Sample #3 Input =====
+3 5 7 100
+===== Sample #3 Output =====
+105
+===== Sample #4 Input =====
+3 123456781 1000000000 100
+===== Sample #4 Output =====
+444124403
+===== Sample #5 Input =====
+1234 12345 1234567 5
+===== Sample #5 Output =====
+150673016
+===== Sample #6 Input =====
+999999997 999999999 1000000000 50000
+===== Sample #6 Output =====
+8402143

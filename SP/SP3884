@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+When ($Mr. Bill$&lt;5)
+   Set $mr._bill$=($mr.  bill$+1),$Y$=($Y$+10)
+End When
+When ($mr. Bill$&lt;10)
+  Set $MR. BILL$=($mr. bill$+1)
+  Print $mr. bill$,$Y$
+End When
+===== Sample #1 Output =====
+3,20
+6,40
+7,40
+8,40
+9,40
+10,40

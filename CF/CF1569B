@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+3
+111
+2
+21
+4
+2122
+===== Sample #1 Output =====
+YES
+X==
+=X=
+==X
+NO
+YES
+X--+
++X++
++-X-
+--+X

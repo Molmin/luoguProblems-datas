@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+abacaba
+
+===== Sample #1 Output =====
+1
+1 7
+
+===== Sample #2 Input =====
+axbya
+
+===== Sample #2 Output =====
+3
+1 1
+2 1
+5 1
+
+===== Sample #3 Input =====
+xabyczba
+
+===== Sample #3 Output =====
+3
+2 2
+4 1
+7 2
+

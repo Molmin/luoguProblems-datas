@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2 2 4
+0:00:01 A abc Wrong Answer
+0:00:02 A abc Accepted
+0:19:38 A bcd Accepted
+4:18:22 B abc Accepted
+===== Sample #1 Output =====
+abc
+bcd
+abc
+

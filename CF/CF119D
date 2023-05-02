@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+Die Polizei untersucht eine Straftat im IT-Bereich.
+untersucht eine Straftat.hciereB-TI mi  ieziloP eiD
+
+===== Sample #1 Output =====
+11 36
+
+===== Sample #2 Input =====
+cbaaaa
+aaaabc
+
+===== Sample #2 Output =====
+4 5
+
+===== Sample #3 Input =====
+123342
+3324212
+
+===== Sample #3 Output =====
+-1 -1

@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+3 998244353
+===== Sample #1 Output =====
+5
+===== Sample #2 Input =====
+5 998244353
+===== Sample #2 Output =====
+25
+===== Sample #3 Input =====
+42 998244353
+===== Sample #3 Output =====
+793019428
+===== Sample #4 Input =====
+787788 100000007
+===== Sample #4 Output =====
+94810539

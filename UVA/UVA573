@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6 3 1 10
+10 2 1 50
+50 5 3 14
+50 6 4 1
+50 6 3 1
+1 1 1 1
+0 0 0 0
+===== Sample #1 Output =====
+success on day 3
+failure on day 4
+failure on day 7
+failure on day 68
+success on day 20
+failure on day 2

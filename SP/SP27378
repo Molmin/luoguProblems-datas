@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+KUKUKAKIKUKAKEKKUKAKAKKUKAKUKAKU
+2
+KEK
+UK
+===== Sample #1 Output =====
+KAKIKAKAKAKKAKAKU
+
+Input:
+HEATHLEDGER
+2
+HEATH
+LEDGER
+
+Output:
+
+
+Input:
+KAPKAPPAPAK
+1
+KAPPA
+
+Output:
+K
+
+Input:
+CABAI
+3
+ABA
+AB
+B
+
+Output:
+CAI

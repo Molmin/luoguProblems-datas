@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+abcdef
+2
+3 5
+1 4
+===== Sample #1 Output =====
+debacf
+===== Sample #2 Input =====
+redcoat
+3
+1 7
+1 2
+3 4
+===== Sample #2 Output =====
+atcoder

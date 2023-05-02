@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+cc
+b
+a
+cc
+0
+===== Sample #1 Output =====
+ccba

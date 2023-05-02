@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+100
+===== Sample #1 Output =====
+2.0003x10^-2
+===== Sample #2 Input =====
+114
+===== Sample #2 Output =====
+1.7546x10^-2
+===== Sample #3 Input =====
+223
+===== Sample #3 Output =====
+8.9689x10^-3

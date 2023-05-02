@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+chipsy48.32televizor12.390
+
+===== Sample #1 Output =====
+12.438.32
+
+===== Sample #2 Input =====
+a1b2c3.38
+
+===== Sample #2 Output =====
+6.38
+
+===== Sample #3 Input =====
+aa0.01t0.03
+
+===== Sample #3 Output =====
+0.04
+

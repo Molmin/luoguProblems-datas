@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+RDRUL
+2
+===== Sample #1 Output =====
+7
+===== Sample #2 Input =====
+LR
+1000000000000
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+UUURRDDDRRRUUUURDLLUURRRDDDDDDLLLLLLU
+31415926535
+===== Sample #3 Output =====
+219911485785

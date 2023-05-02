@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+9 4
+===== Sample #1 Output =====
+aabacadbb
+===== Sample #2 Input =====
+5 1
+===== Sample #2 Output =====
+aaaaa
+===== Sample #3 Input =====
+10 26
+===== Sample #3 Output =====
+codeforces

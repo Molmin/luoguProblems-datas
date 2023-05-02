@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+6 3
+abcbac
+3 6
+aaa
+7 1000
+abczgyo
+5 4
+ababa
+20 10
+aaebdbabdbbddaadaadc
+20 5
+ecbedececacbcbccbdec
+===== Sample #1 Output =====
+6
+3
+5
+4
+15
+10

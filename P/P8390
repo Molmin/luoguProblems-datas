@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+2
+===== Sample #1 Output =====
+1
+CMPSWP R1 R2
+
+===== Sample #2 Input =====
+3
+===== Sample #2 Output =====
+3
+CMPSWP R1 R2
+CMPSWP R1 R3
+CMPSWP R2 R3
+
+===== Sample #3 Input =====
+4
+===== Sample #3 Output =====
+4
+CMPSWP R1 R3
+CMPSWP R2 R4
+CMPSWP R1 R2 CMPSWP R3 R4
+CMPSWP R2 R3

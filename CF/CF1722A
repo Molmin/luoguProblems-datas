@@ -1,0 +1,33 @@
+===== Sample #1 Input =====
+10
+5
+Timur
+5
+miurT
+5
+Trumi
+5
+mriTu
+5
+timur
+4
+Timr
+6
+Timuur
+10
+codeforces
+10
+TimurTimur
+5
+TIMUR
+===== Sample #1 Output =====
+YES
+YES
+YES
+YES
+NO
+NO
+NO
+NO
+NO
+NO

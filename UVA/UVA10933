@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+Team1
+Team2
+Team 3
+3
+Team1-Team2: 25-19 25-20 25-23
+Team1-Team 3: 1-25 2-25 3-25
+Team2-Team 3: 25-21 31-29 29-31 29-31 33-35
+0
+===== Sample #1 Output =====
+1234567890123456789012345678901234567890 ---&gt; Don’t print this line,
+use only as reference
+Team 3
+2 4
+222
+Team1
+1 0
+81
+Team2
+0 -4
+209

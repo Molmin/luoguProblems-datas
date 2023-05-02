@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+abc
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+abbac
+===== Sample #2 Output =====
+65
+===== Sample #3 Input =====
+babacabac
+===== Sample #3 Output =====
+6310
+===== Sample #4 Input =====
+ababacbcacbacacbcbbcbbacbaccacbacbacba
+===== Sample #4 Output =====
+148010497

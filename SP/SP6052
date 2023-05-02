@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+\n3 4 3\n3\n2\n1\n2\n1 4\n1 4\n1 4\n2 5 6\n1 7\n1 7\n3 8 9 10
+\n
+===== Sample #1 Output =====
+2\n\n
+Limitations:
+All the numbers are integer.\n0&lt; N1, N3 &lt; 51\n1  &lt; N1+N2+N3 &lt; 201\n0 &lt;= Cj &lt;= 50\nThere are no pipes between  starting platforms.\nThere are no pipes between finishing platforms.

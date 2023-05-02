@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+100 10 10 10 60
+10 10 10 60
+200 5 10.5 5 30 10 10 7.5 45
+===== Sample #1 Output =====
+Roof Area
+---------
+200.00
+113.75
+Floor Area
+----------
+100.00
+86.59
+% Covered
+---------
+100.00%
+43.30%
+Total surface area of roofs
+313.75
+Total area covered by roofs
+186.59
+Percentage of total area covered by roofs
+Average roof surface area per lot
+Average floor space covered per lot
+62.20%
+156.88
+93.30

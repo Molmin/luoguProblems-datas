@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+1 2
+100 100 10
+3 3
+99 100
+===== Sample #1 Output =====
+0.30000
+IMPOSSIBLE

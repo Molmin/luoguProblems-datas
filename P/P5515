@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+500 233 0
+===== Sample #1 Output =====
+0.00503
+===== Sample #2 Input =====
+10000 3141592653 0
+===== Sample #2 Output =====
+0.10166
+===== Sample #3 Input =====
+50000 1314159 0
+===== Sample #3 Output =====
+0.50722
+===== Sample #4 Input =====
+50000 1314159 1
+===== Sample #4 Output =====
+1.51676
+===== Sample #5 Input =====
+1000000 5201314 0
+===== Sample #5 Output =====
+10.30487

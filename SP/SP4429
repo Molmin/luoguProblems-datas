@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n4\n4\na b c d \n4\nd c b a \n1\nmrsmith \n6\na aaaaaa aaaaa aaaa b bb \n\n
+===== Sample #1 Output =====
+\n1\n24\n1\n55\n

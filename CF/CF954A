@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+RUURU
+
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+17
+UUURRRRRUUURURUUU
+
+===== Sample #2 Output =====
+13
+

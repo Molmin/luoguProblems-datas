@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5
+3 6 9 12 15
+
+===== Sample #1 Output =====
+36
+
+===== Sample #2 Input =====
+4
+3 7 5 2
+
+===== Sample #2 Output =====
+1000000006
+

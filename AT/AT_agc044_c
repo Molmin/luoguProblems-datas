@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+1
+SRS
+===== Sample #1 Output =====
+2 0 1
+===== Sample #2 Input =====
+2
+RRSRSSSSR
+===== Sample #2 Output =====
+3 8 1 0 5 7 6 2 4
+===== Sample #3 Input =====
+3
+SRSRRSRRRSRRRR
+===== Sample #3 Output =====
+23 9 22 8 3 7 20 24 19 5 18 4 17 12 16 2 6 1 14 0 13 26 21 25 11 15 10

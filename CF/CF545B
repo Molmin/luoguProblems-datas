@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+0001
+1011
+
+===== Sample #1 Output =====
+0011
+
+===== Sample #2 Input =====
+000
+111
+
+===== Sample #2 Output =====
+impossible
+

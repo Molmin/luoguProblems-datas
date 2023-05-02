@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+1 1 1
+
+===== Sample #1 Output =====
+perfect
+
+===== Sample #2 Input =====
+2
+1 2 2
+
+===== Sample #2 Output =====
+ambiguous
+0 1 1 3 3
+0 1 1 3 2
+

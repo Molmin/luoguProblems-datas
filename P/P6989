@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+2
+R 1 1 2
+P 2 2 1
+
+===== Sample #1 Output =====
+2
+P 1 2 1
+S 1 1 1
+

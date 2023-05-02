@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+Instead of dogging Your footsteps it disappears but you dont notice anything
+where is your dog
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+Instead of dogging Your footsteps it disappears but you dont notice anything
+Your dog is upstears
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+Instead of dogging your footsteps it disappears but you dont notice anything
+Your dog is upstears
+
+===== Sample #3 Output =====
+NO
+
+===== Sample #4 Input =====
+abcdefg hijk
+k j i h g f e d c b a
+
+===== Sample #4 Output =====
+YES
+

@@ -1,0 +1,44 @@
+===== Sample #1 Input =====
+2
+4 15
+builtin_clz
+builtin_ctz
+jinkela
+OrzTourist
+builtin_clz MengXin QiuZhu
+builtin_ctz builtin_clz louxia
+jinkela builtin_ctz louxia
+builtin_ctz builtin_clz loushang
+builtin_clz BieMoZheng YaoXueShu
+OrzTourist builtin_clz louxia
+OrzTourist OrzTourist louxia
+builtin_clz Iam Angry!
+builtin_clz builtin_clz loushang
+builtin_clz builtin_clz louxia
+builtin_clz builtin_clz loushang
+builtin_clz builtin_clz louxia
+builtin_ctz Xue Shu
+jinkela Xue Shu
+OrzTourist Xue Shu
+1 9
+builtin_clz
+builtin_clz builtin_clz loushang
+builtin_clz builtin_clz loushang
+builtin_clz builtin_clz louxia
+builtin_clz builtin_clz Loushang
+builtin_clz builtin_clz LOUSHANG
+builtin_clz Builtin_clz loushang
+builtin_clz loushang louxia
+builtin_clz builtin_clz builtin_clz
+builtin_clz loushang builtin_clz
+
+===== Sample #1 Output =====
+9
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+3
+8 1 2 7 9 3 6 4 5
+
+===== Sample #2 Input =====
+见附件中的 community/community2.in
+===== Sample #2 Output =====
+见附件中的 community/community2.ans

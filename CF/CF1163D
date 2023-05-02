@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+*****
+katie
+shiro
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+caat
+caat
+a
+
+===== Sample #2 Output =====
+-1
+
+===== Sample #3 Input =====
+*a*
+bba
+b
+
+===== Sample #3 Output =====
+0
+
+===== Sample #4 Input =====
+***
+cc
+z
+
+===== Sample #4 Output =====
+2
+

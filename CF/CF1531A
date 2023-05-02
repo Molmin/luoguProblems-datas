@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+7
+red
+violet
+unlock
+red
+orange
+lock
+indigo
+===== Sample #1 Output =====
+orange
+===== Sample #2 Input =====
+5
+lock
+unlock
+lock
+unlock
+unlock
+===== Sample #2 Output =====
+blue

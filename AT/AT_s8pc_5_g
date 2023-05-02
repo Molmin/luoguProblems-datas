@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+RGB
+===== Sample #1 Output =====
+3 3
+RGB
+RGB
+RGB
+1 1
+RR
+===== Sample #2 Input =====
+GBRBGBR
+===== Sample #2 Output =====
+4 3
+GBR
+RGR
+RBR
+RRR
+1 1
+RRLDDD
+===== Sample #3 Input =====
+RGBGRGRBRR
+===== Sample #3 Output =====
+3 4
+RGBG
+BRGR
+RRRR
+1 1
+RRRDLLLRD

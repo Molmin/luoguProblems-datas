@@ -1,0 +1,36 @@
+===== Sample #1 Input =====
+2 2 9
++1 1 1 cola
++1 1 1 fanta
++1 1 1 sevenup
++1 1 1 whitekey
+-1 cola
+-1 fanta
+-1 sevenup
+-1 whitekey
+-1 cola
+
+===== Sample #1 Output =====
+1 1
+1 2
+2 1
+2 2
+-1 -1
+
+===== Sample #2 Input =====
+2 2 8
++1 1 1 cola
+-1 cola
++1 1 1 fanta
+-1 fanta
++1 1 1 sevenup
+-1 sevenup
++1 1 1 whitekey
+-1 whitekey
+
+===== Sample #2 Output =====
+1 1
+1 1
+1 1
+1 1
+

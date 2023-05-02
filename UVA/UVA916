@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+3
+444
+..##
+GG##
+G...
+...G
+444
+..##
+GG##
+G...
+...A
+642
+ABAB
+CDCD
+EFEF
+ABAB
+CDCD
+EFEF
+===== Sample #1 Output =====
+Yes
+No
+Yes

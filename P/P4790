@@ -1,0 +1,31 @@
+===== Sample #1 Input =====
+8
+leonard emmy
+ada emmy
+isaac leonard
+emmy pierre
+pierre bernhard
+bernhard emmy
+sofia karl
+karl sofia
+===== Sample #1 Output =====
+3
+
+===== Sample #2 Input =====
+4
+a
+c
+b c
+c d
+d d
+===== Sample #2 Output =====
+3
+
+===== Sample #3 Input =====
+3
+rocky scarlet
+scarlet patrick
+patrick rocky
+===== Sample #3 Output =====
+-1
+

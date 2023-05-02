@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+3
+wbb
+o_o
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+4
+wwww
+o__o
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+9
+bbwbwbwbb
+_o_o_o_o_
+===== Sample #3 Output =====
+5
+===== Sample #4 Input =====
+17
+wwwwbbbbbbbbwwwwb
+__o__o_o_ooo__oo_
+===== Sample #4 Output =====
+11

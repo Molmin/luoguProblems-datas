@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2 1 20
+0123456789
+===== Sample #1 Output =====
+10
+===== Sample #2 Input =====
+6 100 9294
+23689
+===== Sample #2 Output =====
+111
+===== Sample #3 Input =====
+5 4395 9999999999
+12346789
+===== Sample #3 Output =====
+0

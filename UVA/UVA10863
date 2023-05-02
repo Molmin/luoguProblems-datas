@@ -1,0 +1,40 @@
+===== Sample #1 Input =====
+8 8
+oooooooo
+oooooooB
+oo#o####
+Co#ooooo
+oo#ooDoo
+oooooooo
+ooAooooo
+oooooooo
+8 8
+oooooooo
+...ooooB
+oo#o####
+Co#ooooo
+oo#ooDoo
+oooooooo
+ooAooooo
+oooooooo
+0 0
+===== Sample #1 Output =====
+8 8
+oooooooo
+ooo....B
+oo#.####
+Co#.oooo
+.o#..Doo
+....oooo
+ooAooooo
+oooooooo
+8 8
+oooooooo
+.......B
+.o#.####
+Co#.oooo
+oo#..Doo
+oo..oooo
+ooAooooo
+oooooooo
+0 0

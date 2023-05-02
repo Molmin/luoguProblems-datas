@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+1
+1 1
+gas 0% 5% 13%
+gas $100.00
+===== Sample #1 Output =====
+8.00

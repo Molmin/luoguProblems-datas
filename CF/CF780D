@@ -1,0 +1,42 @@
+===== Sample #1 Input =====
+2
+DINAMO BYTECITY
+FOOTBALL MOSCOW
+
+===== Sample #1 Output =====
+YES
+DIN
+FOO
+
+===== Sample #2 Input =====
+2
+DINAMO BYTECITY
+DINAMO BITECITY
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+3
+PLAYFOOTBALL MOSCOW
+PLAYVOLLEYBALL SPB
+GOGO TECHNOCUP
+
+===== Sample #3 Output =====
+YES
+PLM
+PLS
+GOG
+
+===== Sample #4 Input =====
+3
+ABC DEF
+ABC EFG
+ABD OOO
+
+===== Sample #4 Output =====
+YES
+ABD
+ABE
+ABO
+

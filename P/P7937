@@ -1,0 +1,35 @@
+===== Sample #1 Input =====
+5
+hobotnica
+robot
+hobi
+hobit
+robi
+4
+robi
+hobi
+hobit
+rakija 
+===== Sample #1 Output =====
+12
+10
+16
+7 
+===== Sample #2 Input =====
+8
+majmunica
+majmun
+majka
+malina
+malinska
+malo
+maleni
+malesnica
+3
+krampus
+malnar
+majmun 
+===== Sample #2 Output =====
+8
+29
+14

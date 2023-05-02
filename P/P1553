@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+5087462
+===== Sample #1 Output =====
+2647805
+===== Sample #2 Input =====
+600.084
+===== Sample #2 Output =====
+6.48
+===== Sample #3 Input =====
+700/27
+===== Sample #3 Output =====
+7/72
+===== Sample #4 Input =====
+8670%
+===== Sample #4 Output =====
+768%

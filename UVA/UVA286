@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+knnnnnnnpppppppppppppppprrrrrrrrrrrrrrrrnnnbqbqbnKnbqbqbnnnbqbqb
+nrnrbqnnnpbnbbnqrkbrbprpnrpprqprqpnpnnbprbrqrqnnnnprpppKnqrrbqqq
+nrrqbqbrnrpprpbpnbnprqnnnnbrppqqpqpnKqnpnpqrrprrnnbqqnrbqknbqqnn
+===== Sample #1 Output =====
+draw
+checkmate
+game is not over

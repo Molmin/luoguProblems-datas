@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+5
+Case #1: 2 0 4
+2 3
+Case #2: 2 0 5
+2 3
+Case #3: 3 7 4
+2 3 5
+Case #4: 4 55 88
+10000 55 3 16
+Case #5: 4 9950 23
+10000 55 3 16
+===== Sample #1 Output =====
+Case #1: 0
+Case #2: 1
+Case #3: 2
+Case #4: 2
+Case #5: 0

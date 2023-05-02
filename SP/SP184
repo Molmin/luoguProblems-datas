@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+In the first line of input there is one positive integer n
+===== Sample #1 Output =====
+s the results.
+===== Sample #2 Input =====
+2
+7
+633825300114114700748351602698
+===== Sample #2 Output =====
+4 3 1 0
+3 0
+No
+99 3 1

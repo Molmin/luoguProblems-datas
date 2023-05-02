@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3 3 0
+1 2 SW
+
+===== Sample #1 Output =====
+6
+
+===== Sample #2 Input =====
+7 5 3
+3 3
+4 3
+5 3
+2 1 SE
+
+===== Sample #2 Output =====
+14
+

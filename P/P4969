@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5 5
+2 3 4 5 9
+5 
+BookCity 1 1
+Guy 2 5
+Zero 1 5
+tingtime 5 1
+Zero 1 5
+
+===== Sample #1 Output =====
+1800
+2400

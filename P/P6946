@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+21
+The Yangtze is the third longest
+river in Asia and the longest in
+the world to flow
+entirely in one country
+
+===== Sample #1 Output =====
+15 5
+
+===== Sample #2 Input =====
+25
+When two or more rivers meet at
+a confluence other than the sea
+the resulting merged river takes
+the name of one of those rivers
+
+===== Sample #2 Output =====
+21 6
+

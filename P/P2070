@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+6
+2 R
+6 L
+1 R
+8 L
+1 R
+2 R
+===== Sample #1 Output =====
+6

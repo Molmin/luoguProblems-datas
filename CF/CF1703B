@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+3
+ABA
+1
+A
+3
+ORZ
+5
+BAAAA
+4
+BKPT
+10
+CODEFORCES
+===== Sample #1 Output =====
+5
+2
+6
+7
+8
+17

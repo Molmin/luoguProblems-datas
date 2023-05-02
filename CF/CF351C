@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2 6
+1 2
+2 1
+
+===== Sample #1 Output =====
+12
+
+===== Sample #2 Input =====
+1 10000000
+2
+3
+
+===== Sample #2 Output =====
+25000000
+

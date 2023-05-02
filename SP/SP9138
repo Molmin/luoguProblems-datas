@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+build 5 3
+build 6 5
+count 4 7
+===== Sample #1 Output =====
+12
+
+Visualisation of example test case:
+----BB---
+----BB---
+---BABB--
+---AAABB-
+   ^  ^

@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2 0 5
+2 1 5
+2 2 5
+===== Sample #1 Output =====
+CASE# 1:
++1*2^2+0*2^1+1*2^0 = 5
+CASE# 2:
++2*2^1+1*2^0 = 5
+CASE# 3:
+NOT REPRESENTABLE

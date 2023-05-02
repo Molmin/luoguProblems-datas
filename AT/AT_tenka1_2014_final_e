@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+kokoropyonpyon
+3
+1 14
+2 14
+1 13
+===== Sample #1 Output =====
+12
+8
+4
+===== Sample #2 Input =====
+rattatta
+5
+2 7
+3 8
+3 4
+3 3
+1 8
+===== Sample #2 Output =====
+10
+10
+2
+0
+16
+===== Sample #3 Input =====
+aaaaaaaaaa
+1
+1 10
+===== Sample #3 Output =====
+110

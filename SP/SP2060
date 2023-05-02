@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+9 1
+3+x/6
+17/8-x/8
+10 1
+(x+10)
+10/(x+10)
+0 0
+===== Sample #1 Output =====
+Pour 0.030 litres / 3.365 cm of water.
+Pour 0.878 litres / 2.193 cm of water.

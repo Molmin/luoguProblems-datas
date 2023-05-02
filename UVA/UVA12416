@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+
+A very  big    joke.
+
+         Goodbye.
+===== Sample #1 Output =====
+2
+4

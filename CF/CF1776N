@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+2
+&lt;
+===== Sample #1 Output =====
+0.0000000000
+===== Sample #2 Input =====
+3
+&lt;&gt;
+===== Sample #2 Output =====
+1.0000000000
+===== Sample #3 Input =====
+5
+&gt;&lt;&lt;&lt;
+===== Sample #3 Output =====
+2.0000000000
+===== Sample #4 Input =====
+10
+&lt;&gt;&lt;&lt;&lt;&lt;&lt;&gt;&gt;
+===== Sample #4 Output =====
+9.8281364842

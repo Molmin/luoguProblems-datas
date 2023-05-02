@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+2
+ip cc
+===== Sample #1 Output =====
+icpc
+===== Sample #2 Input =====
+8
+hmhmnknk uuuuuuuu
+===== Sample #2 Output =====
+humuhumunukunuku
+===== Sample #3 Input =====
+5
+aaaaa aaaaa
+===== Sample #3 Output =====
+aaaaaaaaaa

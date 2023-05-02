@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
++Mike
+Mike:hello
++Kate
++Dmitry
+-Dmitry
+Kate:hi
+-Kate
+
+===== Sample #1 Output =====
+9
+
+===== Sample #2 Input =====
++Mike
+-Mike
++Mike
+Mike:Hi   I am here
+-Mike
++Kate
+-Kate
+
+===== Sample #2 Output =====
+14
+

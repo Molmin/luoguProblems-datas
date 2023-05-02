@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3
+141 592 653
+
+===== Sample #1 Output =====
+653 733
+
+===== Sample #2 Input =====
+5
+10 21 10 21 10
+
+===== Sample #2 Output =====
+31 41
+

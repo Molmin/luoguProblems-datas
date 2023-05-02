@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6 7
+55 21
+11
+22
+25
+56
+41
+49
+28
+
+5 2
+0 21
+22
+28
+
+0 0
+===== Sample #1 Output =====
+for the Sample Input
+Case #1: 2
+Case #2: Impossible

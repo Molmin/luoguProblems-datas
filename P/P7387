@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+4
+3
+101
+5
+01100
+5
+01110
+4
+1000
+===== Sample #1 Output =====
+WIN
+TIE
+WIN
+LOSE

@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+3
+tanaka taro
+tanaka jiro
+suzuki hanako
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+3
+aaa bbb
+xxx aaa
+bbb yyy
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+2
+tanaka taro
+tanaka taro
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+3
+takahashi chokudai
+aoki kensho
+snu ke
+===== Sample #4 Output =====
+Yes

@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+\n2\n2 false\n1 true\n2\n2 false\n1 false\n0\n\n
+===== Sample #1 Output =====
+\nPARADOX\nNOT PARADOX\n

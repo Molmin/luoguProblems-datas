@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2
+2 2
+S.
+.G
+2 3
+#G#
+S.#
+===== Sample #1 Output =====
+Bob
+Alice

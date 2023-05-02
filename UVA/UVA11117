@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+sew(turn(sew(B,turn(B))),
+turn(sew(turn(B),B))) ;
+sew(turn(sew(B,turn(B))),A);
+sew(turn(sew(A,turn(A))),
+turn(turn(
+turn(sew(A,turn(A))))))
+;
+===== Sample #1 Output =====
+Quilt 1:
+||--
+||--
+--||
+--||
+Quilt 2:
+error
+Quilt 3:
+\\//
++\/+
++/\+
+//\\

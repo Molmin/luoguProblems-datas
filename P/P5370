@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+556789TJJQKKAA22w
+456789TJJQKKAA22w
+456789TJQKKKAAA22
+===== Sample #1 Output =====
+193483
+0
+613897

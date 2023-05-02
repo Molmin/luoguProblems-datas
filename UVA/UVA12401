@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+0 G
+2 S
+27 B
+===== Sample #1 Output =====
+The 0th Golden Power is 1.
+The 2nd Silver Power is 6.
+The 27th Bronze Power is 102...036(15 digits).

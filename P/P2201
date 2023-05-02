@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+8
+I 2
+I -1
+I 1
+Q 3
+L
+D
+R
+Q 2
+===== Sample #1 Output =====
+2
+3

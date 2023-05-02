@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+ABIABUABIAB
+BABBAB
+BABURBAB
+===== Sample #1 Output =====
+01001101001
+010010
+01000010

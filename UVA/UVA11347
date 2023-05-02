@@ -1,0 +1,9 @@
+===== Sample #1 Input =====
+3
+5!
+13!!
+230!
+===== Sample #1 Output =====
+Case 1: 16
+Case 2: 64
+Case 3: Infinity

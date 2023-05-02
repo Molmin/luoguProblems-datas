@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+0
+===== Sample #1 Output =====
+4
+3 3 3 3
+===== Sample #2 Input =====
+1
+===== Sample #2 Output =====
+3
+1 0 3
+===== Sample #3 Input =====
+2
+===== Sample #3 Output =====
+2
+2 2
+===== Sample #4 Input =====
+3
+===== Sample #4 Output =====
+7
+27 0 0 0 0 0 0
+===== Sample #5 Input =====
+1234567894848
+===== Sample #5 Output =====
+10
+1000 193 256 777 0 1 1192 1234567891011 48 425

@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+A:BCD
+D:BACG
+F:HE
+G:HED
+B:AD
+E:FGH
+H:FEG
+C:AD
+@ACFH
+A:BCD
+D:BACG
+F:HE
+G:HED
+B:AD
+E:FGH
+H:FEG
+C:AD
+@ACDG
+#
+===== Sample #1 Output =====
+Theseus is killed between D and G
+The Minotaur is slain in H

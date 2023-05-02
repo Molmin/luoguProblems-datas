@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+a a a b c d a b c $
+x y $
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+xyz abc abc xyz $
+abc abc $
+===== Sample #2 Output =====
+2
+===== Sample #3 Input =====
+a b c x c z z a b c $
+prvi dr prvi tr tr x $
+===== Sample #3 Output =====
+3

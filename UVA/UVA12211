@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+3
+BBBB
+BBBB
+BBBB
+BBBB
+BBBB
+RRRR
+BBBB
+RRRR
+BRBR
+BRBR
+BRBR
+BRBR
+===== Sample #1 Output =====
+Case 1: win 1
+Case 2: win 3
+Case 3: loss 4

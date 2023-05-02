@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+file:
+4
+5 0 0 5
+4 0 4 5
+2 4 3 4
+1 1 1 5
+===== Sample #1 Output =====
+file:
+9

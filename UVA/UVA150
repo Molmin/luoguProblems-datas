@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+Saturday 29 August 1992
+Saturday 16 August 1992
+Wednesday 19 December 1991
+Monday 1 January 1900
+#
+===== Sample #1 Output =====
+Saturday 16* August 1992
+Saturday 29 August 1992
+Wednesday 1 January 1992
+Monday 20* December 1899

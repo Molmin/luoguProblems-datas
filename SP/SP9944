@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+3
+2 3
+14 9 6 3
+2 2
+8 5 3
+3 2
+20 13 8
+===== Sample #1 Output =====
+Case #1:
+Unique Solution
+1 2
+4 3
+Case #2:
+No Solution
+Case #3:
+Multiple Solutions

@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+OSAKA
+===== Sample #1 Output =====
+ASOKO
+===== Sample #2 Input =====
+TOKYO
+===== Sample #2 Output =====
+TAKYA
+===== Sample #3 Input =====
+KKKKK
+===== Sample #3 Output =====
+KKKKK
+===== Sample #4 Input =====
+GRAPH
+===== Sample #4 Output =====
+GROPH
+===== Sample #5 Input =====
+CPSCO
+===== Sample #5 Output =====
+CPSCA

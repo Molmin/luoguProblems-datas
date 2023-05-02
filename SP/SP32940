@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+6
+coding
+code
+wreck
+dechef
+co
+chef
+2
+codingwreck
+codechef\n
+===== Sample #1 Output =====
+coding wreck
+co dechef

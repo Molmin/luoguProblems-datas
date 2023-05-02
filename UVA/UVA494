@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+Meep Meep!
+I tot I taw a putty tat.
+I did! I did! I did taw a putty tat.
+Shsssssssssh ... I am hunting wabbits. Heh Heh Heh Heh ...
+===== Sample #1 Output =====
+2
+7
+10
+9

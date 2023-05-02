@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+1
+20 20 20 1
+0 0 0
+0 0 10
+1
+5 0 0 4
+0 0 0
+10 0 0
+-1
+===== Sample #1 Output =====
+Cheese 1: Travel time = 100 sec
+Cheese 2: Travel time = 20 sec

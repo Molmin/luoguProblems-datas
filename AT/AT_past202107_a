@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+123451234512345
+===== Sample #1 Output =====
+No
+===== Sample #2 Input =====
+123451234512348
+===== Sample #2 Output =====
+Yes

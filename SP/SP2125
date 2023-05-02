@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+file:
+thirteen
+fourteen
+one-thousand
+one-million-three-hundred-and-twenty-five-thousand-nine-hundred-and-seventy-nine
+===== Sample #1 Output =====
+file:
+-1
+9
+789
+1325784

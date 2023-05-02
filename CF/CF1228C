@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+10 2
+
+===== Sample #1 Output =====
+2
+
+===== Sample #2 Input =====
+20190929 1605
+
+===== Sample #2 Output =====
+363165664
+
+===== Sample #3 Input =====
+947 987654321987654321
+
+===== Sample #3 Output =====
+593574252
+

@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3
+LLR
+===== Sample #1 Output =====
+831870297
+===== Sample #2 Input =====
+10
+RRRRRRLLRR
+===== Sample #2 Output =====
+460301586

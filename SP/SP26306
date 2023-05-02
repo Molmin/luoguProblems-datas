@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+4
+4 2
+&gt;v
+v&lt;
+&gt;v
+&gt;&lt;
+3 4
+v&lt;&gt;v
+v^^v
+&gt;^^&lt;
+3 4
+v&lt;&lt;&lt;
+v^v&lt;
+&gt;&gt;&gt;^
+1 2
+&gt;&gt;
+===== Sample #1 Output =====
+Case #1: 2
+Case #2: 0
+Case #3: 2
+Case #4: 1

@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+5
+set
+lol
+setter
+setting
+settings
+2
+set
+happy
+
+===== Sample #1 Output =====
+Case #1:
+setter
+setting
+settings
+Case #2:
+No match.
+

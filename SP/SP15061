@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+The first line of the input gives the number of test cases, T.  T test cases follow.  Each case starts with a line containing a single integer P. The next line contains 2P integers -- the constraints M[0], ..., M[2P-1].
+&nbsp;
+The following block of P lines contains the ticket prices for all matches: the first line of the block contains 2P-1 integers -- ticket prices  for first round matches, the second line of the block contains 2P-2 integers -- ticket prices for second round matches, etc. The last of the P lines contains a single integer -- ticket price for the final match of  the World Cup. The prices are listed in the order the matches are  played.
+===== Sample #1 Output =====
+For each test case, output one line containing "Case #x: y", where x is  the case number (starting from 1) and y is the minimal amount of money  Varva needs to spend on tickets as described above.
+Limits
+1 &le; T &le; 50\n 1 &le; P &le; 10\n Each element of M is an integer between 0 and P, inclusive.
+Large dataset
+All the prices are integers between 0 and 100000, inclusive.
+Sample
+
+
+
+\n Input \n&nbsp;
+\n Output \n&nbsp;
+
+
+ 2 \n 2 \n 1 1 0 1 \n 1 1 \n 1 \n 3 \n 1 2 3 2 1 0 1 3 \n 100 150 50 90 \n 500 400 \n 800 \n 
+ Case #1: 2\n Case #2: 1350\n

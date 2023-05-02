@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3 0 0 0 
+0 0 2 
+0 3 0
+===== Sample #1 Output =====
+0
+===== Sample #2 Input =====
+4 3 5 2 
+7 1 4 3 
+7 4 4 8
+===== Sample #2 Output =====
+41817

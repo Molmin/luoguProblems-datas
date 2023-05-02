@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+1263 1 2
+8103 2 1
+
+===== Sample #1 Output =====
+Need more data
+===== Sample #2 Input =====
+2
+1234 2 2
+1256 0 2
+
+===== Sample #2 Output =====
+2134
+===== Sample #3 Input =====
+2
+0123 1 1
+4567 1 2
+
+===== Sample #3 Output =====
+Incorrect data

@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+6
+aabddc
+
+===== Sample #1 Output =====
+Yes
+
+===== Sample #2 Input =====
+3
+abc
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+3
+jjj
+
+===== Sample #3 Output =====
+Yes
+

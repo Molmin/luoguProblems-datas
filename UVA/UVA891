@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+1
+{("f" "bar") ["c"]}
+===== Sample #1 Output =====
+28x8

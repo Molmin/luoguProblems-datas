@@ -1,0 +1,22 @@
+===== Sample #1 Input =====
+3
+XOC
+XOC
+X..
+===== Sample #1 Output =====
+X
+===== Sample #2 Input =====
+4
+....
+..A.
+AAB.
+.B.B
+===== Sample #2 Output =====
+ongoing
+===== Sample #3 Input =====
+3
+ABB
+AAA
+BBA
+===== Sample #3 Output =====
+A

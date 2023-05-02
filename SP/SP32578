@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+5\n4 1 7 2 10 \n0 10 2 2 4 \n5 5 4 4 6 \n1 3 10 3 2 \n5 2 10 0 7
+===== Sample #1 Output =====
+Round 1: Yoota &amp; Bram win the game\nRound 2: Meh &amp; Waca win the game\nRound 3: Yoota &amp; Bram win the game\nRound 4: Meh &amp; Waca win the game\nRound 5: Meh &amp; Waca win the game \n

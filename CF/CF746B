@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+5
+logva
+
+===== Sample #1 Output =====
+volga
+
+===== Sample #2 Input =====
+2
+no
+
+===== Sample #2 Output =====
+no
+
+===== Sample #3 Input =====
+4
+abba
+
+===== Sample #3 Output =====
+baba
+

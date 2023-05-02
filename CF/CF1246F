@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+abcde
+
+===== Sample #1 Output =====
+20
+
+===== Sample #2 Input =====
+abacaba
+
+===== Sample #2 Output =====
+58
+

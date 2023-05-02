@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+oxwmeorozkowhereforeartthouromeo
+romeo
+2
+abcabcabcabcabc
+aba
+1
+abcabcabcabcabc
+acb
+2
+===== Sample #1 Output =====
+3
+5
+9

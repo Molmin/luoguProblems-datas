@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+5 7
+878 323
+1 1
+===== Sample #1 Output =====
+LRRL
+RRLRRLRLLLLRLRRR

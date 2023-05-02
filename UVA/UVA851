@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+1
+4
+OO.O
+...O
+OO..
+O..O
+===== Sample #1 Output =====
+east
+north

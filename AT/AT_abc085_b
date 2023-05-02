@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4
+10
+8
+8
+6
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+3
+15
+15
+15
+===== Sample #2 Output =====
+1
+===== Sample #3 Input =====
+7
+50
+30
+50
+100
+50
+80
+30
+===== Sample #3 Output =====
+4

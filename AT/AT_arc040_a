@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+4
+R.RB
+RR.B
+BRBB
+RRB.
+===== Sample #1 Output =====
+TAKAHASHI
+===== Sample #2 Input =====
+2
+..
+..
+===== Sample #2 Output =====
+DRAW
+===== Sample #3 Input =====
+3
+BRB
+RBR
+BRB
+===== Sample #3 Output =====
+AOKI

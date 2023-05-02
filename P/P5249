@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+0.5 2 1
+===== Sample #1 Output =====
+0.33333333
+===== Sample #2 Input =====
+0.5 2 2
+===== Sample #2 Output =====
+0.66666667
+===== Sample #3 Input =====
+0.5 3 1
+===== Sample #3 Output =====
+0.23809524
+===== Sample #4 Input =====
+0.5 3 2
+===== Sample #4 Output =====
+0.28571429

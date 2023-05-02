@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+RNBQKBNR
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+KRRBBNNQ
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+BRKRBQNN
+===== Sample #3 Output =====
+No

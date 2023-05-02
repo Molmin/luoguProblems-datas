@@ -1,0 +1,13 @@
+===== Sample #1 Input =====
+5 3
+NNCCZ
+3 N
+2 Z
+1 Z
+
+===== Sample #1 Output =====
+3
+5
+3
+1
+

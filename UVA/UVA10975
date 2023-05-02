@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+1
+4
+hello
+bye
+one
+two
+2
+3 3
+bye
+okk
+res
+3 3
+one
+wzq
+too
+===== Sample #1 Output =====
+Test Case #1
+Query #1
+bye 1
+Query #2
+one 1
+two 1

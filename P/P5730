@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+10
+0123456789
+
+===== Sample #1 Output =====
+XXX...X.XXX.XXX.X.X.XXX.XXX.XXX.XXX.XXX
+X.X...X...X...X.X.X.X...X.....X.X.X.X.X
+X.X...X.XXX.XXX.XXX.XXX.XXX...X.XXX.XXX
+X.X...X.X.....X...X...X.X.X...X.X.X...X
+XXX...X.XXX.XXX...X.XXX.XXX...X.XXX.XXX
+

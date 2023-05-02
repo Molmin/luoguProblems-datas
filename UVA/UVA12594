@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+abcdefghijklmnopqrstuvwzyx 2
+abazz
+abcdefghijklmnopqrstuvwxyz 2
+abazz
+abcdefghijklmnopqrstuvwzyx 3
+aabbbccccccccc
+===== Sample #1 Output =====
+Case 1: -1035
+Case 2: -1225
+Case 3: 2

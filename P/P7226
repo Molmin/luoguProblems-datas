@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+2
+212
+1253
+
+===== Sample #1 Output =====
+1953566
+===== Sample #2 Input =====
+5
+23
+17
+43
+52
+22
+
+===== Sample #2 Output =====
+102
+===== Sample #3 Input =====
+3
+213
+102
+45
+
+===== Sample #3 Output =====
+10385

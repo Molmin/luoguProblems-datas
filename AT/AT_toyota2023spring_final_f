@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+3
+BBA
+===== Sample #1 Output =====
+3
+===== Sample #2 Input =====
+5
+ABABA
+===== Sample #2 Output =====
+3
+===== Sample #3 Input =====
+9
+BABBAAAAB
+===== Sample #3 Output =====
+14
+===== Sample #4 Input =====
+48
+AABABBBAABAAABAAABBBAAABBBAABAABBABAABBAAAAABBBB
+===== Sample #4 Output =====
+3073910

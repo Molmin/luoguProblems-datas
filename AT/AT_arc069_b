@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+6
+ooxoox
+===== Sample #1 Output =====
+SSSWWS
+===== Sample #2 Input =====
+3
+oox
+===== Sample #2 Output =====
+-1
+===== Sample #3 Input =====
+10
+oxooxoxoox
+===== Sample #3 Output =====
+SSWWSSSWWS

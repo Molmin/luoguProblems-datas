@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+1
+11
+AB&gt;C
+C&gt;A
+BC&gt;D
+ACD&gt;B
+D&gt;E
+D&gt;G
+BE&gt;C
+CG&gt;B
+CG&gt;D
+CE&gt;A
+CE&gt;G
+===== Sample #1 Output =====
+8

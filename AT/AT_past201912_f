@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+FisHDoGCaTAAAaAAbCAC
+===== Sample #1 Output =====
+AAAaAAbCACCaTDoGFisH
+===== Sample #2 Input =====
+AAAAAjhfgaBCsahdfakGZsZGdEAA
+===== Sample #2 Output =====
+AAAAAAAjhfgaBCsahdfakGGdEZsZ

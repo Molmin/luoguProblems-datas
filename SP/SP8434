@@ -1,0 +1,5 @@
+===== Sample #1 Input =====
+\n4\n5 5 dolje\n5 6 lijevo\n5 7 desno\n5 8 gore
+===== Sample #1 Output =====
+1\n2\n3\n4\n\n\nInput:\n5\n3 3 dolje\n1 1 desno\n5 1 lijevo\n100000 500000 desno\n900000 500000 lijevo\n\nOutput:\nnema\n\n\nInput:\n3\n10 0 gore\n0 10 desno\n15 5 lijevo
+\nOutput:\n2\n

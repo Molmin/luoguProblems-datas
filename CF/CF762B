@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+2 1 1
+4
+5 USB
+6 PS/2
+3 PS/2
+7 PS/2
+
+===== Sample #1 Output =====
+3 14
+

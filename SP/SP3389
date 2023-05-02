@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+3
+1000
+0
+===== Sample #1 Output =====
+With 3 competitors, a Jedi Knight will be replaced approximately 0.83 times.
+
+With 1000 competitors, a Jedi Knight will be replaced approximately 6.49 times.

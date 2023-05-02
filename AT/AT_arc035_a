@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+ab*
+===== Sample #1 Output =====
+YES
+===== Sample #2 Input =====
+abc
+===== Sample #2 Output =====
+NO
+===== Sample #3 Input =====
+a*bc*
+===== Sample #3 Output =====
+YES
+===== Sample #4 Input =====
+***
+===== Sample #4 Output =====
+YES

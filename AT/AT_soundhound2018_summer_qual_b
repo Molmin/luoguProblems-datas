@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+abcdefgh
+3
+===== Sample #1 Output =====
+adg
+===== Sample #2 Input =====
+lllll
+1
+===== Sample #2 Output =====
+lllll
+===== Sample #3 Input =====
+souuundhound
+2
+===== Sample #3 Output =====
+suudon

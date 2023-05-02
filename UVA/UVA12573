@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+4
+4 5
+35 5
+4 2
+11 5
+===== Sample #1 Output =====
+Impossible
+4
+1
+4

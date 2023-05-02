@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+2
+1 4 P
+4 5 P
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+3
+1 6 P
+2 4 N
+3 4 P
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+2
+5 8 P
+7 11 P
+===== Sample #3 Output =====
+qwq

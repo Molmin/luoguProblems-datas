@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+0001
+101
+===== Sample #1 Output =====
+1
+===== Sample #2 Input =====
+0101010
+1010101
+===== Sample #2 Output =====
+7
+===== Sample #3 Input =====
+10101000010011011110
+0010011111
+===== Sample #3 Output =====
+1

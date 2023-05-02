@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+FAC1 (N=233, M=65 'A', A=0)
+main ()
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+2
+fac1 (N=250)
+FAC1 (a=987)
+
+===== Sample #2 Output =====
+1
+

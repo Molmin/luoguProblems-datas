@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+aba
+===== Sample #1 Output =====
+Second
+===== Sample #2 Input =====
+abc
+===== Sample #2 Output =====
+First
+===== Sample #3 Input =====
+abcab
+===== Sample #3 Output =====
+First

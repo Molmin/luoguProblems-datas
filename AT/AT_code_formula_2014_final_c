@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+@codeformula why is this contest so easy
+===== Sample #1 Output =====
+codeformula
+===== Sample #2 Input =====
+myon @@c @a @aba@a @@bb bbb @@@@@ @a test  @ space  aaa test @a@a  test@takoyaki
+===== Sample #2 Output =====
+a
+aba
+bb
+c
+takoyaki
+===== Sample #3 Input =====
+no atmark
+===== Sample #3 Output =====
+

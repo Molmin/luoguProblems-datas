@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+3 3
+2.9 10
+2.9 10.5
+11 11
+===== Sample #1 Output =====
+9 grid
+29 skew
+30 skew
+126 skew

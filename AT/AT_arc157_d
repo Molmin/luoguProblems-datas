@@ -1,0 +1,18 @@
+===== Sample #1 Input =====
+2 3
+XYY
+YXY
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+2 3
+XYX
+YYY
+===== Sample #2 Output =====
+0
+===== Sample #3 Input =====
+2 58
+YXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXY
+YXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXYXXY
+===== Sample #3 Output =====
+164036797

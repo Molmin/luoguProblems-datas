@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+4
+3 1 7 4
+2 3 2
+2 8 5
+1 10
+
+===== Sample #1 Output =====
+Yes
+7 2
+2 3
+5 1
+10 4
+
+===== Sample #2 Input =====
+2
+2 3 -2
+2 -1 5
+
+===== Sample #2 Output =====
+No
+
+===== Sample #3 Input =====
+2
+2 -10 10
+2 0 -20
+
+===== Sample #3 Output =====
+Yes
+-10 2
+-20 1
+

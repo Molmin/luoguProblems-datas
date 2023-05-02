@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+12
+a
+aab
+abb
+abc
+aabb
+aabbb
+aaabb
+abbb
+abbbb
+abbcc
+eaga
+ffcaba
+===== Sample #1 Output =====
+a
+aba
+bab
+bca
+abba
+abbba
+ababa
+bbab
+bbabb
+bbcca
+agea
+acffba

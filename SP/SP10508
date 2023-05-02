@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+2\n2 2 0\n1 0\n0 1\n2 2 1\n1 1\n1 1
+===== Sample #1 Output =====
+2\n4

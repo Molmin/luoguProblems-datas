@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+20
+Sleep Dom
+Sleep Sakin
+Test
+Sleep Asif
+Sleep Mushfiq
+Test
+Kick
+Test
+Sleep Shafi
+Test
+Kick
+Test
+Kick
+Test
+Kick
+Test
+Kick
+Test
+Kick
+Test
+===== Sample #1 Output =====
+Sakin
+Mushfiq
+Asif
+Shafi
+Asif
+Sakin
+Dom
+Not in a dream
+Not in a dream

@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+abacabaca
+
+===== Sample #1 Output =====
+3
+aca
+ba
+ca
+
+===== Sample #2 Input =====
+abaca
+
+===== Sample #2 Output =====
+0
+

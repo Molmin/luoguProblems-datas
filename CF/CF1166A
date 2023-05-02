@@ -1,0 +1,34 @@
+===== Sample #1 Input =====
+4
+jorge
+jose
+oscar
+jerry
+
+===== Sample #1 Output =====
+1
+
+===== Sample #2 Input =====
+7
+kambei
+gorobei
+shichiroji
+kyuzo
+heihachi
+katsushiro
+kikuchiyo
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+5
+mike
+mike
+mike
+mike
+mike
+
+===== Sample #3 Output =====
+4
+

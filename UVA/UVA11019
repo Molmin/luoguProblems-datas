@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+2
+1 1
+x
+1 1
+y
+3 3
+abc
+bcd
+cde
+2 2
+bc
+cd
+===== Sample #1 Output =====
+0
+2

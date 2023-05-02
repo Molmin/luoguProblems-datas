@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+7 1 4
+PikMike
+
+===== Sample #1 Output =====
+0
+
+===== Sample #2 Input =====
+15 2 2
+AaAaAAaaAAAAaaA
+
+===== Sample #2 Output =====
+2
+
+===== Sample #3 Input =====
+14 2 6
+aBcdEFGHIJklMn
+
+===== Sample #3 Output =====
+0
+
+===== Sample #4 Input =====
+9 2 2
+aAaAAAaaA
+
+===== Sample #4 Output =====
+1
+

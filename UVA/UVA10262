@@ -1,0 +1,8 @@
+===== Sample #1 Input =====
+abab
+ababab
+abc
+def
+===== Sample #1 Output =====
+baba
+ba

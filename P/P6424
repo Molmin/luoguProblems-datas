@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+P*P
+===== Sample #1 Output =====
+6
+===== Sample #2 Input =====
+L*R
+===== Sample #2 Output =====
+25
+===== Sample #3 Input =====
+**
+===== Sample #3 Output =====
+33
+===== Sample #4 Input =====
+LLLLLRRRRRLLLLLRRRRRLLLLLRRRRRLLLLL
+===== Sample #4 Output =====
+35400942560

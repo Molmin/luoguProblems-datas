@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+AC|T
+L
+
+===== Sample #1 Output =====
+AC|TL
+
+===== Sample #2 Input =====
+|ABC
+XYZ
+
+===== Sample #2 Output =====
+XYZ|ABC
+
+===== Sample #3 Input =====
+W|T
+F
+
+===== Sample #3 Output =====
+Impossible
+
+===== Sample #4 Input =====
+ABC|
+D
+
+===== Sample #4 Output =====
+Impossible
+

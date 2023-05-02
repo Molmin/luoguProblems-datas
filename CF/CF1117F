@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+7 3
+abacaba
+0 1 1
+1 0 0
+1 0 0
+
+===== Sample #1 Output =====
+7
+
+===== Sample #2 Input =====
+7 3
+abacaba
+1 1 1
+1 0 0
+1 0 0
+
+===== Sample #2 Output =====
+0
+
+===== Sample #3 Input =====
+7 4
+bacadab
+0 1 1 1
+1 0 0 0
+1 0 0 0
+1 0 0 0
+
+===== Sample #3 Output =====
+5
+
+===== Sample #4 Input =====
+3 3
+cbc
+0 0 0
+0 0 1
+0 1 0
+
+===== Sample #4 Output =====
+0
+

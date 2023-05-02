@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+8
+Fri
+Tue
+Sun
+Sun
+Mon
+Sun
+Wed
+Thu
+===== Sample #1 Output =====
+Sat
+Wed
+Mon
+Mon
+Tue
+Mon
+Thu
+Fri

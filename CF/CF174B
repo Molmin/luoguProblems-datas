@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+read.meexample.txtb.cpp
+
+===== Sample #1 Output =====
+YES
+read.m
+eexample.t
+xtb.cpp
+
+===== Sample #2 Input =====
+version.infontldrcontestdata.zip
+
+===== Sample #2 Output =====
+NO
+

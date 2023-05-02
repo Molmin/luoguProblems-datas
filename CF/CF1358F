@@ -1,0 +1,28 @@
+===== Sample #1 Input =====
+2
+5 7
+5 7
+===== Sample #1 Output =====
+SMALL
+0
+===== Sample #2 Input =====
+2
+1 1
+300000 1
+===== Sample #2 Output =====
+BIG
+299999
+===== Sample #3 Input =====
+2
+10 1
+13 14
+===== Sample #3 Output =====
+SMALL
+6
+RPPPRP
+===== Sample #4 Input =====
+3
+1 2 1
+2 1 2
+===== Sample #4 Output =====
+IMPOSSIBLE

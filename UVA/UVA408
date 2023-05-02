@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3 5
+15 20
+63923 99999
+===== Sample #1 Output =====
+3
+5
+15
+20
+63923
+99999
+Good Choice
+Bad Choice
+Good Choice

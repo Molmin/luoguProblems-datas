@@ -1,0 +1,25 @@
+===== Sample #1 Input =====
+37
+_Hello_Vasya(and_Petya)__bye_(and_OK)
+
+===== Sample #1 Output =====
+5 4
+===== Sample #2 Input =====
+37
+_a_(_b___c)__de_f(g_)__h__i(j_k_l)m__
+
+===== Sample #2 Output =====
+2 6
+===== Sample #3 Input =====
+27
+(LoooonG)__shOrt__(LoooonG)
+
+===== Sample #3 Output =====
+5 2
+===== Sample #4 Input =====
+5
+(___)
+
+===== Sample #4 Output =====
+0 0
+

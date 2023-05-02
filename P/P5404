@@ -1,0 +1,15 @@
+===== Sample #1 Input =====
+3
+abc
+===== Sample #1 Output =====
+79
+===== Sample #2 Input =====
+5
+zxcvb
+===== Sample #2 Output =====
+11881375
+===== Sample #3 Input =====
+20
+uuopacpertklmqwbfixc 
+===== Sample #3 Output =====
+765676850

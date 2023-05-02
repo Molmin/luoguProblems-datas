@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+2
+5
+7
+6
+0
+1
+4
+12
+3
+2
+===== Sample #1 Output =====
+TAK
+NIE
+TAK
+TAK
+NIE
+TAK

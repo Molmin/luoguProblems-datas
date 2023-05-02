@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+5 10
+Legendary 1
+Epic 2
+Rare 3
+Uncommon 4
+Common 5
+Common
+Uncommon
+Common
+Common
+Uncommon
+Legendary
+Uncommon
+Common
+Uncommon
+Rare
+
+===== Sample #1 Output =====
+126

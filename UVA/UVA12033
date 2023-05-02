@@ -1,0 +1,23 @@
+===== Sample #1 Input =====
+4
+4
+0 1 1
+1 2 1
+0 3 2
+5
+0 1 1
+1 2 2
+0 3 3
+0 4 7
+3
+0 1 1
+0 2 1
+4
+0 1 1
+1 2 1
+1 3 1
+===== Sample #1 Output =====
+Case 1: Emily
+Case 2: Emily
+Case 3: Jolly
+Case 4: Emily

@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+xoxxoxxo
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+xxoxxoxo
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+ox
+===== Sample #3 Output =====
+Yes

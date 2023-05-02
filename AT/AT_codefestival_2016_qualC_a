@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+CODEFESTIVAL
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+FESTIVALCODE
+===== Sample #2 Output =====
+No
+===== Sample #3 Input =====
+CF
+===== Sample #3 Output =====
+Yes
+===== Sample #4 Input =====
+FCF
+===== Sample #4 Output =====
+Yes

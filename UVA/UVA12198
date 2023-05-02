@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+3
+DROP 100
+TAKE 50
+TAKE 20
+3
+DROP 3
+DROP 5
+TAKE 8
+0
+===== Sample #1 Output =====
+DROP 2 100
+MOVE 2-&gt;1 100
+TAKE 1 50
+TAKE 1 20
+DROP 2 3
+DROP 2 5
+MOVE 2-&gt;1 8
+TAKE 1 8

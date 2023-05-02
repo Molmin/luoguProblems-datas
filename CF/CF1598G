@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+1256133
+17
+===== Sample #1 Output =====
+1 2
+3 3
+===== Sample #2 Input =====
+9544715561
+525
+===== Sample #2 Output =====
+2 3
+4 6
+===== Sample #3 Input =====
+239923
+5
+===== Sample #3 Output =====
+1 1
+2 2
+===== Sample #4 Input =====
+1218633757639
+976272
+===== Sample #4 Output =====
+2 7
+8 13

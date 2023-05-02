@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3
+160 48
+200 100
+300 200
+===== Sample #1 Output =====
+Case 1:
+12 8
+Case 2:
+Impossible.
+Case 3:
+20 10

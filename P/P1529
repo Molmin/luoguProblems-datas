@@ -1,0 +1,10 @@
+===== Sample #1 Input =====
+5
+A d 6
+B d 3
+C e 9
+d Z 8
+e Z 3
+===== Sample #1 Output =====
+B 11
+

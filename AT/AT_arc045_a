@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+Left Right AtCoder
+===== Sample #1 Output =====
+< > A
+===== Sample #2 Input =====
+Left Left Right Right AtCoder
+===== Sample #2 Output =====
+< < > > A
+===== Sample #3 Input =====
+Right Right AtCoder Left Left AtCoder
+===== Sample #3 Output =====
+> > A < < A

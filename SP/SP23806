@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+4\n45 3\n30 5\n45 9\n10 5\n15\n4
+===== Sample #1 Output =====
+90\n85\n75\n75

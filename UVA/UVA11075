@@ -1,0 +1,39 @@
+===== Sample #1 Input =====
+2
+2
+.....
+.x...
+..x..
+.xxx.
+..xx.
+.....
+...yy
+....y
+y....
+yy...
+5 7
+...yy..
+..x.y..
+y..x...
+yyxxx..
+...xx..
+2
+.....
+.x...
+..x..
+.xxx.
+..xx.
+.....
+...yy
+..y.y
+y....
+yy...
+5 7
+...yy..
+..y.y..
+y..x...
+yyxxx..
+...xx..
+===== Sample #1 Output =====
+Case 1: Yes
+Case 2: No

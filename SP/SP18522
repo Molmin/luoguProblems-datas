@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+1\n6 5 9\n1 2\n2 3\n3 4\n4 5\n5 3\nT 1 2 5\nT 5 6 1000\nS 2\nS 6\nT 2 3 1\nT 5 3 14\nS 1\nS 2\nS 4
+===== Sample #1 Output =====
+

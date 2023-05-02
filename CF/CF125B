@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+<a><b><c></c></b></a>
+
+===== Sample #1 Output =====
+<a>
+  <b>
+    <c>
+    </c>
+  </b>
+</a>
+
+===== Sample #2 Input =====
+<a><b></b><d><c></c></d></a>
+
+===== Sample #2 Output =====
+<a>
+  <b>
+  </b>
+  <d>
+    <c>
+    </c>
+  </d>
+</a>
+

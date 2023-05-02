@@ -1,0 +1,41 @@
+===== Sample #1 Input =====
+5 5
+..#..
+.B.A#
+...#.
+.....
+..S#.
+===== Sample #1 Output =====
+..#..
+.BaA#
+.ba#.
+.ba..
+.bS#.
+===== Sample #2 Input =====
+2 3
+SBA
+...
+===== Sample #2 Output =====
+NA
+===== Sample #3 Input =====
+5 5
+..#..
+.B.A#
+.#.#.
+.....
+..S#.
+===== Sample #3 Output =====
+NA
+===== Sample #4 Input =====
+5 8
+.#...#..
+.#.#.#..
+.S.#...B
+.#####A.
+........
+===== Sample #4 Output =====
+.#bbb#..
+.#b#b#..
+aSb#bbbB
+a#####A.
+aaaaaaa.

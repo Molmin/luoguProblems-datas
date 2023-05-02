@@ -1,0 +1,11 @@
+===== Sample #1 Input =====
+1
+2 5
+Acetaminophen 20
+Loratadine 30
+===== Sample #1 Output =====
+20 Acetaminophen
+30 Loratadine
+40 Acetaminophen
+60 Acetaminophen
+60 Loratadine

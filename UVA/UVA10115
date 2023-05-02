@@ -1,0 +1,19 @@
+===== Sample #1 Input =====
+4
+ban
+bab
+baba
+be
+ana
+any
+ba b
+hind the g
+banana boat
+1
+t
+sh
+toe or top
+0
+===== Sample #1 Output =====
+behind the goat
+shoe or shop

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+abcd
+aaaa
+abc
+aab
+abababaabababa
+pqrsabcdpqrs
+===== Sample #1 Output =====
+3 abcdcba
+0 aaaa
+2 abcba
+1 baab
+0 abababaabababa
+9 pqrsabcdpqrqpdcbasrqp

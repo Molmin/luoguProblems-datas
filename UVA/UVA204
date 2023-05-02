@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+0 4 0 3.3
+40 5 125 5
+1 6 -5 10
+5 2 95 20
+2 5 45 5
+42 5 -135 5
+0 6 20 3
+0 5 180 4
+===== Sample #1 Output =====
+Robot Problem #1: Robots do not collide.
+Robot Problem #2: Robots collide at (4.68,5.68)
+Robot Problem #3: Robots collide at (22.00,5.00)
+Robot Problem #4: Robots do not collide.

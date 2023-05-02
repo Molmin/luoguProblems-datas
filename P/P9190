@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+besssie
+1 1 5 4 6 1 1
+
+===== Sample #1 Output =====
+1
+4
+
+===== Sample #2 Input =====
+bebesconsiete
+6 5 2 3 6 5 7 9 8 1 4 5 1
+
+===== Sample #2 Output =====
+1
+21
+
+===== Sample #3 Input =====
+besgiraffesiebessibessie
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+
+===== Sample #3 Output =====
+2
+7
+

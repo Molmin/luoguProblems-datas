@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+2
+(?^?)
+
+===== Sample #1 Output =====
+NO
+
+===== Sample #2 Input =====
+10
+?
+
+===== Sample #2 Output =====
+YES
+
+===== Sample #3 Input =====
+2
+((?^?)&amp;?)
+
+===== Sample #3 Output =====
+YES
+

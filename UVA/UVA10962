@@ -1,0 +1,17 @@
+===== Sample #1 Input =====
+1
+10 7 5 4
+60 30
+150 125
+55 35
+70 40
+42 38
+2
+10
+19
+23
+===== Sample #1 Output =====
+clear
+clear
+full
+full

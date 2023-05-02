@@ -1,0 +1,26 @@
+===== Sample #1 Input =====
+4
+arlo zym
+flub pleve
+pleve dourm
+pleve zym
+bus seat
+bus stop
+hot seat
+school bus
+2
+iv otas
+otas re
+ec t
+eg ec
+0
+===== Sample #1 Output =====
+arlo/hot
+dourm/stop
+flub/school
+pleve/bus
+zym/seat
+
+iv/eg
+otas/ec
+re/t

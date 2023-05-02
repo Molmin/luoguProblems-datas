@@ -1,0 +1,7 @@
+===== Sample #1 Input =====
+BATMAN
+CONSTANTINOPLE
+*END*
+===== Sample #1 Output =====
+BATMAN is a double near palindrome.
+CONSTANTINOPLE is not a double near palindrome.

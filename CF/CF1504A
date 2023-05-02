@@ -1,0 +1,20 @@
+===== Sample #1 Input =====
+6
+cbabc
+ab
+zza
+ba
+a
+nutforajaroftuna
+===== Sample #1 Output =====
+YES
+cbabac
+YES
+aab
+YES
+zaza
+YES
+baa
+NO
+YES
+nutforajarofatuna

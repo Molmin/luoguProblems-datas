@@ -1,0 +1,12 @@
+===== Sample #1 Input =====
+3 2 5
+PNNNN
+PNNNN
+NPPNP
+PNNNP
+NNNNP
+PPNNP
+===== Sample #1 Output =====
+24
+
+

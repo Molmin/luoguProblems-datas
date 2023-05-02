@@ -1,0 +1,4 @@
+===== Sample #1 Input =====
+DUG DUG you are sweet and also like sweet\nI i will , i i i will give\nOk done you will get what you want\nDone !!!!!!!!\n\n
+===== Sample #1 Output =====
+3\n13\n1\n0\n\nExplaination: \nFor the first sentence "DUG DUG you are sweet and also like sweet" there are three ways - \n1) You can change the first "DUG" with second "DUG"\n2) You can change the first "sweet" with second "sweet"\n3) You can change the first "DUG" with second "DUG" and first "sweet" with second "sweet".

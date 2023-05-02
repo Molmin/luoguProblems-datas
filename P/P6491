@@ -1,0 +1,24 @@
+===== Sample #1 Input =====
+5
+ula
+uka
+klua
+kula
+al
+===== Sample #1 Output =====
+luka
+===== Sample #2 Input =====
+4
+jaja
+baba
+baja
+beba
+===== Sample #2 Output =====
+!
+===== Sample #3 Input =====
+3
+marko
+darko
+zarko
+===== Sample #3 Output =====
+?

@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+3B
+HR
+2B
+H
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+2B
+3B
+HR
+3B
+===== Sample #2 Output =====
+No

@@ -1,0 +1,30 @@
+===== Sample #1 Input =====
+FTFFTFFF
+4 2
+===== Sample #1 Output =====
+Yes
+===== Sample #2 Input =====
+FTFFTFFF
+-2 -2
+===== Sample #2 Output =====
+Yes
+===== Sample #3 Input =====
+FF
+1 0
+===== Sample #3 Output =====
+No
+===== Sample #4 Input =====
+TF
+1 0
+===== Sample #4 Output =====
+No
+===== Sample #5 Input =====
+FFTTFF
+0 0
+===== Sample #5 Output =====
+Yes
+===== Sample #6 Input =====
+TTTT
+1 0
+===== Sample #6 Output =====
+No

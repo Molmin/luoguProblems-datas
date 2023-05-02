@@ -1,0 +1,32 @@
+===== Sample #1 Input =====
+3
+aaaaa
+a
+aa
+aaa
+===== Sample #1 Output =====
+2
+===== Sample #2 Input =====
+5
+abecedadabra
+abec
+ab
+ceda
+dad
+ra
+===== Sample #2 Output =====
+5
+===== Sample #3 Input =====
+9
+icpcontesticpc
+international
+collegiate
+programming
+contest
+central
+europe
+regional
+contest
+icpc
+===== Sample #3 Output =====
+3

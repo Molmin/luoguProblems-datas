@@ -1,0 +1,21 @@
+===== Sample #1 Input =====
+AS
+2H 4C TH JH AD
+
+===== Sample #1 Output =====
+YES
+
+===== Sample #2 Input =====
+2H
+3D 4C AC KD AS
+
+===== Sample #2 Output =====
+NO
+
+===== Sample #3 Input =====
+4D
+AS AC AD AH 5H
+
+===== Sample #3 Output =====
+YES
+

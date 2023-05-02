@@ -1,0 +1,14 @@
+===== Sample #1 Input =====
+5 3 2
+to head
+0001001
+
+===== Sample #1 Output =====
+Stowaway
+===== Sample #2 Input =====
+3 2 1
+to tail
+0001
+
+===== Sample #2 Output =====
+Controller 2

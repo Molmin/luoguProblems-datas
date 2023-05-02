@@ -1,0 +1,16 @@
+===== Sample #1 Input =====
+4
+1 1
+97 0
+17 1
+5 2
+===== Sample #1 Output =====
+5 or more
+1
+2
+3
+4
+5
+Impossible
+Impossible
+Impossible

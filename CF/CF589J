@@ -1,0 +1,27 @@
+===== Sample #1 Input =====
+2 3
+U..
+.*.
+
+===== Sample #1 Output =====
+4
+
+===== Sample #2 Input =====
+4 4
+R...
+.**.
+.**.
+....
+
+===== Sample #2 Output =====
+12
+
+===== Sample #3 Input =====
+3 4
+***D
+..*.
+*...
+
+===== Sample #3 Output =====
+6
+
